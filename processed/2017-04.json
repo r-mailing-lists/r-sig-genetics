@@ -40,24 +40,6 @@
       "month": "2017-04"
     },
     {
-      "id": "msg-0e8cec2874c5",
-      "message_id": "<c31558b6-4d44-59f9-d9c4-d514e037829a@ird.fr>",
-      "from_name": "Emmanuel Paradis",
-      "from_email_hash": "4c085ad631493003895b8b2c8749a214fe7066719f788b94c2907a97cf0bf96d",
-      "date": "2017-04-04T10:17:18+02:00",
-      "subject": "[R-sig-genetics] LD calculation question",
-      "subject_clean": "LD calculation question",
-      "in_reply_to": "<CAEGfAaPPrRdr1BDrt=HDM3erfiLvdP8mOgvbgS1rrvc9igsrfw@mail.gmail.com>",
-      "references": [
-        "<CAEGfAaPPrRdr1BDrt=HDM3erfiLvdP8mOgvbgS1rrvc9igsrfw@mail.gmail.com>"
-      ],
-      "body_plain": "Hi Felipe,\n\nThe only thing I can think of is that, if all loci are biallelic (eg, \nSNPs), to use LDscan and LDmap. Otherwise, you'll have to do pairs by \npairs as you describe.\n\nBest,\n\nEmmanuel\n\nLe 30/03/2017 ? 21:47, Felipe Hern?ndez a ?crit :\n> Hi everyone,\n>\n> I have been using the pegas package (function LD2) to calculate LD among a\n> set of loci (52 loci) across 29 populations. I would like to do the same,\n> but within each population this time. However, because all the multiple\n> comparisons between loci pairs (considering the number of loci and\n> populations), that would take a lot of time. Any suggestion about how to\n> make it faster? Sorry if the question is really basic, but I would\n> appreciate any helpful advice, thanks!\n>\n> Best,\n> Felipe\n>",
-      "body_snippet": "Hi Felipe,\n\nThe only thing I can think of is that, if all loci are biallelic (eg, \nSNPs), to use LDscan and LDmap. Otherwise, you'll have to do pairs by \npairs as you describe.\n\nBest,\n\nEmmanuel\n\nLe 30",
-      "thread_id": "thread-0e8cec2874c5",
-      "thread_depth": 0,
-      "month": "2017-04"
-    },
-    {
       "id": "msg-afd2b6292d94",
       "message_id": "<34c37bffff290166009f19f205115f53@prstatistics.com>",
       "from_name": "Oliver Hooker",
@@ -101,17 +83,6 @@
       "started": "2017-04-03T09:57:17-04:00",
       "last_reply": "2017-04-03T09:57:17-04:00",
       "root_message_id": "msg-21052fc2fa0c"
-    },
-    {
-      "id": "thread-0e8cec2874c5",
-      "subject": "LD calculation question",
-      "message_count": 1,
-      "participants": [
-        "Emmanuel Paradis"
-      ],
-      "started": "2017-04-04T10:17:18+02:00",
-      "last_reply": "2017-04-04T10:17:18+02:00",
-      "root_message_id": "msg-0e8cec2874c5"
     },
     {
       "id": "thread-0e8cec2874c5",
