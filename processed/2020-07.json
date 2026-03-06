@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2020-07",
+  "messages": [
+    {
+      "id": "msg-16d7eebe692a",
+      "message_id": "<CAEsSYzyiDv=5YRqDVhCUC_BvMv594XFf4KGBUKdNHm50YDgNug@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2020-07-14T22:09:40+01:00",
+      "subject": "[R-sig-genetics] ONLINE COURSE – Applied Bayesian modelling for ecologists and epidemiologists",
+      "subject_clean": "ONLINE COURSE – Applied Bayesian modelling for ecologists and epidemiologists",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Applied Bayesian modelling for ecologists and\nepidemiologists (ABME06) This course will be delivered live\n\nhttps://www.prstatistics.com/course/applied-bayesian-modelling-for-ecologists-and-epidemiologists-abme06/\n\nJuly 20th - 24th\n\nTIME ZONE ? Central European Summer Time ? however all sessions will\nbe recorded and made available allowing attendees from different time\nzones to follow a day behind with an additional 1/2 days support after\nthe official course finish date (please email\noliverhooker at prstatistics.com for full details or to discuss how we\ncan accommodate you).\n\nCourse Overview:\n\nThis application-driven course will provide a founding in the basic\ntheory & practice of Bayesian statistics, with a focus on MCMC\nmodeling for ecological & epidemiological problems. Starting from a\nrefresher on probability & likelihood, the course will take students\nall the way to cutting-edge applications such as state-space\npopulation modelling & spatial point-process modelling. By the end of\nthe week, you should have a basic understanding of how common MCMC\nsamplers work and how to program them, and have practical experience\nwith the BUGS language for common ecological and epidemiological\nmodels. The experience gained will be a sufficient foundation enabling\nyou to understand current papers using Bayesian methods, carry out\nsimple Bayesian analyses on your own data and springboard into more\nelaborate applications such as dynamical, spatial and hierarchical\nmodelling.\n\nemail oliverhooker at prstatistics.com with any questions\n\n\n-- \nOliver Hooker PhD.\nPR statistics\n\n2020 publications;\nParallelism in eco-morphology and gene expression despite variable\nevolutionary and genomic backgrounds in a Holarctic fish. PLOS\nGENETICS (2020). IN PRESS\n\nwww.PRstatistics.com\nfacebook.com/PRstatistics/\ntwitter.com/PRstatistics\n\n53 Morrison Street\nGlasgow\nG5 8LB\n+44 (0) 7966500340\n+44 (0) 7966500340",
+      "body_snippet": "ONLINE COURSE ? Applied Bayesian modelling for ecologists and\nepidemiologists (ABME06) This course will be delivered live\n\nhttps://www.prstatistics.com/course/applied-bayesian-modelling-for-ecologists",
+      "thread_id": "thread-16d7eebe692a",
+      "thread_depth": 0,
+      "month": "2020-07"
+    },
+    {
+      "id": "msg-8cfd1115bb30",
+      "message_id": "<CAEsSYzzLpguc4goUMRMxT9CGafHV20cQt1mw=YXAboVG-UGP8A@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2020-07-19T22:02:13Z",
+      "subject": "[R-sig-genetics] Introduction to generalised linear models using R and Rstudio (IGLM01)",
+      "subject_clean": "Introduction to generalised linear models using R and Rstudio (IGLM01)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Introduction to generalised linear models using R and\nRstudio (IGLM01) This course will be delivered live\n\nhttps://www.psstatistics.com/course/introduction-to-generalised-linear-models-using-r-and-rstudio-iglm01/\n\n23 July 2020 - 24 July\n\nTIME ZONE ? Western European Time +1 ? however all sessions will be\nrecorded and made available allowing attendees from different time\nzones to follow a day behind with an additional 1/2 days support after\nthe official course finish date (please email\noliverhooker at psstatistics.com for full details or to discuss how we\ncan accommodate you).\n\nCourse Overview:\n\nIn this two day course, we provide a comprehensive practical and\ntheoretical introduction to generalized linear models using R.\nGeneralized linear models are generalizations of linear regression\nmodels for situations where the outcome variable is, for example, a\nbinary, or ordinal, or count variable, etc. The specific models we\ncover include binary, binomial, ordinal, and categorical logistic\nregression, Poisson and negative binomial regression for count\nvariables. We will also cover zero-inflated Poisson and negative\nbinomial regression models. On the first day, we begin by providing a\nbrief overview of the normal general linear model. Understanding this\nmodel is vital for the proper understanding of how it is generalized\nin generalized linear models. Next, we introduce the widely used\nbinary logistic regression model, which is is a regression model for\nwhen the outcome variable is binary. Next, we cover the ordinal\nlogistic regression model, specifically the cumulative logit ordinal\nregression model, which is used for the ordinal outcome data. We then\ncover the case of the categorical, also known as the multinomial,\nlogistic regression, which is for modelling outcomes variables that\nare polychotomous, i.e., have more than two categorically distinct\nvalues. On the second day, we begin by covering Poisson regression,\nwhich is widely used for modelling outcome variables that are counts\n(i.e the number of times something has happened). We then cover the\nbinomial logistic and negative binomial models, which are used for\nsimilar types of problems as those for which Poisson models are used,\nbut make different or less restrictive assumptions. Finally, we will\ncover zero inflated Poisson and negative binomial models, which are\nfor count data with excessive numbers of zero observations.\n\nEmail oliverhooker at psstatistics.com with any questions\n\nThis is one module of a five module series ? you do not need to attend\nthem all but they are designed to compliment each other. Please see\nthe links below\n\nJuly 23rd ? 24th Introduction to generalised linear models using R and Rstudio\nhttps://www.psstatistics.com/course/introduction-to-generalised-linear-models-using-r-and-rstudio-iglm01/\n\nAugust 6th ? 7th Introduction to mixed models using R and Rstudio\nhttps://www.psstatistics.com/course/introduction-to-mixed-models-using-r-and-rstudio-immr02/\n\nAugust 20th ? 21st Data visualization using GG plot 2 (R and R studio)\nhttps://www.psstatistics.com/course/introduction-to-data-visualization-using-gg-plot-2-r-and-rstudio-dvgg01/\n\nSeptember 3rd ? 4th Data wrangling using R and Rstudio\nhttps://www.psstatistics.com/course/introduction-data-wrangling-using-r-and-rstudio-dwrs01/\n\n\n\n\n\n-- \nOliver Hooker PhD.\nPR statistics\n\n2020 publications;\nParallelism in eco-morphology and gene expression despite variable\nevolutionary and genomic backgrounds in a Holarctic fish. PLOS\nGENETICS (2020). IN PRESS\n\nwww.PRstatistics.com\nfacebook.com/PRstatistics/\ntwitter.com/PRstatistics\n\n53 Morrison Street\nGlasgow\nG5 8LB\n+44 (0) 7966500340\n+44 (0) 7966500340",
+      "body_snippet": "ONLINE COURSE ? Introduction to generalised linear models using R and\nRstudio (IGLM01) This course will be delivered live\n\nhttps://www.psstatistics.com/course/introduction-to-generalised-linear-models",
+      "thread_id": "thread-8cfd1115bb30",
+      "thread_depth": 0,
+      "month": "2020-07"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-16d7eebe692a",
+      "subject": "ONLINE COURSE – Applied Bayesian modelling for ecologists and epidemiologists",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2020-07-14T22:09:40+01:00",
+      "last_reply": "2020-07-14T22:09:40+01:00",
+      "root_message_id": "msg-16d7eebe692a"
+    },
+    {
+      "id": "thread-8cfd1115bb30",
+      "subject": "Introduction to generalised linear models using R and Rstudio (IGLM01)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2020-07-19T22:02:13+00:00",
+      "last_reply": "2020-07-19T22:02:13+00:00",
+      "root_message_id": "msg-8cfd1115bb30"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2013-09",
+  "messages": [
+    {
+      "id": "msg-a0c7ac40f729",
+      "message_id": "<CADT7xGoqf2OT+8RtvhTVu32Rmkck75uv=BeBQUu1o0v_xCvn+g@mail.gmail.com>",
+      "from_name": "Magdalena Herdegen",
+      "from_email_hash": "b0a90605c4225b5394e17c21e672c9cb50540afbfda6bce42b7bc276d9ce5787",
+      "date": "2013-09-03T09:47:34+02:00",
+      "subject": "[R-sig-genetics] morphometric traits in dapc",
+      "subject_clean": "morphometric traits in dapc",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130903/4c03a1e5/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130903/4c03a1e5/attachment.pl>",
+      "thread_id": "thread-a0c7ac40f729",
+      "thread_depth": 0,
+      "month": "2013-09"
+    },
+    {
+      "id": "msg-5cfd28c67c6b",
+      "message_id": "<2CB2DA8E426F3541AB1907F98ABA6570638DF343@icexch-m1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2013-09-11T16:00:38Z",
+      "subject": "[R-sig-genetics] morphometric traits in dapc",
+      "subject_clean": "morphometric traits in dapc",
+      "in_reply_to": "<CADT7xGoqf2OT+8RtvhTVu32Rmkck75uv=BeBQUu1o0v_xCvn+g@mail.gmail.com>",
+      "references": [
+        "<CADT7xGoqf2OT+8RtvhTVu32Rmkck75uv=BeBQUu1o0v_xCvn+g@mail.gmail.com>"
+      ],
+      "body_plain": "Hello, \n\nthis post would be better suited on the adegenet forum. \n\nIf you check ?dapc, you'll see that there is a method for data.frames and matrices, which you can use a input. Any numeric / binary data can be analysed by DAPC this way.\n\nCheers\n\nThibaut\n\n--\n######################################\nDr Thibaut JOMBART\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - School of Public Health\nSt Mary?s Campus\nNorfolk Place\nLondon W2 1PG\nUnited Kingdom\nTel. : 0044 (0)20 7594 3658\nt.jombart at imperial.ac.uk\nhttp://sites.google.com/site/thibautjombart/\nhttp://adegenet.r-forge.r-project.org/\n________________________________________\nFrom: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] on behalf of Magdalena Herdegen [magherdegen at gmail.com]\nSent: 03 September 2013 08:47\nTo: r-sig-genetics at r-project.org\nSubject: [R-sig-genetics] morphometric traits in dapc\n\nHello,\nI have a question reguarding the format of morphometric data I want to\nanalyse using the find.clusters and dapc functions. From articles I know it\nis possible to analyse this kind of date with dapc, but could not find any\ninstruction about the correct data format.\nI would be greateful for suggestions.\n\nMH\n\n        [[alternative HTML version deleted]]\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
+      "body_snippet": "Hello, \n\nthis post would be better suited on the adegenet forum. \n\nIf you check ?dapc, you'll see that there is a method for data.frames and matrices, which you can use a input. Any numeric / binary d",
+      "thread_id": "thread-a0c7ac40f729",
+      "thread_depth": 1,
+      "month": "2013-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-a0c7ac40f729",
+      "subject": "morphometric traits in dapc",
+      "message_count": 2,
+      "participants": [
+        "Jombart, Thibaut",
+        "Magdalena Herdegen"
+      ],
+      "started": "2013-09-03T09:47:34+02:00",
+      "last_reply": "2013-09-11T16:00:38+00:00",
+      "root_message_id": "msg-a0c7ac40f729"
+    }
+  ]
+}

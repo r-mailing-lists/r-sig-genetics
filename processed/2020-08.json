@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2020-08",
+  "messages": [
+    {
+      "id": "msg-1ae419cfefda",
+      "message_id": "<CAEsSYzyrnq6Fwp9Sk9G-9z78DDsfJgRuoNn9c9-CGkUA3_jeLA@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2020-08-03T19:24:08Z",
+      "subject": "[R-sig-genetics] ONLINE COURSE – Introduction to mixed models using R and Rstudio (IMMR02)",
+      "subject_clean": "ONLINE COURSE – Introduction to mixed models using R and Rstudio (IMMR02)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Introduction to mixed models using R and Rstudio\n(IMMR02) This course will be delivered live\n\nhttps://www.psstatistics.com/course/introduction-to-mixed-models-using-r-and-rstudio-immr02/\n\n6 August 2020 - 7 August 2020\n\nTIME ZONE ? Western European Time +1 ? however all sessions will be\nrecorded and made available allowing attendees from different time\nzones to follow a day behind with an additional 1/2 days support after\nthe official course finish date (please email\noliverhooker at psstatistics.com for full details or to discuss how we\ncan accommodate you).\n\nCourse Overview:\n\nIn this two day course, we provide a comprehensive practical and\ntheoretical introduction to multilevel models, also known as\nhierarchical or mixed effects models. We will focus primarily on\nmultilevel linear models, but also cover multilevel generalized linear\nmodels. Likewise, we will also describe Bayesian approaches to\nmultilevel modelling. On Day 1, we will begin by focusing on random\neffects multilevel models. These models make it clear how multilevel\nmodels are in fact models of models. In addition, random effects\nmodels serve as a solid basis for understanding mixed effects, i.e.\nfixed and random effects, models. In this coverage of random effects,\nwe will also cover the important concepts of statistical shrinkage in\nthe estimation of effects, as well as intraclass correlation. We then\nproceed to cover linear mixed effects models, particularly focusing on\nvarying intercept and/or varying slopes regresssion models. On Day 2,\nwe cover further aspects of linear mixed effects models, including\nmultilevel models for nested and crossed data data, and group level\npredictor variables. On Day 2, we also cover Bayesian approaches to\nmultilevel levels using the brms R package.\n\nPlease email oliverhooker at psstatistics.com with any questions\n\n\n\n-- \nOliver Hooker PhD.\nPR statistics\n\n2020 publications;\nParallelism in eco-morphology and gene expression despite variable\nevolutionary and genomic backgrounds in a Holarctic fish. PLOS\nGENETICS (2020). IN PRESS\n\nwww.PRstatistics.com\nfacebook.com/PRstatistics/\ntwitter.com/PRstatistics\n\n53 Morrison Street\nGlasgow\nG5 8LB\n+44 (0) 7966500340\n+44 (0) 7966500340",
+      "body_snippet": "ONLINE COURSE ? Introduction to mixed models using R and Rstudio\n(IMMR02) This course will be delivered live\n\nhttps://www.psstatistics.com/course/introduction-to-mixed-models-using-r-and-rstudio-immr0",
+      "thread_id": "thread-1ae419cfefda",
+      "thread_depth": 0,
+      "month": "2020-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-1ae419cfefda",
+      "subject": "ONLINE COURSE – Introduction to mixed models using R and Rstudio (IMMR02)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2020-08-03T19:24:08+00:00",
+      "last_reply": "2020-08-03T19:24:08+00:00",
+      "root_message_id": "msg-1ae419cfefda"
+    }
+  ]
+}

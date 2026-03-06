@@ -1,0 +1,279 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2025-04",
+  "messages": [
+    {
+      "id": "msg-533bee528e8b",
+      "message_id": "<1743933169.034417778@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-04-06T11:52:49+02:00",
+      "subject": "[R-sig-genetics] Introduction to Epigenomics course",
+      "subject_clean": "Introduction to Epigenomics course",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nAre you interested in Epigenomics and eager to master the analysis of ChIP-seq, MNase, ATAC-seq, RNA-seq, and Hi-C data?\n \nJoin our hands-on course and enhance your skills using R & Bioconductor!\n \nCourse dates: (online) 14-18 April \n\n Register now:[ https://www.physalia-courses.org/courses-workshops/course59b/ ]( https://www.physalia-courses.org/courses-workshops/course59b/ ) \n \nShould you have any questions, please feel free to contact us.\n \nBest, Carlo\n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nAre you interested in Epigenomics and eager to master the analysis of ChIP-seq, MNase, ATAC-seq, RNA-seq, and Hi-C data?\n \nJoin our hands-on course and enhance your skills using R & Biocond",
+      "thread_id": "thread-533bee528e8b",
+      "thread_depth": 0,
+      "month": "2025-04"
+    },
+    {
+      "id": "msg-40cc8a41b413",
+      "message_id": "<S3pCOBs6SdKHrdmoEAN-lA@geopod-ismtpd-12>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-04-08T17:20:00Z",
+      "subject": "[R-sig-genetics] Machine Learning for Complex Datasets with ChatGPT - Livestream Seminar",
+      "subject_clean": "Machine Learning for Complex Datasets with ChatGPT - Livestream Seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Machine Learning for Complex Datasets with ChatGPT <https://instats.org/seminar/machine-learning-for-complex-datasets-wi>, running April 30 and led by Professor Nikolay Oskolkov from Molecular Biosciences, Lund University. In this cutting-edge workshop, you'll discover how to leverage machine learning techniques in R and Python alongside AI tools like ChatGPT to analyze and interpret complex datasets. Designed for PhD students, academics, and professional researchers, this seminar combines theoretical insights with hands-on coding sessions to help you build and optimize models?from neural networks and random forests to clustering algorithms and MCMC methods. Enhance your analytical capabilities with practical exercises and real-world case studies that demonstrate how to troubleshoot, fine-tune, and ethically apply machine learning models to your research.\n\nSign up today <https://instats.org/seminar/machine-learning-for-complex-datasets-wi> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Machine Learning for Complex Datasets with ChatGPT <https://instats.org/seminar/machine-learning-for-complex-datasets-wi>, running April 30 an",
+      "thread_id": "thread-40cc8a41b413",
+      "thread_depth": 0,
+      "month": "2025-04"
+    },
+    {
+      "id": "msg-cf11f71cd793",
+      "message_id": "<1744301866.44737519@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-04-10T18:17:46+02:00",
+      "subject": "[R-sig-genetics] Epigenomic data analysis",
+      "subject_clean": "Epigenomic data analysis",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nif you are interested in Epigenomics and you want to learn how to analyse these data (Chip-seq, ATAC-seq, RNAseq, MultiOmics) in R/Bioconductor, there is only 1 place for our course starting next week: [ https://www.physalia-courses.org/courses-workshops/course59b/ ]( https://www.physalia-courses.org/courses-workshops/course59b/ )\n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nif you are interested in Epigenomics and you want to learn how to analyse these data (Chip-seq, ATAC-seq, RNAseq, MultiOmics) in R/Bioconductor, there is only 1 place for our course starti",
+      "thread_id": "thread-cf11f71cd793",
+      "thread_depth": 0,
+      "month": "2025-04"
+    },
+    {
+      "id": "msg-f017b955c2cf",
+      "message_id": "<JOtLD9g6QziuAqS_s9vExQ@geopod-ismtpd-11>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-04-13T04:50:00Z",
+      "subject": "[R-sig-genetics] Analysis of RNA-Seq Data - Livestream Seminar",
+      "subject_clean": "Analysis of RNA-Seq Data - Livestream Seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nLast chance to sign up for the new 6-day seminar, Analysis of RNA-Seq Data <https://instats.org/seminar/analysis-of-rna-seq-data>, running once per week from April 17 to May 22, being led by senior biostatistician Dr. Rosina Savisaar. This comprehensive workshop demystifies the RNA-seq analysis pipeline by focusing on data analysis and interpretation, fostering an intuitive practical understanding of key concepts. You?ll gain hands-on experience with data visualization in genome browsers and R, learn descriptive statistics (such as RPKM, FPKM, TPM, and L2FC), and explore advanced techniques including hierarchical clustering with heatmaps, Principal Component Analysis, differential gene expression analysis using DESeq2, and functional enrichment methods like over-representation analysis and Gene Set Enrichment Analysis. Ideal for researchers new to gene expression analysis or those seeking deeper insights into RNA-seq methodologies, this seminar uses real-world datasets (including a reanalysis of a schizophrenia study) to reinforce learning through interactive weekly Zoom sessions.\n\nSign up today <https://instats.org/seminar/foundations-of-statistical-analysis-in-r> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nLast chance to sign up for the new 6-day seminar, Analysis of RNA-Seq Data <https://instats.org/seminar/analysis-of-rna-seq-data>, running once per week from April 17 to May 22, being led",
+      "thread_id": "thread-f017b955c2cf",
+      "thread_depth": 0,
+      "month": "2025-04"
+    },
+    {
+      "id": "msg-3f774275202a",
+      "message_id": "<CAEsSYzzvoR_ssKk0dEVnf5-tLbitDNkKTXScAnrphL72KkQpgA@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2025-04-16T12:26:37+01:00",
+      "subject": "[R-sig-genetics] Phylogenetic Species Distribution Modelling using R (PSDM01)",
+      "subject_clean": "Phylogenetic Species Distribution Modelling using R (PSDM01)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Phylogenetic Species Distribution Modelling using R\n(PSDM01) This course will be delivered live\n\nhttps://www.prstats.org/course/phylogenetic-species-distribution-modelling-using-r-psdm01-25/\n\n12th - 14th May 2025\n\nInstructor - Dr. Morales Castilla Ignacio\n\nPlease feel free to share!\n\nCOURSE OVERVIEW: In this three-day course, we introduce species\ndistribution models (SDMs) and ways to incorporate phylogenetic information\ninto single species models using R. We begin by providing an overview on\nthe use of SDMs as a central tool for ecologists and evolutionary biologists,\nreview and implement common SDM approaches and introduce hybrid models, which\nuse the information in functional traits to complement the models. We then\njustify the rationale for using phylogenetic information in absence of\nfunctional trait data and show how to incorporate phylogenetic information\nin SDMs (day 1). We review examples of practical implementation of PSDMs to\nboth present and future climate scenarios (day 2). Finally, we overview\nmore advanced approaches of incorporating phylogenies into models (the\nBayesian Phylogenetic Mixed Model) and how to project model results into a\nspatial context (day 3).\n\nPlease email oliverhooker at prstatistics.com with any questions.\n\n-- \nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? Phylogenetic Species Distribution Modelling using R\n(PSDM01) This course will be delivered live\n\nhttps://www.prstats.org/course/phylogenetic-species-distribution-modelling-using-r-psdm",
+      "thread_id": "thread-3f774275202a",
+      "thread_depth": 0,
+      "month": "2025-04"
+    },
+    {
+      "id": "msg-d2c2bf7c6ce5",
+      "message_id": "<1744815022.47825405@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-04-16T16:50:22+02:00",
+      "subject": "[R-sig-genetics] Online Course: Conservation Genomics (21–24 July)",
+      "subject_clean": "Online Course: Conservation Genomics (21–24 July)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone,\nWe?re excited to announce our upcoming online course ?Conservation Genomics?, running from 21?24 July.\n \nThis course will cover how genomic tools can be applied to conservation, from study design and data collection to filtering SNP datasets and exploring population structure, adaptation, inbreeding, and more. Participants will gain hands-on experience with genomic data, using R and UNIX tools in a conservation context.\n \nFor more information, please visit: [ https://www.physalia-courses.org/courses-workshops/course62/ ]( https://www.physalia-courses.org/courses-workshops/course62/ )\n \nBest regards,\nCarlo\n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone,\nWe?re excited to announce our upcoming online course ?Conservation Genomics?, running from 21?24 July.\n \nThis course will cover how genomic tools can be applied to conservation, from stud",
+      "thread_id": "thread-d2c2bf7c6ce5",
+      "thread_depth": 0,
+      "month": "2025-04"
+    },
+    {
+      "id": "msg-fb3ded6d0f76",
+      "message_id": "<vu4kk-TOSbaeDLYR1N4sag@geopod-ismtpd-14>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-04-16T19:20:00Z",
+      "subject": "[R-sig-genetics] Machine Learning with ChatGPT - Livestream Seminar",
+      "subject_clean": "Machine Learning with ChatGPT - Livestream Seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Machine Learning for Complex Datasets with ChatGPT <https://instats.org/seminar/machine-learning-for-complex-datasets-wi>, running April 30 with professor Nikolay Oskolkov. In today?s era of exponential data growth, this workshop equips PhD students, academics, and professional researchers with both theoretical insights and hands-on skills to apply powerful machine learning techniques using R and Python?with the added assistance of ChatGPT for coding, interpretation, and optimization. You?ll explore critical methods including neural networks, random forests, clustering, and MCMC to tackle complex datasets in fields ranging from biology and environmental science to health, social sciences, statistics, and engineering, ensuring you can confidently integrate these advanced tools into your research.\n\nSign up today <https://instats.org/seminar/machine-learning-for-complex-datasets-wi> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Machine Learning for Complex Datasets with ChatGPT <https://instats.org/seminar/machine-learning-for-complex-datasets-wi>, running April 30 wi",
+      "thread_id": "thread-fb3ded6d0f76",
+      "thread_depth": 0,
+      "month": "2025-04"
+    },
+    {
+      "id": "msg-1f45fc49f9cb",
+      "message_id": "<CAEsSYzw7MONXXjYk_zDe2DQJDfcEWS2Nu_P9fuAcxr86cOF6ZQ@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2025-04-29T17:43:28+01:00",
+      "subject": "[R-sig-genetics] Tidyverse for Ecologists (TIDY01)",
+      "subject_clean": "Tidyverse for Ecologists (TIDY01)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Tidyverse for Ecologists (TIDY01)\n\nhttps://www.prstats.org/course/tidyverse-for-ecologists-tidy01/\n\n16th - 20th June\n\nPlease feel free to share!\n\nCOURSE OVERVIEW - This course comprehensively introduces the Tidyverse and\nfocuses on its use in data science projects. It is designed to give\nparticipants a strong foundation in R programming, core Tidyverse packages,\nand the Tidymodels framework. The course emphasises hands-on projects to\napply learned concepts to real-world data analysis and modelling tasks\napplied to biology. By the end of the course, participants should:\n? Understand the fundamentals of R programming for data analysis.\n? Be proficient in using core Tidyverse packages to clean, transform, and\nvisualise data.\n? Gain an introduction to basic machine learning concepts through the\nTidymodels framework.\n? Learn to preprocess, build, evaluate, and interpret models using\nTidymodels.\n? Apply Tidyverse and Tidymodels tools to solve real-world problems\nthrough hands-on\nprojects.\n\nPlease email oliverhooker at prstatistics.com with any questions\n\nDay 1: A Short Course in R Basics (9:30 - 17:30)\nThis day provides participants with the foundational R skills required for\nworking with Tidyverse and\nTidymodels. It is designed for beginners or those needing a refresher in R\nprogramming.\n? Section 1 (R Essentials): This section focuses on R syntax, variables,\ndata types, conditionals (`if`,\n`else`, `elif`), loops (`for`, `while`), and writing reusable code using\nfunctions.\n? Section 2 (Data Structures and File Handling in R): This section\nemphasises understanding data\nstructures (e.g., vectors, data frames, lists) and handling files by\nreading/writing data (e.g., CSVs)\nfor manipulation and analysis.\n\nDay 2: Fundamentals of Tidyverse I (9:30 - 17:30)\nThis day introduces participants to the foundational concepts of Tidyverse\npackages and their\napplications to data science projects.\n? Section 3 (Data Manipulation I): This section covers the basics of data\nmanipulation using `dplyr`\nfunctions such as `filter()`, `select()`, `mutate()`, `arrange()`, and\n`summarise ()`. Participants will\nlearn how to clean, transform, and prepare datasets for analysis.\n? Section 4 (Data Visualisation I): This section introduces the principles\nof data visualisation using\n`ggplot2`. Participants will learn how to create basic plots such as\nscatterplots, bar charts, and\nline graphs while exploring the grammar of graphics.\n\nDay 3: Fundamentals of Tidyverse II (9:30 - 17:30)\nThis day builds on the foundations established in Day 2 and dives deeper\ninto advanced data\nmanipulation and visualisation techniques.\n? Section 5 (Data Manipulation II): This section extends the use of `dplyr`\nby introducing more\ncomplex operations such as joins, grouping with `group_by()`, and working\nwith pipelines using\n`%&gt;%`. Finally, additional packages will be presented to enhance data\nmanipulation\nprogramming.\n? Section 6 (Data Visualisation II): Participants will explore advanced\nvisualisation techniques\nusing extensions of `ggplot2`, such as creating animated plots with the\n`gganimate` package and\ninteractive visualisations with additional tools.\n\nDay 4: Applying Tidyverse Fundamentals to Data Modelling (9:30 - 17:30)\nThis day introduces participants to machine learning concepts using core\nlibraries for statistical modelling\nand deep learning.\n? Section 7 (Introduction to regression): This section focuses on\nregression modelling using\nTidymodels. Participants will learn to implement linear regression models,\nevaluate model\nperformance, and interpret results.\n? Section 8 (Introduction to Classification): This section introduces\ntechniques such as support\nvector machines and neural networks using Tidymodels. Participants will\nalso explore methods\nfor assessing the performance of classification models.\n\nDay 5: Data Science Workflow with Tidyverse (9:30 - 17:30)\nOn the final day, participants will apply all their newly acquired skills\nto solve real-world problems\ninspired by ecological datasets.\n? Section 9 (The data science workflow): The workflow will be illustrated\nbased on the core\npackages introduced. The book &quot;R for Data Science&quot; will serve as\na base literature for this day\n? Section 10 (Hands-on project): Participants will work through a complete\ndata science workflow,\nincluding data cleaning, transformation, visualisation, modelling, and\ncommunication of results.\n\n-- \nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? Tidyverse for Ecologists (TIDY01)\n\nhttps://www.prstats.org/course/tidyverse-for-ecologists-tidy01/\n\n16th - 20th June\n\nPlease feel free to share!\n\nCOURSE OVERVIEW - This course comprehe",
+      "thread_id": "thread-1f45fc49f9cb",
+      "thread_depth": 0,
+      "month": "2025-04"
+    },
+    {
+      "id": "msg-914b0eb280b1",
+      "message_id": "<CAEsSYzw3VXe_j104hD6stKdORtiK3XSTxW0A9a1fvakFkR=CpA@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2025-04-29T17:51:13+01:00",
+      "subject": "[R-sig-genetics] Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR08)",
+      "subject_clean": "Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR08)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR08)\n\nhttps://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr08/\n\n*15th - 19th September 2025*\n\nPlease feel free to share!\n\nWe encourage attendees to bring their own data, you will\nreceive opportunities to discuss your data with the instructor throughout\nthe course, if you would like guideline on how to organize your data\nprior to the course please ask oliverhoooker at prstatistica.com\n\nThis course is suitable for researchers (PhD and MSc students, post-docs,\nprimary investigators) and environmental professionals who are interested\nin implementing best practices and state-of-the-art methods for modelling\nspecies? distributions or ecological niches, with applications to\nbiogeography, spatial ecology, biodiversity conservation and related\ndisciplines.\n\nThis 5-day course will cover R concepts, methods, and tools that can be\nused to analyze community ecology data. The course will review data\nprocessing techniques relevant to multivariate data sets. We will cover\ndiversity indices, distance measures and distance-based multivariate\nmethods, clustering, classification and ordination techniques using the R\npackage VEGAN. We will use real-world empirical data sets to motivate\nanalyses, such as describing patterns along gradients of environ-mental or\nanthropogenic disturbances, and quantifying the effects of continuous and\ndiscrete predictors. We will emphasise visualisation and reproducible\nworkflows as well as good programming practices. The modules will consist\nof introductory lectures, guided computer coding, and participant\nexercises. The course is intended for intermediate users of R who are\ninterested in community ecology, particularly in the areas of terrestrial\nand wetland ecology, microbial ecology, and natural resource management.\nYou are strongly encouraged to use your own data sets (they should be clean\nand already structured, see the document: ?recommendation if you\nparticipate with your data?.\n\n*Classes will run from 08:00 ? 13:00 for the morning lecture and 14:00 ?\n16:00 for the practical (UK time) with an evening time session tbc for US,\nCanada etc. attendees. The course will be recorded and made available each\nday and will remain available for 28 days after the course for you to\nrevisit any lectures.*\n\nDAY 1\n? Module 1: Introduction to community data analysis, basics of programming\nin R\n? Module 2: Diversity analysis, species-abundance distributions\n\nDAY 2\n? Module 3: Distance and transformation measures\n? Module 4: Clustering and classification analysis\n\nDAY 3\n? Module 5: Unconstrained ordinations: Principal Component Analysis\n? Module 6: Other unconstrained ordinations\n\nDAY 4\n? Module 7: Constrained ordinations: RDA and other canonical analysis\n? Module 8: Statistical tests for multivariate data and variation\npartitioning\n\nDAY 5\n? Module 9: Overview of Spatial analysis, and recent Hierarchical Modeling\nof Species Communities (HMSC) methods\n? Modules 10: Special topics and discussion, analyzing participants? data.\n\n\nEmail oliverghooker at prstatistics.com with any questions.\n\n-- \nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR08)\n\nhttps://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the",
+      "thread_id": "thread-914b0eb280b1",
+      "thread_depth": 0,
+      "month": "2025-04"
+    },
+    {
+      "id": "msg-11176e61dca0",
+      "message_id": "<1745949425.65725433@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-04-29T19:57:05+02:00",
+      "subject": "[R-sig-genetics] GLLVMs: Advanced Multivariate Analysis of Ecological Communities in R",
+      "subject_clean": "GLLVMs: Advanced Multivariate Analysis of Ecological Communities in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nthere are only a few seats left for our upcoming online course: GLLVMs: Advanced Multivariate Analysis of Ecological Communities in R\n \nDates: 20?23 May 2025\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/gllvm/ ]( https://www.physalia-courses.org/courses-workshops/gllvm/ ) \n \nThis hands-on course will introduce Generalized Linear Latent Variable Models (GLLVMs)?a powerful, unified framework for analyzing ecological community data. GLLVMs go beyond traditional ordination techniques, offering flexibility, model-based inference, and better tools for understanding species associations.\n \nWhat you?ll learn:\n \n - Fit GLLVMs using the gllvm R package\n- Choose appropriate model structures and distributions\n - Diagnose and improve model fit\n- Interpret and visualize your results\n- Apply GLLVMs to your own data\n \nDesigned for researchers with basic knowledge of GLMs and R, this course is ideal if you work with multivariate ecological data and want robust, modern analysis tools.\n \nBest regards,\n \nCarlo\n \n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nthere are only a few seats left for our upcoming online course: GLLVMs: Advanced Multivariate Analysis of Ecological Communities in R\n \nDates: 20?23 May 2025\n \nCourse website: [ https://www.",
+      "thread_id": "thread-11176e61dca0",
+      "thread_depth": 0,
+      "month": "2025-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-533bee528e8b",
+      "subject": "Introduction to Epigenomics course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-04-06T11:52:49+02:00",
+      "last_reply": "2025-04-06T11:52:49+02:00",
+      "root_message_id": "msg-533bee528e8b"
+    },
+    {
+      "id": "thread-40cc8a41b413",
+      "subject": "Machine Learning for Complex Datasets with ChatGPT - Livestream Seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-04-08T17:20:00+00:00",
+      "last_reply": "2025-04-08T17:20:00+00:00",
+      "root_message_id": "msg-40cc8a41b413"
+    },
+    {
+      "id": "thread-cf11f71cd793",
+      "subject": "Epigenomic data analysis",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-04-10T18:17:46+02:00",
+      "last_reply": "2025-04-10T18:17:46+02:00",
+      "root_message_id": "msg-cf11f71cd793"
+    },
+    {
+      "id": "thread-f017b955c2cf",
+      "subject": "Analysis of RNA-Seq Data - Livestream Seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-04-13T04:50:00+00:00",
+      "last_reply": "2025-04-13T04:50:00+00:00",
+      "root_message_id": "msg-f017b955c2cf"
+    },
+    {
+      "id": "thread-3f774275202a",
+      "subject": "Phylogenetic Species Distribution Modelling using R (PSDM01)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2025-04-16T12:26:37+01:00",
+      "last_reply": "2025-04-16T12:26:37+01:00",
+      "root_message_id": "msg-3f774275202a"
+    },
+    {
+      "id": "thread-d2c2bf7c6ce5",
+      "subject": "Online Course: Conservation Genomics (21–24 July)",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-04-16T16:50:22+02:00",
+      "last_reply": "2025-04-16T16:50:22+02:00",
+      "root_message_id": "msg-d2c2bf7c6ce5"
+    },
+    {
+      "id": "thread-fb3ded6d0f76",
+      "subject": "Machine Learning with ChatGPT - Livestream Seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-04-16T19:20:00+00:00",
+      "last_reply": "2025-04-16T19:20:00+00:00",
+      "root_message_id": "msg-fb3ded6d0f76"
+    },
+    {
+      "id": "thread-1f45fc49f9cb",
+      "subject": "Tidyverse for Ecologists (TIDY01)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2025-04-29T17:43:28+01:00",
+      "last_reply": "2025-04-29T17:43:28+01:00",
+      "root_message_id": "msg-1f45fc49f9cb"
+    },
+    {
+      "id": "thread-914b0eb280b1",
+      "subject": "Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR08)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2025-04-29T17:51:13+01:00",
+      "last_reply": "2025-04-29T17:51:13+01:00",
+      "root_message_id": "msg-914b0eb280b1"
+    },
+    {
+      "id": "thread-11176e61dca0",
+      "subject": "GLLVMs: Advanced Multivariate Analysis of Ecological Communities in R",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-04-29T19:57:05+02:00",
+      "last_reply": "2025-04-29T19:57:05+02:00",
+      "root_message_id": "msg-11176e61dca0"
+    }
+  ]
+}

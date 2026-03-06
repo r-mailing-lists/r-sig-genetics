@@ -1,0 +1,414 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2026-02",
+  "messages": [
+    {
+      "id": "msg-d0609af94d97",
+      "message_id": "<pG9YI2sOSo-XRiACTDFxfg@geopod-ismtpd-14>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-02-03T15:43:49Z",
+      "subject": "[R-sig-genetics] Clustering High-Dimensional Data 2.0 – last chance",
+      "subject_clean": "Clustering High-Dimensional Data 2.0 – last chance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar Clustering High-Dimensional Data 2.0 livestreaming February 6 with Nikolay Oskolkov (Group Leader (PI) at LIOS). This seminar on Clustering High-Dimensional Data 2.0 offers advanced techniques for analyzing complex datasets, a common challenge in modern genetic research. Researchers can leverage these methods, including dimensionality reduction and various clustering algorithms implemented in R and Python, to uncover hidden patterns in genomic, transcriptomic, or population genetics data. Mastering these skills will enable the identification of novel subgroups, robust classification of genetic profiles, and the extraction of deeper insights from their high-dimensional biological data.\n\nSign up today (https://instats.org/seminar/clustering-high-dimensional-data-20) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar Clustering High-Dimensional Data 2.0 livestreaming February 6 with Nikolay Oskolkov (Group Leader (PI) at LIOS). This seminar on Clu",
+      "thread_id": "thread-d0609af94d97",
+      "thread_depth": 0,
+      "month": "2026-02"
+    },
+    {
+      "id": "msg-b11d0699a636",
+      "message_id": "<1770208979.817921545@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-02-04T13:42:59+01:00",
+      "subject": "[R-sig-genetics] Conservation Genomics",
+      "subject_clean": "Conservation Genomics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear r-sig-genetics,\nWe are excited to announce the upcoming Conservation Genomics course, taking place fully online from 7?10 April.\n \nThis course will introduce population genomics tools to address conservation challenges, covering study design, genomic data processing, SNP filtering, and analyses of population structure, adaptation, effective population size, inbreeding, and relatedness. Hands-on exercises will teach essential bioinformatics skills using Linux and R.\n \n \nFor more information, please check it out: [ https://www.physalia-courses.org/courses-workshops/course62/ ]( https://www.physalia-courses.org/courses-workshops/course62/ )\n \nBest regards,\n \nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear r-sig-genetics,\nWe are excited to announce the upcoming Conservation Genomics course, taking place fully online from 7?10 April.\n \nThis course will introduce population genomics tools to address ",
+      "thread_id": "thread-b11d0699a636",
+      "thread_depth": 0,
+      "month": "2026-02"
+    },
+    {
+      "id": "msg-55825e03fb8a",
+      "message_id": "<hOzmRG6LS8OYzfcHJLrrCg@geopod-ismtpd-16>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-02-06T13:53:27Z",
+      "subject": "[R-sig-genetics] Structural Equation Modeling in R – livestream seminar",
+      "subject_clean": "Structural Equation Modeling in R – livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nInstats is offering a new 2-day seminar Structural Equation Modeling in R livestreaming February 23?24, led by Scott Colwell (University of Guelph and Enablytics). This seminar introduces Structural Equation Modeling (SEM) in R, offering a robust framework for analyzing complex relationships and latent constructs. Geneticists can leverage these methods to model intricate genetic pathways, account for measurement error in phenotypic data, and precisely estimate direct and indirect effects within their research. The practical R/lavaan skills and reproducible workflow strategies will significantly enhance the rigor and publishability of genetic data analyses.\n\nSign up today (https://instats.org/seminar/structural-equation-modeling-in-r) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nInstats is offering a new 2-day seminar Structural Equation Modeling in R livestreaming February 23?24, led by Scott Colwell (University of Guelph and Enablytics). This s",
+      "thread_id": "thread-55825e03fb8a",
+      "thread_depth": 0,
+      "month": "2026-02"
+    },
+    {
+      "id": "msg-17c42e0beaae",
+      "message_id": "<zPf-4nNaSGyuTlWseXE-Yg@geopod-ismtpd-0>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-02-09T09:33:17Z",
+      "subject": "[R-sig-genetics] Introduction to Spatial Data and R as a GIS – online seminar",
+      "subject_clean": "Introduction to Spatial Data and R as a GIS – online seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nIntroduction to Spatial Data and R as a GIS led by Nick Bearman (University College London and Geospatial Training Solutions) is now available as an on-demand streaming seminar. This seminar introduces comprehensive methods for analyzing and visualizing spatial data using R as a Geographical Information System. Researchers in genetic data analysis can leverage these skills to map population genetics, visualize gene flow across landscapes, or spatially analyze disease prevalence. Mastering these techniques will enable the community to uncover new spatial patterns in genetic data, enhancing the interpretability and impact of their research findings.\n\nAccess this seminar (https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-3) at your own pace and please share this with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nIntroduction to Spatial Data and R as a GIS led by Nick Bearman (University College London and Geospatial Training Solutions) is now available as an on-demand streaming s",
+      "thread_id": "thread-17c42e0beaae",
+      "thread_depth": 0,
+      "month": "2026-02"
+    },
+    {
+      "id": "msg-6c7c1f51e1f4",
+      "message_id": "<-X2-uLceRWSLBVrH84JHBA@geopod-ismtpd-15>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2026-02-10T16:20:00Z",
+      "subject": "[R-sig-genetics] Free AI tools for researchers – Instats",
+      "subject_clean": "Free AI tools for researchers – Instats",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to announce the launch of two new free AI tools for researchers, Research Assistant and Pathways, available now at instats.org. <https://instats.org/> Both tools are carbon-offset by Instats via Gold Standard <https://www.goldstandard.org/>.\n\nResearch Assistant: Get expert help with every Instats seminar to clarify concepts, ask technical questions, interpret results, troubleshoot code, and much more. It's privacy-preserving and IP-respecting. Look for the AI Assistant alongside videos and on every Instats seminar <https://instats.org/results?nav=On-Demand&view=Seminars>.\n\n\n\nPathways: Describe your learning goals and get a personalized learning plan or a full curriculum. They're easy to save or share with your colleagues and students. Build your pathway here <https://instats.org/results?nav=Curriculum&view=Seminars>.\n\n\n\nWe hope you enjoy these free AI tools from Instats, your partner in research!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org <http://instats.org/>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to announce the launch of two new free AI tools for researchers, Research Assistant and Pathways, available now at instats.org. <https://instats.org/> Both tools are ca",
+      "thread_id": "thread-6c7c1f51e1f4",
+      "thread_depth": 0,
+      "month": "2026-02"
+    },
+    {
+      "id": "msg-6b8ff046e229",
+      "message_id": "<fFn2cMY1Qv-7-A71SlDHPw@geopod-ismtpd-5>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-02-11T11:13:26Z",
+      "subject": "[R-sig-genetics] Introduction to Bioinformatics for Genomics (Free Seminar) – last chance",
+      "subject_clean": "Introduction to Bioinformatics for Genomics (Free Seminar) – last chance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar Introduction to Bioinformatics for Genomics (Free Seminar) livestreaming February 16 with Estefania Mancini (Josep Carreras Leukaemia Research Institute). This seminar introduces key bioinformatics methods for analyzing sequencing and genomics data. Researchers engaged in genetic data analysis using R can apply these foundational techniques to enhance their processing and interpretation of high-throughput genomic datasets. Mastering these methods will enable more robust data preparation and deeper insights within their existing R-based research workflows.\n\nSign up today (https://instats.org/seminar/introduction-to-bioinformatics-for-genom) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar Introduction to Bioinformatics for Genomics (Free Seminar) livestreaming February 16 with Estefania Mancini (Josep Carreras Leukaemi",
+      "thread_id": "thread-6b8ff046e229",
+      "thread_depth": 0,
+      "month": "2026-02"
+    },
+    {
+      "id": "msg-dbda36974c0f",
+      "message_id": "<o8pyt5OyTFKmY4vJxdJoaw@geopod-ismtpd-13>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-02-13T13:42:22Z",
+      "subject": "[R-sig-genetics] Structural Equation Modeling in R – last chance",
+      "subject_clean": "Structural Equation Modeling in R – last chance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance to join our 2-day seminar Structural Equation Modeling in R livestreaming February 23?24 with Scott Colwell (University of Guelph and Enablytics). Structural Equation Modeling (SEM) in R offers a powerful framework for analyzing complex relationships, including those involving latent constructs and measurement error. Researchers in genetics can apply SEM to model intricate pathways between genetic variants, intermediate phenotypes, and observable traits, or to validate complex genetic scores. This seminar will equip participants with practical R/lavaan skills to build reproducible analyses, enhancing the rigor and interpretability of their genetic data research.\n\nSign up today (https://instats.org/seminar/structural-equation-modeling-in-r) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 2-day seminar Structural Equation Modeling in R livestreaming February 23?24 with Scott Colwell (University of Guelph and Enablytics). Structural ",
+      "thread_id": "thread-dbda36974c0f",
+      "thread_depth": 0,
+      "month": "2026-02"
+    },
+    {
+      "id": "msg-87fb7c177a0f",
+      "message_id": "<ORwZ86e7ROmbjigaowWfEw@geopod-ismtpd-14>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-02-16T09:52:56Z",
+      "subject": "[R-sig-genetics] High-Dimensional Propensity Scores (Free Seminar) – last chance",
+      "subject_clean": "High-Dimensional Propensity Scores (Free Seminar) – last chance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar High-Dimensional Propensity Scores (Free Seminar) livestreaming February 17 with Ehsan Karim (School of Population and Public Health, University of British Columbia). This seminar explores high-dimensional propensity score methods and their machine learning extensions for robust confounding control. Researchers analyzing genetic data in R can adapt these advanced techniques to systematically manage numerous covariates, enhancing the validity of their association studies. Mastering these skills will enable the community to produce more defensible causal claims and strengthen the methodological rigor of their published work.\n\nSign up today (https://instats.org/seminar/high-dimensional-propensity-score-free-s) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar High-Dimensional Propensity Scores (Free Seminar) livestreaming February 17 with Ehsan Karim (School of Population and Public Health",
+      "thread_id": "thread-87fb7c177a0f",
+      "thread_depth": 0,
+      "month": "2026-02"
+    },
+    {
+      "id": "msg-d1dbfd98947f",
+      "message_id": "<ssTqjPqWTPeGomfelDMcIg@geopod-ismtpd-3>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-02-18T11:49:09Z",
+      "subject": "[R-sig-genetics] Dealing with Missing Data – last chance",
+      "subject_clean": "Dealing with Missing Data – last chance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance to join our 3-day seminar Dealing with Missing Data livestreaming February 23?25 with Centre for Applied Statistics Courses (CASC) (University College London). This seminar on Dealing with Missing Data offers crucial insights into understanding and mitigating the impact of incomplete datasets. Researchers in genetic data analysis can apply these robust statistical techniques, including advanced imputation methods often implemented in R, to enhance the reliability and validity of their genomic studies. Mastering these approaches will enable you to critically assess missingness mechanisms in your genetic datasets and improve the integrity of your research findings, leading to more accurate and defensible conclusions.\n\nSign up today (https://instats.org/seminar/dealing-with-missing-data) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 3-day seminar Dealing with Missing Data livestreaming February 23?25 with Centre for Applied Statistics Courses (CASC) (University College London)",
+      "thread_id": "thread-d1dbfd98947f",
+      "thread_depth": 0,
+      "month": "2026-02"
+    },
+    {
+      "id": "msg-0feaafafe444",
+      "message_id": "<1771593736.981819172@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-02-20T14:22:16+01:00",
+      "subject": "[R-sig-genetics] 2026 Genome Assembly & Annotation course - online, 9–13 March",
+      "subject_clean": "2026 Genome Assembly & Annotation course - online, 9–13 March",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe?re excited to announce the 2026 Genome Assembly & Annotation course, held online, 9?13 March 2026. This hands-on course will guide participants through de novo genome assembly and annotation, using Illumina, PacBio, and Oxford Nanopore sequencing, scaffolding methods (Hi-C, optical mapping), quality control, and manual curation.\n \n \nInstructors & TA:\n\nDr. Giulio Formenti, The Rockefeller University\n\nDr. Guido Gallo, University of Milan\n\nYing Chen, Bioinformatics Specialist, Vertebrate Genome Lab\nInvited Speakers & Special Guests:\n\nKirsty McCaffrey, Aureliano Bombarely, Marco Sollitto, Bonhwang Koo\n\nTerence Murphy?s team (NCBI/NIH): Eric Tvedte, Pooja Strope, Linda Frisse, Eric Cox, Dong Ha\nWith leading experts from  National Center for Biotechnology Information (NCBI) and internationally recognised researchers, we?re bringing together a truly outstanding team to deliver a high-level, hands-on training experience in genome assembly and annotation.\n \nIf interested, check it out: [ https://www.physalia-courses.org/courses-workshops/course20/ ]( https://www.physalia-courses.org/courses-workshops/course20/ )\n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe?re excited to announce the 2026 Genome Assembly & Annotation course, held online, 9?13 March 2026. This hands-on course will guide participants through de novo genome assembly and annotat",
+      "thread_id": "thread-0feaafafe444",
+      "thread_depth": 0,
+      "month": "2026-02"
+    },
+    {
+      "id": "msg-77721f279e1b",
+      "message_id": "<eeW9XXvKTkWyc4JVkFRikA@geopod-ismtpd-7>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-02-20T14:07:10Z",
+      "subject": "[R-sig-genetics] Spatial Statistics in R – online seminar",
+      "subject_clean": "Spatial Statistics in R – online seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nSpatial Statistics in R led by Nick Bearman (University College London and Geospatial Training Solutions) is now available as an on-demand streaming seminar. This seminar offers an in-depth introduction to spatial statistics using R, providing powerful tools for analyzing geographically referenced data. Researchers in genetics can apply these methods to uncover spatial patterns in genetic variation, disease prevalence, or gene-environment interactions within their datasets. Mastering techniques like spatial autocorrelation and regression in R will enable more nuanced insights into population structure and the geographic distribution of genetic traits, enhancing the robustness of their findings.\n\nAccess this seminar (https://instats.org/seminar/spatial-statistics-in-r-1) at your own pace and please share this with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nSpatial Statistics in R led by Nick Bearman (University College London and Geospatial Training Solutions) is now available as an on-demand streaming seminar. This seminar",
+      "thread_id": "thread-77721f279e1b",
+      "thread_depth": 0,
+      "month": "2026-02"
+    },
+    {
+      "id": "msg-6667556c3aff",
+      "message_id": "<8MA0jODERUS2Kyp_hVtW7A@geopod-ismtpd-3>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-02-23T09:42:06Z",
+      "subject": "[R-sig-genetics] Data Analysis in R Using Tidyverse – last chance",
+      "subject_clean": "Data Analysis in R Using Tidyverse – last chance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance to join our 3-day seminar Data Analysis in R Using Tidyverse livestreaming February 24?26 with Ari Lamstein (American Statistical Association). This seminar offers a practical introduction to data analysis in R using the tidyverse, covering data import, transformation with dplyr, and visualization with ggplot2. Researchers in genetic data analysis can apply these robust tools to efficiently clean, manipulate, and visualize complex genomic datasets, such as filtering variants or plotting population structure. Mastering these tidyverse workflows will enhance the reproducibility and collaborative potential of your genetic research projects, facilitating clearer insights and publication-quality outputs.\n\nSign up today (https://instats.org/seminar/data-analysis-in-r-using-tidyverse) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 3-day seminar Data Analysis in R Using Tidyverse livestreaming February 24?26 with Ari Lamstein (American Statistical Association). This seminar o",
+      "thread_id": "thread-6667556c3aff",
+      "thread_depth": 0,
+      "month": "2026-02"
+    },
+    {
+      "id": "msg-73b3355187d1",
+      "message_id": "<bh2YhP8IRXesv17QMucmUQ@geopod-ismtpd-0>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-02-25T11:53:38Z",
+      "subject": "[R-sig-genetics] Agentic Data Analytics: Automating Research Workflows – livestream seminar",
+      "subject_clean": "Agentic Data Analytics: Automating Research Workflows – livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nInstats is offering a new 4-day seminar Agentic Data Analytics: Automating Research Workflows livestreaming March 24?27, led by Peter Gruber (Faculty of Economics, USI Universit? della Svizzera Italiana). This seminar introduces agentic data analytics, a powerful approach for automating complex research workflows. Researchers in genetic data analysis can leverage these autonomous AI agents to streamline tedious tasks like data cleaning, execute sophisticated statistical models in R, and generate publication-ready visualizations and reports. The skills learned will enable you to accelerate your genetic research by building reproducible, secure, and efficient analytical pipelines directly on your local machine.\n\nSign up today (https://instats.org/seminar/agentic-data-analytics-automating-resear) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nInstats is offering a new 4-day seminar Agentic Data Analytics: Automating Research Workflows livestreaming March 24?27, led by Peter Gruber (Faculty of Economics, USI Un",
+      "thread_id": "thread-73b3355187d1",
+      "thread_depth": 0,
+      "month": "2026-02"
+    },
+    {
+      "id": "msg-ad95dc6a12d7",
+      "message_id": "<1772037810.7398618@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-02-25T17:43:30+01:00",
+      "subject": "[R-sig-genetics] (ONLINE COURSE) Landscape Genomics - 13-17 July",
+      "subject_clean": "(ONLINE COURSE) Landscape Genomics - 13-17 July",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are excited to announce our Landscape Genomics workshop, held online from 13?17 July, designed for those who want to explore how genetic diversity is shaped across landscapes.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course17 ]( https://www.physalia-courses.org/courses-workshops/course17 ) \n \nIn this course, you will learn to:\n\nObtain and process environmental data using GIS and remote sensing tools\n\nExplore genetic variation and population structure in R\n\nApply statistical methods such as Sambada, LFMM, and RDA to study local adaptation\n\nPlan and validate landscape genomics experiments, from sampling design to interpretation\nThe course combines theoretical introductions with practical sessions, giving participants hands-on experience with state-of-the-art methods. \n \n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are excited to announce our Landscape Genomics workshop, held online from 13?17 July, designed for those who want to explore how genetic diversity is shaped across landscapes.\n \nCourse we",
+      "thread_id": "thread-ad95dc6a12d7",
+      "thread_depth": 0,
+      "month": "2026-02"
+    },
+    {
+      "id": "msg-89c4de443774",
+      "message_id": "<cg9cBsA1TqS71JMoDeZb6g@geopod-ismtpd-3>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-02-27T13:21:48Z",
+      "subject": "[R-sig-genetics] Project Quality and Management for Statisticians and Data Scientists – livestream seminar",
+      "subject_clean": "Project Quality and Management for Statisticians and Data Scientists – livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nInstats is offering a new 15-day seminar Project Quality and Management for Statisticians and Data Scientists livestreaming April 8?22, led by Michiko Wolcott (Msight Analytics). This seminar offers best practices for project quality and management, addressing non-statistical challenges common in data analysis projects. Members of the R-sig-genetics community can apply these methodologies to enhance the robustness and reproducibility of their genetic data analysis, from initial data quality checks to managing complex analytical pipelines in R. By implementing structured project management principles, researchers can more effectively navigate project uncertainties, improve stakeholder communication, and ensure the high integrity of their genetic research outcomes.\n\nSign up today (https://instats.org/seminar/project-quality-and-management-for-stati) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nInstats is offering a new 15-day seminar Project Quality and Management for Statisticians and Data Scientists livestreaming April 8?22, led by Michiko Wolcott (Msight Ana",
+      "thread_id": "thread-89c4de443774",
+      "thread_depth": 0,
+      "month": "2026-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d0609af94d97",
+      "subject": "Clustering High-Dimensional Data 2.0 – last chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-02-03T15:43:49+00:00",
+      "last_reply": "2026-02-03T15:43:49+00:00",
+      "root_message_id": "msg-d0609af94d97"
+    },
+    {
+      "id": "thread-b11d0699a636",
+      "subject": "Conservation Genomics",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-02-04T13:42:59+01:00",
+      "last_reply": "2026-02-04T13:42:59+01:00",
+      "root_message_id": "msg-b11d0699a636"
+    },
+    {
+      "id": "thread-55825e03fb8a",
+      "subject": "Structural Equation Modeling in R – livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-02-06T13:53:27+00:00",
+      "last_reply": "2026-02-06T13:53:27+00:00",
+      "root_message_id": "msg-55825e03fb8a"
+    },
+    {
+      "id": "thread-17c42e0beaae",
+      "subject": "Introduction to Spatial Data and R as a GIS – online seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-02-09T09:33:17+00:00",
+      "last_reply": "2026-02-09T09:33:17+00:00",
+      "root_message_id": "msg-17c42e0beaae"
+    },
+    {
+      "id": "thread-6c7c1f51e1f4",
+      "subject": "Free AI tools for researchers – Instats",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2026-02-10T16:20:00+00:00",
+      "last_reply": "2026-02-10T16:20:00+00:00",
+      "root_message_id": "msg-6c7c1f51e1f4"
+    },
+    {
+      "id": "thread-6b8ff046e229",
+      "subject": "Introduction to Bioinformatics for Genomics (Free Seminar) – last chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-02-11T11:13:26+00:00",
+      "last_reply": "2026-02-11T11:13:26+00:00",
+      "root_message_id": "msg-6b8ff046e229"
+    },
+    {
+      "id": "thread-dbda36974c0f",
+      "subject": "Structural Equation Modeling in R – last chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-02-13T13:42:22+00:00",
+      "last_reply": "2026-02-13T13:42:22+00:00",
+      "root_message_id": "msg-dbda36974c0f"
+    },
+    {
+      "id": "thread-87fb7c177a0f",
+      "subject": "High-Dimensional Propensity Scores (Free Seminar) – last chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-02-16T09:52:56+00:00",
+      "last_reply": "2026-02-16T09:52:56+00:00",
+      "root_message_id": "msg-87fb7c177a0f"
+    },
+    {
+      "id": "thread-d1dbfd98947f",
+      "subject": "Dealing with Missing Data – last chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-02-18T11:49:09+00:00",
+      "last_reply": "2026-02-18T11:49:09+00:00",
+      "root_message_id": "msg-d1dbfd98947f"
+    },
+    {
+      "id": "thread-77721f279e1b",
+      "subject": "Spatial Statistics in R – online seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-02-20T14:07:10+00:00",
+      "last_reply": "2026-02-20T14:07:10+00:00",
+      "root_message_id": "msg-77721f279e1b"
+    },
+    {
+      "id": "thread-0feaafafe444",
+      "subject": "2026 Genome Assembly & Annotation course - online, 9–13 March",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-02-20T14:22:16+01:00",
+      "last_reply": "2026-02-20T14:22:16+01:00",
+      "root_message_id": "msg-0feaafafe444"
+    },
+    {
+      "id": "thread-6667556c3aff",
+      "subject": "Data Analysis in R Using Tidyverse – last chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-02-23T09:42:06+00:00",
+      "last_reply": "2026-02-23T09:42:06+00:00",
+      "root_message_id": "msg-6667556c3aff"
+    },
+    {
+      "id": "thread-73b3355187d1",
+      "subject": "Agentic Data Analytics: Automating Research Workflows – livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-02-25T11:53:38+00:00",
+      "last_reply": "2026-02-25T11:53:38+00:00",
+      "root_message_id": "msg-73b3355187d1"
+    },
+    {
+      "id": "thread-ad95dc6a12d7",
+      "subject": "(ONLINE COURSE) Landscape Genomics - 13-17 July",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-02-25T17:43:30+01:00",
+      "last_reply": "2026-02-25T17:43:30+01:00",
+      "root_message_id": "msg-ad95dc6a12d7"
+    },
+    {
+      "id": "thread-89c4de443774",
+      "subject": "Project Quality and Management for Statisticians and Data Scientists – livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-02-27T13:21:48+00:00",
+      "last_reply": "2026-02-27T13:21:48+00:00",
+      "root_message_id": "msg-89c4de443774"
+    }
+  ]
+}

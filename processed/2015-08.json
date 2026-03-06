@@ -1,0 +1,109 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2015-08",
+  "messages": [
+    {
+      "id": "msg-1593f49c4d04",
+      "message_id": "<CANAOVE4R-SVm1O0iboMdBVTg-G4_2PZFSa8-jVO6gdpy8m0aNA@mail.gmail.com>",
+      "from_name": "Rajkumar H. Garampalli",
+      "from_email_hash": "8e4f760431cd415212b397cd18521f76c79342696447dd38ec820e86ff6d9a8c",
+      "date": "2015-08-09T09:36:50+05:30",
+      "subject": "[R-sig-genetics] Mailing list",
+      "subject_clean": "Mailing list",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi,\nAdd me to the mailing list.\n\nRajkumar\n\n-- \nDr. Rajkumar H. Garampalli\nVisiting Scholar\nDepartment of Plant Pathology\nUniversity of Georgia\nAthens, GA 30602, USA\nPhone No. +1-706-715-1926\n&\nAssistant Professor (Senior)\nDepartment of Studies in Botany\nUniversity of Mysore, Manasagangotri\nMysore- 570 006, Karnataka, INDIA\nPh. NO. 91-821-2419757\n91-9980736894\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi,\nAdd me to the mailing list.\n\nRajkumar\n\n-- \nDr. Rajkumar H. Garampalli\nVisiting Scholar\nDepartment of Plant Pathology\nUniversity of Georgia\nAthens, GA 30602, USA\nPhone No. +1-706-715-1926\n&\nAssista",
+      "thread_id": "thread-1593f49c4d04",
+      "thread_depth": 0,
+      "month": "2015-08"
+    },
+    {
+      "id": "msg-0a800c9c8f2d",
+      "message_id": "<2CB2DA8E426F3541AB1907F98ABA6570B127E1C1@icexch-m1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2015-08-13T09:58:37Z",
+      "subject": "[R-sig-genetics] R-sig-genetics hacked",
+      "subject_clean": "R-sig-genetics hacked",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nit seems that R-sig-genetics got hacked overnight, and a large number of people got unsubscribed at exactly the same time early this morning.\n\nOn a reassuring note, no confidential information is stored on the server - your passwords are safe. Admin passwords have been changed, and I will investigate the source of the hack. Meanwhile, please email me directly if you received anything weird relating to R-sig-genetics over the past couple of weeks.\n\nBest\nThibaut (R-sig-genetics admin)\n\n\n==============================\nDr Thibaut Jombart\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - School of Public Health\nNorfolk Place, London W2 1PG, UK\nTel. : 0044 (0)20 7594 3658\nhttp://sites.google.com/site/thibautjombart/\nhttp://sites.google.com/site/therepiproject/\nhttp://adegenet.r-forge.r-project.org/\nTwitter: @thibautjombart\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nit seems that R-sig-genetics got hacked overnight, and a large number of people got unsubscribed at exactly the same time early this morning.\n\nOn a reassuring note, no confidential informat",
+      "thread_id": "thread-0a800c9c8f2d",
+      "thread_depth": 0,
+      "month": "2015-08"
+    },
+    {
+      "id": "msg-fd0fb74f9dec",
+      "message_id": "<4DE9ABC5E00F7544A4E8A6758C0217E4F216567E@srv-exchange.florimond-desprez.fr>",
+      "from_name": "karine henry",
+      "from_email_hash": "18ef944b76e6d160519ac8513346dc5af09315a6e64a59a63ee3ac4524b6ca57",
+      "date": "2015-08-26T10:27:07Z",
+      "subject": "[R-sig-genetics] genetic analysis SNP",
+      "subject_clean": "genetic analysis SNP",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\n\nI'm trying to use adegenet to analyse a set of 25 lines with 540.000 markers. For the moment, I tried to use genind object as I found file format for SNP genlight object a bit difficult to create.\n\nEverything is going well except when running\ngrp=find.clusters(obj, max.n.clust=40)\nI get graph with cumulative variance and number of retained PC's, but whatever the number of PC I chose I get same error:\nnumber of cluster centers must lie between 1 and nrow(x)\n\nAny idea? Shall it be due to number of markers?\n\nThanks for your help\n\nregards\n\nKarine\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\n\nI'm trying to use adegenet to analyse a set of 25 lines with 540.000 markers. For the moment, I tried to use genind object as I found file format for SNP genlight object a bit difficult to",
+      "thread_id": "thread-fd0fb74f9dec",
+      "thread_depth": 0,
+      "month": "2015-08"
+    },
+    {
+      "id": "msg-12a31fde6298",
+      "message_id": "<2CB2DA8E426F3541AB1907F98ABA6570B128F729@icexch-m1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2015-08-26T10:46:11Z",
+      "subject": "[R-sig-genetics] genetic analysis SNP",
+      "subject_clean": "genetic analysis SNP",
+      "in_reply_to": "<4DE9ABC5E00F7544A4E8A6758C0217E4F216567E@srv-exchange.florimond-desprez.fr>",
+      "references": [
+        "<4DE9ABC5E00F7544A4E8A6758C0217E4F216567E@srv-exchange.florimond-desprez.fr>"
+      ],
+      "body_plain": "Hi there, \n\nthis question belongs more to the adegenet forum. \n\nHere, the error is that you are asking the function to cluster 25 individuals into 40 groups.\n\nCheers\nThibaut\n\n==============================\nDr Thibaut Jombart\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - School of Public Health\nNorfolk Place, London W2 1PG, UK\nTel. : 0044 (0)20 7594 3658\nhttp://sites.google.com/site/thibautjombart/\nhttp://sites.google.com/site/therepiproject/\nhttp://adegenet.r-forge.r-project.org/\nTwitter: @thibautjombart\n\n\n\n________________________________________\nFrom: R-sig-genetics [r-sig-genetics-bounces at r-project.org] on behalf of karine henry [karine.bounan at florimond-desprez.fr]\nSent: 26 August 2015 11:27\nTo: r-sig-genetics at r-project.org\nSubject: [R-sig-genetics] genetic analysis SNP\n\nDear all,\n\n\nI'm trying to use adegenet to analyse a set of 25 lines with 540.000 markers. For the moment, I tried to use genind object as I found file format for SNP genlight object a bit difficult to create.\n\nEverything is going well except when running\ngrp=find.clusters(obj, max.n.clust=40)\nI get graph with cumulative variance and number of retained PC's, but whatever the number of PC I chose I get same error:\nnumber of cluster centers must lie between 1 and nrow(x)\n\nAny idea? Shall it be due to number of markers?\n\nThanks for your help\n\nregards\n\nKarine\n\n        [[alternative HTML version deleted]]\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
+      "body_snippet": "Hi there, \n\nthis question belongs more to the adegenet forum. \n\nHere, the error is that you are asking the function to cluster 25 individuals into 40 groups.\n\nCheers\nThibaut\n\n=========================",
+      "thread_id": "thread-fd0fb74f9dec",
+      "thread_depth": 1,
+      "month": "2015-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-1593f49c4d04",
+      "subject": "Mailing list",
+      "message_count": 1,
+      "participants": [
+        "Rajkumar H. Garampalli"
+      ],
+      "started": "2015-08-09T09:36:50+05:30",
+      "last_reply": "2015-08-09T09:36:50+05:30",
+      "root_message_id": "msg-1593f49c4d04"
+    },
+    {
+      "id": "thread-0a800c9c8f2d",
+      "subject": "R-sig-genetics hacked",
+      "message_count": 1,
+      "participants": [
+        "Jombart, Thibaut"
+      ],
+      "started": "2015-08-13T09:58:37+00:00",
+      "last_reply": "2015-08-13T09:58:37+00:00",
+      "root_message_id": "msg-0a800c9c8f2d"
+    },
+    {
+      "id": "thread-fd0fb74f9dec",
+      "subject": "genetic analysis SNP",
+      "message_count": 2,
+      "participants": [
+        "Jombart, Thibaut",
+        "karine henry"
+      ],
+      "started": "2015-08-26T10:27:07+00:00",
+      "last_reply": "2015-08-26T10:46:11+00:00",
+      "root_message_id": "msg-fd0fb74f9dec"
+    }
+  ]
+}

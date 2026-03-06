@@ -1,0 +1,518 @@
+From benjamin.alric at imbe.fr  Mon Feb 23 11:52:12 2015
+From: benjamin.alric at imbe.fr (Benjamin Alric)
+Date: Mon, 23 Feb 2015 11:52:12 +0100
+Subject: [R-sig-genetics] Simulated hybridization from same locus but
+ different alleles with hybridize function in adegenet
+Message-ID: <54EB065C.70605@imbe.fr>
+
+Dear all,
+
+I would like simulated hybridization between two population to assess
+the power of admixture analysis (STRUCTURE).
+I built two subsamples consisting of 30 indivudals showing the highest q
+values for the cluster1 or cluster2 of previously STRUCTURE analysis.
+ From these two subsamples I would like simulated hybridization (using
+hybridize function of the adegenet R package) to assess the power of
+admixture analysis.
+For each population, genotype were determined through 8 microsatellite
+loci for wichi one allele is code by a character string of 3 numbers.
+Here you are the command:
+
+Dg<-import2genind("B_Dg.gtx",package="adegenet")
+Dl<-import2genind("B_Dl.gtx",package="adegenet")
+Dg<- #####################
+    ### Genind object ###
+    #####################
+- genotypes of individuals -
+
+S4 class:  genind
+@call: read.genetix(file = file, missing = missing, quiet = quiet)
+
+@tab:  30 x 33 matrix of genotypes
+
+@ind.names: vector of  30 individual names
+@loc.names: vector of  8 locus names
+@loc.nall: number of alleles per locus
+@loc.fac: locus factor for the  33 columns of @tab
+@all.names: list of  8 components yielding allele names for each locus
+@ploidy:  2
+@type:  codom
+
+Optional contents:
+@pop:  factor giving the population of each individual
+@pop.names:  factor giving the population of each individual
+
+@other: - empty -
+
+Dl<-#####################
+    ### Genind object ###
+    #####################
+- genotypes of individuals -
+
+S4 class:  genind
+@call: read.genetix(file = file, missing = missing, quiet = quiet)
+
+@tab:  30 x 33 matrix of genotypes
+
+@ind.names: vector of  30 individual names
+@loc.names: vector of  8 locus names
+@loc.nall: number of alleles per locus
+@loc.fac: locus factor for the  33 columns of @tab
+@all.names: list of  8 components yielding allele names for each locus
+@ploidy:  2
+@type:  codom
+
+Optional contents:
+@pop:  factor giving the population of each individual
+@pop.names:  factor giving the population of each individual
+
+@other: - empty -
+
+hybrdis<-hybridize(Dg,Dl,n=100,pop="Hybrids")
+g1<-genind2df(hybrids)
+g1<-
+          pop       10_14      Dp512     SwiD1            SwiD10
+SwiD12    SwiD14    SwiD15    SwiD5
+h001 Hybrids 226226    129         131143          194201 112119
+181185   093098    161161165
+h002 Hybrids 220226    129         126138          200201    112 175
+181181   089098    151153165
+h003 Hybrids 220226    129         126134143    200 123123    185185
+093098    153163165
+h004 Hybrids 220226    129         126131          200201 119123
+185185   093098    153153165
+h005 Hybrids 220226    129         126136136    199 123123    181185
+089098    153161165
+h006 Hybrids 226226    129129   136136          194 112112    181181
+089098    153161165
+h007 Hybrids 220226    129133   134143          194          119 175
+181185   093          151153163165
+....
+
+We would expect to see two allele for each locus but it is not the case
+for all microsatellite loci.
+Somebody know why and where does the problem?
+
+I checked the example dataset "microbov" for hybridize function, and I
+see that temp$Salers and temp$Zebu (used to perform simulated
+hybridization with hybridize function) presented the same count of
+alleles at each locus.
+When I check now my two datasets, I see that there are not the same
+number of allele between the two populations. such a difference in the
+number of allele between the two population could be the origne of the
+problem...
+
+Dg at all.names
+$L1
+     1     2     3
+"220" "226" "231"
+
+$L2
+     1     2     3
+"125" "129" "133"
+
+$L3
+     1     2     3     4     5     6
+"126" "131" "134" "136" "138" "143"
+
+Dl at all.names
+$L1
+     1     2     3
+"223" "226" "229"
+
+$L2
+     1     2     3     4     5     6
+"129" "133" "136" "137" "138" "139"
+
+$L3
+     1     2     3     4     5     6     7
+"118" "134" "136" "138" "145" "150" "152"
+
+Thank in advence for your help.
+
+Sincerely yours,
+
+Benjamin ALRIC
+
+
+
+-- 
+
+-- 
+Benjamin Alric,PhD
+UMR 7263-CNRS / 237-IRD - Institut M?diterran?en de Biodiversit? et d'Ecologie (IMBE)
+Equipe "Ecologie des Eaux Continentales"
+Aix-Marseille Universit?, Facult? des Sciences, site de St J?r?me
+52 Avenue Escadrille Normandie Ni?men
+13397 Marseille cedex 20 - France
+T?l: +33 (0)4 13 59 46 46
+
+
+From t.jombart at imperial.ac.uk  Mon Feb 23 12:45:18 2015
+From: t.jombart at imperial.ac.uk (Jombart, Thibaut)
+Date: Mon, 23 Feb 2015 11:45:18 +0000
+Subject: [R-sig-genetics] Simulated hybridization from same locus but
+ different alleles with hybridize function in adegenet
+In-Reply-To: <54EB065C.70605@imbe.fr>
+References: <54EB065C.70605@imbe.fr>
+Message-ID: <2CB2DA8E426F3541AB1907F98ABA6570ABEE3446@icexch-m1.ic.ac.uk>
+
+Hello, 
+this email belongs to the adegenet forum (I'll reply there), where you posted the same question already. 
+Please avoid double-posting.. 
+Thanks and all the best
+Thibaut
+
+________________________________________
+From: R-sig-genetics [r-sig-genetics-bounces at r-project.org] on behalf of Benjamin Alric [benjamin.alric at imbe.fr]
+Sent: 23 February 2015 10:52
+To: r-sig-genetics at r-project.org
+Subject: [R-sig-genetics] Simulated hybridization from same locus but different alleles with hybridize function in adegenet
+
+Dear all,
+
+I would like simulated hybridization between two population to assess
+the power of admixture analysis (STRUCTURE).
+I built two subsamples consisting of 30 indivudals showing the highest q
+values for the cluster1 or cluster2 of previously STRUCTURE analysis.
+ From these two subsamples I would like simulated hybridization (using
+hybridize function of the adegenet R package) to assess the power of
+admixture analysis.
+For each population, genotype were determined through 8 microsatellite
+loci for wichi one allele is code by a character string of 3 numbers.
+Here you are the command:
+
+Dg<-import2genind("B_Dg.gtx",package="adegenet")
+Dl<-import2genind("B_Dl.gtx",package="adegenet")
+Dg<- #####################
+    ### Genind object ###
+    #####################
+- genotypes of individuals -
+
+S4 class:  genind
+@call: read.genetix(file = file, missing = missing, quiet = quiet)
+
+@tab:  30 x 33 matrix of genotypes
+
+@ind.names: vector of  30 individual names
+@loc.names: vector of  8 locus names
+@loc.nall: number of alleles per locus
+@loc.fac: locus factor for the  33 columns of @tab
+@all.names: list of  8 components yielding allele names for each locus
+@ploidy:  2
+@type:  codom
+
+Optional contents:
+@pop:  factor giving the population of each individual
+@pop.names:  factor giving the population of each individual
+
+@other: - empty -
+
+Dl<-#####################
+    ### Genind object ###
+    #####################
+- genotypes of individuals -
+
+S4 class:  genind
+@call: read.genetix(file = file, missing = missing, quiet = quiet)
+
+@tab:  30 x 33 matrix of genotypes
+
+@ind.names: vector of  30 individual names
+@loc.names: vector of  8 locus names
+@loc.nall: number of alleles per locus
+@loc.fac: locus factor for the  33 columns of @tab
+@all.names: list of  8 components yielding allele names for each locus
+@ploidy:  2
+@type:  codom
+
+Optional contents:
+@pop:  factor giving the population of each individual
+@pop.names:  factor giving the population of each individual
+
+@other: - empty -
+
+hybrdis<-hybridize(Dg,Dl,n=100,pop="Hybrids")
+g1<-genind2df(hybrids)
+g1<-
+          pop       10_14      Dp512     SwiD1            SwiD10
+SwiD12    SwiD14    SwiD15    SwiD5
+h001 Hybrids 226226    129         131143          194201 112119
+181185   093098    161161165
+h002 Hybrids 220226    129         126138          200201    112 175
+181181   089098    151153165
+h003 Hybrids 220226    129         126134143    200 123123    185185
+093098    153163165
+h004 Hybrids 220226    129         126131          200201 119123
+185185   093098    153153165
+h005 Hybrids 220226    129         126136136    199 123123    181185
+089098    153161165
+h006 Hybrids 226226    129129   136136          194 112112    181181
+089098    153161165
+h007 Hybrids 220226    129133   134143          194          119 175
+181185   093          151153163165
+....
+
+We would expect to see two allele for each locus but it is not the case
+for all microsatellite loci.
+Somebody know why and where does the problem?
+
+I checked the example dataset "microbov" for hybridize function, and I
+see that temp$Salers and temp$Zebu (used to perform simulated
+hybridization with hybridize function) presented the same count of
+alleles at each locus.
+When I check now my two datasets, I see that there are not the same
+number of allele between the two populations. such a difference in the
+number of allele between the two population could be the origne of the
+problem...
+
+Dg at all.names
+$L1
+     1     2     3
+"220" "226" "231"
+
+$L2
+     1     2     3
+"125" "129" "133"
+
+$L3
+     1     2     3     4     5     6
+"126" "131" "134" "136" "138" "143"
+
+Dl at all.names
+$L1
+     1     2     3
+"223" "226" "229"
+
+$L2
+     1     2     3     4     5     6
+"129" "133" "136" "137" "138" "139"
+
+$L3
+     1     2     3     4     5     6     7
+"118" "134" "136" "138" "145" "150" "152"
+
+Thank in advence for your help.
+
+Sincerely yours,
+
+Benjamin ALRIC
+
+
+
+--
+
+--
+Benjamin Alric,PhD
+UMR 7263-CNRS / 237-IRD - Institut M?diterran?en de Biodiversit? et d'Ecologie (IMBE)
+Equipe "Ecologie des Eaux Continentales"
+Aix-Marseille Universit?, Facult? des Sciences, site de St J?r?me
+52 Avenue Escadrille Normandie Ni?men
+13397 Marseille cedex 20 - France
+T?l: +33 (0)4 13 59 46 46
+
+_______________________________________________
+R-sig-genetics mailing list
+R-sig-genetics at r-project.org
+https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+
+From hugo.harrison at my.jcu.edu.au  Mon Feb 23 13:38:59 2015
+From: hugo.harrison at my.jcu.edu.au (Hugo Harrison)
+Date: Mon, 23 Feb 2015 22:38:59 +1000
+Subject: [R-sig-genetics] Simulated hybridization from same locus but
+	different alleles with hybridize function in adegenet
+In-Reply-To: <54EB065C.70605@imbe.fr>
+References: <54EB065C.70605@imbe.fr>
+Message-ID: <5ED77BEA-B22D-4271-AA10-B6B184F68F1F@my.jcu.edu.au>
+
+Dear Benjamin,
+
+I can?t offer a solution to your problems in Adegenet, but I can offer a work-around in the mean time. 
+
+The software HYBRIDLAB by Nielsen et al 2006 can simulate purebred and hybrid genotypes and has been used to distinguish hybrid genotypes in fishes and trees (see references below). I think what you?re attempting is exactly what we did for the nemo story. I don?t think HYBRIDLAB is still supported but I can send you a copy. 
+
+Adegenet would of course, be a much more elegant and flexible solution, though HYBRIDLAB certainly does the job. I would be keen to hear of the solution to your problems.
+
+Regards, 
+
+Hugo
+
+
+	Simpson SD, Harrison HB, Claereboudt MR, Planes S (2014) Long-Distance Dispersal via Ocean Currents Connects Omani Clownfish Populations throughout Entire Species Range (JA Craft, Ed,). PLoS ONE, 9, e107610.
+	Harrison HB, Feldheim KA, Jones GP et al. (2014) Validation of microsatellite multiplexes for parentage analysis and species discrimination in two hybridizing species of coral reef fish (Plectropomus spp., Serranidae). Ecology and Evolution, 4, 2046?2057.
+	Burgarella C, Lorenzo Z, Jabbour-Zahab R et al. (2009) Detection of hybrids in nature: application to oaks (Quercus suber and Q. ilex). HEREDITY, 102, 442?452.
+	Guichoux E, Lagache L, Wagner S, L?ger P, Petit RJ (2011) Two highly validated multiplexes (12-plex and 8-plex) for species delimitation and parentage analysis in oaks (Quercus spp.). MOLECULAR ECOLOGY RESOURCES, 11, 578?585.
+	NIELSEN EE, BACH LA, KOTLICKI P (2006) hybridlab (version 1.0): a program for generating simulated hybrids from population samples. MOLECULAR ECOLOGY NOTES, 6, 971?973.
+
+
+Hugo B. Harrison, PhD
+Research Fellow
+ARC Centre of Excellence for Coral Reef Studies		
+James Cook University							
+Townsville, QLD 4811							
+Australia									
+
+Ph: +61 (0) 747816358 
+Mob: +61 (0) 499523939
+hugo.harrison at my.jcu.edu.au <mailto:hugo.harrison at my.jcu.edu.au>
+ResearcherID: F-6830-2012 <http://www.researcherid.com/rid/F-6830-2012>
+www.coralcoe.org.au <http://www.coralcoe.org.au/researchers/dr-hugo-b-harrison-postdoctoral-research-fellow>
+
+
+> On 23 Feb 2015, at 8:52 pm, Benjamin Alric <benjamin.alric at imbe.fr> wrote:
+> 
+> Dear all,
+> 
+> I would like simulated hybridization between two population to assess
+> the power of admixture analysis (STRUCTURE).
+> I built two subsamples consisting of 30 indivudals showing the highest q
+> values for the cluster1 or cluster2 of previously STRUCTURE analysis.
+> From these two subsamples I would like simulated hybridization (using
+> hybridize function of the adegenet R package) to assess the power of
+> admixture analysis.
+> For each population, genotype were determined through 8 microsatellite
+> loci for wichi one allele is code by a character string of 3 numbers.
+> Here you are the command:
+> 
+> Dg<-import2genind("B_Dg.gtx",package="adegenet")
+> Dl<-import2genind("B_Dl.gtx",package="adegenet")
+> Dg<- #####################
+>   ### Genind object ###
+>   #####################
+> - genotypes of individuals -
+> 
+> S4 class:  genind
+> @call: read.genetix(file = file, missing = missing, quiet = quiet)
+> 
+> @tab:  30 x 33 matrix of genotypes
+> 
+> @ind.names: vector of  30 individual names
+> @loc.names: vector of  8 locus names
+> @loc.nall: number of alleles per locus
+> @loc.fac: locus factor for the  33 columns of @tab
+> @all.names: list of  8 components yielding allele names for each locus
+> @ploidy:  2
+> @type:  codom
+> 
+> Optional contents:
+> @pop:  factor giving the population of each individual
+> @pop.names:  factor giving the population of each individual
+> 
+> @other: - empty -
+> 
+> Dl<-#####################
+>   ### Genind object ###
+>   #####################
+> - genotypes of individuals -
+> 
+> S4 class:  genind
+> @call: read.genetix(file = file, missing = missing, quiet = quiet)
+> 
+> @tab:  30 x 33 matrix of genotypes
+> 
+> @ind.names: vector of  30 individual names
+> @loc.names: vector of  8 locus names
+> @loc.nall: number of alleles per locus
+> @loc.fac: locus factor for the  33 columns of @tab
+> @all.names: list of  8 components yielding allele names for each locus
+> @ploidy:  2
+> @type:  codom
+> 
+> Optional contents:
+> @pop:  factor giving the population of each individual
+> @pop.names:  factor giving the population of each individual
+> 
+> @other: - empty -
+> 
+> hybrdis<-hybridize(Dg,Dl,n=100,pop="Hybrids")
+> g1<-genind2df(hybrids)
+> g1<-
+>         pop       10_14      Dp512     SwiD1            SwiD10
+> SwiD12    SwiD14    SwiD15    SwiD5
+> h001 Hybrids 226226    129         131143          194201 112119
+> 181185   093098    161161165
+> h002 Hybrids 220226    129         126138          200201    112 175
+> 181181   089098    151153165
+> h003 Hybrids 220226    129         126134143    200 123123    185185
+> 093098    153163165
+> h004 Hybrids 220226    129         126131          200201 119123
+> 185185   093098    153153165
+> h005 Hybrids 220226    129         126136136    199 123123    181185
+> 089098    153161165
+> h006 Hybrids 226226    129129   136136          194 112112    181181
+> 089098    153161165
+> h007 Hybrids 220226    129133   134143          194          119 175
+> 181185   093          151153163165
+> ....
+> 
+> We would expect to see two allele for each locus but it is not the case
+> for all microsatellite loci.
+> Somebody know why and where does the problem?
+> 
+> I checked the example dataset "microbov" for hybridize function, and I
+> see that temp$Salers and temp$Zebu (used to perform simulated
+> hybridization with hybridize function) presented the same count of
+> alleles at each locus.
+> When I check now my two datasets, I see that there are not the same
+> number of allele between the two populations. such a difference in the
+> number of allele between the two population could be the origne of the
+> problem...
+> 
+> Dg at all.names
+> $L1
+>    1     2     3
+> "220" "226" "231"
+> 
+> $L2
+>    1     2     3
+> "125" "129" "133"
+> 
+> $L3
+>    1     2     3     4     5     6
+> "126" "131" "134" "136" "138" "143"
+> 
+> Dl at all.names
+> $L1
+>    1     2     3
+> "223" "226" "229"
+> 
+> $L2
+>    1     2     3     4     5     6
+> "129" "133" "136" "137" "138" "139"
+> 
+> $L3
+>    1     2     3     4     5     6     7
+> "118" "134" "136" "138" "145" "150" "152"
+> 
+> Thank in advence for your help.
+> 
+> Sincerely yours,
+> 
+> Benjamin ALRIC
+> 
+> 
+> 
+> -- 
+> 
+> -- 
+> Benjamin Alric,PhD
+> UMR 7263-CNRS / 237-IRD - Institut M?diterran?en de Biodiversit? et d'Ecologie (IMBE)
+> Equipe "Ecologie des Eaux Continentales"
+> Aix-Marseille Universit?, Facult? des Sciences, site de St J?r?me
+> 52 Avenue Escadrille Normandie Ni?men
+> 13397 Marseille cedex 20 - France
+> T?l: +33 (0)4 13 59 46 46
+> 
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+
+
+
+
+	[[alternative HTML version deleted]]
+
+

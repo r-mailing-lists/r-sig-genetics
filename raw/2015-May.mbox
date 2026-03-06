@@ -1,0 +1,208 @@
+From si3 at sanger.ac.uk  Fri May 29 16:07:37 2015
+From: si3 at sanger.ac.uk (Stefano Iantorno)
+Date: Fri, 29 May 2015 14:07:37 +0000
+Subject: [R-sig-genetics] Reading large VCF into genind
+Message-ID: <D18E3136.8298%si3@sanger.ac.uk>
+
+Hello
+
+I have a VCF file containing 306596 biallelic SNP calls from 18 individuals. I was able to read the entire file as a ?loci? object but when I try to convert it into a genind object I run into memory issues.
+
+How can I circumvent this problem? Should I break the single ?loci? object into smaller subsets with only 50 000 SNPs or so, and convert each one into a genind object separately with loci2genind? How do I combine the resulting genind objects?
+
+- Stefano
+
+
+
+-- 
+ The Wellcome Trust Sanger Institute is operated by Genome Research 
+ Limited, a charity registered in England with number 1021457 and a 
+ company registered in England with number 2742969, whose registered 
+ office is 215 Euston Road, London, NW1 2BE. 
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From t.jombart at imperial.ac.uk  Fri May 29 16:30:59 2015
+From: t.jombart at imperial.ac.uk (Jombart, Thibaut)
+Date: Fri, 29 May 2015 14:30:59 +0000
+Subject: [R-sig-genetics] Reading large VCF into genind
+In-Reply-To: <D18E3136.8298%si3@sanger.ac.uk>
+References: <D18E3136.8298%si3@sanger.ac.uk>
+Message-ID: <2CB2DA8E426F3541AB1907F98ABA6570ABF30230@icexch-m1.ic.ac.uk>
+
+
+Dear Stefano, 
+
+the genind class has not been designed for such a large number of SNPs. Substantial improvements have been made in adegenet 2.0: 
+https://github.com/thibautjombart/adegenet
+
+but for this number of loci you may want to retain only biallelic SNPs and use genlight objects instead. These are documented in the 'adegenet-genomics' tutorial. We still need to update this one for adegenet 2.0, but most of it should still be relevant (this class has not changed much).
+
+Best
+Thibaut
+
+==============================
+Dr Thibaut Jombart
+MRC Centre for Outbreak Analysis and Modelling
+Department of Infectious Disease Epidemiology
+Imperial College - School of Public Health
+Norfolk Place, London W2 1PG, UK
+Tel. : 0044 (0)20 7594 3658
+http://sites.google.com/site/thibautjombart/
+http://sites.google.com/site/therepiproject/
+http://adegenet.r-forge.r-project.org/
+Twitter: @thibautjombart
+
+
+
+________________________________________
+From: R-sig-genetics [r-sig-genetics-bounces at r-project.org] on behalf of Stefano Iantorno [si3 at sanger.ac.uk]
+Sent: 29 May 2015 15:07
+To: r-sig-genetics at r-project.org
+Subject: [R-sig-genetics] Reading large VCF into genind
+
+Hello
+
+I have a VCF file containing 306596 biallelic SNP calls from 18 individuals. I was able to read the entire file as a ?loci? object but when I try to convert it into a genind object I run into memory issues.
+
+How can I circumvent this problem? Should I break the single ?loci? object into smaller subsets with only 50 000 SNPs or so, and convert each one into a genind object separately with loci2genind? How do I combine the resulting genind objects?
+
+- Stefano
+
+
+
+--
+ The Wellcome Trust Sanger Institute is operated by Genome Research
+ Limited, a charity registered in England with number 1021457 and a
+ company registered in England with number 2742969, whose registered
+ office is 215 Euston Road, London, NW1 2BE.
+
+
+
+        [[alternative HTML version deleted]]
+
+
+From sven.templer at gmail.com  Fri May 29 16:31:52 2015
+From: sven.templer at gmail.com (Sven E. Templer)
+Date: Fri, 29 May 2015 16:31:52 +0200
+Subject: [R-sig-genetics] Reading large VCF into genind
+In-Reply-To: <D18E3136.8298%si3@sanger.ac.uk>
+References: <D18E3136.8298%si3@sanger.ac.uk>
+Message-ID: <CAHuTOvqRp1SyrLS7zpjm2eatbgZrgdyivqw_5Y48B1vr9-d2tw@mail.gmail.com>
+
+Dear Stefano,
+
+could you describe which package:::function(s) you used (providing code
+helps to help!)?
+
+You could split the vcf file before reading it into the R workspace by
+chromosomes (use GNU grep, for example), then extract data for single files
+(e.g. frequencies, subset of SNPs, etc.). Export this data, and start a new
+session which loads only the processed information.
+
+Best,
+Sven
+
+
+
+On 29 May 2015 at 16:07, Stefano Iantorno <si3 at sanger.ac.uk> wrote:
+
+> Hello
+>
+> I have a VCF file containing 306596 biallelic SNP calls from 18
+> individuals. I was able to read the entire file as a ?loci? object but when
+> I try to convert it into a genind object I run into memory issues.
+>
+> How can I circumvent this problem? Should I break the single ?loci? object
+> into smaller subsets with only 50 000 SNPs or so, and convert each one into
+> a genind object separately with loci2genind? How do I combine the resulting
+> genind objects?
+>
+> - Stefano
+>
+>
+>
+> --
+>  The Wellcome Trust Sanger Institute is operated by Genome Research
+>  Limited, a charity registered in England with number 1021457 and a
+>  company registered in England with number 2742969, whose registered
+>  office is 215 Euston Road, London, NW1 2BE.
+>
+>
+>
+>         [[alternative HTML version deleted]]
+>
+>
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>
+>
+
+	[[alternative HTML version deleted]]
+
+
+From crypticlineage at gmail.com  Fri May 29 16:32:52 2015
+From: crypticlineage at gmail.com (Vikram Chhatre)
+Date: Fri, 29 May 2015 10:32:52 -0400
+Subject: [R-sig-genetics] Reading large VCF into genind
+In-Reply-To: <D18E3136.8298%si3@sanger.ac.uk>
+References: <D18E3136.8298%si3@sanger.ac.uk>
+Message-ID: <CAJZnH0ndam3pwqp_f7YmDW96ipEpP82jzw57Q0VsnS-na22NyA@mail.gmail.com>
+
+Hi Stefano,
+
+That's certainly a large data set, so you are bound to run into memory
+issues.  But I have had luck reading a data set of about 150K SNP calls for
+more than 500 individuals as a genind object from a structure file.  It
+does take long though (close to 18 hours or so).
+
+PGDspider will convert VCF to Structure on any size data set.  It's speed
+is dependent upon how much memory  you allow it.
+
+How much RAM do you have?
+
+V
+
+On Fri, May 29, 2015 at 10:07 AM, Stefano Iantorno <si3 at sanger.ac.uk> wrote:
+
+> Hello
+>
+> I have a VCF file containing 306596 biallelic SNP calls from 18
+> individuals. I was able to read the entire file as a ?loci? object but when
+> I try to convert it into a genind object I run into memory issues.
+>
+> How can I circumvent this problem? Should I break the single ?loci? object
+> into smaller subsets with only 50 000 SNPs or so, and convert each one into
+> a genind object separately with loci2genind? How do I combine the resulting
+> genind objects?
+>
+> - Stefano
+>
+>
+>
+> --
+>  The Wellcome Trust Sanger Institute is operated by Genome Research
+>  Limited, a charity registered in England with number 1021457 and a
+>  company registered in England with number 2742969, whose registered
+>  office is 215 Euston Road, London, NW1 2BE.
+>
+>
+>
+>         [[alternative HTML version deleted]]
+>
+>
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>
+>
+
+	[[alternative HTML version deleted]]
+
+

@@ -1,0 +1,150 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2017-04",
+  "messages": [
+    {
+      "id": "msg-21052fc2fa0c",
+      "message_id": "<CAEGfAaNOWLmbR=qnJFLpNVJSZcqt2rK8oCzT3yKT1-a3gD78Cg@mail.gmail.com>",
+      "from_name": "Felipe Hernández",
+      "from_email_hash": "5fb9eed2b34139cc23d008f174c5fa3b61604fa1b880f60ee150ba10fb63d4c7",
+      "date": "2017-04-03T09:57:17-04:00",
+      "subject": "[R-sig-genetics] LD calculation question",
+      "subject_clean": "LD calculation question",
+      "in_reply_to": "<CAEGfAaPPrRdr1BDrt=HDM3erfiLvdP8mOgvbgS1rrvc9igsrfw@mail.gmail.com>",
+      "references": [
+        "<CAEGfAaPPrRdr1BDrt=HDM3erfiLvdP8mOgvbgS1rrvc9igsrfw@mail.gmail.com>"
+      ],
+      "body_plain": "Hi everyone,\n\nI have been using the pegas package (function LD2) to calculate LD among a\nset of loci (52 loci) across 29 populations. I would like to do the same,\nbut within each population this time. However, because all the multiple\ncomparisons between loci pairs (considering the number of loci and\npopulations), that would take a lot of time. Any suggestion about how to\nmake it faster? Sorry if the question is really basic, but I would\nappreciate any helpful advice, thanks!\n\nBest,\nFelipe\n\n2017-03-30 15:47 GMT-04:00 Felipe Hern?ndez <fhernandeu at uc.cl>:\n\n> Hi everyone,\n>\n> I have been using the pegas package (function LD2) to calculate LD among a\n> set of loci (52 loci) across 29 populations. I would like to do the same,\n> but within each population this time. However, because all the multiple\n> comparisons between loci pairs (considering the number of loci and\n> populations), that would take a lot of time. Any suggestion about how to\n> make it faster? Sorry if the question is really basic, but I would\n> appreciate any helpful advice, thanks!\n>\n> Best,\n> Felipe\n>\n> --\n> Felipe Hern?ndez\n> M?dico Veterinario (DVM), MSc.\n> PhD. Candidate\n> Interdisciplinary Ecology Program\n> School of Natural Resources and Environment\n> Wildlife Ecology and Conservation Department\n> University of Florida\n>\n\n\n\n-- \nFelipe Hern?ndez\nM?dico Veterinario (DVM), MSc.\nPhD. Candidate\nInterdisciplinary Ecology Program\nSchool of Natural Resources and Environment\nWildlife Ecology and Conservation Department\nUniversity of Florida\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone,\n\nI have been using the pegas package (function LD2) to calculate LD among a\nset of loci (52 loci) across 29 populations. I would like to do the same,\nbut within each population this time.",
+      "thread_id": "thread-21052fc2fa0c",
+      "thread_depth": 0,
+      "month": "2017-04"
+    },
+    {
+      "id": "msg-0e8cec2874c5",
+      "message_id": "<c31558b6-4d44-59f9-d9c4-d514e037829a@ird.fr>",
+      "from_name": "Emmanuel Paradis",
+      "from_email_hash": "4c085ad631493003895b8b2c8749a214fe7066719f788b94c2907a97cf0bf96d",
+      "date": "2017-04-04T10:17:18+02:00",
+      "subject": "[R-sig-genetics] LD calculation question",
+      "subject_clean": "LD calculation question",
+      "in_reply_to": "<CAEGfAaPPrRdr1BDrt=HDM3erfiLvdP8mOgvbgS1rrvc9igsrfw@mail.gmail.com>",
+      "references": [
+        "<CAEGfAaPPrRdr1BDrt=HDM3erfiLvdP8mOgvbgS1rrvc9igsrfw@mail.gmail.com>"
+      ],
+      "body_plain": "Hi Felipe,\n\nThe only thing I can think of is that, if all loci are biallelic (eg, \nSNPs), to use LDscan and LDmap. Otherwise, you'll have to do pairs by \npairs as you describe.\n\nBest,\n\nEmmanuel\n\nLe 30/03/2017 ? 21:47, Felipe Hern?ndez a ?crit :\n> Hi everyone,\n>\n> I have been using the pegas package (function LD2) to calculate LD among a\n> set of loci (52 loci) across 29 populations. I would like to do the same,\n> but within each population this time. However, because all the multiple\n> comparisons between loci pairs (considering the number of loci and\n> populations), that would take a lot of time. Any suggestion about how to\n> make it faster? Sorry if the question is really basic, but I would\n> appreciate any helpful advice, thanks!\n>\n> Best,\n> Felipe\n>",
+      "body_snippet": "Hi Felipe,\n\nThe only thing I can think of is that, if all loci are biallelic (eg, \nSNPs), to use LDscan and LDmap. Otherwise, you'll have to do pairs by \npairs as you describe.\n\nBest,\n\nEmmanuel\n\nLe 30",
+      "thread_id": "thread-0e8cec2874c5",
+      "thread_depth": 0,
+      "month": "2017-04"
+    },
+    {
+      "id": "msg-0e8cec2874c5",
+      "message_id": "<c31558b6-4d44-59f9-d9c4-d514e037829a@ird.fr>",
+      "from_name": "Emmanuel Paradis",
+      "from_email_hash": "4c085ad631493003895b8b2c8749a214fe7066719f788b94c2907a97cf0bf96d",
+      "date": "2017-04-04T10:17:18+02:00",
+      "subject": "[R-sig-genetics] LD calculation question",
+      "subject_clean": "LD calculation question",
+      "in_reply_to": "<CAEGfAaPPrRdr1BDrt=HDM3erfiLvdP8mOgvbgS1rrvc9igsrfw@mail.gmail.com>",
+      "references": [
+        "<CAEGfAaPPrRdr1BDrt=HDM3erfiLvdP8mOgvbgS1rrvc9igsrfw@mail.gmail.com>"
+      ],
+      "body_plain": "Hi Felipe,\n\nThe only thing I can think of is that, if all loci are biallelic (eg, \nSNPs), to use LDscan and LDmap. Otherwise, you'll have to do pairs by \npairs as you describe.\n\nBest,\n\nEmmanuel\n\nLe 30/03/2017 ? 21:47, Felipe Hern?ndez a ?crit :\n> Hi everyone,\n>\n> I have been using the pegas package (function LD2) to calculate LD among a\n> set of loci (52 loci) across 29 populations. I would like to do the same,\n> but within each population this time. However, because all the multiple\n> comparisons between loci pairs (considering the number of loci and\n> populations), that would take a lot of time. Any suggestion about how to\n> make it faster? Sorry if the question is really basic, but I would\n> appreciate any helpful advice, thanks!\n>\n> Best,\n> Felipe\n>",
+      "body_snippet": "Hi Felipe,\n\nThe only thing I can think of is that, if all loci are biallelic (eg, \nSNPs), to use LDscan and LDmap. Otherwise, you'll have to do pairs by \npairs as you describe.\n\nBest,\n\nEmmanuel\n\nLe 30",
+      "thread_id": "thread-0e8cec2874c5",
+      "thread_depth": 0,
+      "month": "2017-04"
+    },
+    {
+      "id": "msg-afd2b6292d94",
+      "message_id": "<34c37bffff290166009f19f205115f53@prstatistics.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "8d85adc6b153d8e80093a9f8e89d7f46369fdd650fe394f7644a0e0697798998",
+      "date": "2017-04-11T15:16:47+01:00",
+      "subject": "[R-sig-genetics] PART FUNDED SCHOLARSHIPS - Coding, data management, and Shiny applications using RStudio for evolutionary biologists and ecologists - May 2017",
+      "subject_clean": "PART FUNDED SCHOLARSHIPS - Coding, data management, and Shiny applications using RStudio for evolutionary biologists and ecologists - May 2017",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "PR STATISTICS ARE PLEASED TO ANNOUNCE THAT THROUGH THEIR FUNDING SCHEME \nTHEY CAN OFFER 5 PART-FUNDED SCHOLARSHIPS FOR OUR UP-COMING COURSE\n\n?Coding, data management, and Shiny applications using RStudio for \nevolutionary biologists and ecologists (CDSR01)\"\n\nSCHOLARSHIPS CONTRIBUTE TOWARDS TUITION FEES AND ACCOMMODATION WITH 5 \n?ALL INCLUSIVE PLACES? AVAILABLE AT ?490.00 (Fees have been \nsubsidised by 35% from ?755.00).\n\nApplications should be sent to oliverhooker at prstatistics.com and contain\nthe following.\n1.\tFull name\n2.\tInstitute name\n3.\tPhD subject title or Post doc research questions\n4.\tDo you hold a funded position\n5.\t150 words why this course would be relevant to your research or how \nit would help.\n\nApplication deadline is Tuesday 17th April 2017\n\nWe still have ?normal? places available for anyone else interested.\n\nFull course details are given below\n\nhttp://www.prstatistics.com/course/coding-data-management-and-shiny-applications-using-rstudio-for-evolutionary-biologists-and-ecologists-cdsr01/\n\nThis course will run from 15th - 19th May at SCENE field station, \nScotland.\n\nThe course will introduce programming logic using the R syntax. The \nparticipants will be able to solve problems involving heterogeneous \nbiological datasets and the combined use of different statistical \npackages, so the advantages of learning programming skills can be \ndemonstrated. The RMarkdown syntax will be used to illustrate the \nadvantages of literate programming and the possibilities of code sharing \nand archiving. In the sequence, participants will learn how to design \nrelational databases (RDB) which can be used to manage and analyse large \nbiological datasets. They will learn the basics of the SQL language and \nhow to use it with R with the package {RMySQL}.\n\nTo finalise, they will use the Shiny tool (R Studio) to build \ninteractive applications to analyse and display data depending on user \ninputs. Throughout the course we will emphasise data, code and analyses \nbest practices that could foster reproducibility and transparency in \nscience, and the long-term availability of scientific data. At the end \nof the course the participants are expected to be able to develop small, \ntailored applications, to read and analyse datasets using a variety of \nstatistics tools.\n\nMonday 15th\nModule 1: Programming Logic\nR syntax (Variable types ? operators ? conditionals ? loops ? \nwriting functions)\nProgramming and commenting code with RMarkdown\n\nTuesday 16th\nModule 2: Data structures\nR syntax (arrays, lists, data frames, matrices)\nData wrangling with {dplyr} and {tidyr}; the {ff} package and data \ntables for large datasets (e.g. transcriptomics; whole-genome data)\nBest practices of data acquisition, organization and storage\n\nWednesday 17th\nModule 3: Relational databases\nIntroduction to the SQL language and MySQL (open-source RDB freeware)\nAccessing and analysing large datasets using the package {RMySQL}\nAs an example, we will combine DNA sequence datasets with IUCN Red List \ndata illustrate the use of RDB to biological datasets.\n\nThursday 18th\nModule 4: Introduction to Shiny (R Studio)\nShiny ? Server and user interface commands\nAs an example we will use Shiny to develop a small application where \nusers can select different species and genes and run/visualize \nphylogenetic trees using {ape} running in the background.\n\nFriday 19th\nModule 5: Wrapping-up\nDevelopment and presentation of individual projects combining data \nwrangling skills and user inputs using Shiny (R Studio)\n\nPlease feel free to distribute this material anywhere you feel is \nsuitable.\n\nUpcoming courses - email for details oliverhooker at prstatistics.com\n\n1.\tADVANCING IN STATISTICAL MODELLING FOR EVOLUTIONARY BIOLOGISTS AND \nECOLOGISTS USING R #ADVR\n17th ? 21st April 2017, Scotland, Dr. Luc Bussiere, Dr. Ane Timenes \nLaugen\nhttp://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr06/\n\n2.\tCODING, DATA MANAGEMENT AND SHINY APPLICATIONS USING RSTUDIO FOR \nEVOLUTIONARY BIOLOGISTS AND ECOLOGISTS #CDSR\n15th - 19th May, Scotland Dr. Aline Quadros\nhttp://www.prstatistics.com/course/coding-data-management-and-shiny-applications-using-rstudio-for-evolutionary-biologists-and-ecologists-cdsr01/\n\n3.\tGEOMETRIC MORPHOMETRICS USING R #GMMR\n5th ? 9th June 2017, Scotland, Prof. Dean Adams, Prof. Michael \nCollyer, Dr. Antigoni Kaliontzopoulou\nhttp://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr01/\n\n4.\tMULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA #MASE\n19th ? 23rd June, Canada, Prof. Subhash Lele, Dr. Peter Solymos\nhttp://www.prstatistics.com/course/multivariate-analysis-of-spatial-ecological-data-using-r-mase01/\n\n5.\tTIME SERIES MODELS FOR ECOLOGISTS USING R (JUNE 2017 #TSME\n26th ? 30th June, Canada, Dr. Andrew Parnell\nhttp://www.prstatistics.com/course/time-series-models-foe-ecologists-tsme01/\n\n6.\tBIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS #BIGB\n3rd ? 7th July 2017, Scotland, Dr. Nic Blouin, Dr. Ian Misner\nhttp://www.prstatistics.com/course/bioinformatics-for-geneticists-and-biologists-bigb02/\n\n7.\tMETA-ANALYSIS IN ECOLOGY, EVOLUTION AND ENVIRONMENTAL SCIENCES \n#METR01\n24th ? 28th July, Scotland, Prof. Julia Koricheva, Prof. Elena \nKulinskaya\nhttp://www.prstatistics.com/course/meta-analysis-in-ecology-evolution-and-environmental-sciences-metr01/\n\n8.\tSPATIAL ANALYSIS OF ECOLOGICAL DATA USING R #SPAE\n7th ? 12th August 2017, Scotland, Prof. Jason Matthiopoulos, Dr. James \nGrecian\nhttp://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/\n\n9.\tECOLOGICAL NICHE MODELLING USING R #ENMR\n16th ? 20th October 2017, Scotland, Dr. Neftali Sillero\nhttp://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr01/\n\n10.\tINTRODUCTION TO BIOINFORMATICS USING LINUX #IBUL\n16th ? 20th October, Scotland, Dr. Martin Jones\nhttp://www.prstatistics.com/course/introduction-to-bioinformatics-using-linux-ibul02/\n\n11.\tGENETIC DATA ANALYSIS AND EXPLORATION USING R #GDAR\n23rd ? 27th October, Wales, Dr. Thibaut Jombart, Zhian Kavar\nhttp://www.prstatistics.com/course/genetic-data-analysis-exploration-using-r-gdar03/\n\n12.\tSTRUCTURAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY \nBIOLOGISTS USING R #SEMR\n23rd ? 27th October, Wales, Prof Jarrett Byrnes, Dr. Jon Lefcheck\nhttp://www.prstatistics.com/course/structural-equation-modelling-for-ecologists-and-evolutionary-biologists-semr01/\n\n13.\tLANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R #LNDG\n6th ? 10th November, Wales, Prof. Rodney Dyer\nhttp://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg02/\n\n14.\tAPPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS #ABME\n20th - 25th November 2017, Scotland, Prof. Jason Matthiopoulos, Dr. Matt \nDenwood\nhttp://www.prstatistics.com/course/applied-bayesian-modelling-ecologists-epidemiologists-abme03/\n\n15.\tINTRODUCTION REMOTE SENSING AND GIS APPLICATIONS FOR ECOLOGISTS \n#IRMS\n27th Nov ? 1st Dec, Wales, Dr Duccio Rocchini, Dr. Luca Delucchi\nhttp://www.prstatistics.com/course/introduction-to-remote-sensing-and-gis-for-ecological-applications-irms01/\n\n16.\tINTRODUCTION TO PYTHON FOR BIOLOGISTS #IPYB\n27th Nov ? 1st Dec, Wales, Dr. Martin Jones\nhttp://www.prstatistics.com/course/introduction-to-python-for-biologists-ipyb04/\n\n17.\tDATA VISUALISATION AND MANIPULATION USING PYTHON #DVMP\n11th ? 15th December 2017, Wales, Dr. Martin Jones\nhttp://www.prstatistics.com/course/data-visualisation-and-manipulation-using-python-dvmp01/\n\n18.\tADVANCING IN STATISTICAL MODELLING USING R #ADVR\n11th ? 15th December 2017, Wales, Dr. Luc Bussiere, Dr. Tom Houslay, \nDr. Ane Timenes Laugen,\nhttp://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr07/\n\n19.\tINTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING #IBHM\n29th Jan ? 2nd Feb 2018, Scotland, Dr. Andrew Parnell\nhttp://www.prstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm02/\n\n20.\tANIMAL MOVEMENT ECOLOGY (February 2018) #ANME\n19th - 23rd February 2018, Wales, Dr Luca Borger, Dr. John Fieberg\n\n21.\tAQUATIC TELEMENTRY DATA ANALYSIS USIR R (TBC) #ATDAR\n??th - ??th February 2018, Wales,\n\n22.\tFUNCTIONAL ECOLOGY FROM ORGANISM TO ECOSYSTEM: THEORY AND \nCOMPUTATION #FEER\n5th ? 9th March 2018, Scotland, Dr. Francesco de Bello, Dr. Lars \nG?tzenberger, Dr. Carlos Carmona\nhttp://www.prstatistics.com/course/functional-ecology-from-organism-to-ecosystem-theory-and-computation-feer01/\n\n23.\tADVANCES IN MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA USING R \n#MVSP\nProf. Pierre Legendre, Dr. Olivier Gauthier - Date and location to be \nconfirmed\n\n24.\tSTABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR #SIMM\nDr. Andrew Parnell, Dr. Andrew Jackson ? Date and location to be \nconfirmed\n\n25.\tNETWORK ANAYLSIS FOR ECOLOGISTS USING R #NTWA\nDr. Marco Scotti - Date and location to be confirmed\n\n26.\tMODEL BASE MULTIVARIATE ANALYSIS OF ABUNDANCE DATA USING R #MBMV0\nProf David Warton - Date and location to be confirmed\n\n27.\tADVANCED PYTHON FOR BIOLOGISTS #APYB\nDr. Martin Jones - Date and location to be confirmed\n\n28.\tPHYLOGENETIC DATA ANALYSIS USING R (TBC) #PHYL\nDr. Emmanuel Paradis ? Date and location to be confirmed\n\n-- \nOliver Hooker PhD.\nPR statistics\n\n2017 publications -\n\nEcosystem size predicts eco-morphological variability in post-glacial \ndiversification. Ecology and Evolution. In press.\n\nThe physiological costs of prey switching reinforce foraging \nspecialization. Journal of animal ecology.\n\nprstatistics.com\nfacebook.com/prstatistics/\ntwitter.com/PRstatistics\ngroups.google.com/d/forum/pr-statistics-post-course-forum\nprstatistics.com/organiser/oliver-hooker/\n\n3/1, 128 Brunswick Street\nGlasgow\nG1 1TF\n\n+44 (0) 7966500340",
+      "body_snippet": "PR STATISTICS ARE PLEASED TO ANNOUNCE THAT THROUGH THEIR FUNDING SCHEME \nTHEY CAN OFFER 5 PART-FUNDED SCHOLARSHIPS FOR OUR UP-COMING COURSE\n\n?Coding, data management, and Shiny applications using RStu",
+      "thread_id": "thread-afd2b6292d94",
+      "thread_depth": 0,
+      "month": "2017-04"
+    },
+    {
+      "id": "msg-4bd0c43fc201",
+      "message_id": "<339854e4a603e79cc1ea25ac1a78e6bc@prstatistics.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "8d85adc6b153d8e80093a9f8e89d7f46369fdd650fe394f7644a0e0697798998",
+      "date": "2017-04-24T17:55:17+01:00",
+      "subject": "[R-sig-genetics] SpatialAnalysisOfEcologicalDataUsingR_JasonMatthiopoulos_UK_7th-12thAug",
+      "subject_clean": "SpatialAnalysisOfEcologicalDataUsingR_JasonMatthiopoulos_UK_7th-12thAug",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "'Spatial analysis of ecological data using R'\n\nDelivered by Prof. Jason Matthiopoulos, Dr. James Grecian\n\nhttp://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/\n\nThis course will run from 7th ? 12th August 2017 at SCENE field \nstation, Loch Lomond national park, Scotland\n\nThe course will cover the concepts and R tools that can be used to \nanalyse spatial data in ecology covering elementary and advanced spatial \nanalysis techniques applicable to both plants and animals. We will \ninvestigate analyses appropriate to transect (e.g. line surveys, \ntrapping arrays), grid (e.g. occupancy surveys) and point data (e.g. \ntelemetry). The focal questions will be on deriving species \ndistributions, determining their environmental drivers and quantifying \ndifferent types of associated uncertainty. Novel methodology for \ngenerating predictions will be introduced. We will also address the \nchallenges of applying the results of these methods to wildlife \nconservation and resource management and communicate the findings to \nnon-experts.\n\nCourse content is as follows\n\nDay 1: Elementary concepts\nModule 1 Introductory lectures and practical; this will cover the key \nquestions in spatial ecology, the main types of data on species \ndistributions, concepts and challenges and different types of \nenvironmental data, concepts and challenges; useful concepts from \nstatistics; Generalised Linear Models\nModule 2 GIS tools in R: Types and structure of spatial objects in R, \ngenerating and manipulating spatial objects,\nprojections and transformations, cropping and masking spatial objects, \nextracting covariate data and other simple\nGIS operations in R, optionally plotting simple maps\n\nDay 2: Overview of basic analyses\nModule 3 Density estimation, Spatial autocorrelation, Smoothing, Kernel \nSmoothers, Kriging, Trend-fitting (linear, generalised linear, \ngeneralised additive models)\nModule 4 Habitat preference, Resource selection functions, MaxEnt: \nWhat?s it all about? Overview and caveats related to Niche models\n\nDay 3: Challenging problems\nModule 5 Analysing grid data, Poisson processes, Occupancy models, \nUse-availability designs\nModule 6 Analysing telemetry data, Presence-only data, Spatial and \nserial autocorrelation, Partitioning variation by\nmixed effects models\n\nDay 4: Challenging problems\nModule 7 Analysing transect data, Detection functions for point and line \ntransects, Using covariates in transect models. Afternoon for catch up \nand/or excursion\n\nDay 5: Challenging problems\nModule 8 Advanced methods, Generalised Estimation Equations for \ndifficult survey designs, Generalised additive\nmodels for habitat preference, Dealing with boundary effects using soap \nsmoothers, Spatial point processes with INLA\n\nDay 6: Delivering advice\nModule 9 Prediction, Validation by resampling, Generalised Functional \nResponses for species distribution, Quantifying uncertainty, Dealing \nwith the effects of population density\nModule 10 Applications, designing protected areas, thinking about \ncritical habitat, Representing uncertainty\n\nPlease email any inquiries to oliverhooker at prstatistics.com or visit our \nwebsite www.prstatistics.com\n\nPlease feel free to distribute this material anywhere you feel is \nsuitable\n\n\n1.\t1.\tADVANCING IN STATISTICAL MODELLING FOR EVOLUTIONARY BIOLOGISTS AND \nECOLOGISTS USING R #ADVR\n17th ? 21st April 2017, Scotland, Dr. Luc Bussiere, Dr. Ane Timenes \nLaugen\nhttp://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr06/\n\n2.\tMULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA #MASE\n19th ? 23rd June, Canada, Prof. Subhash Lele, Dr. Peter Solymos\nhttp://www.prstatistics.com/course/multivariate-analysis-of-spatial-ecological-data-using-r-mase01/\n\n3.\tTIME SERIES MODELS FOR ECOLOGISTS USING R (JUNE 2017 #TSME\n26th ? 30th June, Canada, Dr. Andrew Parnell\nhttp://www.prstatistics.com/course/time-series-models-foe-ecologists-tsme01/\n\n4.\tMETA-ANALYSIS IN ECOLOGY, EVOLUTION AND ENVIRONMENTAL SCIENCES \n#METR01\n24th ? 28th July, Scotland, Prof. Julia Koricheva, Prof. Elena \nKulinskaya\nhttp://www.prstatistics.com/course/meta-analysis-in-ecology-evolution-and-environmental-sciences-metr01/\n\n5.\tSPATIAL ANALYSIS OF ECOLOGICAL DATA USING R #SPAE\n7th ? 12th August 2017, Scotland, Prof. Jason Matthiopoulos, Dr. James \nGrecian\nhttp://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/\n\n6.\tECOLOGICAL NICHE MODELLING USING R #ENMR\n16th ? 20th October 2017, Scotland, Dr. Neftali Sillero\nhttp://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr01/\n\n7.\tGENETIC DATA ANALYSIS AND EXPLORATION USING R #GDAR\n23rd ? 27th October, Wales, Dr. Thibaut Jombart, Zhian Kavar\nhttp://www.prstatistics.com/course/genetic-data-analysis-exploration-using-r-gdar03/\n\n8.\tSTRUCTURAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY \nBIOLOGISTS USING R #SEMR\n23rd ? 27th October, Wales, Prof Jarrett Byrnes, Dr. Jon Lefcheck\nhttp://www.prstatistics.com/course/structural-equation-modelling-for-ecologists-and-evolutionary-biologists-semr01/\n\n9.\tLANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R #LNDG\n6th ? 10th November, Wales, Prof. Rodney Dyer\nhttp://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg02/\n\n10.\tAPPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS #ABME\n20th - 25th November 2017, Scotland, Prof. Jason Matthiopoulos, Dr. Matt \nDenwood\nhttp://www.prstatistics.com/course/applied-bayesian-modelling-ecologists-epidemiologists-abme03/\n\n11.\tINTRODUCTION REMOTE SENSING AND GIS APPLICATIONS FOR ECOLOGISTS \n#IRMS\n27th Nov ? 1st Dec, Wales, Dr Duccio Rocchini, Dr. Luca Delucchi\nhttp://www.prstatistics.com/course/introduction-to-remote-sensing-and-gis-for-ecological-applications-irms01/\n\n12.\tADVANCING IN STATISTICAL MODELLING USING R #ADVR\n11th ? 15th December 2017, Wales, Dr. Luc Bussiere, Dr. Tom Houslay, \nDr. Ane Timenes Laugen,\nhttp://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr07/\n\n13.\tINTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING #IBHM\n29th Jan ? 2nd Feb 2018, Scotland, Dr. Andrew Parnell\nhttp://www.prstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm02/\n\n14.\tANIMAL MOVEMENT ECOLOGY (February 2018) #ANME\n19th ? 23rd February 2018, Wales, Dr Luca Borger, Dr. John Fieberg\n\n15.\tGEOMETRIC MORPHOMETRICS USING R #GMMR\n5th ? 9th June 2017, Scotland, Prof. Dean Adams, Prof. Michael \nCollyer, Dr. Antigoni Kaliontzopoulou\nhttp://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr01/\n\n16.\tFUNCTIONAL ECOLOGY FROM ORGANISM TO ECOSYSTEM: THEORY AND \nCOMPUTATION #FEER\n5th ? 9th March 2018, Scotland, Dr. Francesco de Bello, Dr. Lars \nG?tzenberger, Dr. Carlos Carmona\nhttp://www.prstatistics.com/course/functional-ecology-from-organism-to-ecosystem-theory-and-computation-feer01/\n\n17.\tADVANCES IN MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA USING R \n#MVSP\nProf. Pierre Legendre, Dr. Olivier Gauthier - Date and location to be \nconfirmed\n\n18.\tSTABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR #SIMM\nDr. Andrew Parnell, Dr. Andrew Jackson ? Date and location to be \nconfirmed\n\n19.\tNETWORK ANAYLSIS FOR ECOLOGISTS USING R #NTWA\nDr. Marco Scotti - Date and location to be confirmed\n\n20.\tMODEL BASE MULTIVARIATE ANALYSIS OF ABUNDANCE DATA USING R #MBMV0\nProf David Warton - Date and location to be confirmed\n\n21.\tPHYLOGENETIC DATA ANALYSIS USING R (TBC) #PHYL\nDr. Emmanuel Paradis ? Date and location to be confirmed\n\n\nOliver Hooker PhD.\nPR statistics\n\n2017 publications -\n\nEcosystem size predicts eco-morphological variability in post-glacial \ndiversification. Ecology and Evolution. In press.\n\nThe physiological costs of prey switching reinforce foraging \nspecialization. Journal of animal ecology.\n\nprstatistics.com\nfacebook.com/prstatistics/\ntwitter.com/PRstatistics\ngroups.google.com/d/forum/pr-statistics-post-course-forum\nprstatistics.com/organiser/oliver-hooker/\n\n3/1, 128 Brunswick Street\nGlasgow\nG1 1TF\n\n+44 (0) 7966500340",
+      "body_snippet": "'Spatial analysis of ecological data using R'\n\nDelivered by Prof. Jason Matthiopoulos, Dr. James Grecian\n\nhttp://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/\n\nThis cour",
+      "thread_id": "thread-4bd0c43fc201",
+      "thread_depth": 0,
+      "month": "2017-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-21052fc2fa0c",
+      "subject": "LD calculation question",
+      "message_count": 1,
+      "participants": [
+        "Felipe Hernández"
+      ],
+      "started": "2017-04-03T09:57:17-04:00",
+      "last_reply": "2017-04-03T09:57:17-04:00",
+      "root_message_id": "msg-21052fc2fa0c"
+    },
+    {
+      "id": "thread-0e8cec2874c5",
+      "subject": "LD calculation question",
+      "message_count": 1,
+      "participants": [
+        "Emmanuel Paradis"
+      ],
+      "started": "2017-04-04T10:17:18+02:00",
+      "last_reply": "2017-04-04T10:17:18+02:00",
+      "root_message_id": "msg-0e8cec2874c5"
+    },
+    {
+      "id": "thread-0e8cec2874c5",
+      "subject": "LD calculation question",
+      "message_count": 1,
+      "participants": [
+        "Emmanuel Paradis"
+      ],
+      "started": "2017-04-04T10:17:18+02:00",
+      "last_reply": "2017-04-04T10:17:18+02:00",
+      "root_message_id": "msg-0e8cec2874c5"
+    },
+    {
+      "id": "thread-afd2b6292d94",
+      "subject": "PART FUNDED SCHOLARSHIPS - Coding, data management, and Shiny applications using RStudio for evolutionary biologists and ecologists - May 2017",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2017-04-11T15:16:47+01:00",
+      "last_reply": "2017-04-11T15:16:47+01:00",
+      "root_message_id": "msg-afd2b6292d94"
+    },
+    {
+      "id": "thread-4bd0c43fc201",
+      "subject": "SpatialAnalysisOfEcologicalDataUsingR_JasonMatthiopoulos_UK_7th-12thAug",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2017-04-24T17:55:17+01:00",
+      "last_reply": "2017-04-24T17:55:17+01:00",
+      "root_message_id": "msg-4bd0c43fc201"
+    }
+  ]
+}

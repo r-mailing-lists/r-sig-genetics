@@ -1,0 +1,291 @@
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Tue Aug  8 13:11:43 2023
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Tue, 8 Aug 2023 12:11:43 +0100
+Subject: [R-sig-genetics] =?utf-8?q?ONLINE_COURSE_=E2=80=93_Machine_Learn?=
+	=?utf-8?q?ing_with_R_=28Intermediate_=E2=80=93_Advanced=29_=28MLIA?=
+	=?utf-8?b?MDEp?=
+Message-ID: <CAEsSYzwZ+77+qCV=+j0oNp8hP_XEhru+q2U6sZ_DtpbBpo0iRQ@mail.gmail.com>
+
+Not a genetic specific course but it might be of interest to some.
+
+ONLINE COURSE ? Machine Learning with R (Intermediate ? Advanced) (MLIA01)
+
+https://www.prstatistics.com/course/machine-learning-with-r-intermediate-advanced-mlia01/
+
+28th - 31st August 2023
+
+PLEASE FEEL FREE TO SHARE!
+COURSE DETAILS - This intensive 4-day course provides an in-depth
+exploration of machine learning using the popular open-source statistical
+software, R. Participants are assumed to have a basic working knowledge of
+regression and supervised learning techniques and so will gain a further
+understanding of various intermediate and advanced machine learning
+algorithms, how they work, and how to implement them using R?s ecosystem of
+packages. Real-world data sets will be used to offer hands-on experience
+and help participants understand the practical applications of the covered
+concepts.
+
+By the end of this course, students should be able to:
+
+Understand and implement advanced supervised learning techniques such as
+CNNs, RNNs, Transformer Models, and Bayesian Machine Learning methods.
+Understand and implement advanced unsupervised learning techniques
+including various clustering, dimension reduction, and anomaly detection
+methods.
+Apply these techniques to real-world datasets and interpret the results.
+Understand the underlying methods and assumptions/drawbacks of these
+techniques.
+
+Day 1: Classes from 09:30 to 17:30 - Deep Dive into Supervised Learning
+We begin with an introduction to Deep Learning in which we cover the basic
+concepts and its difference from traditional machine learning. We then
+extend to Convolutional Neural Networks (CNNs), exploring their
+architecture, their use in image and video processing, and their role in
+object detection and recognition. Finally we cover time series models
+through Recurrent Neural Networks (RNNs) and their application in
+sequential data analysis and natural language processing.
+In the afternoon sessions we implement CNNs and RNNs using real data sets
+R Packages used: keras, tensorflow
+
+
+Day 2: Classes from 09:30 to 17:30 - Advanced Supervised Learning Techniques
+On day 2 we cover Transformer models and Bayesian machine learning
+techniques. We start by understanding the transformer architecture, its
+self-attention mechanism, and its use in natural language processing tasks.
+We then cover the basics of Bayesian inference and explore its use in
+classification and regression tasks, and compare it to traditional machine
+learning methods.
+In the afternoon sessions the students can choose whether they explore
+either the Transformer or Bayesian methods further by following and
+extending some example R scripts.
+R Packages: keras, tensorflow, rstan, brms, BART
+
+Day 3: Classes from 09:30 to 17:30 - Unsupervised Learning ? Clustering and
+Dimension Reduction
+The third day will focus on advanced clustering techniques and dimension
+reduction. We start by exploring clustering techniques including
+hierarchical clustering, DBSCAN, and their use in segmentation. We then
+cover dimension reduction techniques; starting with PCA and extending to
+t-SNE and UMAP. We explain how these techniques work and explore their use
+in visualisation of data sets with high dimensions.
+In the afternoon session students will explore the use of these techniques
+through real-world data sets.
+R Packages: cluster, dbscan, factoextra, Rtsne, umap
+
+Day 4: Classes from 09:30 to 17:30
+Unsupervised Learning ? Anomaly Detection and Course Wrap-up
+On the final day we will focus on anomaly detection techniques and bringing
+together the topics covered throughout the course. We start with various
+anomaly detection techniques and demonstrate their use in e.g. fraud
+detection, network security, and health monitoring. We then provide a
+discussion session where we review the content of the course and talk about
+future steps in Machine Learning.
+In the afternoon students have the opportunity to work on their own data
+sets and ask questions of the course instructor.
+R Packages: anomalize, forecast, e1071
+
+Please email oliverhooker at prstatistics.com with any questions
+
+
+Upcoming courses
+
+ONLINE COURSE ? Reproducible and collaborative data analysis with R (RACR03)
+https://www.prstatistics.com/course/reproducible-and-collaborative-data-analysis-with-r-racr03/
+
+ONLINE COURSE ? Machine Learning with R (Intermediate ? Advanced) (MLIA01)
+https://www.prstatistics.com/course/machine-learning-with-r-intermediate-advanced-mlia01/
+
+ONLINE COURSE ? Species Distribution Modelling With Bayesian Statistics
+Using R (SDMB05)
+https://www.prstatistics.com/course/online-course-species-distribution-modelling-with-bayesian-statistics-using-r-sdmb05/
+
+ONLINE COURSE ? Advanced Ecological Niche Modelling (ENM/SDM) Using R
+(ANMR02)
+https://www.prstatistics.com/course/advanced-ecological-niche-modelling-enm-sdm-using-r-anmr02/
+
+ONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R
+With The VEGAN package (VGNR05)
+https://www.prstatistics.com/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr05/
+
+ONLINE COURSE ? Path analysis, structural equations and causal inference
+for biologists (PSCB01)
+https://www.prstatistics.com/course/path-analysis-structural-equations-and-causal-inference-for-biologists-pscb01/
+
+ONLINE COURSE ? Introduction to generalised linear models using R and
+Rstudio (IGLM06)
+https://www.prstatistics.com/course/introduction-to-generalised-linear-models-using-r-and-rstudio-iglm06/
+
+ONLINE COURSE ? Quantitative analysis of infrared spectroscopy data for
+soil and plant sciences (SPEC02)
+https://www.prstatistics.com/course/quantitative-analysis-of-infrared-spectroscopy-data-for-soil-and-plant-sciences-spec02/
+
+ONLINE COURSE ? Introduction To Mixed Models Using R And Rstudio (IMMR07)
+https://www.prstatistics.com/course/introduction-to-mixed-models-using-r-and-rstudio-immr07/
+
+ONLINE COURSE ? Model selection and model simplification (MSMS04)
+https://www.prstatistics.com/course/online-course-model-selection-and-model-simplification-msms04/
+
+ONLINE COURSE ? Data wrangling using R and Rstudio (DWRS03)
+https://www.prstatistics.com/course/data-wrangling-using-r-and-rstudio-dwrs03/
+
+ONLINE COURSE ? Data visualization with ggplot2 using R and Rstudio (DVGG04)
+https://www.prstatistics.com/course/data-visualization-with-ggplot2-using-r-and-rstudio-dvgg04/
+
+-- 
+
+Oliver Hooker PhD.
+PR statistics
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Tue Aug  8 13:38:45 2023
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Tue, 8 Aug 2023 13:38:45 +0200 (CEST)
+Subject: [R-sig-genetics] course "DNA METHYLATION IN ECOLOGY AND EVOLUTION"
+Message-ID: <1691494725.000925598@webmail.jimdo.com>
+
+
+ 
+Dear all,
+ 
+ 
+ 
+registration is now open for the 3rd edition of the course "DNA METHYLATION IN ECOLOGY AND EVOLUTION"
+ 
+ 
+ 
+Dates: online, 30 October -3 November
+ 
+ 
+ 
+ 
+ 
+This comprehensive course will cover various approaches to obtain and analyze DNA methylation data, including bisulfite sequencing (BS-seq) using Illumina, PacBio, and Oxford Nanopore technologies. The data will be interpreted in terms of their biological importance in the field of ecology and evolution. While the examples demonstrated will primarily focus on non-model organisms with draft reference genomes available, we will also discuss various applications of this data type for diverse research purposes.
+ 
+ 
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/dnamethylation/ ]( https://www.physalia-courses.org/courses-workshops/dnamethylation/ )
+ 
+ 
+ 
+ 
+ 
+Full list of our courses and Workshops: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ ) [  ]( https://www.physalia-courses.org/courses-workshops )
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Should you have any questions, please feel free to contact us at info at physalia-courses.org.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Best regards,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Carlo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+Follow us on [ Twitter ]( https://twitter.com/Physacourses ) & [ Mastodon ]( https://mas.to/@PhysaliaCourses )
+ 
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Thu Aug 31 14:40:14 2023
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Thu, 31 Aug 2023 14:40:14 +0200 (CEST)
+Subject: [R-sig-genetics] Join Our Online Course: Incorporating Paleogenomes
+ into Evolutionary Genomics Studies
+Message-ID: <1693485614.42793160@webmail.jimdo.com>
+
+
+Dear all,
+ 
+We are excited to invite you to a comprehensive online course that will equip you with the skills to seamlessly integrate ancient DNA data into your evolutionary genomics studies. The "Incorporating Paleogenomes into Evolutionary Genomics Studies" course offers an invaluable opportunity to learn from leading experts in the field and enhance your understanding of this rapidly evolving area of research.
+ 
+**Course Details:**
+- **Dates:** 13-16 November 2023
+- **Format:** Online to facilitate international participation
+- **Course website:** [ https://www.physalia-courses.org/courses-workshops/adapt/ ]( https://www.physalia-courses.org/courses-workshops/adapt/ ) 
+ 
+ 
+ 
+This course is aimed at Masters or PhD students as an introduction into including ancient DNA data into their genomic analyses. The course will cover mapping, filtering and quality control checks of ancient DNA. Inference of population structure when including ancient DNA samples. Inferring demographic histories using of ancient samples. And lastly, assigning genomic regions under selection to distinct adaptive haplotypes of known association with specific habitats. 
+ 
+Course is free of charge and funded by the ADAPT ESEB special topic network. Participants must be student members of ESEB (The European Society of Evolutionary Biology). Student membership costs 30 euros and comes with a range of benefits, including reduced open access publishing and conference fees: https://eseb.org/society/eseb-membership/
+The maximum allowable number of students is: 18!
+ 
+To enrol for this course, kindly complete this [ form ]( https://forms.gle/gLRJVGWPFUXYY9Hv6 ). The deadline for registration is the 15th of September. The 18 successful students will be notified a few days after the registration deadline.
+ 
+ 
+**Course Schedule:**
+- **Monday:** Mapping and Quality Control Checks
+- **Tuesday:** Population Structure Inference
+- **Wednesday:** Demographic History Analysis
+- **Thursday:** Selection Analysis
+ 
+ 
+Each day will consist of a 3-hour session starting at 1:00 PM EU time. Throughout the week, you will engage in practical sessions and gain hands-on experience using data from the recent Kirch et al. study on ancient threespine sticklebacks.
+ 
+ 
+ 
+Best regards,
+Carlo
+ 
+ 
+ 
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+Follow us on [ Twitter ]( https://twitter.com/Physacourses ) & [ Mastodon ]( https://mas.to/@PhysaliaCourses )
+
+
+
+	[[alternative HTML version deleted]]
+
+

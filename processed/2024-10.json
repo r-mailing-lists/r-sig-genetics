@@ -1,0 +1,306 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2024-10",
+  "messages": [
+    {
+      "id": "msg-e19294d8af35",
+      "message_id": "<gMT75JNVQsOsXwNcshWhNA@geopod-ismtpd-16>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2024-10-01T08:20:00Z",
+      "subject": "[R-sig-genetics] Online course: Clustering High-Dimensional Data (October 22)",
+      "subject_clean": "Online course: Clustering High-Dimensional Data (October 22)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20241001/65980504/attachment.html>",
+      "body_snippet": "An HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20241001/65980504/attachment.html>",
+      "thread_id": "thread-e19294d8af35",
+      "thread_depth": 0,
+      "month": "2024-10"
+    },
+    {
+      "id": "msg-1aa9cf0aa39e",
+      "message_id": "<vvbGvwgdTTyUNErrx3MR_A@geopod-ismtpd-3>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2024-10-08T08:35:44Z",
+      "subject": "[R-sig-genetics] Using Confidence Intervals for Visual Testing - free seminars",
+      "subject_clean": "Using Confidence Intervals for Visual Testing - free seminars",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is pleased to be offering free seminars on Using Confidence Intervals for Visual Testing for R (Oct 25) and Stata (Nov 1), with professor David Armstrong from the University of Western Ontario:\n\nhttps://instats.org/seminar/using-confidence-intervals-for-visual-testing-in-r-2248\n\nhttps://instats.org/seminar/using-confidence-intervals-for-visual-testing-in-s-2166\n\nConfidence intervals and visualizations of them are common in the presentation of statistical results. Since their invention in the 1930's, researchers have recognized that readers will try to make inferences comparing estimates by evaluating whether confidence intervals overlap. A long line of research has discussed the pitfalls of this and attempted to build inferences around the probability that confidence intervals overlap under the null hypothesis - essentially burdening the visual display with an additional hypothesis testing function. To improve on this, these seminars will explore new visual tools that allow researchers to understand the precision of their estimates and to visually compare different groups or conditions in a meaningful and statistically defensible way. Designed for researchers across many disciplines, this workshop will equip participants with the expertise needed to leverage confidence intervals effectively using R and Stata.\n\nInstats is also offering free seminars on Switching from SPSS to R <https://instats.org/seminar/switching-from-spss-to-r-free-2-hour-se2> (Nov 5) and Efficient Programming in R <https://instats.org/seminar/efficient-programming-using-r-free-semi2> (Jan 27). We look forward to seeing you there!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is pleased to be offering free seminars on Using Confidence Intervals for Visual Testing for R (Oct 25) and Stata (Nov 1), with professor David Armstrong from the University of We",
+      "thread_id": "thread-1aa9cf0aa39e",
+      "thread_depth": 0,
+      "month": "2024-10"
+    },
+    {
+      "id": "msg-fa9865caaaad",
+      "message_id": "<CAEsSYzxHRN3_Wtvf-R15U1YrK4C-ek47Cr3zRQ33iTz2jHQPZg@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2024-10-09T16:58:36+01:00",
+      "subject": "[R-sig-genetics] ONLINE COURSE – Introduction to Machine Learning using R and Rstudio (IMLR02)",
+      "subject_clean": "ONLINE COURSE – Introduction to Machine Learning using R and Rstudio (IMLR02)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Introduction to Machine Learning using R and Rstudio\n(IMLR02)\n\nhttps://www.prstats.org/course/introduction-to-machine-learning-using-r-and-rstudio-imlr02/\n\n12th - 25th November (6 x 1/2 day sessions)\n\nPlease feel free to share!\n\nIn this six-day course, we provide a comprehensive practical and\ntheoretical introduction to statistical machine learning using R. We start\nby introducing the concepts of supervised and unsupervised learning. We\nfirstly explore unsupervised learning, and introduce k-means and hierarchical\nclustering, as well as principal components analysis. We then move to\nsupervised learning methods, and cover logistic regression\nand regularisation methods (such as ridge regression and the LASSO).\nAfter that, we introduce the k-nearest neighbours method, and\nclassification and regression trees (CART). Finally, we explore extensions\nto CART, such as random forests and, if time allows, Bayesian addi additive\nregression trees (BART).\n\nPlease email oliverhoooker at prstatistics.com with any questions\n\n-- \nBest wishes,\n\nOliver\n\nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? Introduction to Machine Learning using R and Rstudio\n(IMLR02)\n\nhttps://www.prstats.org/course/introduction-to-machine-learning-using-r-and-rstudio-imlr02/\n\n12th - 25th November (6 x 1/",
+      "thread_id": "thread-fa9865caaaad",
+      "thread_depth": 0,
+      "month": "2024-10"
+    },
+    {
+      "id": "msg-52cab24a4651",
+      "message_id": "<1728495647.46882226@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-10-09T19:40:47+02:00",
+      "subject": "[R-sig-genetics] Course: Population genomic inference from low-coverage whole-genome sequencing data",
+      "subject_clean": "Course: Population genomic inference from low-coverage whole-genome sequencing data",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nwe have the last seat for the online course on Population genomic inference from low-coverage whole-genome sequencing data.\n \nDates: 21-24 October 2024  \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course64/ ]( https://www.physalia-courses.org/courses-workshops/course64/ )\n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nwe have the last seat for the online course on Population genomic inference from low-coverage whole-genome sequencing data.\n \nDates: 21-24 October 2024  \n \nCourse website: [ https://www.ph",
+      "thread_id": "thread-52cab24a4651",
+      "thread_depth": 0,
+      "month": "2024-10"
+    },
+    {
+      "id": "msg-8e107e6b5cb7",
+      "message_id": "<ovh45EGgR4iPI9WiA77Asw@geopod-ismtpd-9>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2024-10-14T10:13:11Z",
+      "subject": "[R-sig-genetics] Online Course: Using ChatGPT for Advanced Data Analysis - livestream seminar",
+      "subject_clean": "Online Course: Using ChatGPT for Advanced Data Analysis - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nLast chance to register for our 2-day workshops on Using ChatGPT for Advanced Data Analysis 3.0 <https://instats.org/seminar/using-chatgpt-for-advanced-data-analysis10-2> on October 19 and 22. Imagine performing an entire statistical analysis without writing a single line of code or even knowing how to use a specific statistics program. In today's world of AI based language models such as ChatGPT, plain English is sufficient. In these workshops, professor Peter Gruber will show how to use ChatGPT and its Advanced Data Analysis tool for data wrangling and statistical analysis, without needing to use any statistics programs or programming languages - and with the newest version of ChatGPT, it's even faster and more intuitive. The seminar covers a range of topics from data preparation and descriptive statistics to regression analysis, advanced statistical tests, and data visualisations, which are essential tools for studying evolutionary patterns, trait correlations, population dynamics, and more. Emphasis is placed on understanding the workings and limits of this and similar AI models, while using them as extremely capable research assistants to drastically speed up and improve your research workflows.\n\nSign up today <https://instats.org/seminar/using-chatgpt-for-advanced-data-analysis10-2> for this unique workshop, and please feel?free to tell your friends and colleagues!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org?utm_source=GEO-TECTONICS>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nLast chance to register for our 2-day workshops on Using ChatGPT for Advanced Data Analysis 3.0 <https://instats.org/seminar/using-chatgpt-for-advanced-data-analysis10-2> on October 19 an",
+      "thread_id": "thread-8e107e6b5cb7",
+      "thread_depth": 0,
+      "month": "2024-10"
+    },
+    {
+      "id": "msg-6eda571fdd64",
+      "message_id": "<1728921098.73327642@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-10-14T17:51:38+02:00",
+      "subject": "[R-sig-genetics] Seascape Genomics in R course - 28 October - 1 November",
+      "subject_clean": "Seascape Genomics in R course - 28 October - 1 November",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe have just a few spots left for our Seascape Genomics in R course, running from 28 October - 1 November. This online course offers a unique opportunity to dive into the emerging field of seascape genomics, combining environmental data with genomic analysis.\n \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course70/ ]( https://www.physalia-courses.org/courses-workshops/course70/ )\n \n \nCourse Overview:\nLearn how the underwater environment shapes genomic diversity in marine organisms. The course will cover:\nExtracting and analyzing environmental data (e.g., sea temperature, water movements)\nConducting genomic analyses to study population connectivity and local adaptation\nApplying results to conservation and management contexts\nBest practices for designing a seascape genomics experiment\nWho Should Attend:\nIdeal for biologists, ecologists, geneticists, and conservationists wanting to apply seascape genomics in their research. Basic knowledge of evolutionary biology, population genetics, and R is helpful.\n \n \nBest regards,\n\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe have just a few spots left for our Seascape Genomics in R course, running from 28 October - 1 November. This online course offers a unique opportunity to dive into the emerging field of s",
+      "thread_id": "thread-6eda571fdd64",
+      "thread_depth": 0,
+      "month": "2024-10"
+    },
+    {
+      "id": "msg-77fb0654f07b",
+      "message_id": "<1729613853.92682708@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-10-22T18:17:33+02:00",
+      "subject": "[R-sig-genetics] online course - Seascape Genomics in R - October 28th - November 1st",
+      "subject_clean": "online course - Seascape Genomics in R - October 28th - November 1st",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \n \n \nThere are only 2 seats available for the Seascape Genomics in R online course.\n \n \n \nDates: October 28th - November 1st\n \n \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course70/ ]( https://www.physalia-courses.org/courses-workshops/course70/ )\n \n \n \n \n \n\n\n\n\nYou?ll start by exploring how to extract and use environmental data from public databases to understand the seascape?s structure. Learn to harness remote sensing tools to track sea temperature changes and water movements. Then, shift gears to genomic analysis?discover how to evaluate genetic structures in marine populations and assess their connectivity. You?ll uncover genomic signatures of local adaptation to environmental pressures and delve into methods for interpreting and validating results, particularly in conservation contexts. The course wraps up with key insights on designing seascape genomics experiments, from sampling strategies to formulating impactful scientific questions.\n \nFor the full list of our courses and workshops: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/course70/ )\n \nBest regards,\nCarlo\n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \n \n \nThere are only 2 seats available for the Seascape Genomics in R online course.\n \n \n \nDates: October 28th - November 1st\n \n \n \nCourse website: [ https://www.physalia-courses.org/courses",
+      "thread_id": "thread-77fb0654f07b",
+      "thread_depth": 0,
+      "month": "2024-10"
+    },
+    {
+      "id": "msg-9daf5723409c",
+      "message_id": "<rx4vd2K8TumDOrwN_-ChAg@geopod-ismtpd-1>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2024-10-23T12:11:36Z",
+      "subject": "[R-sig-genetics] Online course: Single Cell Data Analysis, Nov 26",
+      "subject_clean": "Online course: Single Cell Data Analysis, Nov 26",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is offering a 1-day seminar on Single Cell Data Analysis <https://instats.org/seminar/single-cell-data-analysis2> in R and Python, running Nov 26 with professor Nikolay Oskolkov. Single-cell analysis provides unprecedented insights into cellular heterogeneity, enabling researchers to explore complex biological systems at the most granular scale. With applications in cancer research, developmental biology, and immunology, among others, mastering the techniques of single-cell data analysis is essential for researchers aiming to push the boundaries of modern science. This one-day workshop offers an in-depth exploration of the computational tools and methodologies essential for high-level single-cell data interpretation.\n\nSign up today <https://instats.org/seminar/single-cell-data-analysis2> to secure your spot in this unique seminar.\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is offering a 1-day seminar on Single Cell Data Analysis <https://instats.org/seminar/single-cell-data-analysis2> in R and Python, running Nov 26 with professor Nikolay Oskolkov. ",
+      "thread_id": "thread-9daf5723409c",
+      "thread_depth": 0,
+      "month": "2024-10"
+    },
+    {
+      "id": "msg-7384202f333e",
+      "message_id": "<4SCFUE7-R9-01sB7-n0KMg@geopod-ismtpd-4>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2024-10-24T04:07:50Z",
+      "subject": "[R-sig-genetics] Online seminar: Efficient Programming in R, Jan 27",
+      "subject_clean": "Online seminar: Efficient Programming in R, Jan 27",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is offering a free 3-hour seminar on Efficient Programming in R <https://instats.org/seminar/efficient-programming-using-r-free-semi2>, running Jan 27 with professor Michail Tsagris. This free seminar explores efficient programming techniques in R for advanced data analysis, focusing on optimizing code, enhancing computational speed, and ensuring reproducible research practices. Participants will gain practical skills beneficial for diverse fields, improving both the precision and impact of their analytical work. Geared towards PhD students, academics, and professional researchers, the workshop will illuminate the nuances of proficient R programming that directly contributes to more robust and reproducible research outcomes.\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is offering a free 3-hour seminar on Efficient Programming in R <https://instats.org/seminar/efficient-programming-using-r-free-semi2>, running Jan 27 with professor Michail Tsagr",
+      "thread_id": "thread-7384202f333e",
+      "thread_depth": 0,
+      "month": "2024-10"
+    },
+    {
+      "id": "msg-4194339f5715",
+      "message_id": "<1729873782.695132087@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-10-25T18:29:42+02:00",
+      "subject": "[R-sig-genetics] Join Our Landscape Genomics Workshop in Lodz, Poland – January 20-24, 2025",
+      "subject_clean": "Join Our Landscape Genomics Workshop in Lodz, Poland – January 20-24, 2025",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nWe?re excited to announce our upcoming Landscape Genomics Workshop taking place in person at the Faculty of Biology and Environmental Protection, University of Lodz, Poland, from January 20-24, 2025. This comprehensive, hands-on workshop will guide participants through the fundamental principles and applications of landscape genomics in studying genetic diversity and local adaptation across environments.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course17/ ]( https://www.physalia-courses.org/courses-workshops/course17/ ) \n\n In this workshop, participants will:\n- Learn to obtain, process, and analyse environmental data using Geographic Information Systems (GIS)\n- Explore methods to characterize landscapes and study genetic variation and population structure\n- Gain hands-on experience with statistical approaches, including Sambada, to study local adaptation\n- Develop best practices in experiment planning, including sampling design, data interpretation, and validation.\n\nThis workshop is ideal for biologists, ecologists, geneticists, and veterinarians looking to incorporate landscape genomics into evolutionary biology and conservation studies. \nThe workshop features ten learning sessions, blending theoretical insights with practical applications. Participants will gain real-world skills to design, implement, and analyse landscape genomics experiments effectively.\n\nCourse Schedule\n**Monday ? 9 am-5 pm CET**\n- Course overview, introduction to landscape genomics, GIS essentials\n\n**Tuesday ? 9 am-5 pm CET**\n- Environmental sample characterization, remote sensing with Google Earth Engine\n\n**Wednesday ? 9 am-5 pm CET**\n- Experiment planning, genetic data filtering, spatial genetic variation, population structure\n\n**Thursday ? 9 am-5 pm CET**\n- Data integration with Sambada, association model analysis, spatial autocorrelation\n\n**Friday ? 9 am-3 pm CET**\n- Thematic mapping, course conclusions, Q&A\n\nJoin us in Lodz for an engaging week of learning and networking. Seats are limited, so secure your spot soon!\n\nBest regards,  \nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nWe?re excited to announce our upcoming Landscape Genomics Workshop taking place in person at the Faculty of Biology and Environmental Protection, University of Lodz, Poland, from January 20",
+      "thread_id": "thread-4194339f5715",
+      "thread_depth": 0,
+      "month": "2024-10"
+    },
+    {
+      "id": "msg-02e6a9591d93",
+      "message_id": "<1730016380.019729734@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-10-27T09:06:20+01:00",
+      "subject": "[R-sig-genetics] online Multivariate Data Analysis with R and vegan course - February 10-13",
+      "subject_clean": "online Multivariate Data Analysis with R and vegan course - February 10-13",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nJoin us February 10-13, 2025, for the online Multivariate Data Analysis with R and vegan course.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/vegan/ ]( https://www.physalia-courses.org/courses-workshops/vegan/ ) \n \n \nOverview: This course will offer participants a practical introduction to some of the most useful functions available within vegan. We will focus on the use of ordination methods and on the use of restricted permutations to test a range of experimental designs.We will focus on when and how to use multivariate methods including unconstrained and constrained ordination (CCA, RDA, Constrained PCoA), as well as between-group tests such as PERMANOVA. We will cover concepts such as design- and model-based permutations and the exchangeability of samples in tests. We will also discuss the use of vegan to go beyond simply fitting a constrained ordination model, to diagnostics, plotting, etc.\n \n \nWho Should Attend? This course is suitable for PhD students (including senior thesis-based masters students) and researchers working with multivariate data sets in biology (inter alia ecology, animal science agriculture, microbial ecology/microbiology), with limited statistical knowledge but a willingness to learn more.Participants should be familiar with RStudio and have some fluency in programming R code, including being able to import, manipulate (e.g. modify variables) and visualise data. There will be a mix of lectures, and hands-on practical exercises throughout the course.\n \n \nProgram Overview\nMonday: Intro to multivariate data, transformations, dissimilarity metrics\nTuesday: Unconstrained ordination (PCA, PCoA, NMDS)\nWednesday: Constrained ordination, PERMANOVA\nThursday: Statistical inference with permutation tests\nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/vegan/ )\n \n \nBest regards,\nCarlo\n \n \n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nJoin us February 10-13, 2025, for the online Multivariate Data Analysis with R and vegan course.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/vegan/ ]( https://www.",
+      "thread_id": "thread-02e6a9591d93",
+      "thread_depth": 0,
+      "month": "2024-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-e19294d8af35",
+      "subject": "Online course: Clustering High-Dimensional Data (October 22)",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2024-10-01T08:20:00+00:00",
+      "last_reply": "2024-10-01T08:20:00+00:00",
+      "root_message_id": "msg-e19294d8af35"
+    },
+    {
+      "id": "thread-1aa9cf0aa39e",
+      "subject": "Using Confidence Intervals for Visual Testing - free seminars",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2024-10-08T08:35:44+00:00",
+      "last_reply": "2024-10-08T08:35:44+00:00",
+      "root_message_id": "msg-1aa9cf0aa39e"
+    },
+    {
+      "id": "thread-fa9865caaaad",
+      "subject": "ONLINE COURSE – Introduction to Machine Learning using R and Rstudio (IMLR02)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2024-10-09T16:58:36+01:00",
+      "last_reply": "2024-10-09T16:58:36+01:00",
+      "root_message_id": "msg-fa9865caaaad"
+    },
+    {
+      "id": "thread-52cab24a4651",
+      "subject": "Course: Population genomic inference from low-coverage whole-genome sequencing data",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-10-09T19:40:47+02:00",
+      "last_reply": "2024-10-09T19:40:47+02:00",
+      "root_message_id": "msg-52cab24a4651"
+    },
+    {
+      "id": "thread-8e107e6b5cb7",
+      "subject": "Online Course: Using ChatGPT for Advanced Data Analysis - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2024-10-14T10:13:11+00:00",
+      "last_reply": "2024-10-14T10:13:11+00:00",
+      "root_message_id": "msg-8e107e6b5cb7"
+    },
+    {
+      "id": "thread-6eda571fdd64",
+      "subject": "Seascape Genomics in R course - 28 October - 1 November",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-10-14T17:51:38+02:00",
+      "last_reply": "2024-10-14T17:51:38+02:00",
+      "root_message_id": "msg-6eda571fdd64"
+    },
+    {
+      "id": "thread-77fb0654f07b",
+      "subject": "online course - Seascape Genomics in R - October 28th - November 1st",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-10-22T18:17:33+02:00",
+      "last_reply": "2024-10-22T18:17:33+02:00",
+      "root_message_id": "msg-77fb0654f07b"
+    },
+    {
+      "id": "thread-9daf5723409c",
+      "subject": "Online course: Single Cell Data Analysis, Nov 26",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2024-10-23T12:11:36+00:00",
+      "last_reply": "2024-10-23T12:11:36+00:00",
+      "root_message_id": "msg-9daf5723409c"
+    },
+    {
+      "id": "thread-7384202f333e",
+      "subject": "Online seminar: Efficient Programming in R, Jan 27",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2024-10-24T04:07:50+00:00",
+      "last_reply": "2024-10-24T04:07:50+00:00",
+      "root_message_id": "msg-7384202f333e"
+    },
+    {
+      "id": "thread-4194339f5715",
+      "subject": "Join Our Landscape Genomics Workshop in Lodz, Poland – January 20-24, 2025",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-10-25T18:29:42+02:00",
+      "last_reply": "2024-10-25T18:29:42+02:00",
+      "root_message_id": "msg-4194339f5715"
+    },
+    {
+      "id": "thread-02e6a9591d93",
+      "subject": "online Multivariate Data Analysis with R and vegan course - February 10-13",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-10-27T09:06:20+01:00",
+      "last_reply": "2024-10-27T09:06:20+01:00",
+      "root_message_id": "msg-02e6a9591d93"
+    }
+  ]
+}

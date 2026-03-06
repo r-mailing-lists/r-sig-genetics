@@ -1,0 +1,154 @@
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Tue Jul 14 23:09:40 2020
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Tue, 14 Jul 2020 22:09:40 +0100
+Subject: [R-sig-genetics] =?utf-8?q?ONLINE_COURSE_=E2=80=93_Applied_Bayes?=
+	=?utf-8?q?ian_modelling_for_ecologists_and_epidemiologists?=
+Message-ID: <CAEsSYzyiDv=5YRqDVhCUC_BvMv594XFf4KGBUKdNHm50YDgNug@mail.gmail.com>
+
+ONLINE COURSE ? Applied Bayesian modelling for ecologists and
+epidemiologists (ABME06) This course will be delivered live
+
+https://www.prstatistics.com/course/applied-bayesian-modelling-for-ecologists-and-epidemiologists-abme06/
+
+July 20th - 24th
+
+TIME ZONE ? Central European Summer Time ? however all sessions will
+be recorded and made available allowing attendees from different time
+zones to follow a day behind with an additional 1/2 days support after
+the official course finish date (please email
+oliverhooker at prstatistics.com for full details or to discuss how we
+can accommodate you).
+
+Course Overview:
+
+This application-driven course will provide a founding in the basic
+theory & practice of Bayesian statistics, with a focus on MCMC
+modeling for ecological & epidemiological problems. Starting from a
+refresher on probability & likelihood, the course will take students
+all the way to cutting-edge applications such as state-space
+population modelling & spatial point-process modelling. By the end of
+the week, you should have a basic understanding of how common MCMC
+samplers work and how to program them, and have practical experience
+with the BUGS language for common ecological and epidemiological
+models. The experience gained will be a sufficient foundation enabling
+you to understand current papers using Bayesian methods, carry out
+simple Bayesian analyses on your own data and springboard into more
+elaborate applications such as dynamical, spatial and hierarchical
+modelling.
+
+email oliverhooker at prstatistics.com with any questions
+
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+2020 publications;
+Parallelism in eco-morphology and gene expression despite variable
+evolutionary and genomic backgrounds in a Holarctic fish. PLOS
+GENETICS (2020). IN PRESS
+
+www.PRstatistics.com
+facebook.com/PRstatistics/
+twitter.com/PRstatistics
+
+53 Morrison Street
+Glasgow
+G5 8LB
++44 (0) 7966500340
++44 (0) 7966500340
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Mon Jul 20 00:02:13 2020
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Sun, 19 Jul 2020 22:02:13 -0000
+Subject: [R-sig-genetics] Introduction to generalised linear models using R
+ and Rstudio (IGLM01)
+Message-ID: <CAEsSYzzLpguc4goUMRMxT9CGafHV20cQt1mw=YXAboVG-UGP8A@mail.gmail.com>
+
+ONLINE COURSE ? Introduction to generalised linear models using R and
+Rstudio (IGLM01) This course will be delivered live
+
+https://www.psstatistics.com/course/introduction-to-generalised-linear-models-using-r-and-rstudio-iglm01/
+
+23 July 2020 - 24 July
+
+TIME ZONE ? Western European Time +1 ? however all sessions will be
+recorded and made available allowing attendees from different time
+zones to follow a day behind with an additional 1/2 days support after
+the official course finish date (please email
+oliverhooker at psstatistics.com for full details or to discuss how we
+can accommodate you).
+
+Course Overview:
+
+In this two day course, we provide a comprehensive practical and
+theoretical introduction to generalized linear models using R.
+Generalized linear models are generalizations of linear regression
+models for situations where the outcome variable is, for example, a
+binary, or ordinal, or count variable, etc. The specific models we
+cover include binary, binomial, ordinal, and categorical logistic
+regression, Poisson and negative binomial regression for count
+variables. We will also cover zero-inflated Poisson and negative
+binomial regression models. On the first day, we begin by providing a
+brief overview of the normal general linear model. Understanding this
+model is vital for the proper understanding of how it is generalized
+in generalized linear models. Next, we introduce the widely used
+binary logistic regression model, which is is a regression model for
+when the outcome variable is binary. Next, we cover the ordinal
+logistic regression model, specifically the cumulative logit ordinal
+regression model, which is used for the ordinal outcome data. We then
+cover the case of the categorical, also known as the multinomial,
+logistic regression, which is for modelling outcomes variables that
+are polychotomous, i.e., have more than two categorically distinct
+values. On the second day, we begin by covering Poisson regression,
+which is widely used for modelling outcome variables that are counts
+(i.e the number of times something has happened). We then cover the
+binomial logistic and negative binomial models, which are used for
+similar types of problems as those for which Poisson models are used,
+but make different or less restrictive assumptions. Finally, we will
+cover zero inflated Poisson and negative binomial models, which are
+for count data with excessive numbers of zero observations.
+
+Email oliverhooker at psstatistics.com with any questions
+
+This is one module of a five module series ? you do not need to attend
+them all but they are designed to compliment each other. Please see
+the links below
+
+July 23rd ? 24th Introduction to generalised linear models using R and Rstudio
+https://www.psstatistics.com/course/introduction-to-generalised-linear-models-using-r-and-rstudio-iglm01/
+
+August 6th ? 7th Introduction to mixed models using R and Rstudio
+https://www.psstatistics.com/course/introduction-to-mixed-models-using-r-and-rstudio-immr02/
+
+August 20th ? 21st Data visualization using GG plot 2 (R and R studio)
+https://www.psstatistics.com/course/introduction-to-data-visualization-using-gg-plot-2-r-and-rstudio-dvgg01/
+
+September 3rd ? 4th Data wrangling using R and Rstudio
+https://www.psstatistics.com/course/introduction-data-wrangling-using-r-and-rstudio-dwrs01/
+
+
+
+
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+2020 publications;
+Parallelism in eco-morphology and gene expression despite variable
+evolutionary and genomic backgrounds in a Holarctic fish. PLOS
+GENETICS (2020). IN PRESS
+
+www.PRstatistics.com
+facebook.com/PRstatistics/
+twitter.com/PRstatistics
+
+53 Morrison Street
+Glasgow
+G5 8LB
++44 (0) 7966500340
++44 (0) 7966500340
+
+

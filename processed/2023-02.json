@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2023-02",
+  "messages": [
+    {
+      "id": "msg-cc6193dd6a04",
+      "message_id": "<1676370042.485523545@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2023-02-14T11:20:42+01:00",
+      "subject": "[R-sig-genetics] course Next steps in applied Bayesian regression modeling",
+      "subject_clean": "course Next steps in applied Bayesian regression modeling",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nthere are still a few seats available for the course \"Next steps in applied Bayesian regression modeling\".\n \n \nDates: online, 27-31 March \n \nThis course provides an overview over a number of topics and tools that are not (usually) covered by introductory courses, but that will boost your understanding, productivity and confidence when applying Bayesian regression modeling. The purpose of this course is not exhaustive depth, but guided overview. The goal is to provide enough information (focusing on the conceptual understanding, not mathematical detail) alongside practical examples, to put all participants in a position to learn something new and useful about topics they were already familiar with, to unlock new areas that they heard of but wanted to learn more about, and also to raise awareness for useful ideas and tools that weren't even on the radar of awareness before.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/bayes-regression/ ]( https://www.physalia-courses.org/courses-workshops/bayes-regression/ )\n \nBest regards,\nCarlo\n \n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\nFollow us on [ Twitter ]( https://twitter.com/Physacourses ) & [ Mastodon ]( https://mas.to/@PhysaliaCourses )\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nthere are still a few seats available for the course \"Next steps in applied Bayesian regression modeling\".\n \n \nDates: online, 27-31 March \n \nThis course provides an overview over a number ",
+      "thread_id": "thread-cc6193dd6a04",
+      "thread_depth": 0,
+      "month": "2023-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-cc6193dd6a04",
+      "subject": "course Next steps in applied Bayesian regression modeling",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2023-02-14T11:20:42+01:00",
+      "last_reply": "2023-02-14T11:20:42+01:00",
+      "root_message_id": "msg-cc6193dd6a04"
+    }
+  ]
+}

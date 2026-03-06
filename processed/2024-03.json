@@ -1,0 +1,117 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2024-03",
+  "messages": [
+    {
+      "id": "msg-9ba05ba036b3",
+      "message_id": "<1709836962.829121048@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-03-07T19:42:42+01:00",
+      "subject": "[R-sig-genetics] Landscape Genomics course in Lausanne, EPL, Switzerland",
+      "subject_clean": "Landscape Genomics course in Lausanne, EPL, Switzerland",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nMark your calendars! Our Landscape Genomics course will be in person in the beautiful Lausanne, \nEPL, Switzerland on June 17-21! Don't miss out on this incredible opportunity to learn and immerse yourself in a stunning environment: [ https://www.physalia-courses.org/courses-workshops/course17/ ]( https://www.physalia-courses.org/courses-workshops/course17/ )\n\nShould you have any questions, please do not hesitate to contact us.\nBest regards,\nCarlo\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nMark your calendars! Our Landscape Genomics course will be in person in the beautiful Lausanne, \nEPL, Switzerland on June 17-21! Don't miss out on this incredible opportunity to learn and ",
+      "thread_id": "thread-9ba05ba036b3",
+      "thread_depth": 0,
+      "month": "2024-03"
+    },
+    {
+      "id": "msg-c4e300a9035f",
+      "message_id": "<1710150171.47328904@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-03-11T10:42:51+01:00",
+      "subject": "[R-sig-genetics] Online course: course on Genome Assembly and Annotation (3 seats left)",
+      "subject_clean": "Online course: course on Genome Assembly and Annotation (3 seats left)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nI wanted to bring to your attention our upcoming course on Genome Assembly and Annotation, available at: [ https://www.physalia-courses.org/courses-workshops/course20/ ]( https://www.physalia-courses.org/courses-workshops/course20/ ) (only 3 remaining seats available)\n \nDates: Online, March 18th-22nd\n \nThis course offers a unique opportunity for biologists and bioinformaticians to delve into the intricacies of de novo genome assembly and annotation. Through a combination of theoretical discussions and practical examples, participants will gain valuable insights into generating high-quality annotated and curated reference genomes.\n \nDesigned for researchers at all levels of expertise, from beginners to advanced users, the course covers fundamental concepts, algorithms, and workflows. We will explore various aspects of genome assembly and annotation, drawing from the Vertebrate Genomes Project assembly pipeline as a model. Hands-on exercises, utilizing both graphical interfaces and basic command line tools, will reinforce learning and skill development.\n \n \n \nFor more information on this and other courses and workshops we offer, please visit: [ https://www.physalia-courses.org/courses-workshops/course20/ ]( https://www.physalia-courses.org/courses-workshops/course20/ ) \n \n \nBest regards,\nCarlo\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nI wanted to bring to your attention our upcoming course on Genome Assembly and Annotation, available at: [ https://www.physalia-courses.org/courses-workshops/course20/ ]( https://www.physali",
+      "thread_id": "thread-c4e300a9035f",
+      "thread_depth": 0,
+      "month": "2024-03"
+    },
+    {
+      "id": "msg-fc042fcdea89",
+      "message_id": "<1711003155.805123576@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-03-21T07:39:15+01:00",
+      "subject": "[R-sig-genetics] Online course; Multivariate Data Analysis with R and vegan",
+      "subject_clean": "Online course; Multivariate Data Analysis with R and vegan",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \njoin us in May (27th-31st) if you want to learn how to perform multivariate data analysis with R and vegan.\n \nIn this 5-day course, we will prioritise exploring ordination methods and using restricted permutations to analyse various experimental designs. Specifically, we'll delve into the application of multivariate techniques, including unconstrained and constrained ordination (CCA, RDA, Constrained PCoA), alongside between-group tests like PERMANOVA. Topics covered will include design- and model-based permutations, as well as understanding sample exchangeability in tests. Additionally, we'll explore advanced applications of vegan, extending beyond fitting constrained ordination models to include diagnostics, plotting, and more.\n \nFor more information, please visit: [ https://www.physalia-courses.org/courses-workshops/vegan/ ]( https://www.physalia-courses.org/courses-workshops/vegan/ )\n \n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \njoin us in May (27th-31st) if you want to learn how to perform multivariate data analysis with R and vegan.\n \nIn this 5-day course, we will prioritise exploring ordination methods and usin",
+      "thread_id": "thread-fc042fcdea89",
+      "thread_depth": 0,
+      "month": "2024-03"
+    },
+    {
+      "id": "msg-26469676c743",
+      "message_id": "<1711274760.047515884@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-03-24T11:06:00+01:00",
+      "subject": "[R-sig-genetics] Online course: Introduction to GWAS",
+      "subject_clean": "Online course: Introduction to GWAS",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nWe are happy to announce our upcoming course on \"Introduction to Genome-Wide Association Studies (GWAS)\"! If you're looking to enhance your skills and knowledge in GWAS analysis, this course is tailored for you. Whether you are a student, researcher, or professional, this course will provide you with the essential tools to confidently navigate the world of GWAS.\n \n**Course Dates:** Online, 24-28 June \n\n\nCourse website: [ https://www.physalia-courses.org/courses-workshops/course49/ ]( https://www.physalia-courses.org/courses-workshops/course49/ )\n \nThis comprehensive course will guide you through the entire process of GWAS data analysis, ensuring that you not only understand the individual steps but also learn how to create a reproducible and efficient bioinformatics workflow.\n \nOver the span of five days, our course will cover a range of topics through a well-structured module-based approach. Each day will commence with informative lectures, followed by interactive class discussions to solidify key concepts. Subsequently, you will engage in hands-on practical sessions designed to foster your skills. These sessions will include both guided exercises with our experienced instructors and independent tasks to reinforce your learning. After each exercise, you will have the opportunity to interpret and discuss results within a group setting.\n\n A background in biology, particularly genetics, is recommended. While a basic familiarity with R programming and Unix will be helpful, our course will provide ample support for learners at varying levels of experience.\n \n \nFor the full list of our our courses and workshops, please have a look at: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )\n \n \nBest regards,\nCarlo\n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nWe are happy to announce our upcoming course on \"Introduction to Genome-Wide Association Studies (GWAS)\"! If you're looking to enhance your skills and knowledge in GWAS analysis, this cour",
+      "thread_id": "thread-26469676c743",
+      "thread_depth": 0,
+      "month": "2024-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-9ba05ba036b3",
+      "subject": "Landscape Genomics course in Lausanne, EPL, Switzerland",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-03-07T19:42:42+01:00",
+      "last_reply": "2024-03-07T19:42:42+01:00",
+      "root_message_id": "msg-9ba05ba036b3"
+    },
+    {
+      "id": "thread-c4e300a9035f",
+      "subject": "Online course: course on Genome Assembly and Annotation (3 seats left)",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-03-11T10:42:51+01:00",
+      "last_reply": "2024-03-11T10:42:51+01:00",
+      "root_message_id": "msg-c4e300a9035f"
+    },
+    {
+      "id": "thread-fc042fcdea89",
+      "subject": "Online course; Multivariate Data Analysis with R and vegan",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-03-21T07:39:15+01:00",
+      "last_reply": "2024-03-21T07:39:15+01:00",
+      "root_message_id": "msg-fc042fcdea89"
+    },
+    {
+      "id": "thread-26469676c743",
+      "subject": "Online course: Introduction to GWAS",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-03-24T11:06:00+01:00",
+      "last_reply": "2024-03-24T11:06:00+01:00",
+      "root_message_id": "msg-26469676c743"
+    }
+  ]
+}

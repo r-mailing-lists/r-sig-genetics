@@ -1,0 +1,74 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2016-06",
+  "messages": [
+    {
+      "id": "msg-a7550a415e74",
+      "message_id": "<CANPRA+o40SsJ7n04K+FZXUsXKspL=tV5G_OBfqhKf10O0L18zQ@mail.gmail.com>",
+      "from_name": "Thibaut Jombart",
+      "from_email_hash": "a870df9f6e75f3cbcc4043deb7cf0598da9e8598f08b1621deb5537b21fb46f5",
+      "date": "2016-06-02T16:35:19+01:00",
+      "subject": "[R-sig-genetics] genetic data analysis in R short course, Glasgow 16-20 Aug 2016",
+      "subject_clean": "genetic data analysis in R short course, Glasgow 16-20 Aug 2016",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\na quick message to advertise the 2nd instance of the short course on\nGenetic Data Analysis using R, which will take place this summer near\nGlasgow, on the shores of Loch Lomond, 16-20 August 2016.\n\nFor more information, contacts and booking:\nhttp://prstatistics.com/course/genetic-data-analysis-using-r-gdar/\n\nFeel free to circulate this ad wherever relevant, and sorry in advance\nabout double-posting.\n\nLooking forward to meeting some of you under the Scottish sun!\nBest\nThibaut\n\n--\nDr Thibaut Jombart\nLecturer, Department of Infectious Disease Epidemiology\nImperial College London\nhttps://sites.google.com/site/thibautjombart/\nhttps://github.com/thibautjombart\nTwitter: @TeebzR <https://twitter.com/TeebzR>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\na quick message to advertise the 2nd instance of the short course on\nGenetic Data Analysis using R, which will take place this summer near\nGlasgow, on the shores of Loch Lomond, 16-20 Augus",
+      "thread_id": "thread-a7550a415e74",
+      "thread_depth": 0,
+      "month": "2016-06"
+    },
+    {
+      "id": "msg-6c7ae7a5afe0",
+      "message_id": "<3092592.TXh0rrodnL@veles>",
+      "from_name": "Vojtěch Zeisek",
+      "from_email_hash": "45d63b52f895aa26802362b8eba97e8fca5bb3222edb7090aaab8ebe958f5e78",
+      "date": "2016-06-02T18:22:42+02:00",
+      "subject": "[R-sig-genetics] genetic data analysis in R short course, Glasgow 16-20 Aug 2016",
+      "subject_clean": "genetic data analysis in R short course, Glasgow 16-20 Aug 2016",
+      "in_reply_to": "<CANPRA+o40SsJ7n04K+FZXUsXKspL=tV5G_OBfqhKf10O0L18zQ@mail.gmail.com>",
+      "references": [
+        "<CANPRA+o40SsJ7n04K+FZXUsXKspL=tV5G_OBfqhKf10O0L18zQ@mail.gmail.com>"
+      ],
+      "body_plain": "Hello,\nit looks interestingly. Would there be any downloadable materials from the \ncourse, so that people not particpating there may also learn something?\nSincerely,\nVojt?ch\n\nDne ?tvrtek 2. ?ervna 2016 16:35:19 CEST, Thibaut Jombart napsal(a):\n> Dear all,\n> \n> a quick message to advertise the 2nd instance of the short course on\n> Genetic Data Analysis using R, which will take place this summer near\n> Glasgow, on the shores of Loch Lomond, 16-20 August 2016.\n> \n> For more information, contacts and booking:\n> http://prstatistics.com/course/genetic-data-analysis-using-r-gdar/\n> \n> Feel free to circulate this ad wherever relevant, and sorry in advance\n> about double-posting.\n> \n> Looking forward to meeting some of you under the Scottish sun!\n> Best\n> Thibaut\n-- \nVojt?ch Zeisek\nhttps://trapa.cz/en/\n\nDepartment of Botany, Faculty of Science\nCharles University in Prague\nBen?tsk? 433/2, Prague, 12801, CZ\nhttps://www.natur.cuni.cz/biology/botany/\nhttps://erasmusclub.natur.cuni.cz/\n\nInstitute of Botany, Academy of Sciences\nZ?mek 1, Pr?honice, 25243, CZ\nhttp://www.ibot.cas.cz/en/\n\nCzech Republic\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: not available\nType: application/pgp-signature\nSize: 819 bytes\nDesc: This is a digitally signed message part.\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20160602/5847c9e1/attachment.bin>",
+      "body_snippet": "Hello,\nit looks interestingly. Would there be any downloadable materials from the \ncourse, so that people not particpating there may also learn something?\nSincerely,\nVojt?ch\n\nDne ?tvrtek 2. ?ervna 201",
+      "thread_id": "thread-a7550a415e74",
+      "thread_depth": 1,
+      "month": "2016-06"
+    },
+    {
+      "id": "msg-fdc285bb556f",
+      "message_id": "<CANPRA+qRFwcs6k_EN5j0bX_5RgN7LVjEYCXKFHOe5bNd9pzWpg@mail.gmail.com>",
+      "from_name": "Thibaut Jombart",
+      "from_email_hash": "a870df9f6e75f3cbcc4043deb7cf0598da9e8598f08b1621deb5537b21fb46f5",
+      "date": "2016-06-02T17:41:39+01:00",
+      "subject": "[R-sig-genetics] genetic data analysis in R short course, Glasgow 16-20 Aug 2016",
+      "subject_clean": "genetic data analysis in R short course, Glasgow 16-20 Aug 2016",
+      "in_reply_to": "<3092592.TXh0rrodnL@veles>",
+      "references": [
+        "<CANPRA+o40SsJ7n04K+FZXUsXKspL=tV5G_OBfqhKf10O0L18zQ@mail.gmail.com>",
+        "<3092592.TXh0rrodnL@veles>"
+      ],
+      "body_plain": "Yes, the material is always put online on the adegenet website.\n\nBest\n\nThibaut\n\n\n--\nDr Thibaut Jombart\nLecturer, Department of Infectious Disease Epidemiology\nImperial College London\nhttps://sites.google.com/site/thibautjombart/\nhttps://github.com/thibautjombart\nTwitter: @TeebzR <https://twitter.com/TeebzR>\n\nOn 2 June 2016 at 17:22, Vojt?ch Zeisek <vojta at trapa.cz> wrote:\n\n> Hello,\n> it looks interestingly. Would there be any downloadable materials from the\n> course, so that people not particpating there may also learn something?\n> Sincerely,\n> Vojt?ch\n>\n> Dne ?tvrtek 2. ?ervna 2016 16:35:19 CEST, Thibaut Jombart napsal(a):\n> > Dear all,\n> >\n> > a quick message to advertise the 2nd instance of the short course on\n> > Genetic Data Analysis using R, which will take place this summer near\n> > Glasgow, on the shores of Loch Lomond, 16-20 August 2016.\n> >\n> > For more information, contacts and booking:\n> > http://prstatistics.com/course/genetic-data-analysis-using-r-gdar/\n> >\n> > Feel free to circulate this ad wherever relevant, and sorry in advance\n> > about double-posting.\n> >\n> > Looking forward to meeting some of you under the Scottish sun!\n> > Best\n> > Thibaut\n> --\n> Vojt?ch Zeisek\n> https://trapa.cz/en/\n>\n> Department of Botany, Faculty of Science\n> Charles University in Prague\n> Ben?tsk? 433/2, Prague, 12801, CZ\n> https://www.natur.cuni.cz/biology/botany/\n> https://erasmusclub.natur.cuni.cz/\n>\n> Institute of Botany, Academy of Sciences\n> Z?mek 1, Pr?honice, 25243, CZ\n> http://www.ibot.cas.cz/en/\n>\n> Czech Republic\n>\n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Yes, the material is always put online on the adegenet website.\n\nBest\n\nThibaut\n\n\n--\nDr Thibaut Jombart\nLecturer, Department of Infectious Disease Epidemiology\nImperial College London\nhttps://sites.goo",
+      "thread_id": "thread-a7550a415e74",
+      "thread_depth": 2,
+      "month": "2016-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-a7550a415e74",
+      "subject": "genetic data analysis in R short course, Glasgow 16-20 Aug 2016",
+      "message_count": 3,
+      "participants": [
+        "Thibaut Jombart",
+        "Vojtěch Zeisek"
+      ],
+      "started": "2016-06-02T16:35:19+01:00",
+      "last_reply": "2016-06-02T17:41:39+01:00",
+      "root_message_id": "msg-a7550a415e74"
+    }
+  ]
+}

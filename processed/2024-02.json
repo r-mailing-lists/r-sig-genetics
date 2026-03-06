@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2024-02",
+  "messages": [
+    {
+      "id": "msg-d348f23fe5da",
+      "message_id": "<1708242039.7939059@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-02-18T08:40:39+01:00",
+      "subject": "[R-sig-genetics] Online course: Model-Based Demographic Inference from Population Genomics",
+      "subject_clean": "Online course: Model-Based Demographic Inference from Population Genomics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are excited to announce that registrations are open for the 3rd edition of our course on \"Model-Based Demographic Inference from Population Genomics\" scheduled from May 27th to May 31st, 2024. To accommodate international participation, the course will be conducted online.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/demoinference/ ]( https://www.physalia-courses.org/courses-workshops/demoinference/ )\nThis course will delve into inferring demographic models from genomic datasets, focusing on both model and non-model organisms. Participants will gain hands-on experience in using single nucleotide polymorphisms (SNPs) and the site-frequency spectrum (SFS) to estimate demographic parameters such as divergence times and effective population sizes. Theoretical lectures will be complemented by practical exercises using simulated and real data.\nThis course is designed for graduate students, postdocs, and researchers interested in population genomics and statistical inference. While a basic understanding of population genetics is recommended, no prior programming experience is necessary. However, participants are encouraged to familiarize themselves with R and UNIX-based command lines before the course.\n \nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/demoinference/ )\nBest regards,\n \nCarlo\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are excited to announce that registrations are open for the 3rd edition of our course on \"Model-Based Demographic Inference from Population Genomics\" scheduled from May 27th to May 31st, ",
+      "thread_id": "thread-d348f23fe5da",
+      "thread_depth": 0,
+      "month": "2024-02"
+    },
+    {
+      "id": "msg-ed6c1768f764",
+      "message_id": "<CAEsSYzxK+425nQsUMW4H_U5TuStXHSp+RXWBFbG3wHOyP+nNEg@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2024-02-27T21:20:18Z",
+      "subject": "[R-sig-genetics] ONLINE COURSE – An Introduction to Spatial Eco-Phylogenetics and Comparative Methods (SECM01)",
+      "subject_clean": "ONLINE COURSE – An Introduction to Spatial Eco-Phylogenetics and Comparative Methods (SECM01)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? An Introduction to Spatial Eco-Phylogenetics and\nComparative Methods (SECM01)\n\nWe still have a few places available.\n\nhttps://www.prstats.org/course/an-introduction-to-spatial-eco-phylogenetics-and-comparative-methods-\nsecm01/\n\n19th - 22nd March 2024\n\nPlease feel free to share!\n\nCOURSE OVERVIEW - In this course we introduce phylogenetic analyses in a\nspatial context. Phylogenetic analyses often imply a high number of species\nfor which phylogenetic information is unavailable, hence we begin by\nproviding an overview on modern techniques to incorporate phylogenetic\nuncertainty in the analyses (day 1). We then cover the most popular\nanalyses in the spatial phylogenetics discipline (day 2), with particular\nfocus on the canonical analysis of neo- and paleo-endemism (CANAPE). The\nsecond part of the course will be devoted to integrating phylogenetic\ninformation into models of geographic distribution of species (day 3),\nfollowed by an overview of recent advances to improve ecological forecasts\nusing phylogenetic mixed models in a Bayesian framework (day 4).\n\nBy the end of the course, participants should:\n\n   - Know how to expand incomplete phylogenies based on taxonomic\n   information and customizing simulation parameters for optimal expansion.\n   - Understand the metrics and concepts used in spatial phylogenetics\n   (i.e. phylogenetic alpha and beta diversity, phylogenetic endemism),\n   interpret them critically, and assess pros and cons of analytical\n   techniques.\n   - Calculate phylogenetic predictors that can be included as covariates\n   in Species Distribution or Niche Models.\n   - Understand and implement the phylogenetic mixed model (PMM) and\n   translate its predictions into a spatial context.\n\n*Day 1  ? Expansion of molecular trees using taxonomic information and\nfundamental metrics of phylogenetic structure*\n\n   - Software for tree expansion exercises; randtip, PhyloMaker\n   - An overview of the fundamental metrics of phylogenetic structure. Null\n   models.\n\n*Day 2 ? Spatial Phylogenetics*\n\n   - Canonical analysis of neo- and paleo- endemism. Metrics, rationale,\n   workflow, and implementation.\n\n*Day 3 ? Phylogenetic Species Distribution Models*\n\n   - Putting phylogenies in the geography: the imprints of evolutionary\n   relationships in distribution models.\n   - Combining phylogenies with co-occurrence to infer spatial phylogenetic\n   predictors.\n   - Fitting, evaluating and interpreting Phylogenetic-SDMs.\n\n*Day 4 ? Beyond PGLS ? Bayes and more*\n\n   - Most common phylogenetic modelling approaches: PGLS\n   - PGLMM\n   - The phylogenetic mixed model (PMM) in a Bayesian framework\n\nPlease email oliverhooker at prstatiatics.com with any questions.\n\n-- \n\nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? An Introduction to Spatial Eco-Phylogenetics and\nComparative Methods (SECM01)\n\nWe still have a few places available.\n\nhttps://www.prstats.org/course/an-introduction-to-spatial-eco-phyl",
+      "thread_id": "thread-ed6c1768f764",
+      "thread_depth": 0,
+      "month": "2024-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d348f23fe5da",
+      "subject": "Online course: Model-Based Demographic Inference from Population Genomics",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-02-18T08:40:39+01:00",
+      "last_reply": "2024-02-18T08:40:39+01:00",
+      "root_message_id": "msg-d348f23fe5da"
+    },
+    {
+      "id": "thread-ed6c1768f764",
+      "subject": "ONLINE COURSE – An Introduction to Spatial Eco-Phylogenetics and Comparative Methods (SECM01)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2024-02-27T21:20:18+00:00",
+      "last_reply": "2024-02-27T21:20:18+00:00",
+      "root_message_id": "msg-ed6c1768f764"
+    }
+  ]
+}

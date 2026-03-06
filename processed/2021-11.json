@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2021-11",
+  "messages": [
+    {
+      "id": "msg-6c82e7c78d96",
+      "message_id": "<CAEsSYzysjkuoGVi6xZ_hM5Tas3E-kyJnEzMjjqe1C6Rjrh=Uog@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2021-11-01T15:07:36Z",
+      "subject": "[R-sig-genetics] Introduction to eco-phylogenetics and comparative analyses using R (ECPH01)",
+      "subject_clean": "Introduction to eco-phylogenetics and comparative analyses using R (ECPH01)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Introduction to eco-phylogenetics and comparative analyses using R (ECPH01)\n\nhttps://www.prstatistics.com/course/introduction-to-eco-phylogenetics-and-comparative-analyses-using-r-ecph01/\n\nPlease feel free to share!\n\n7th - 11th February 2022\n\n*Course overview: *\n\nIn this five day course, we provide an introduction to eco-phylogenetics\nand comparative analyses using R. We begin by providing an  overview on the\nuse of phylogenies as a tool for evolutionary biologists and modern\ntechniques to deal with large phylogenies and to incorporate phylogenetic\nuncertainty in the analyses (day 1). We then cover some of the most\nrelevant eco-phylogenetic analyses and provide examples from the community\nto the macro-ecological scale (day 2-3). Finally, we introduce a diversity\nof classic and modern phylogenetic comparative methods to consider the\nhistorical relationship of lineages in eco-evolutionary research, including\nmodels of trait evolution, analysis of clade diversification and the use of\nphylogenies in spatial distribution models among others (day 4-5).\n\nemail oliverhooker at prstatistics.com with any questions\n\n\nCourse program\n\nMonday 7th ? Classes from 08:00 to 16:30\n\n? Introduction and a brief phylogenetic primer. Basic terminology for non-\nphylogeneticists, phylogenetic inference (quick overview), phylogenies\naevolutionary hypotheses.\n\n? Working with phylogenies. Newick format and structure of the R phylo\nobject. Elementary operations on phylogenies (pruning, resolving\npolytomies, sticking species). Visualizing large phylogenies.\n\n? Building purpose-specific mega-trees from extant trees and incorporating\nphylogenetic uncertainty. Software phylocom, V.PhyloMaker, SUNPLIN and\nrandtip R package.\n\nTuesday 8th ? Classes from 08:00 to 16:30\n\n? Introduction to the eco-phylogenetic framework, classical conception and\nposterior modifications.\n\n? Phylogenetic alpha diversity (how much? how different? how regular?).\nCommunity data matrices, null models, applications to biodiversity\nconservation.\n\n? Phylogenetic beta diversity. The turnover and nestedness component of\nbeta diversity.\n\nWednesday 9th ? Classes from 08:00 to 16:30\n\n? Incorporating the exact branching pattern of phylogenies into\neco-phylogenetic analyses.\n\n? Spatial phylogenetics. RPD, RPE and CANEPE analysis.\n\n? Overview of functional trait ecology. Functional richness, evenness and\ndivergence.Community weighted means.\n\n? Phylogenetic imputation of trait datasets. Bounding prediction\nuncertainty using evolutionary models. Phylogenies as a null model in\necology.\n\nThursday 10th from 08:00 to 16:30\n\n? The phylogenetic comparative method, from independent contrasts to\nsophisticated modelling.\n\n? Analyses of phylogenetic signal and models of evolution: rationale,\ncommon- practice, and new trends.\n\n? Correlated evolution and ancestral trait reconstruction.\n\n? Analyses of diversification, speciation and extinction rates in a\ngeographic context.\n\nFriday 11th ? Classes from 08:00 to 16:30\n\n? The need to account for phylogenetic relationships in models.\n\n? Most common phylogenetic modelling approaches: PGLS, PGLMM, BayesianPMM.\n\n? Putting phylogenies in the geography: how to combine phylogenies with\nspecies distribution models.\n\n-- \nOliver Hooker PhD.\nPR statistics\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Introduction to eco-phylogenetics and comparative analyses using R (ECPH01)\n\nhttps://www.prstatistics.com/course/introduction-to-eco-phylogenetics-and-comparative-analyses-using-r-ecph01/\n\nPlease feel",
+      "thread_id": "thread-6c82e7c78d96",
+      "thread_depth": 0,
+      "month": "2021-11"
+    },
+    {
+      "id": "msg-6473d695ed4c",
+      "message_id": "<CAEsSYzyLe=70BP2ZkFwin5G9n7vRrPj0E4Nu=Th6L9q8ixMYeA@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2021-11-01T15:36:58Z",
+      "subject": "[R-sig-genetics] Pierre Legendre course - Advances in Spatial Analysis of Multivariate Ecological Data: Theory and Practice",
+      "subject_clean": "Pierre Legendre course - Advances in Spatial Analysis of Multivariate Ecological Data: Theory and Practice",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Advances in Spatial Analysis of Multivariate Ecological Data: Theory and\nPractice\n\nhttps://www.prstatistics.com/course/advances-in-spatial-analysis-of-multivariate-ecological-data-theory-and-practice-mvsp04/\n\nPlease feel free to share.\n\n25th - 29th April 2022\n\n?400 per person\n\nCourse Overview:\n\nThe course will describe recent methods (concepts and R tools) that can be\nused to analyse spatial patterns in community ecology. The umbrella concept\nof the course is beta diversity, which is the spatial variation of\ncommunities. These methods are applicable to all types of communities\n(bacteria, plants, animals) sampled along transects, regular grids or\nirregularly distributed sites. The new methods, collectively referred to as\nspatial eigen-function analysis, are grounded into techniques commonly used\nby community ecologists, which will be described first: simple ordination\n(PCA, CA, PCoA), multivariate regression and canonical analysis,\npermutation tests. The choice of dissimilarities that are appropriate for\ncommunity composition data will also be discussed. The focal question is to\ndetermine how much of the community variation (beta diversity) is due to\nenvironmental sorting and to community-based processes, including neutral\nprocesses. Recently developed methods to partition beta diversity in\ndifferent ways will be presented. Extensions will be made to temporal and\nspace-time data.\n\n\nThis course will be a combination of pre-recorded lectures delivered by\nProf. Pierre Legendre, Practical sessions with live support via email or\nvideo link and final live summary with Q and A at the end of each day Prof\nPierre Legendre.\n\nThere will be morning lectures based on the modules outlined in the course\ntimetable. In the afternoon there will be practicals based on the topics\ncovered that morning. Data sets for computer practicals will be provided by\nthe instructors, but participants are welcome to bring their own data.\n\nThe recordings will be aired via zoom. Recordings last for approx. 4 hours.\nFollowed by a 3-hour practical. And then an approx. 3 hour Q and A session\nwith Pierre Legendre.\n\nRecordings will be aired to accommodate different time zones listed below\nin GMT.\n\nGroup 1\nRecordings 08:00 ? 12:00\nPractical 12:30 ? 15:30\n\nGroup 2\nRecordings 12:00 ? 16:00\nPractical 16:30 ? 19:30\n\nGroup 1 and 2\nLive Q and A ? 20:00 ? 23:00 (with Prof. Pierre Legendre)\n\nEmail oliverhooker at prstatistics.com with any questions\n\n-- \nOliver Hooker PhD.\nPR statistics\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Advances in Spatial Analysis of Multivariate Ecological Data: Theory and\nPractice\n\nhttps://www.prstatistics.com/course/advances-in-spatial-analysis-of-multivariate-ecological-data-theory-and-practice-",
+      "thread_id": "thread-6473d695ed4c",
+      "thread_depth": 0,
+      "month": "2021-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-6c82e7c78d96",
+      "subject": "Introduction to eco-phylogenetics and comparative analyses using R (ECPH01)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2021-11-01T15:07:36+00:00",
+      "last_reply": "2021-11-01T15:07:36+00:00",
+      "root_message_id": "msg-6c82e7c78d96"
+    },
+    {
+      "id": "thread-6473d695ed4c",
+      "subject": "Pierre Legendre course - Advances in Spatial Analysis of Multivariate Ecological Data: Theory and Practice",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2021-11-01T15:36:58+00:00",
+      "last_reply": "2021-11-01T15:36:58+00:00",
+      "root_message_id": "msg-6473d695ed4c"
+    }
+  ]
+}

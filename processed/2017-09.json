@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2017-09",
+  "messages": [
+    {
+      "id": "msg-514cc3929e5e",
+      "message_id": "<207EA363-B926-410B-B05F-58E4F3C0A6B9@gmail.com>",
+      "from_name": "Zhian Kamvar",
+      "from_email_hash": "7dc521447931bd0edb4bad308c5643b75a875047acda912ef22609dec2e0a749",
+      "date": "2017-09-13T11:08:03-05:00",
+      "subject": "[R-sig-genetics] New release of poppr version 2.5.0",
+      "subject_clean": "New release of poppr version 2.5.0",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "It's my pleasure to announce that there is a new release of poppr available for download on CRAN now.\nVersion 2.5.0 contains major bug fixes to Bruvo's distance (bug fix for polyploids) and read.genalex.\nDetails: https://github.com/grunwaldlab/poppr/releases/tag/v.2.5.0\n\nAdditionally, as a reminder, Thibaut Jombart (author of adegenet) and I will be leading a course on Reproducible Data Science For Population Genetics in October.\nDetails: https://www.prstatistics.com/course/reproducible-data-science-for-population-genetics-rdpg01/\n\nCheers,\nZhian\n\n-----\nZhian N. Kamvar, Ph. D.\nPostdoctoral Researcher (Everhart Lab)\nDepartment of Plant Pathology\nUniversity of Nebraska-Lincoln\nORCID: 0000-0003-1458-7108",
+      "body_snippet": "It's my pleasure to announce that there is a new release of poppr available for download on CRAN now.\nVersion 2.5.0 contains major bug fixes to Bruvo's distance (bug fix for polyploids) and read.genal",
+      "thread_id": "thread-514cc3929e5e",
+      "thread_depth": 0,
+      "month": "2017-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-514cc3929e5e",
+      "subject": "New release of poppr version 2.5.0",
+      "message_count": 1,
+      "participants": [
+        "Zhian Kamvar"
+      ],
+      "started": "2017-09-13T11:08:03-05:00",
+      "last_reply": "2017-09-13T11:08:03-05:00",
+      "root_message_id": "msg-514cc3929e5e"
+    }
+  ]
+}

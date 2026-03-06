@@ -1,0 +1,170 @@
+From vojtech.zeisek at opensuse.org  Wed Mar 20 10:23:28 2013
+From: vojtech.zeisek at opensuse.org (=?utf-8?B?Vm9qdMSbY2g=?= Zeisek)
+Date: Wed, 20 Mar 2013 10:23:28 +0100
+Subject: [R-sig-genetics] R & Arlequin (little OT?)
+Message-ID: <28415404.c1p7uMXSO8@svarog>
+
+Hello,
+I hope this is not too much off-topic for this list. I'm using Arlequin 3.5 
+http://cmpg.unibe.ch/software/arlequin35/ (actually, Linux version of 
+Arlecore) and I'd like to parse Arelquin's output through R as described in 
+the manual, but I get error about missing function 
+xmlTreeParse, so nothing is computed:
+
+source("/home/vojta/bin/arlecore_linux/Rfunctions/rParsingSettings.r")
+Error in library(XML, lib.loc = paste(substr(sourcePath, 0, nchar(sourcePath) 
+-  : 
+  no library trees found in 'lib.loc'
+Error in library(XML, lib.loc = paste(substr(sourcePath, 0, nchar(sourcePath) 
+-  : 
+  no library trees found in 'lib.loc'
+Error in parseArlequin(infile, outfiles, sourcePath) : 
+  could not find function "xmlTreeParse"
+
+So it seems the xmlTreeParse is missing. Or am I doing something very wrong? 
+Does anyone have any experience with this? :-)
+All the best,
+Vojt?ch
+
+-- 
+Vojt?ch Zeisek
+
+Komunita openSUSE GNU/Linuxu
+Community of the openSUSE GNU/Linux
+
+http://www.opensuse.org/
+http://trapa.cz/
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 490 bytes
+Desc: This is a digitally signed message part.
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130320/6e9c9370/attachment.bin>
+
+From t.jombart at imperial.ac.uk  Wed Mar 20 11:10:18 2013
+From: t.jombart at imperial.ac.uk (Jombart, Thibaut)
+Date: Wed, 20 Mar 2013 10:10:18 +0000
+Subject: [R-sig-genetics] R & Arlequin (little OT?)
+In-Reply-To: <28415404.c1p7uMXSO8@svarog>
+References: <28415404.c1p7uMXSO8@svarog>
+Message-ID: <2CB2DA8E426F3541AB1907F98ABA657057A4B93B@icexch-m1.ic.ac.uk>
+
+Hello, 
+
+I'm not sure if you're trying to export data, or merely results of some analyses. For data, the best may be to export to a format such as GENETIX, FStat, or Genepop, and then import the data in R (see import2genind in adegenet). For results, it is probably easiest to export everything to a text file and then read it from R. I have never used Arlequin, but I suspect these are standard features.
+
+Best
+Thibaut
+________________________________________
+From: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] on behalf of Vojt?ch Zeisek [vojtech.zeisek at opensuse.org]
+Sent: 20 March 2013 09:23
+To: mailinglist R
+Subject: [R-sig-genetics] R & Arlequin (little OT?)
+
+Hello,
+I hope this is not too much off-topic for this list. I'm using Arlequin 3.5
+http://cmpg.unibe.ch/software/arlequin35/ (actually, Linux version of
+Arlecore) and I'd like to parse Arelquin's output through R as described in
+the manual, but I get error about missing function
+xmlTreeParse, so nothing is computed:
+
+source("/home/vojta/bin/arlecore_linux/Rfunctions/rParsingSettings.r")
+Error in library(XML, lib.loc = paste(substr(sourcePath, 0, nchar(sourcePath)
+-  :
+  no library trees found in 'lib.loc'
+Error in library(XML, lib.loc = paste(substr(sourcePath, 0, nchar(sourcePath)
+-  :
+  no library trees found in 'lib.loc'
+Error in parseArlequin(infile, outfiles, sourcePath) :
+  could not find function "xmlTreeParse"
+
+So it seems the xmlTreeParse is missing. Or am I doing something very wrong?
+Does anyone have any experience with this? :-)
+All the best,
+Vojt?ch
+
+--
+Vojt?ch Zeisek
+
+Komunita openSUSE GNU/Linuxu
+Community of the openSUSE GNU/Linux
+
+http://www.opensuse.org/
+http://trapa.cz/
+
+
+From vojtech.zeisek at opensuse.org  Wed Mar 20 13:34:46 2013
+From: vojtech.zeisek at opensuse.org (=?utf-8?B?Vm9qdMSbY2g=?= Zeisek)
+Date: Wed, 20 Mar 2013 13:34:46 +0100
+Subject: [R-sig-genetics] R & Arlequin (little OT?)
+In-Reply-To: <2CB2DA8E426F3541AB1907F98ABA657057A4B93B@icexch-m1.ic.ac.uk>
+References: <28415404.c1p7uMXSO8@svarog>
+	<2CB2DA8E426F3541AB1907F98ABA657057A4B93B@icexch-m1.ic.ac.uk>
+Message-ID: <1607950.WhUxKpI5BM@svarog>
+
+Hello,
+the point is, that Arlequin produces XML file containing all results. Results 
+are in form of tables. There is set of Arlequin's R scripts, which should be 
+able to parse this XML and produce graphics. But I'm not able to get it to 
+work... :-( Never mind, I asked just in case someone would have experience 
+with it.
+All the best,
+Vojt?ch
+
+Dne St 20. b?ezna 2013 10:10:18, Jombart, Thibaut napsal(a):
+> Hello,
+> 
+> I'm not sure if you're trying to export data, or merely results of some
+> analyses. For data, the best may be to export to a format such as GENETIX,
+> FStat, or Genepop, and then import the data in R (see import2genind in
+> adegenet). For results, it is probably easiest to export everything to a
+> text file and then read it from R. I have never used Arlequin, but I
+> suspect these are standard features.
+> 
+> Best
+> Thibaut
+> ________________________________________
+> From: r-sig-genetics-bounces at r-project.org
+> [r-sig-genetics-bounces at r-project.org] on behalf of Vojt?ch Zeisek
+> [vojtech.zeisek at opensuse.org] Sent: 20 March 2013 09:23
+> To: mailinglist R
+> Subject: [R-sig-genetics] R & Arlequin (little OT?)
+> 
+> Hello,
+> I hope this is not too much off-topic for this list. I'm using Arlequin 3.5
+> http://cmpg.unibe.ch/software/arlequin35/ (actually, Linux version of
+> Arlecore) and I'd like to parse Arelquin's output through R as described in
+> the manual, but I get error about missing function
+> xmlTreeParse, so nothing is computed:
+> 
+> source("/home/vojta/bin/arlecore_linux/Rfunctions/rParsingSettings.r")
+> Error in library(XML, lib.loc = paste(substr(sourcePath, 0,
+> nchar(sourcePath) -  :
+>   no library trees found in 'lib.loc'
+> Error in library(XML, lib.loc = paste(substr(sourcePath, 0,
+> nchar(sourcePath) -  :
+>   no library trees found in 'lib.loc'
+> Error in parseArlequin(infile, outfiles, sourcePath) :
+>   could not find function "xmlTreeParse"
+> 
+> So it seems the xmlTreeParse is missing. Or am I doing something very wrong?
+> Does anyone have any experience with this? :-)
+> All the best,
+> Vojt?ch
+-- 
+Vojt?ch Zeisek
+
+Komunita openSUSE GNU/Linuxu
+Community of the openSUSE GNU/Linux
+
+http://www.opensuse.org/
+http://trapa.cz/
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 490 bytes
+Desc: This is a digitally signed message part.
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130320/d64dfa0a/attachment.bin>
+

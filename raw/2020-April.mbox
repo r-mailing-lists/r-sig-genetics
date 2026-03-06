@@ -1,0 +1,187 @@
+From gu|||@ume_@chwob @end|ng |rom hotm@||@|r  Thu Apr 23 15:02:34 2020
+From: gu|||@ume_@chwob @end|ng |rom hotm@||@|r (Guillaume SCHWOB)
+Date: Thu, 23 Apr 2020 09:02:34 -0400
+Subject: [R-sig-genetics] Polymorphic sites counting and fasta file expanding
+Message-ID: <DBAPR07MB6581989A4D42D4E2C83B214A80D30@DBAPR07MB6581.eurprd07.prod.outlook.com>
+
+Hello dear community,
+
+I would have two questions:
+
+The first one. I am looking for a way to count the number of polymorphic sites across a DNAbin object in R ? 
+I was thinking about using the package Pegas, but I didn?t find any function that could do that.
+
+The second one. How can I expand a fasta file that contains unique sequences of haplotypes according to a frequency table ?
+
+I would be grateful to any guidance,
+
+Best wishes,
+
+Guillaume SCHWOB
+Post Doctorado en Ecolog?a Microbiana
+Proyecto Genomics Antarctic Biodiversity (GAB)
+
+Laboratorio de Ecolog?a Molecular (LEM)
+Departamento de Ciencias Ecol?gicas
+Facultad de Ciencias, Universidad de Chile
+Las Palmeras 3425,
+CP 7800003, ?u?oa, Santiago, Chile
+
+http://www.antarcticgenomics.cl <http://www.antarcticgenomics.cl/>
+https://www.researchgate.net/profile/Guillaume_Schwob <https://www.researchgate.net/profile/Guillaume_Schwob>
+
+
+
+
+
+
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From zk@mv@r @end|ng |rom gm@||@com  Thu Apr 23 19:16:06 2020
+From: zk@mv@r @end|ng |rom gm@||@com (Zhian N. Kamvar)
+Date: Thu, 23 Apr 2020 10:16:06 -0700
+Subject: [R-sig-genetics] Polymorphic sites counting and fasta file
+ expanding
+In-Reply-To: <DBAPR07MB6581989A4D42D4E2C83B214A80D30@DBAPR07MB6581.eurprd07.prod.outlook.com>
+References: <DBAPR07MB6581989A4D42D4E2C83B214A80D30@DBAPR07MB6581.eurprd07.prod.outlook.com>
+Message-ID: <e1d8b583-d7b8-7537-d397-22ce8c74c95a@gmail.com>
+
+You can use the functions in the ape package for this (where DNAbin is 
+defined).
+
+To find the number of polymorphic sites, you can use the `seg.sites()` 
+function:
+
+library(ape)
+
+data(woodmouse)
+
+length(seg.sites(woodmouse))
+
+
+To expand the the fasta file, read it in as a DNAbin object and then use 
+the table with `rep()` to expand the indices in the matrix:
+
+mytable <- data.frame(ids = names(woodmouse), n = sample(10, 
+nrow(woodmouse), rep = TRUE), stringsAsFactors = FALSE)
+
+expanded_woodmouse <- woodmouse[with(mytable, rep(ids, n)), ]
+
+Hope that helps,
+
+Zhian
+
+On 4/23/20 6:02 AM, Guillaume SCHWOB wrote:
+> Hello dear community,
+>
+> I would have two questions:
+>
+> The first one. I am looking for a way to count the number of polymorphic sites across a DNAbin object in R ?
+> I was thinking about using the package Pegas, but I didn?t find any function that could do that.
+>
+> The second one. How can I expand a fasta file that contains unique sequences of haplotypes according to a frequency table ?
+>
+> I would be grateful to any guidance,
+>
+> Best wishes,
+>
+> Guillaume SCHWOB
+> Post Doctorado en Ecolog?a Microbiana
+> Proyecto Genomics Antarctic Biodiversity (GAB)
+>
+> Laboratorio de Ecolog?a Molecular (LEM)
+> Departamento de Ciencias Ecol?gicas
+> Facultad de Ciencias, Universidad de Chile
+> Las Palmeras 3425,
+> CP 7800003, ?u?oa, Santiago, Chile
+>
+> http://www.antarcticgenomics.cl <http://www.antarcticgenomics.cl/>
+> https://www.researchgate.net/profile/Guillaume_Schwob <https://www.researchgate.net/profile/Guillaume_Schwob>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+> 	[[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+
+From mdomen@n @end|ng |rom gm@||@com  Wed Apr 29 12:04:25 2020
+From: mdomen@n @end|ng |rom gm@||@com (=?UTF-8?Q?Marc_Dom=C3=A8nech_Andreu?=)
+Date: Wed, 29 Apr 2020 12:04:25 +0200
+Subject: [R-sig-genetics] Pegas vs Arlequin, and negative AMOVA values
+Message-ID: <CAC3bDTQbbNRiZWMBmp5=3fN2Tb88o_3w1q=2GFZpHO4wOeLTKQ@mail.gmail.com>
+
+Hello everyone,
+I would like to ask for help with two questions regarding AMOVA and the
+Pegas package.
+1. Do you know which is the formula or equation that Pegas and Arlequin use
+for performing AMOVA? I only get to obtain almost identical results when I
+set "is.squared = FALSE" in pegas and "Locus by locus AMOVA" in Arlequin.
+2. I'm doing the analyses for several species, and for some of them I
+obtained negative AMOVA results. I know slightly negative results are not
+uncommon and as far as I know they should be treated as 0, but in some
+cases they are very negative, such as -25%. Why can this be? Maybe because
+I have too few sequences for those species?
+Thanks in advance,
+Marc
+
+-- 
+*Marc Dom?nech Andreu*
+PhD student at University of Barcelona.
+Departament de Biologia Evolutiva, Ecologia i Ci?ncies Ambientals.
+
+	[[alternative HTML version deleted]]
+
+
+From zk@mv@r @end|ng |rom gm@||@com  Wed Apr 29 17:26:23 2020
+From: zk@mv@r @end|ng |rom gm@||@com (Zhian N. Kamvar)
+Date: Wed, 29 Apr 2020 08:26:23 -0700
+Subject: [R-sig-genetics] Pegas vs Arlequin, and negative AMOVA values
+In-Reply-To: <CAC3bDTQbbNRiZWMBmp5=3fN2Tb88o_3w1q=2GFZpHO4wOeLTKQ@mail.gmail.com>
+References: <CAC3bDTQbbNRiZWMBmp5=3fN2Tb88o_3w1q=2GFZpHO4wOeLTKQ@mail.gmail.com>
+Message-ID: <570fe58c-5626-a4ea-97ee-27e4f8764e86@gmail.com>
+
+This highly depends on the distance function you are using for pegas:
+
+1. How does it treat missing data? I believe Arlequin treats missing 
+data by dropping them from the denominator.
+
+2. If you have a diploid species, does it calculate distance for haplotypes?
+
+Both of these can affect the resulting Phi values. You might also try 
+poppr.amova() with the method = "pegas" function to automate the process.
+
+Best,
+
+Zhian
+
+On 4/29/20 3:04 AM, Marc Dom?nech Andreu wrote:
+> Hello everyone,
+> I would like to ask for help with two questions regarding AMOVA and the
+> Pegas package.
+> 1. Do you know which is the formula or equation that Pegas and Arlequin use
+> for performing AMOVA? I only get to obtain almost identical results when I
+> set "is.squared = FALSE" in pegas and "Locus by locus AMOVA" in Arlequin.
+> 2. I'm doing the analyses for several species, and for some of them I
+> obtained negative AMOVA results. I know slightly negative results are not
+> uncommon and as far as I know they should be treated as 0, but in some
+> cases they are very negative, such as -25%. Why can this be? Maybe because
+> I have too few sequences for those species?
+> Thanks in advance,
+> Marc
+>
+
+

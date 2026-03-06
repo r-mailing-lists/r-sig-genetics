@@ -1,0 +1,146 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2025-12",
+  "messages": [
+    {
+      "id": "msg-c84ad636a87c",
+      "message_id": "<1764855901.01676927@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-12-04T14:45:01+01:00",
+      "subject": "[R-sig-genetics] UNIX and Shell Scripting for Bioinformatics",
+      "subject_clean": "UNIX and Shell Scripting for Bioinformatics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are pleased to announce the upcoming Physalia online course ?UNIX and Shell Scripting for Bioinformatics?, taking place on 12?16 January 2026.\n \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/unix/ ]( https://www.physalia-courses.org/courses-workshops/unix/ )\n \nThis practical course introduces participants to the foundations of Unix and command-line environments, with a strong focus on applications in bioinformatics. Through hands-on exercises, attendees will learn how to navigate Unix systems, use essential commands, process large biological datasets, and build reproducible workflows using shell scripting. The sessions will also cover connecting to remote servers, installing software, managing environments, and working efficiently with NGS data.\n \nThe course assumes no prior Unix or scripting knowledge and is ideal for researchers who wish to strengthen their computational skills.\n \nIf you are interested in joining, please visit our course page for more details: [ https://www.physalia-courses.org/courses-workshops/unix/ ]( https://www.physalia-courses.org/courses-workshops/unix/ ) \n \nKind regards,\n \nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are pleased to announce the upcoming Physalia online course ?UNIX and Shell Scripting for Bioinformatics?, taking place on 12?16 January 2026.\n \n \nCourse website: [ https://www.physalia-c",
+      "thread_id": "thread-c84ad636a87c",
+      "thread_depth": 0,
+      "month": "2025-12"
+    },
+    {
+      "id": "msg-5b9ab6ab0f78",
+      "message_id": "<1765192680.333520998@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-12-08T12:18:00+01:00",
+      "subject": "[R-sig-genetics] Population Genomics course",
+      "subject_clean": "Population Genomics course",
+      "in_reply_to": "<1765096525.832821192@webmail.jimdo.com>",
+      "references": [
+        "<1765096525.832821192@webmail.jimdo.com>"
+      ],
+      "body_plain": "Dear colleagues,\n\nWe are pleased to announce the upcoming Physalia online course: INTRODUCTION TO POPULATION GENOMICS\n \nDates: 16?20 March 2026\n \nFor further information and registration details, please visit:\n[ https://www.physalia-courses.org/courses-workshops/population-genomics/ ]( https://www.physalia-courses.org/courses-workshops/population-genomics/ )\n \nThis five-day course offers a comprehensive introduction to key concepts and analytical methods in population genomics. The program combines lectures with hands-on practical sessions each day, enabling participants to apply techniques directly to real datasets.\n \n \nTopics covered include:\n\n? Management of short-read sequencing data: QC, trimming, mapping, SNP calling\n? Population structure and introgression\n? Demographic inference and model comparison\n? Genome scans for association and selection (GWAS, GEA, selective sweeps)\n? Landscape genomics and spatial analyses\n \nThe course is intended for graduate students, postdoctoral researchers, and scientists with a basic background in genetics/genomics and some familiarity with UNIX command line tools and R. \n \nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )[  ]( https://www.physalia-courses.org/courses-workshops/p )\n \n \nBest regards,\nCarlo\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\n\n \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear colleagues,\n\nWe are pleased to announce the upcoming Physalia online course: INTRODUCTION TO POPULATION GENOMICS\n \nDates: 16?20 March 2026\n \nFor further information and registration details, plea",
+      "thread_id": "thread-5b9ab6ab0f78",
+      "thread_depth": 0,
+      "month": "2025-12"
+    },
+    {
+      "id": "msg-56a9f32e299a",
+      "message_id": "<1765473495.30211464@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-12-11T18:18:15+01:00",
+      "subject": "[R-sig-genetics] Genomic Data Visualisation with R",
+      "subject_clean": "Genomic Data Visualisation with R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,We are excited to announce our upcoming online course Genomic Data Visualisation with R, taking place 15?17 December 2025. Designed for participants familiar with R, this course covers essential graphical methods used in genomics research.Over three days, you will learn to create and interpret key plots such as volcano plots, genome coverage graphs, phylogenetic trees, synteny plots, and many more.Course schedule:Monday to Wednesday, 1?6 PM Berlin timeCourse website:[ https://www.physalia-courses.org/cou...omic-data-viz/ ]( https://www.physalia-courses.org/courses-workshops/genomic-data-viz/ )Whether your focus is expression studies, genome statistics, or comparative genomics, this course offers practical skills to enhance your data visualization toolkit.Secure your spot and join an international community of genomic researchers!Best regards,Carlo PecoraroPhysalia-courses Director\n \n[ www.physalia-courses.org ]( http://www.physalia-courses.org ) \n \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,We are excited to announce our upcoming online course Genomic Data Visualisation with R, taking place 15?17 December 2025. Designed for participants familiar with R, this course covers essent",
+      "thread_id": "thread-56a9f32e299a",
+      "thread_depth": 0,
+      "month": "2025-12"
+    },
+    {
+      "id": "msg-3ac866f533db",
+      "message_id": "<1765885315.438415507@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-12-16T12:41:55+01:00",
+      "subject": "[R-sig-genetics] Marine Genomics course in Crete - 25 to 29 May 2026.",
+      "subject_clean": "Marine Genomics course in Crete - 25 to 29 May 2026.",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are pleased to announce our upcoming in-person Physalia course on Marine Genomics, held at the Hellenic Centre for Marine Research in Heraklion, Crete, from 25 to 29 May 2026.\n \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/marine-genomics/ ]( https://www.physalia-courses.org/courses-workshops/marine-genomics/ ) \n \nThis course offers a comprehensive introduction to the rapidly evolving field of marine  genomics, combining theoretical foundations with practical, hands-on training using real marine datasets. Over five days, participants will learn to assess genome assemblies, process sequencing data, perform population genomics analyses, and integrate genomic with environmental data in seascape genomics frameworks. The course is designed for graduate students, postdocs, and researchers with some background in genetics/genomics and evolutionary biology, as well as familiarity with R and UNIX command line.\n \nUnder the guidance of leading experts, you will develop skills to design and conduct marine genomics studies, interpret complex data, and apply insights to ecology, conservation, and fisheries management. This is an excellent opportunity to gain practical experience in a unique setting while connecting with peers and experts in the field.\n \nBest regards,\n \nValentina\n \n \n \n\nValentina Sardina\nCourse coordinator\ninfo at physalia-courses.org\n[ http://www.physalia-courses.org/ ]( http://www.physalia-courses.org/ ) \nmobile: +49 17645230846\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are pleased to announce our upcoming in-person Physalia course on Marine Genomics, held at the Hellenic Centre for Marine Research in Heraklion, Crete, from 25 to 29 May 2026.\n \n \nCourse ",
+      "thread_id": "thread-3ac866f533db",
+      "thread_depth": 0,
+      "month": "2025-12"
+    },
+    {
+      "id": "msg-cb72b54497d6",
+      "message_id": "<i8a0BtzWRCWlgcqcfAz3jA@geopod-ismtpd-9>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2025-12-16T12:05:00Z",
+      "subject": "[R-sig-genetics] Free Instats events – happy holidays",
+      "subject_clean": "Free Instats events – happy holidays",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello everyone\n\nOver the holidays Instats is pleased to be offering over 80 free research training events that you can access on-demand and livestreaming. Whether it's software introductions or modern AI methods for research, there's something for everyone in the lineup of Instats research training below.\n\nWe hope you and your colleagues enjoy?and happy holidays from everyone at Instats!\n\nQuestionnaire Design with Surette van Staden - Livestream Jan 12 <https://instats.org/seminar/questionnaire-design-principles-and-prac>\n\nOrganizational Humor with Cecily Cooper - Livestream Jan 13 <https://instats.org/seminar/organizational-humor-free-seminar>\n\nSuccess as an Applied Statistician with the ASA - Livestream Jan 14 <https://instats.org/seminar/success-as-an-applied-statistician>\n\nPollution and Health with Michael Cork - On-Demand <https://instats.org/seminar/pollution-and-health-free-seminar>\n\nGood Writing Habits for Academics with Lynn Nygaard - On-Demand <https://instats.org/seminar/good-writing-habits-for-academics-free-s-1>\n\nSupport Decisions with Stats and Stories with the ASA - On-Demand <https://instats.org/seminar/support-decisions-with-stats-and-stories-1>\n\nScience Writing and Storytelling with the APS - On-Demand <https://instats.org/seminar/science-writing-and-storytelling-free-se>\n\nPrinciples of Research Design with Bob Hanck? - On-Demand <https://instats.org/seminar/principles-of-research-design-free-semin-1>\n\nStatKey - Free Online Statistics App with Patti Frazer Lock - On-Demand <https://instats.org/seminar/statkey---free-online-statistics-app-fre-1>\n\nCommunicating Statistical Information with the ASA - On-Demand <https://instats.org/seminar/communicating-statistical-information-fr-1>\n\nDesign-Based vs. Model-Based Estimation with the WSS - On-Demand <https://instats.org/seminar/design-based-vs-model-based-estimation-f-1>\n\nWhat is GIS? with Nick Bearman - On-Demand <https://instats.org/seminar/what-is-gis-free-seminar-1>\n\nBehavioral Science of LLMs with Antonios Stamatogiannakis - On-Demand <https://instats.org/seminar/behavioral-science-of-llms-free-seminar>\n\nSeminal Ideas and Controversies in Statistics with Roderick Little - On-Demand <https://instats.org/seminar/seminal-ideas-and-controversies-in-stati-1>\n\nLeadership in Statistics with the ASA - On-Demand <https://instats.org/seminar/leadership-in-statistics-free-seminar-1>\n\nNetwork Structures and Hypergraphs with Moses Boudourides - On-Demand <https://instats.org/seminar/network-structures-and-hypergraphs-free-1>\n\nAI Powered Business Analytics with Copilot with Dr. Sourindra Banerjee - On-Demand <https://instats.org/seminar/ai-powered-business-analytics-with-copil-1>\n\nDeveloping Gene Therapies: A Statistician's Guide with Avery McIntosh - On-Demand <https://instats.org/seminar/developing-gene-therapies-a-statistician-1>\n\nData Management and Visualization in Excel with SMCS - On-Demand <https://instats.org/seminar/data-management-and-visualization-in-exc>\n\nFinding and Changing Academic Jobs with Leonid Chindelevitch - On-Demand <https://instats.org/seminar/finding-and-changing-academic-jobs-free-1>\n\nLongitudinal Data Analysis in Biostatistics with Tuhin Sheikh - On-Demand <https://instats.org/seminar/longitudinal-data-analysis-in-biostatist-1>\n\nIntroduction to EViews with Malvina Marchese - On-Demand <https://instats.org/seminar/introduction-to-eviews-free-seminar>\n\nJungian Arts-Based Research with Susan Rowland - On-Demand <https://instats.org/seminar/jungian-arts-based-research-free-seminar-2>\n\nDisparities, Discrimination, and Data with Marina Gorzig - On-Demand <https://instats.org/seminar/disparities-discrimination-and-data-free-1>\n\nIntroduction to MAXQDA with Andreas M?ller - On-Demand <https://instats.org/seminar/introduction-to-maxqda-free-seminar-1>\n\nAI Tools for Researchers with Peter Gruber - On-Demand <https://instats.org/seminar/ai-tools-for-researchers-free-seminar-1>\n\nIncorporating EDI in Research with Lawrence Mbuagbaw - On-Demand <https://instats.org/seminar/incorporating-edi-in-research-free-semin-1>\n\nHow Work Sustains Racial Inequality with Adia Wingfield - On-Demand <https://instats.org/seminar/how-work-sustains-racial-inequality-free>\n\nCreative Academic Writing with Helen Kara - On-Demand <https://instats.org/seminar/creative-academic-writing-free-seminar-1>\n\nRadical Research Ethics with Helen Kara - On-Demand <https://instats.org/seminar/radical-research-ethics-free-seminar-1>\n\nOvercoming Regional Survey Nonresponse with the SSC - On-Demand <https://instats.org/seminar/overcoming-regional-survey-nonresponse-f>\n\nCreative Research Methods with Helen Kara - On-Demand <https://instats.org/seminar/creative-research-methods-free-seminar-1>\n\nCombining PLS-SEM and NCA with Nicole Franziska Richter - On-Demand <https://instats.org/seminar/combining-pls-sem-and-nca-free-seminar-1>\n\nUsing Zotero for Academic Writing with Daisung Jang - On-Demand <https://instats.org/seminar/using-zotero-for-academic-writing-free-s>\n\nMulticultural Nationalism as a Hope for Depolarisation with Tariq Modood - On-Demand <https://instats.org/seminar/multicultural-nationalism-as-a-hope-for-1>\n\nSimulation-Based Inference: Bootstrapping and Randomization with Patti Frazer Lock - On-Demand <https://instats.org/seminar/simulation-based-inference-bootstrapping>\n\nIntroduction to Bayesian Modelling using RStan with Justin Slater - On-Demand <https://instats.org/seminar/introduction-to-bayesian-modelling-using-1>\n\nPredictive Model Assessments and Comparisons in PLS-SEM with Academy of Marketing Science - On-Demand <https://instats.org/seminar/predictive-model-assessments-and-compari-1>\n\nTeaching Statistics via Active Investigations with Nathan Tintle - On-Demand <https://instats.org/seminar/teaching-statistics-via-active-investiga-1>\n\nEvolutionary Ecology of the Barn Owl with Alexandre Roulin - On-Demand <https://instats.org/seminar/evolutionary-ecology-of-the-barn-owl-fre>\n\n?Preparing and Exploring Data in SPSS with QCIF - On-Demand <https://instats.org/seminar/preparing-and-exploring-data-in-spss-fre-1>\n\nPublishing on Emerging Topics: Strategies for Success with Academy of Marketing Science - On-Demand <https://instats.org/seminar/publishing-on-emerging-topics-strategies-1>\n\nGetting started with R and RStudio with QCIF - On-Demand <https://instats.org/seminar/getting-started-with-r-and-rstudio-free>\n\nEducator Self-Assessment for Equity and Belonging with the SSC - On-Demand <https://instats.org/seminar/educator-self-assessment-for-equity-and-1>\n\nIntroduction to Qualitative Data Analysis with MAXQDA with MAXQDA - On-Demand <https://instats.org/seminar/introduction-to-qualitative-data-analysi-1>\n\nMachine Learning Essentials with Kimberly Fessel - On-Demand <https://instats.org/seminar/machine-learning-essentials-free-semina3>\n\nEfficient Programming in R with Michail Tsagris - On-Demand <https://instats.org/seminar/efficient-programming-in-r-free-seminar3>\n\nIntroduction to Social Network Analysis with Ran Xu - On-Demand <https://instats.org/seminar/introduction-to-social-network-analysis-4>\n\nUsing Mplus for DSEM with Cycles with Bengt Muthen - On-Demand <https://instats.org/seminar/using-mplus-for-dsem-with-cycles-free-s>\n\nUsing Mplus for Dynamic SEM with Bengt Muthen - On-Demand <https://instats.org/seminar/using-mplus-for-dynamic-sem-free-semina>\n\nCan CLPM Establish Cross-Lagged Effects? with Bengt Muthen - On-Demand <https://instats.org/seminar/can-clpm-establish-cross-lagged-effects>\n\nUsing Mplus for CLPM, Part 2: Categorical Variables with Bengt Muthen - On-Demand <https://instats.org/seminar/using-mplus-for-clpm-part-2-categorica>\n\nUsing Mplus for CLPM, Part 1: Continuous Variables with Bengt Muthen - On-Demand <https://instats.org/seminar/using-mplus-for-clpm-part-1-continuous>\n\nBetter Longitudinal SEM: Wheaton et al. 46 Years Later with Bengt Muthen - On-Demand <https://instats.org/seminar/better-longitudinal-sem-wheaton-et-al->\n\nUsing Mplus for LTA and RI-LTA with Bengt Muthen - On-Demand <https://instats.org/seminar/using-mplus-for-lta-and-ri-lta-free-sem>\n\nMultilevel and Single-Level Modeling: Insights from LTA with Bengt Muthen - On-Demand <https://instats.org/seminar/multilevel-and-single-level-modeling-in>\n\nIntroduction to Git with Data Umbrella - On-Demand <https://instats.org/seminar/introduction-to-git-free-seminar3>\n\nOperations, Finance, and Stock Market Performance with Yao Zhao - On-Demand <https://instats.org/seminar/operations-finance-and-stock-market-pe3>\n\nLessons from Nature for Peace and Cooperation with Alexandre Roulin - On-Demand <https://instats.org/seminar/lessons-from-nature-for-peace-and-cooper3>\n\nUsing Polars and Narwhals in Python with Data Umbrella - On-Demand <https://instats.org/seminar/using-polars-and-narwhals-in-python-fre3>\n\nSwitching from SPSS to R with Daisung Jang - On-Demand <https://instats.org/seminar/switching-from-spss-to-r-free-seminar3>\n\nUsing Confidence Intervals for Visual Testing in Stata with Dave Armstrong - On-Demand <https://instats.org/seminar/using-confidence-intervals-for-visual-te5>\n\nUsing Confidence Intervals for Visual Testing in R with Dave Armstrong - On-Demand <https://instats.org/seminar/using-confidence-intervals-for-visual-te4>\n\nPassion-Driven Statistics: Project Based Teaching Tools with Lisa Dierker - On-Demand <https://instats.org/seminar/passion-driven-statistics-project-based3>\n\nGame Theory and International Politics with Serdar G?ner - On-Demand <https://instats.org/seminar/game-theory-and-international-politics-3>\n\nMath & Statistics Review for Geostatistics with Ye Zhang - On-Demand <https://instats.org/seminar/math--statistics-review-for-geostatisti3>\n\nIntroduction to Matlab with Ye Zhang - On-Demand <https://instats.org/seminar/introduction-to-matlab2>\n\nIntroduction to Statistical Methods for Fundamental Science with Tommaso Dorigo - On-Demand <https://instats.org/seminar/introduction-to-statistical-methods-for-3>\n\nIntroduction to Path Analysis, CFA, and SEM in Stata with Michael Zyphur - On-Demand <https://instats.org/seminar/introduction-to-path-analysis-cfa-and-7>\n\nIntroduction to Path Analysis, CFA, and SEM in R with Michael Zyphur - On-Demand <https://instats.org/seminar/introduction-to-path-analysis-cfa-and-6>\n\nIntroduction to Path Analysis, CFA, and SEM in Mplus with Michael Zyphur - On-Demand <https://instats.org/seminar/introduction-to-path-analysis-cfa-and-5>\n\nIntroduction to QDA Miner with Christina Silver - On-Demand <https://instats.org/seminar/introduction-to-qda-miner-free-1-hour-s3>\n\nIntroduction to Dedoose with Christina Silver - On-Demand <https://instats.org/seminar/introduction-to-dedoose-free-1-hour-sem3>\n\nIntroduction to ATLAS.ti with Christina Silver - On-Demand <https://instats.org/seminar/introduction-to-atlasti-free-1-hour-se3>\n\nIntroduction to MAXQDA with Christina Silver - On-Demand <https://instats.org/seminar/introduction-to-maxqda-free-1-hour-semi3>\n\nIntroduction to R with RStudio with Michael Zyphur - On-Demand <https://instats.org/seminar/introduction-to-r-with-rstudio-free-1-h3>\n\nIntroduction to NVivo with Christina Silver - On-Demand <https://instats.org/seminar/introduction-to-nvivo-free-1-hour-semin9686>\n\nIntroduction to Mplus with Michael Zyphur - On-Demand <https://instats.org/seminar/introduction-to-mplus-free-1-hour-semin8683>\n\nIntroduction to Stata with Michael Zyphur - On-Demand <https://instats.org/seminar/introduction-to-stata-free-1-hour-semin-3832>\n\nIntroduction to Necessary Condition Analysis with Jan Dul - On-Demand <https://instats.org/seminar/introduction-to-necessary-condition-anal1280>\n\nIntroduction to SPSS with Michael Zyphur - On-Demand <https://instats.org/seminar/introduction-to-spss-free-1-hour-semina5920>\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello everyone\n\nOver the holidays Instats is pleased to be offering over 80 free research training events that you can access on-demand and livestreaming. Whether it's software introductions or modern",
+      "thread_id": "thread-cb72b54497d6",
+      "thread_depth": 0,
+      "month": "2025-12"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-c84ad636a87c",
+      "subject": "UNIX and Shell Scripting for Bioinformatics",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-12-04T14:45:01+01:00",
+      "last_reply": "2025-12-04T14:45:01+01:00",
+      "root_message_id": "msg-c84ad636a87c"
+    },
+    {
+      "id": "thread-5b9ab6ab0f78",
+      "subject": "Population Genomics course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-12-08T12:18:00+01:00",
+      "last_reply": "2025-12-08T12:18:00+01:00",
+      "root_message_id": "msg-5b9ab6ab0f78"
+    },
+    {
+      "id": "thread-56a9f32e299a",
+      "subject": "Genomic Data Visualisation with R",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-12-11T18:18:15+01:00",
+      "last_reply": "2025-12-11T18:18:15+01:00",
+      "root_message_id": "msg-56a9f32e299a"
+    },
+    {
+      "id": "thread-cb72b54497d6",
+      "subject": "Free Instats events – happy holidays",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2025-12-16T12:05:00+00:00",
+      "last_reply": "2025-12-16T12:05:00+00:00",
+      "root_message_id": "msg-cb72b54497d6"
+    },
+    {
+      "id": "thread-3ac866f533db",
+      "subject": "Marine Genomics course in Crete - 25 to 29 May 2026.",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-12-16T12:41:55+01:00",
+      "last_reply": "2025-12-16T12:41:55+01:00",
+      "root_message_id": "msg-3ac866f533db"
+    }
+  ]
+}

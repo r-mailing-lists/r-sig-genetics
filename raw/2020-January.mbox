@@ -1,0 +1,35 @@
+From zk@mv@r @end|ng |rom gm@||@com  Wed Jan 22 11:47:17 2020
+From: zk@mv@r @end|ng |rom gm@||@com (Zhian Kamvar)
+Date: Wed, 22 Jan 2020 10:47:17 +0000
+Subject: [R-sig-genetics] adegenet 2.1.2 is now on CRAN
+Message-ID: <CAPsXksKRtPAzONh+-1hi0y87KVhstjDKFeKqD+THmKDydK3ixg@mail.gmail.com>
+
+Hello friends,
+
+I am cross-posting to the adegenet, poppr, and R-SIG-genetics forums to
+announce that the adegenet package has officially been updated on CRAN
+(windows users should wait a couple of days for the binaries to be built)!
+You can read all about the changes here:
+https://github.com/thibautjombart/adegenet/releases/tag/2.1.2
+
+I would highly recommend updating since this is the first release adegenet
+has had in nearly two years!
+
+There are a couple of important changes to highlight:
+
+1. Thanks to Klaus Schliep, df2genind() has gotten much much much faster
+(>100x), so importing vcf data from vcfR is now much less painful.
+2. Some of the likelihoods from snapclust for haploids were incorrect and
+have been fixed
+3. showmekittens() now has more kittens.
+
+I would also like to announce that I am now the acting maintainer for
+adegenet. I do not plan on adding any new features, just fixing any bugs
+that may pop up and improving performance should time allow.
+
+Best,
+Zhian N. Kamvar
+
+	[[alternative HTML version deleted]]
+
+

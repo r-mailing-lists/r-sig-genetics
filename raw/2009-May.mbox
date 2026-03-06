@@ -1,0 +1,18 @@
+From wade.wall at gmail.com  Tue May  5 16:09:50 2009
+From: wade.wall at gmail.com (Wade Wall)
+Date: Tue, 5 May 2009 10:09:50 -0400
+Subject: [R-sig-genetics] Nei -Li distance measure
+Message-ID: <e23082be0905050709n2295b194j5683f85b8752c27f@mail.gmail.com>
+
+Hi all,
+
+I am trying to find a package or script that uses Nei-Li to calculate
+dissimilarity (or similarity) for an AFLP data set.  At the present
+time I have been unsuccessful and was wondering if anyone has written
+the code for R. I would like to use Nei-Li for a cluster analysis.
+
+Thanks for any help,
+
+Wade
+
+

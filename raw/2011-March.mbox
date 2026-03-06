@@ -1,0 +1,79 @@
+From marcelolaia at gmail.com  Tue Mar 22 13:37:44 2011
+From: marcelolaia at gmail.com (Marcelo Laia)
+Date: Tue, 22 Mar 2011 12:37:44 +0000 (UTC)
+Subject: [R-sig-genetics] Microsatellite analysis - Genetic Structure
+Message-ID: <loom.20110322T133004-430@post.gmane.org>
+
+Hi,
+
+I would like to calculate genetic polymorphism for each population (mean number
+of alleles per locus (A), the percentage of polymorphic loci (P), the mean
+observed heterozygosity (HO) and the mean expected heterozygosity
+under Hardy-Weinberg equilibrium (HE)), and population differentiation (analyzed
+for polymorphic loci by F-statistics (Wright 1978)).
+
+Please, could you point me out any paper or packages that do that?
+
+Thank you very much!
+
+Marcelo
+
+
+From t.jombart at imperial.ac.uk  Wed Mar 23 17:13:32 2011
+From: t.jombart at imperial.ac.uk (Jombart, Thibaut)
+Date: Wed, 23 Mar 2011 16:13:32 +0000
+Subject: [R-sig-genetics] Microsatellite analysis - Genetic Structure
+In-Reply-To: <loom.20110322T133004-430@post.gmane.org>
+References: <loom.20110322T133004-430@post.gmane.org>
+Message-ID: <60AAE8805AAC4B44A8DF1888C0CBFDC42A787D6C@ICEXM3.ic.ac.uk>
+
+Dear Marcelo, 
+
+numbers of alleles per locus and heterozygosity (expected, observed) are given by the summary function of genind objects in adegenet. Global F statistics can be computed using the function fstat, and pairwise Fst using pairwise.fst. You will find more information on the adegenet website:
+http://adegenet.r-forge.r-project.org/
+
+All the best,
+
+Thibaut
+
+--
+######################################
+Dr Thibaut JOMBART
+MRC Centre for Outbreak Analysis and Modelling
+Department of Infectious Disease Epidemiology
+Imperial College - Faculty of Medicine
+St Mary?s Campus
+Norfolk Place
+London W2 1PG
+United Kingdom
+Tel. : 0044 (0)20 7594 3658
+t.jombart at imperial.ac.uk
+http://sites.google.com/site/thibautjombart/
+http://adegenet.r-forge.r-project.org/
+
+________________________________________
+From: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] On Behalf Of Marcelo Laia [marcelolaia at gmail.com]
+Sent: 22 March 2011 12:37
+To: r-sig-genetics at r-project.org
+Subject: [R-sig-genetics] Microsatellite analysis - Genetic Structure
+
+Hi,
+
+I would like to calculate genetic polymorphism for each population (mean number
+of alleles per locus (A), the percentage of polymorphic loci (P), the mean
+observed heterozygosity (HO) and the mean expected heterozygosity
+under Hardy-Weinberg equilibrium (HE)), and population differentiation (analyzed
+for polymorphic loci by F-statistics (Wright 1978)).
+
+Please, could you point me out any paper or packages that do that?
+
+Thank you very much!
+
+Marcelo
+
+_______________________________________________
+R-sig-genetics mailing list
+R-sig-genetics at r-project.org
+https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+

@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2022-03",
+  "messages": [
+    {
+      "id": "msg-0adaadeab20d",
+      "message_id": "<1647632262.164916802@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2022-03-18T20:37:42+01:00",
+      "subject": "[R-sig-genetics] Adaptation Genomics course",
+      "subject_clean": "Adaptation Genomics course",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,there are the last seats available for the Physalia course on Adaptation Genomics, which will take place ONLINE from the May 30th to June 3rd\n \n[ https://www.physalia-courses.org/courses-workshops/courseadaptationgenomics/ ]( https://www.physalia-courses.org/courses-workshops/courseadaptationgenomics/ )Instructors: Dr. Anna Tigano (UNIVERSITY OF BRITISH COLUMBIA, Canada) and Dr Claire Merot (CNRS, France) and Dr. Gabriela Montejo-Kovacevich (University of Cambridge, UK).This course provides an introduction to the study of the genomic basis of adaptation using population genomics approaches applied to the analysis of both sequence and structural genetic variation. The instructors will guide the participants from the handling of raw genomic data and data exploration (e.g., summary statistics and population structure) up to more advanced methods, including genotype-environment associations based on both sequence and structural variants. Through hands-on exercises, the course will teach basic bioinformatics skills and how to manipulate, visualize and interpret genomic data and patterns.Learning Outcomes1)       Handling genomic data from raw reads to genetic variants2)       Calculating basic population genetic statistics3)      Visualizing genetic population structure4)      Searching for signatures of selection in the genome5)     Accounting for putative structural variants6)     Understanding the potential and the limitations of different methods to study the genomic basis of adaptationOur other online courses: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )All the best,\n \nCarlo\n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\nFollow us on [ Twitter ]( https://twitter.com/Physacourses )\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,there are the last seats available for the Physalia course on Adaptation Genomics, which will take place ONLINE from the May 30th to June 3rd\n \n[ https://www.physalia-courses.org/courses-work",
+      "thread_id": "thread-0adaadeab20d",
+      "thread_depth": 0,
+      "month": "2022-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-0adaadeab20d",
+      "subject": "Adaptation Genomics course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2022-03-18T20:37:42+01:00",
+      "last_reply": "2022-03-18T20:37:42+01:00",
+      "root_message_id": "msg-0adaadeab20d"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2017-08",
+  "messages": [
+    {
+      "id": "msg-4173ea558931",
+      "message_id": "<CAHpKFdBimdLcfDKQuJqNGD5oHL9p4Wu-kwJD0ippDGmwYCqDUw@mail.gmail.com>",
+      "from_name": "Ella Bowles",
+      "from_email_hash": "bea6356d0698ba39cc8d8e449eda871ae3d93f278be0b70e1dfc5d13f943d456",
+      "date": "2017-08-31T18:11:58-04:00",
+      "subject": "[R-sig-genetics] ape, read.dna to phase fasta file not working properly, tajima",
+      "subject_clean": "ape, read.dna to phase fasta file not working properly, tajima",
+      "in_reply_to": "<CAHpKFdCR7zXkos8B=6i93bFP3rsf866YuLTqKg_ODMVkHz-wYA@mail.gmail.com>",
+      "references": [
+        "<CAHpKFdCR7zXkos8B=6i93bFP3rsf866YuLTqKg_ODMVkHz-wYA@mail.gmail.com>"
+      ],
+      "body_plain": "Hello,\n\nI wanted to send a follow-up note to say that the developer helped me with\nmy problem. His reply was\nThe problem is that your data are too big (too many sequences) and\ntajima.test() needs to compute the matrix of all pairwise distances. You\ncould this check by trying:\n\ndist.dna(DNAbin8c18, \"N\")\n\nOne possibility for you is to sample randomly some observations, and repeat\nthis many times, eg:\n\ntajima.test(DNAbin8c18[sample(n, size = 1000), ])\n\nThis could be:\n\nN <- 1000 # number of repeats\nRES <- matrix(N, 3)\nfor (i in 1:N)\n    RES[, i] <- unlist(tajima.test(DNAbin8c18[sample(n, size = 10000), ]))\n\nYou may adjust N and 'size =' to have something not too long to run. Then\nyou may look at the distribution of the columns of RES.\n\nOn Wed, Aug 30, 2017 at 4:49 PM, Ella Bowles <bowlese at gmail.com> wrote:\n\n> ?\n>  fasta8c18.fa\n> <https://drive.google.com/file/d/0B6qb8IlaQGFZX0Q0YzNUVGNHV1E/view?usp=drive_web>\n> ?Hello,\n>\n> I'm trying to complete the very simple task of reading in an unphased\n> fasta file and phasing it using ape, and then calculating Tajima's D using\n> pegas, but my data doesn't seem to be reading in correctly. Input and\n> output is as follows:\n> library(\"ape\")\n> library(\"adegenet\")\n> library(\"ade4\")\n> library(\"pegas\")\n>\n> > DNAbin8c18 <- read.dna(file=\"fasta8c18.fa\", format=\"f\")\n> > data(DNAbin8c18)\n> Warning message:\n> In data(DNAbin8c18) : data set ?DNAbin8c18? not found\n>\n> ##clearly the data is not read in properly, so looked at what had been\n> loaded\n>\n> > DNAbin8c18\n> 817452 DNA sequences in binary format stored in a matrix.\n>\n> All sequences of same length: 96\n>\n> Labels:\n> CLocus_12706_Sample_1_Locus_34105_Allele_0 [BayOfIslands_s08...\n> CLocus_12706_Sample_2_Locus_31118_Allele_0 [BayOfIslands_s08...\n> CLocus_12706_Sample_3_Locus_30313_Allele_0 [BayOfIslands_s09...\n> CLocus_12706_Sample_5_Locus_33345_Allele_0 [BayOfIslands_s09...\n> CLocus_12706_Sample_7_Locus_37388_Allele_0 [BayOfIslands_s09...\n> CLocus_12706_Sample_8_Locus_29451_Allele_0 [BayOfIslands_s09...\n> ...\n>\n> More than 10 million nucleotides: not printing base composition\n>\n> ##although likely won't work, trying taj d test to see what happens\n> > tajima.test(DNAbin8c18)\n> Error: cannot allocate vector of size 2489.3 Gb\n>\n> ?I'm sending the datafile along as a link as well.\n>\n> Any thoughts would be much appreciated.\n>\n> Ella?\n>\n> --\n> Ella Bowles, PhD\n> Postdoctoral Researcher\n> Department of Biology\n> Concordia University\n>\n> Website: https://ellabowlesphd.wordpress.com/\n> Email: bowlese at gmail.com\n>\n\n\n\n-- \nElla Bowles, PhD\nPostdoctoral Researcher\nDepartment of Biology\nConcordia University\n\nWebsite: https://ellabowlesphd.wordpress.com/\nEmail: bowlese at gmail.com\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello,\n\nI wanted to send a follow-up note to say that the developer helped me with\nmy problem. His reply was\nThe problem is that your data are too big (too many sequences) and\ntajima.test() needs to c",
+      "thread_id": "thread-4173ea558931",
+      "thread_depth": 0,
+      "month": "2017-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-4173ea558931",
+      "subject": "ape, read.dna to phase fasta file not working properly, tajima",
+      "message_count": 1,
+      "participants": [
+        "Ella Bowles"
+      ],
+      "started": "2017-08-31T18:11:58-04:00",
+      "last_reply": "2017-08-31T18:11:58-04:00",
+      "root_message_id": "msg-4173ea558931"
+    }
+  ]
+}

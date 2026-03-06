@@ -1,0 +1,252 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2026-01",
+  "messages": [
+    {
+      "id": "msg-4eb9942507f2",
+      "message_id": "<1767371216.81033917@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-01-02T17:26:56+01:00",
+      "subject": "[R-sig-genetics] Unix and Shell Scripting for Bioinformatics course - online, 12-16 January",
+      "subject_clean": "Unix and Shell Scripting for Bioinformatics course - online, 12-16 January",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nwe are pleased to announce our upcoming online course ?Unix and Shell Scripting for Bioinformatics?, taking place on 12?16 January 2026.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/unix/ ]( https://www.physalia-courses.org/courses-workshops/unix/ )\n \nThis hands-on course is designed for biologists with no prior Unix experience who want to gain practical command-line skills for bioinformatics. Participants will learn how to work efficiently in Unix/Linux environments, process large biological datasets (including NGS data), and automate analyses using shell scripting.\n \nThrough guided exercises and real-world examples, the course will cover essential Unix commands, file and system management, software installation, text processing, and the construction of reproducible bioinformatics pipelines.\n \nWe look forward to welcoming you to this practical introduction to Unix for bioinformatics.\nBest regards,\nCarlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nwe are pleased to announce our upcoming online course ?Unix and Shell Scripting for Bioinformatics?, taking place on 12?16 January 2026.\n \nCourse website: [ https://www.physalia-courses.org/",
+      "thread_id": "thread-4eb9942507f2",
+      "thread_depth": 0,
+      "month": "2026-01"
+    },
+    {
+      "id": "msg-0ae29c9b2798",
+      "message_id": "<1767609761.419913005@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-01-05T11:42:41+01:00",
+      "subject": "[R-sig-genetics] GWAS course - online, 26-30 January",
+      "subject_clean": "GWAS course - online, 26-30 January",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe would like to inform you that registration is still open for the upcoming online course:\nIntroduction to Genome-Wide Association Studies (GWAS)\n\nDates: 26?30 January 2026\nFormat: Online\nSchedule: 2:00?8:00 pm (Berlin time)\nCourse website: [ https://www.physalia-courses.org/courses-workshops/course49/ ]( https://www.physalia-courses.org/courses-workshops/course49/ )\n \nThis five-day course provides a structured introduction to the complete GWAS workflow, covering study design, data preparation, statistical analysis, and interpretation of results. The course combines lectures with hands-on practical sessions, allowing participants to gain direct experience with commonly used GWAS tools and methods.\n \nThe training is designed for students, researchers, and professionals with a background in biology or genetics. Practical sessions will be conducted using R and Linux command-line tools.\n \nKey topics include:\n\nGWAS fundamentals and study design\n\nExploratory data analysis and data preprocessing\n\nGenotype imputation\n\nGWAS models and multiple testing\n\nBuilding GWAS pipelines \n\nIntroduction to post-GWAS analyses\n \nBest regards,\nCarlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe would like to inform you that registration is still open for the upcoming online course:\nIntroduction to Genome-Wide Association Studies (GWAS)\n\nDates: 26?30 January 2026\nFormat: Online\nS",
+      "thread_id": "thread-0ae29c9b2798",
+      "thread_depth": 0,
+      "month": "2026-01"
+    },
+    {
+      "id": "msg-a4f94a8e854a",
+      "message_id": "<1767711311.73927215@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-01-06T15:55:11+01:00",
+      "subject": "[R-sig-genetics] Machine Learning in R course",
+      "subject_clean": "Machine Learning in R course",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nJoin us for Introduction to Machine Learning with R, a hands-on online course running from 16 to 20 February 2026.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course43/ ]( https://www.physalia-courses.org/courses-workshops/course43/ )\n \nThis course is designed especially for researchers and students who want to learn how to apply machine learning to complex biological datasets like genomics, transcriptomics, and more. Whether you?re new to machine learning or just need a practical refresher, this course will guide you step-by-step through key concepts using R ? no advanced experience required!\n \nEach afternoon (2?7 pm Berlin time), you?ll attend interactive lectures and practical sessions covering everything from supervised and unsupervised learning to model tuning and R tools like tidymodels. You?ll have plenty of opportunities to ask questions and apply what you learn to your own data.\n \nFully online and open to international participants, this course offers a supportive environment to boost your skills and confidence in data analysis.\n \nSpaces are limited! \n \n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nJoin us for Introduction to Machine Learning with R, a hands-on online course running from 16 to 20 February 2026.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/co",
+      "thread_id": "thread-a4f94a8e854a",
+      "thread_depth": 0,
+      "month": "2026-01"
+    },
+    {
+      "id": "msg-ec5ca9a543cd",
+      "message_id": "<g85yTLgHQNqV3iIa28V0zw@geopod-ismtpd-6>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-01-06T15:47:23Z",
+      "subject": "[R-sig-genetics] Peer Reviewing and Editing Journals – last chance",
+      "subject_clean": "Peer Reviewing and Editing Journals – last chance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nLast chance to join our 1-day seminar Peer Reviewing and Editing Journals livestreaming January 8 with Carlton Fong (Department of Curriculum and Instruction, Texas State University). This seminar on peer reviewing and journal editing offers crucial strategies for enhancing scholarly contributions and shaping research trajectories. Members of the R-sig-genetics community can apply these insights to provide more rigorous and constructive feedback on genetic data analysis manuscripts, ensuring the highest standards for R-based methodologies. Mastering these skills will empower you to elevate your own research, influence disciplinary norms, and advance your career within the field.\n\nSign up today (https://instats.org/seminar/from-peer-reviewing-to-editing-journals) to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nLast chance to join our 1-day seminar Peer Reviewing and Editing Journals livestreaming January 8 with Carlton Fong (Department of Curriculum and Instruction, Texas State University). Thi",
+      "thread_id": "thread-ec5ca9a543cd",
+      "thread_depth": 0,
+      "month": "2026-01"
+    },
+    {
+      "id": "msg-1e28e143b50c",
+      "message_id": "<4sn3mbG_Sqy4J9Nt5ghM3g@geopod-ismtpd-8>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-01-09T17:14:01Z",
+      "subject": "[R-sig-genetics] Statistical Analysis of Social Network Data – last chance",
+      "subject_clean": "Statistical Analysis of Social Network Data – last chance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nLast chance to join our 1-day seminar Statistical Analysis of Social Network Data livestreaming January 15 with Tianxi Li (School of Statistics, University of Minnesota). This seminar offers a focused, hands-on treatment of modern statistical methods for network data, emphasizing reproducible implementation in R. Researchers in genetic data analysis can apply these techniques to model complex biological interactions, identify gene regulatory networks, or analyze population structures, enhancing their understanding of genetic mechanisms. The practical skills in network modeling, inference, and privacy-aware data release will enable participants to develop robust, publishable analyses for their own genetic research questions.\n\nSign up today (https://instats.org/seminar/statistical-analysis-of-social-network-d) to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nLast chance to join our 1-day seminar Statistical Analysis of Social Network Data livestreaming January 15 with Tianxi Li (School of Statistics, University of Minnesota). This seminar off",
+      "thread_id": "thread-1e28e143b50c",
+      "thread_depth": 0,
+      "month": "2026-01"
+    },
+    {
+      "id": "msg-fbaebad562a9",
+      "message_id": "<A6agg1NNQZq-1UH9J7EIgQ@geopod-ismtpd-6>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-01-12T15:15:05Z",
+      "subject": "[R-sig-genetics] Machine Learning for Computational Biology 2.0 – last chance",
+      "subject_clean": "Machine Learning for Computational Biology 2.0 – last chance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar Machine Learning for Computational Biology 2.0 livestreaming January 13 with Nikolay Oskolkov (Group Leader (PI) at LIOS). This workshop offers a comprehensive introduction to machine learning techniques, including neural networks, random forests, and MCMC methods, with practical coding in R and Python. Researchers in genetic data analysis can leverage these advanced algorithms to interpret complex genomic datasets and identify novel patterns beyond traditional statistical approaches. The hands-on experience in implementing and optimizing these models will empower participants to develop more sophisticated analytical tools for their own genetic research projects.\n\nSign up today (https://instats.org/seminar/machine-learning-for-computational-biolo) to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar Machine Learning for Computational Biology 2.0 livestreaming January 13 with Nikolay Oskolkov (Group Leader (PI) at LIOS). This work",
+      "thread_id": "thread-fbaebad562a9",
+      "thread_depth": 0,
+      "month": "2026-01"
+    },
+    {
+      "id": "msg-09a9f2c841aa",
+      "message_id": "<1768308124.071720959@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-01-13T13:42:04+01:00",
+      "subject": "[R-sig-genetics] online course - Machine and Deep Learning Methods in Population Genomics and Phylogeography - 23-26 March",
+      "subject_clean": "online course - Machine and Deep Learning Methods in Population Genomics and Phylogeography - 23-26 March",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nWe are pleased to announce the upcoming Physalia online course ?Machine and Deep Learning Methods in Population Genomics and Phylogeography? taking place from 23 to 26 March.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/deep-learning-in-popgen/ ]( https://www.physalia-courses.org/courses-workshops/deep-learning-in-popgen/ )\n \nThis course offers a comprehensive introduction to applying modern machine learning and deep learning techniques, including Convolutional Neural Networks (CNNs), to analyse complex genomic data for evolutionary and demographic inference. Participants will learn to simulate genetic data under different demographic scenarios, apply machine learning for population genomics, and use deep learning to detect selection signatures in genomic datasets.\n \n \nSessions run daily from 14:00 to 19:00 (Berlin time) and include lectures, practical coding exercises, and real-world case studies. \n \nKind regards, Carlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nWe are pleased to announce the upcoming Physalia online course ?Machine and Deep Learning Methods in Population Genomics and Phylogeography? taking place from 23 to 26 March.\n \nCourse webs",
+      "thread_id": "thread-09a9f2c841aa",
+      "thread_depth": 0,
+      "month": "2026-01"
+    },
+    {
+      "id": "msg-602fdcd769cb",
+      "message_id": "<4cZ0JPZaQPm5JNUfvItJBw@geopod-ismtpd-15>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-01-28T16:12:12Z",
+      "subject": "[R-sig-genetics] Foundations of Statistical Models and Linear Regression – last chance",
+      "subject_clean": "Foundations of Statistical Models and Linear Regression – last chance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance to join our 3-day seminar Foundations of Statistical Models and Linear Regression livestreaming February 3?5 with Centre for Applied Statistics Courses (CASC) (University College London). This seminar on Foundations of Statistical Models and Linear Regression provides a robust framework for understanding complex data relationships, directly applicable to the intricate datasets common in genetic research. Participants will gain practical expertise in applying various regression models, including logistic and Poisson, using software like R, to analyze genetic data and interpret findings. These competencies will enable researchers to build more precise predictive models, diagnose common data issues in genetic analyses, and effectively communicate their statistical insights within their publications.\n\nSign up today (https://instats.org/seminar/foundations-of-statistical-models-and-li) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 3-day seminar Foundations of Statistical Models and Linear Regression livestreaming February 3?5 with Centre for Applied Statistics Courses (CASC)",
+      "thread_id": "thread-602fdcd769cb",
+      "thread_depth": 0,
+      "month": "2026-01"
+    },
+    {
+      "id": "msg-28a025d39de6",
+      "message_id": "<_30L5iC1Qc2TRMtuxaKNFQ@geopod-ismtpd-13>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-01-31T17:45:05Z",
+      "subject": "[R-sig-genetics] Exploratory Analysis of Complex Datasets with ChatGPT 2.0 – last chance",
+      "subject_clean": "Exploratory Analysis of Complex Datasets with ChatGPT 2.0 – last chance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar Exploratory Analysis of Complex Datasets with ChatGPT 2.0 livestreaming February 12 with Nikolay Oskolkov (Group Leader (PI) at LIOS). This seminar explores advanced techniques for exploratory analysis of complex datasets, including linear and non-linear dimensionality reduction, various clustering methods, and neural networks. Researchers in genetics can apply these skills to uncover hidden population structures, classify genetic subtypes, or identify novel gene expression patterns within their high-dimensional genomic data. Leveraging tools like R, Python, and ChatGPT, participants will enhance their ability to interpret intricate genetic findings and accelerate discovery in their specialized research areas.\n\nSign up today (https://instats.org/seminar/exploratory-analysis-of-complex-datasets-2) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar Exploratory Analysis of Complex Datasets with ChatGPT 2.0 livestreaming February 12 with Nikolay Oskolkov (Group Leader (PI) at LIOS",
+      "thread_id": "thread-28a025d39de6",
+      "thread_depth": 0,
+      "month": "2026-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-4eb9942507f2",
+      "subject": "Unix and Shell Scripting for Bioinformatics course - online, 12-16 January",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-01-02T17:26:56+01:00",
+      "last_reply": "2026-01-02T17:26:56+01:00",
+      "root_message_id": "msg-4eb9942507f2"
+    },
+    {
+      "id": "thread-0ae29c9b2798",
+      "subject": "GWAS course - online, 26-30 January",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-01-05T11:42:41+01:00",
+      "last_reply": "2026-01-05T11:42:41+01:00",
+      "root_message_id": "msg-0ae29c9b2798"
+    },
+    {
+      "id": "thread-ec5ca9a543cd",
+      "subject": "Peer Reviewing and Editing Journals – last chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-01-06T15:47:23+00:00",
+      "last_reply": "2026-01-06T15:47:23+00:00",
+      "root_message_id": "msg-ec5ca9a543cd"
+    },
+    {
+      "id": "thread-a4f94a8e854a",
+      "subject": "Machine Learning in R course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-01-06T15:55:11+01:00",
+      "last_reply": "2026-01-06T15:55:11+01:00",
+      "root_message_id": "msg-a4f94a8e854a"
+    },
+    {
+      "id": "thread-1e28e143b50c",
+      "subject": "Statistical Analysis of Social Network Data – last chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-01-09T17:14:01+00:00",
+      "last_reply": "2026-01-09T17:14:01+00:00",
+      "root_message_id": "msg-1e28e143b50c"
+    },
+    {
+      "id": "thread-fbaebad562a9",
+      "subject": "Machine Learning for Computational Biology 2.0 – last chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-01-12T15:15:05+00:00",
+      "last_reply": "2026-01-12T15:15:05+00:00",
+      "root_message_id": "msg-fbaebad562a9"
+    },
+    {
+      "id": "thread-09a9f2c841aa",
+      "subject": "online course - Machine and Deep Learning Methods in Population Genomics and Phylogeography - 23-26 March",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-01-13T13:42:04+01:00",
+      "last_reply": "2026-01-13T13:42:04+01:00",
+      "root_message_id": "msg-09a9f2c841aa"
+    },
+    {
+      "id": "thread-602fdcd769cb",
+      "subject": "Foundations of Statistical Models and Linear Regression – last chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-01-28T16:12:12+00:00",
+      "last_reply": "2026-01-28T16:12:12+00:00",
+      "root_message_id": "msg-602fdcd769cb"
+    },
+    {
+      "id": "thread-28a025d39de6",
+      "subject": "Exploratory Analysis of Complex Datasets with ChatGPT 2.0 – last chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-01-31T17:45:05+00:00",
+      "last_reply": "2026-01-31T17:45:05+00:00",
+      "root_message_id": "msg-28a025d39de6"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2016-05",
+  "messages": [
+    {
+      "id": "msg-2a5118f9f300",
+      "message_id": "<572C9FDA.9000802@ird.fr>",
+      "from_name": "Emmanuel Paradis",
+      "from_email_hash": "4c085ad631493003895b8b2c8749a214fe7066719f788b94c2907a97cf0bf96d",
+      "date": "2016-05-06T15:44:58+02:00",
+      "subject": "[R-sig-genetics] extract the sequences of the haplotypes",
+      "subject_clean": "extract the sequences of the haplotypes",
+      "in_reply_to": "<7A8EFC25-4783-433A-9BFA-00029D7F215D@lshtm.ac.uk>",
+      "references": [
+        "<7A8EFC25-4783-433A-9BFA-00029D7F215D@lshtm.ac.uk>"
+      ],
+      "body_plain": "Hi Susana,\n\nIn fact, the output of haplotype() _are_ the sequences of the haplotypes \n(= the unique sequences from your \"finaldna\" object). It has an \nadditional attribute which is a list named \"index\" giving the indices of \nindividuals belonging to each haplotype (so in your case a list with 27 \nvectors). So you can, for instance, write these sequences in a file:\n\nh <- haplotype(finaldna)\nwrite.dna(h, \"h.txt\")\n\nBest,\n\nEmmanuel\n\nLe 27/04/2016 02:32, Susana a ?crit :\n> Hi,\n>\n>\n> I have a vector with DNA sequences and I created the haplotypes using the haplotype function in Pegas.\n> I would like to extract the sequences of the haplotypes, but I can to it. the object it creates says:\n>\n> Haplotypes extracted from: finaldna\n>\n>      Number of haplotypes: 27\n>           Sequence length: 20\n>\n> Haplotype labels and frequencies:\n>\n>      I    II   III    IV     V    VI   VII  VIII    IX     X    XI\n>      9    33   329   219   105  1000  1159    14     3     5    24\n>    XII  XIII   XIV    XV   XVI  XVII XVIII   XIX    XX   XXI  XXII\n>     60    10     1    30     1     7    11     2     3     8     4\n> XXIII  XXIV   XXV  XXVI XXVII\n>      1     1    25     9     9\n>\n>\n> So, how can I get the sequences from these 27 haplotypes?\n>\n> Already tried data.frame but it does not work:\"cannot coerce class \"c(\"haplotype\", \"DNAbin\")\" to a data.frame\"\n>\n> Any help will be appreciated!\n> Thanks!\n>\n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n>\n>\n> Pour nous remonter une erreur de filtrage, veuillez vous rendre ici : http://f.security-mail.net/408F4P48kaW\n>\n>",
+      "body_snippet": "Hi Susana,\n\nIn fact, the output of haplotype() _are_ the sequences of the haplotypes \n(= the unique sequences from your \"finaldna\" object). It has an \nadditional attribute which is a list named \"index",
+      "thread_id": "thread-2a5118f9f300",
+      "thread_depth": 0,
+      "month": "2016-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-2a5118f9f300",
+      "subject": "extract the sequences of the haplotypes",
+      "message_count": 1,
+      "participants": [
+        "Emmanuel Paradis"
+      ],
+      "started": "2016-05-06T15:44:58+02:00",
+      "last_reply": "2016-05-06T15:44:58+02:00",
+      "root_message_id": "msg-2a5118f9f300"
+    }
+  ]
+}

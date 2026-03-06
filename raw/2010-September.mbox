@@ -1,0 +1,555 @@
+From glorobame at gmail.com  Tue Sep  7 20:37:01 2010
+From: glorobame at gmail.com (Gloria Rocio Bautista)
+Date: Tue, 7 Sep 2010 11:37:01 -0700
+Subject: [R-sig-genetics] Post to the list
+Message-ID: <AANLkTikOkem2jVO8iFeSHaTNsRdo+Q2QG24Epr_L69v+@mail.gmail.com>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100907/a38a429f/attachment.pl>
+
+From glorobame at gmail.com  Tue Sep  7 20:38:24 2010
+From: glorobame at gmail.com (Gloria Rocio Bautista)
+Date: Tue, 7 Sep 2010 11:38:24 -0700
+Subject: [R-sig-genetics] header intact
+Message-ID: <AANLkTikMsQS+7SosVkdqdayKBNobZPa_94qEj4V5NDEr@mail.gmail.com>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100907/d222c394/attachment.pl>
+
+From fernando.e.grignola at monsanto.com  Thu Sep  9 17:54:23 2010
+From: fernando.e.grignola at monsanto.com (GRIGNOLA, FERNANDO E [AG/1000])
+Date: Thu, 9 Sep 2010 10:54:23 -0500
+Subject: [R-sig-genetics] Available R packages to QC/summarize large SNP
+	datasets?
+Message-ID: <2335BBF3D6579746A3165D5D7B95DF7018D1BB@NA1000EXM12.na.ds.monsanto.com>
+
+Hi,
+
+I looking for some guidance regarding available packages to do QC (i.e.
+parent-offspring inheritance checks) and to summarize large SNP datasets
+(i.e. 50K) for pedigreed populations (frequencies, linkage calculations,
+etc).
+
+I know of some packages that check for HW equilibrium, get frequencies
+as part of the data preparation for genome-wide association analyses for
+example. However, I was wondering if somebody can point me to 1 or 2
+packages that mostly focus on data quality and summary statistics for
+large SNPs of data.
+
+Thanks in advance for your assistance,
+
+ 
+
+Fernando
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100909/79833d2b/attachment.html>
+-------------- next part --------------
+
+This e-mail message may contain privileged and/or confidential information, and is intended to be received only by persons entitled to receive such information. If you have received this e-mail in error, please notify the sender immediately. Please delete it and all attachments from any servers, hard drives or any other media. Other use of this e-mail by you is strictly prohibited.
+
+All e-mails and attachments sent and received are subject to monitoring, reading and archival by Monsanto, including its subsidiaries. The recipient of this e-mail is solely responsible for checking for the presence of "Viruses" or other "Malware". Monsanto, along with its subsidiaries, accepts no liability for any damage caused by any such code transmitted by or accompanying this e-mail or any attachment.
+
+
+The information contained in this email may be subject to the export control laws and regulations of the United States, potentially including but not limited to the Export Administration Regulations ("EAR") and sanctions regulations issued by the U.S. Department of Treasury, Office of Foreign Asset Controls (?OFAC?).  As a recipient of this information you are obligated to comply with all applicable U.S. export laws and regulations.
+
+From ross.lazarus at gmail.com  Fri Sep 10 20:51:42 2010
+From: ross.lazarus at gmail.com (Ross)
+Date: Fri, 10 Sep 2010 14:51:42 -0400
+Subject: [R-sig-genetics] R-sig-genetics Digest, Vol 8, Issue 2
+In-Reply-To: <mailman.13.1284112807.14276.r-sig-genetics@r-project.org>
+References: <mailman.13.1284112807.14276.r-sig-genetics@r-project.org>
+Message-ID: <AANLkTikDau_n5qovjUogx7YBK8oRR0jv3=qY1iiucTZB@mail.gmail.com>
+
+Hi, Fernando,
+
+I think there are some QC tools in David Clayton's snpMatrix package,
+but there's no single R package to do all the reports you need AFAIK.
+For comprehensive reporting, if you don't mind not using R, one option
+is to try the SNP/WGA tools in Galaxy - they do use R for graphics but
+you don't need to install anything as it all works through an ordinary
+web browser.
+
+Essentially, if you have your genotype and pedigree data in Plink
+style linkage format (separate map and ped files), the steps are
+something like this:
+
+1. make yourself a new user account at the main Galaxy server
+(http://usegalaxy.org) so your histories are preserved between logins
+
+2. From the analysis window, left (tool) pane, click the Get Data tool
+group header to expand the group, then click the 'upload file' tool.
+A form will appear in the center pane of your browser.
+
+3. Change the file format (first field on the form) from Auto to
+"lped" format as autodetect won't work for these multi-part datatypes
+4. Make the 'ped' and 'map' file upload fields point to the right map
+and ped files on your local machine, set the 'build' to hg18 and
+change the name to reflect something informative about your data then
+click execute.
+
+5. After the data are uploaded (should only take a minute or two for a
+small file) to your history, you can select the SNP/WGA QC LD Plots
+tool submenu in the tool pane and then click the QC tool. Another form
+will open in the center panel. Your new dataset should be the only one
+available in the drop-down list of files to process. Change the QC job
+name to a meaningful name, click 'execute'. For a small dataset, the
+whole process should run for a few minutes but you can safely log out
+and log back in later - your work will all be preserved.
+
+6. The QC tool output (in the right side history pane) has an 'eye'
+icon which you can click to open up the report in the center panel -
+you should see HWE/missingness/Mendel and all sorts of other useful
+plots and there are some tabular files containing summary details by
+marker and by sample.
+
+I'm happy to answer any questions you might have - I hope this helps
+get you started?
+
+There's a 'clean' tool you can use to remove markers and subjects that
+fall below specific thresholds for QC measures and there's a TDT tool
+you can use for analysis of family data.
+
+
+On Fri, Sep 10, 2010 at 6:00 AM,  <r-sig-genetics-request at r-project.org> wrote:
+> Send R-sig-genetics mailing list submissions to
+> ? ? ? ?r-sig-genetics at r-project.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+> ? ? ? ?https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+> or, via email, send a message with subject or body 'help' to
+> ? ? ? ?r-sig-genetics-request at r-project.org
+>
+> You can reach the person managing the list at
+> ? ? ? ?r-sig-genetics-owner at r-project.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of R-sig-genetics digest..."
+>
+>
+> Today's Topics:
+>
+> ? 1. Available R packages to QC/summarize large SNP ? ?datasets?
+> ? ? ?(GRIGNOLA, FERNANDO E [AG/1000])
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Thu, 9 Sep 2010 10:54:23 -0500
+> From: "GRIGNOLA, FERNANDO E [AG/1000]"
+> ? ? ? ?<fernando.e.grignola at monsanto.com>
+> To: <r-sig-genetics at r-project.org>
+> Subject: [R-sig-genetics] Available R packages to QC/summarize large
+> ? ? ? ?SNP ? ? datasets?
+> Message-ID:
+> ? ? ? ?<2335BBF3D6579746A3165D5D7B95DF7018D1BB at NA1000EXM12.na.ds.monsanto.com>
+>
+> Content-Type: text/plain; charset="us-ascii"
+>
+> Hi,
+>
+> I looking for some guidance regarding available packages to do QC (i.e.
+> parent-offspring inheritance checks) and to summarize large SNP datasets
+> (i.e. 50K) for pedigreed populations (frequencies, linkage calculations,
+> etc).
+>
+> I know of some packages that check for HW equilibrium, get frequencies
+> as part of the data preparation for genome-wide association analyses for
+> example. However, I was wondering if somebody can point me to 1 or 2
+> packages that mostly focus on data quality and summary statistics for
+> large SNPs of data.
+>
+> Thanks in advance for your assistance,
+>
+>
+>
+> Fernando
+>
+>
+>
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100909/79833d2b/attachment-0001.html>
+> -------------- next part --------------
+>
+> This e-mail message may contain privileged and/or confidential information, and is intended to be received only by persons entitled to receive such information. If you have received this e-mail in error, please notify the sender immediately. Please delete it and all attachments from any servers, hard drives or any other media. Other use of this e-mail by you is strictly prohibited.
+>
+> All e-mails and attachments sent and received are subject to monitoring, reading and archival by Monsanto, including its subsidiaries. The recipient of this e-mail is solely responsible for checking for the presence of "Viruses" or other "Malware". Monsanto, along with its subsidiaries, accepts no liability for any damage caused by any such code transmitted by or accompanying this e-mail or any attachment.
+>
+>
+> The information contained in this email may be subject to the export control laws and regulations of the United States, potentially including but not limited to the Export Administration Regulations ("EAR") and sanctions regulations issued by the U.S. Department of Treasury, Office of Foreign Asset Controls (?OFAC?). ?As a recipient of this information you are obligated to comply with all applicable U.S. export laws and regulations.
+>
+> ------------------------------
+>
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>
+>
+> End of R-sig-genetics Digest, Vol 8, Issue 2
+> ********************************************
+>
+
+
+
+-- 
+Ross Lazarus MBBS MPH
+Associate Professor, Harvard Medical School
+Director of Bioinformatics, Channing Laboratory
+181 Longwood Ave., Boston MA 02115, USA.
+Tel: +1 617 505 4850
+
+
+From mcneney at cs.sfu.ca  Sat Sep 11 01:54:46 2010
+From: mcneney at cs.sfu.ca (Brad McNeney)
+Date: Fri, 10 Sep 2010 16:54:46 -0700
+Subject: [R-sig-genetics] R-sig-genetics Digest, Vol 8, Issue 2
+In-Reply-To: <AANLkTikDau_n5qovjUogx7YBK8oRR0jv3=qY1iiucTZB@mail.gmail.com>
+References: <mailman.13.1284112807.14276.r-sig-genetics@r-project.org>
+	<AANLkTikDau_n5qovjUogx7YBK8oRR0jv3=qY1iiucTZB@mail.gmail.com>
+Message-ID: <4C8AC546.6080503@stat.sfu.ca>
+
+Hi Ross,
+
+Thanks for this.  I take it then that the QC tools you have in Galaxy 
+are not in any of the Bioconductor Genetics{Base,Design,Ped} packages? 
+If not, are there plans to update the Bioconductor packages?
+
+Cheers,
+
+Brad
+---
+Brad McNeney
+Statistics and Actuarial Science
+Simon Fraser University
+
+On 10/09/2010 11:51 AM, Ross wrote:
+> Hi, Fernando,
+>
+> I think there are some QC tools in David Clayton's snpMatrix package,
+> but there's no single R package to do all the reports you need AFAIK.
+> For comprehensive reporting, if you don't mind not using R, one option
+> is to try the SNP/WGA tools in Galaxy - they do use R for graphics but
+> you don't need to install anything as it all works through an ordinary
+> web browser.
+>
+> Essentially, if you have your genotype and pedigree data in Plink
+> style linkage format (separate map and ped files), the steps are
+> something like this:
+>
+> 1. make yourself a new user account at the main Galaxy server
+> (http://usegalaxy.org) so your histories are preserved between logins
+>
+> 2. From the analysis window, left (tool) pane, click the Get Data tool
+> group header to expand the group, then click the 'upload file' tool.
+> A form will appear in the center pane of your browser.
+>
+> 3. Change the file format (first field on the form) from Auto to
+> "lped" format as autodetect won't work for these multi-part datatypes
+> 4. Make the 'ped' and 'map' file upload fields point to the right map
+> and ped files on your local machine, set the 'build' to hg18 and
+> change the name to reflect something informative about your data then
+> click execute.
+>
+> 5. After the data are uploaded (should only take a minute or two for a
+> small file) to your history, you can select the SNP/WGA QC LD Plots
+> tool submenu in the tool pane and then click the QC tool. Another form
+> will open in the center panel. Your new dataset should be the only one
+> available in the drop-down list of files to process. Change the QC job
+> name to a meaningful name, click 'execute'. For a small dataset, the
+> whole process should run for a few minutes but you can safely log out
+> and log back in later - your work will all be preserved.
+>
+> 6. The QC tool output (in the right side history pane) has an 'eye'
+> icon which you can click to open up the report in the center panel -
+> you should see HWE/missingness/Mendel and all sorts of other useful
+> plots and there are some tabular files containing summary details by
+> marker and by sample.
+>
+> I'm happy to answer any questions you might have - I hope this helps
+> get you started?
+>
+> There's a 'clean' tool you can use to remove markers and subjects that
+> fall below specific thresholds for QC measures and there's a TDT tool
+> you can use for analysis of family data.
+>
+>
+> On Fri, Sep 10, 2010 at 6:00 AM,<r-sig-genetics-request at r-project.org>  wrote:
+>> Send R-sig-genetics mailing list submissions to
+>>         r-sig-genetics at r-project.org
+>>
+>> To subscribe or unsubscribe via the World Wide Web, visit
+>>         https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>> or, via email, send a message with subject or body 'help' to
+>>         r-sig-genetics-request at r-project.org
+>>
+>> You can reach the person managing the list at
+>>         r-sig-genetics-owner at r-project.org
+>>
+>> When replying, please edit your Subject line so it is more specific
+>> than "Re: Contents of R-sig-genetics digest..."
+>>
+>>
+>> Today's Topics:
+>>
+>>    1. Available R packages to QC/summarize large SNP    datasets?
+>>       (GRIGNOLA, FERNANDO E [AG/1000])
+>>
+>>
+>> ----------------------------------------------------------------------
+>>
+>> Message: 1
+>> Date: Thu, 9 Sep 2010 10:54:23 -0500
+>> From: "GRIGNOLA, FERNANDO E [AG/1000]"
+>>         <fernando.e.grignola at monsanto.com>
+>> To:<r-sig-genetics at r-project.org>
+>> Subject: [R-sig-genetics] Available R packages to QC/summarize large
+>>         SNP     datasets?
+>> Message-ID:
+>>         <2335BBF3D6579746A3165D5D7B95DF7018D1BB at NA1000EXM12.na.ds.monsanto.com>
+>>
+>> Content-Type: text/plain; charset="us-ascii"
+>>
+>> Hi,
+>>
+>> I looking for some guidance regarding available packages to do QC (i.e.
+>> parent-offspring inheritance checks) and to summarize large SNP datasets
+>> (i.e. 50K) for pedigreed populations (frequencies, linkage calculations,
+>> etc).
+>>
+>> I know of some packages that check for HW equilibrium, get frequencies
+>> as part of the data preparation for genome-wide association analyses for
+>> example. However, I was wondering if somebody can point me to 1 or 2
+>> packages that mostly focus on data quality and summary statistics for
+>> large SNPs of data.
+>>
+>> Thanks in advance for your assistance,
+>>
+>>
+>>
+>> Fernando
+>>
+>>
+>>
+>> -------------- next part --------------
+>> An HTML attachment was scrubbed...
+>> URL:<https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100909/79833d2b/attachment-0001.html>
+>> -------------- next part --------------
+>>
+>> This e-mail message may contain privileged and/or confidential information, and is intended to be received only by persons entitled to receive such information. If you have received this e-mail in error, please notify the sender immediately. Please delete it and all attachments from any servers, hard drives or any other media. Other use of this e-mail by you is strictly prohibited.
+>>
+>> All e-mails and attachments sent and received are subject to monitoring, reading and archival by Monsanto, including its subsidiaries. The recipient of this e-mail is solely responsible for checking for the presence of "Viruses" or other "Malware". Monsanto, along with its subsidiaries, accepts no liability for any damage caused by any such code transmitted by or accompanying this e-mail or any attachment.
+>>
+>>
+>> The information contained in this email may be subject to the export control laws and regulations of the United States, potentially including but not limited to the Export Administration Regulations ("EAR") and sanctions regulations issued by the U.S. Department of Treasury, Office of Foreign Asset Controls (?OFAC?).  As a recipient of this information you are obligated to comply with all applicable U.S. export laws and regulations.
+>>
+>> ------------------------------
+>>
+>> _______________________________________________
+>> R-sig-genetics mailing list
+>> R-sig-genetics at r-project.org
+>> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>>
+>>
+>> End of R-sig-genetics Digest, Vol 8, Issue 2
+>> ********************************************
+>>
+>
+>
+>
+
+
+From ross.lazarus at gmail.com  Sat Sep 11 14:53:06 2010
+From: ross.lazarus at gmail.com (Ross)
+Date: Sat, 11 Sep 2010 08:53:06 -0400
+Subject: [R-sig-genetics] r-genetics and galaxy
+Message-ID: <AANLkTimHOvSoVd9uApNqyeeVkPtjqy9Ed7k--K52qgHT@mail.gmail.com>
+
+Hi Brad
+
+Work on the rgenetics tools in R has more or less come to a halt - I'm
+not aware of anyone working on them and I don't think many people are
+using them although we tried hard! I think David Clayton's package
+snpMatrix can handle large datasets but it's something of a struggle
+to fit billions of genotypes efficiently into the R memory model.
+
+For me personally, a bigger problem is enabling the Faculty and
+biologists I support to work reproducibly without having to worry
+about the technical problems of hundreds of GB of data. Galaxy really
+helps with those goals so I've shifted my effort to that framework.
+The Galaxy tools do use R and BioC under the hood where they're the
+best solution - but for SNP QC, Plink seems more appropriate because
+it has the specialized reporting we needed.
+
+On Sat, Sep 11, 2010 at 6:00 AM,  <r-sig-genetics-request at r-project.org> wrote:
+
+> Message: 2
+> Date: Fri, 10 Sep 2010 16:54:46 -0700
+> From: Brad McNeney <mcneney at cs.sfu.ca>
+> To: r-sig-genetics at r-project.org
+> Subject: Re: [R-sig-genetics] R-sig-genetics Digest, Vol 8, Issue 2
+> Message-ID: <4C8AC546.6080503 at stat.sfu.ca>
+> Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+>
+> Hi Ross,
+>
+> Thanks for this. ?I take it then that the QC tools you have in Galaxy
+> are not in any of the Bioconductor Genetics{Base,Design,Ped} packages?
+> If not, are there plans to update the Bioconductor packages?
+>
+> Cheers,
+>
+> Brad
+> ---
+> Brad McNeney
+> Statistics and Actuarial Science
+> Simon Fraser University
+>
+>
+
+
+From tlumley at u.washington.edu  Sun Sep 12 21:13:01 2010
+From: tlumley at u.washington.edu (Thomas Lumley)
+Date: Sun, 12 Sep 2010 12:13:01 -0700 (PDT)
+Subject: [R-sig-genetics] r-genetics and galaxy
+In-Reply-To: <AANLkTimHOvSoVd9uApNqyeeVkPtjqy9Ed7k--K52qgHT@mail.gmail.com>
+Message-ID: <alpine.LRH.2.01.1009121213010.14242@hymn11.u.washington.edu>
+
+
+
+We have some tools that I think have been put into an R package but not sent to CRAN.  They implement the methods in http://onlinelibrary.wiley.com/resolve/doi/pdf?DOI=10.1002/gepi.20516
+This has been used for data sets up to 16000 people x 1M SNPs.
+
+I will check to see the current status of the code -- the plan is to refactor it and combine with our analysis code for a Bioconductor package.
+
+     -thomas
+
+
+On Sat, 11 Sep 2010, Ross wrote:
+
+> Hi Brad
+>
+> Work on the rgenetics tools in R has more or less come to a halt - I'm
+> not aware of anyone working on them and I don't think many people are
+> using them although we tried hard! I think David Clayton's package
+> snpMatrix can handle large datasets but it's something of a struggle
+> to fit billions of genotypes efficiently into the R memory model.
+>
+> For me personally, a bigger problem is enabling the Faculty and
+> biologists I support to work reproducibly without having to worry
+> about the technical problems of hundreds of GB of data. Galaxy really
+> helps with those goals so I've shifted my effort to that framework.
+> The Galaxy tools do use R and BioC under the hood where they're the
+> best solution - but for SNP QC, Plink seems more appropriate because
+> it has the specialized reporting we needed.
+>
+> On Sat, Sep 11, 2010 at 6:00 AM,  <r-sig-genetics-request at r-project.org> wrote:
+>
+>> Message: 2
+>> Date: Fri, 10 Sep 2010 16:54:46 -0700
+>> From: Brad McNeney <mcneney at cs.sfu.ca>
+>> To: r-sig-genetics at r-project.org
+>> Subject: Re: [R-sig-genetics] R-sig-genetics Digest, Vol 8, Issue 2
+>> Message-ID: <4C8AC546.6080503 at stat.sfu.ca>
+>> Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+>>
+>> Hi Ross,
+>>
+>> Thanks for this. ?I take it then that the QC tools you have in Galaxy
+>> are not in any of the Bioconductor Genetics{Base,Design,Ped} packages?
+>> If not, are there plans to update the Bioconductor packages?
+>>
+>> Cheers,
+>>
+>> Brad
+>> ---
+>> Brad McNeney
+>> Statistics and Actuarial Science
+>> Simon Fraser University
+>>
+>>
+>
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>
+
+Thomas Lumley
+Professor of Biostatistics
+University of Washington, Seattle
+
+From nevil.amos at optusnet.com.au  Thu Sep 16 01:48:29 2010
+From: nevil.amos at optusnet.com.au (Nevil Amos)
+Date: Thu, 16 Sep 2010 09:48:29 +1000
+Subject: [R-sig-genetics] Pairwise Fst and G'st in R
+Message-ID: <4C915B4D.6000904@optusnet.com.au>
+
+Is anyone aware of functions(s) packages in R: thant caclulate pairwise 
+Fst and or G'st between all populations in a dataset?
+
+cheers
+
+Nevil Amos
+
+
+From t.jombart at imperial.ac.uk  Thu Sep 16 10:29:23 2010
+From: t.jombart at imperial.ac.uk (Jombart, Thibaut)
+Date: Thu, 16 Sep 2010 09:29:23 +0100
+Subject: [R-sig-genetics] Pairwise Fst and G'st in R
+In-Reply-To: <4C915B4D.6000904@optusnet.com.au>
+References: <4C915B4D.6000904@optusnet.com.au>
+Message-ID: <1EC92C6D037ADB42A55C4F99B7F96C881F300756@ICEXM4.ic.ac.uk>
+
+Dear Nevil, 
+
+yes, I have just implemented a pairwise Fst in adegenet a few days ago. You'll need to install the devel version from R-forge:
+install.packages("adegenet",repos="http://r-forge.r-project.org")
+
+Then, have a look at the function pairwise.fst.
+
+Best regards
+
+Thibaut
+
+--
+######################################
+Dr Thibaut JOMBART
+MRC Centre for Outbreak Analysis and Modelling
+Department of Infectious Disease Epidemiology
+Imperial College - Faculty of Medicine
+St Mary?s Campus
+Norfolk Place
+London W2 1PG
+United Kingdom
+Tel. : 0044 (0)20 7594 3658
+t.jombart at imperial.ac.uk
+http://sites.google.com/site/thibautjombart/
+http://adegenet.r-forge.r-project.org/
+
+________________________________________
+From: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] On Behalf Of Nevil Amos [nevil.amos at optusnet.com.au]
+Sent: 16 September 2010 00:48
+To: r-sig-genetics at r-project.org
+Subject: [R-sig-genetics] Pairwise Fst and G'st in R
+
+Is anyone aware of functions(s) packages in R: thant caclulate pairwise
+Fst and or G'st between all populations in a dataset?
+
+cheers
+
+Nevil Amos
+
+_______________________________________________
+R-sig-genetics mailing list
+R-sig-genetics at r-project.org
+https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+

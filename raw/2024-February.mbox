@@ -1,0 +1,116 @@
+From i@io m@iii@g oii phys@ii@-courses@org  Sun Feb 18 08:40:39 2024
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Sun, 18 Feb 2024 08:40:39 +0100 (CET)
+Subject: [R-sig-genetics] Online course: Model-Based Demographic Inference
+ from Population Genomics
+Message-ID: <1708242039.7939059@webmail.jimdo.com>
+
+
+Dear all,
+We are excited to announce that registrations are open for the 3rd edition of our course on "Model-Based Demographic Inference from Population Genomics" scheduled from May 27th to May 31st, 2024. To accommodate international participation, the course will be conducted online.
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/demoinference/ ]( https://www.physalia-courses.org/courses-workshops/demoinference/ )
+This course will delve into inferring demographic models from genomic datasets, focusing on both model and non-model organisms. Participants will gain hands-on experience in using single nucleotide polymorphisms (SNPs) and the site-frequency spectrum (SFS) to estimate demographic parameters such as divergence times and effective population sizes. Theoretical lectures will be complemented by practical exercises using simulated and real data.
+This course is designed for graduate students, postdocs, and researchers interested in population genomics and statistical inference. While a basic understanding of population genetics is recommended, no prior programming experience is necessary. However, participants are encouraged to familiarize themselves with R and UNIX-based command lines before the course.
+ 
+For the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/demoinference/ )
+Best regards,
+ 
+Carlo
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Tue Feb 27 22:20:18 2024
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Tue, 27 Feb 2024 21:20:18 +0000
+Subject: [R-sig-genetics] =?utf-8?q?ONLINE_COURSE_=E2=80=93_An_Introducti?=
+	=?utf-8?q?on_to_Spatial_Eco-Phylogenetics_and_Comparative_Methods_?=
+	=?utf-8?q?=28SECM01=29?=
+Message-ID: <CAEsSYzxK+425nQsUMW4H_U5TuStXHSp+RXWBFbG3wHOyP+nNEg@mail.gmail.com>
+
+ONLINE COURSE ? An Introduction to Spatial Eco-Phylogenetics and
+Comparative Methods (SECM01)
+
+We still have a few places available.
+
+https://www.prstats.org/course/an-introduction-to-spatial-eco-phylogenetics-and-comparative-methods-
+secm01/
+
+19th - 22nd March 2024
+
+Please feel free to share!
+
+COURSE OVERVIEW - In this course we introduce phylogenetic analyses in a
+spatial context. Phylogenetic analyses often imply a high number of species
+for which phylogenetic information is unavailable, hence we begin by
+providing an overview on modern techniques to incorporate phylogenetic
+uncertainty in the analyses (day 1). We then cover the most popular
+analyses in the spatial phylogenetics discipline (day 2), with particular
+focus on the canonical analysis of neo- and paleo-endemism (CANAPE). The
+second part of the course will be devoted to integrating phylogenetic
+information into models of geographic distribution of species (day 3),
+followed by an overview of recent advances to improve ecological forecasts
+using phylogenetic mixed models in a Bayesian framework (day 4).
+
+By the end of the course, participants should:
+
+   - Know how to expand incomplete phylogenies based on taxonomic
+   information and customizing simulation parameters for optimal expansion.
+   - Understand the metrics and concepts used in spatial phylogenetics
+   (i.e. phylogenetic alpha and beta diversity, phylogenetic endemism),
+   interpret them critically, and assess pros and cons of analytical
+   techniques.
+   - Calculate phylogenetic predictors that can be included as covariates
+   in Species Distribution or Niche Models.
+   - Understand and implement the phylogenetic mixed model (PMM) and
+   translate its predictions into a spatial context.
+
+*Day 1  ? Expansion of molecular trees using taxonomic information and
+fundamental metrics of phylogenetic structure*
+
+   - Software for tree expansion exercises; randtip, PhyloMaker
+   - An overview of the fundamental metrics of phylogenetic structure. Null
+   models.
+
+*Day 2 ? Spatial Phylogenetics*
+
+   - Canonical analysis of neo- and paleo- endemism. Metrics, rationale,
+   workflow, and implementation.
+
+*Day 3 ? Phylogenetic Species Distribution Models*
+
+   - Putting phylogenies in the geography: the imprints of evolutionary
+   relationships in distribution models.
+   - Combining phylogenies with co-occurrence to infer spatial phylogenetic
+   predictors.
+   - Fitting, evaluating and interpreting Phylogenetic-SDMs.
+
+*Day 4 ? Beyond PGLS ? Bayes and more*
+
+   - Most common phylogenetic modelling approaches: PGLS
+   - PGLMM
+   - The phylogenetic mixed model (PMM) in a Bayesian framework
+
+Please email oliverhooker at prstatiatics.com with any questions.
+
+-- 
+
+Oliver Hooker PhD.
+PR stats
+
+	[[alternative HTML version deleted]]
+
+

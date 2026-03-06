@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2008-05",
+  "messages": [
+    {
+      "id": "msg-db3ba7adda59",
+      "message_id": "<4832CE2E.4030702@biomserv.univ-lyon1.fr>",
+      "from_name": "Thibaut Jombart",
+      "from_email_hash": "745bd5f1d840815ae5156488a617b95dd0ec8c0e8571cbfdb7b8c4915d7b1fdd",
+      "date": "2008-05-20T15:12:14+02:00",
+      "subject": "[R-sig-genetics] Announcement: R-sig-genetics",
+      "subject_clean": "Announcement: R-sig-genetics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Welcome on R-sig-genetics.\n\n\nThe *R-sig-genetics* mailing list is devoted to discussions about the\nanalysis of genetic markers using the R software.\n\n*Covered topics are:*\n- population genetics\n- linkage disequilibrium\n- spatial genetics\n- multivariate methods\n- Bayesian clustering\n- data simulation\n- import/export among R packages, or between R packages and other\nsoftwares.\n- data manipulation\nAnnouncement of new implementations of methods for genetic data analysis\nare also welcome.\n\nPosts about genomics should be sent to appropriate mailing list on\nBioconductor (see http://www.bioconductor.org/docs/mailList.html).\nPosts about phylogeny and comparative methods should be sent to\nR-sig-phylo (see https://stat.ethz.ch/mailman/listinfo/r-sig-phylo).\n\nPosting to this list is open to non-members, but messages will be held\nfor moderation (spam prevention).\nPlease send *plain text* emails instead of html.\n\nTo see the collection of prior postings to the list, visit the\nR-sig-genetics Archives (https://stat.ethz.ch/pipermail/r-sig-genetics/).\n\nBest regards,\n\nThibaut Jombart.\n\n-- \n######################################\nThibaut JOMBART\nCNRS UMR 5558 - Laboratoire de Biom?trie et Biologie Evolutive\nUniversite Lyon 1\n43 bd du 11 novembre 1918\n69622 Villeurbanne Cedex\nT?l. : 04.72.43.29.35\nFax : 04.72.43.13.88\njombart at biomserv.univ-lyon1.fr\nhttp://biomserv.univ-lyon1.fr/%7Ejombart/\nhttp://adegenet.r-forge.r-project.org/",
+      "body_snippet": "Welcome on R-sig-genetics.\n\n\nThe *R-sig-genetics* mailing list is devoted to discussions about the\nanalysis of genetic markers using the R software.\n\n*Covered topics are:*\n- population genetics\n- link",
+      "thread_id": "thread-db3ba7adda59",
+      "thread_depth": 0,
+      "month": "2008-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-db3ba7adda59",
+      "subject": "Announcement: R-sig-genetics",
+      "message_count": 1,
+      "participants": [
+        "Thibaut Jombart"
+      ],
+      "started": "2008-05-20T15:12:14+02:00",
+      "last_reply": "2008-05-20T15:12:14+02:00",
+      "root_message_id": "msg-db3ba7adda59"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+From bowlese at gmail.com  Fri Sep  1 00:11:58 2017
+From: bowlese at gmail.com (Ella Bowles)
+Date: Thu, 31 Aug 2017 18:11:58 -0400
+Subject: [R-sig-genetics] ape,
+	read.dna to phase fasta file not working properly, tajima
+In-Reply-To: <CAHpKFdCR7zXkos8B=6i93bFP3rsf866YuLTqKg_ODMVkHz-wYA@mail.gmail.com>
+References: <CAHpKFdCR7zXkos8B=6i93bFP3rsf866YuLTqKg_ODMVkHz-wYA@mail.gmail.com>
+Message-ID: <CAHpKFdBimdLcfDKQuJqNGD5oHL9p4Wu-kwJD0ippDGmwYCqDUw@mail.gmail.com>
+
+Hello,
+
+I wanted to send a follow-up note to say that the developer helped me with
+my problem. His reply was
+The problem is that your data are too big (too many sequences) and
+tajima.test() needs to compute the matrix of all pairwise distances. You
+could this check by trying:
+
+dist.dna(DNAbin8c18, "N")
+
+One possibility for you is to sample randomly some observations, and repeat
+this many times, eg:
+
+tajima.test(DNAbin8c18[sample(n, size = 1000), ])
+
+This could be:
+
+N <- 1000 # number of repeats
+RES <- matrix(N, 3)
+for (i in 1:N)
+    RES[, i] <- unlist(tajima.test(DNAbin8c18[sample(n, size = 10000), ]))
+
+You may adjust N and 'size =' to have something not too long to run. Then
+you may look at the distribution of the columns of RES.
+
+On Wed, Aug 30, 2017 at 4:49 PM, Ella Bowles <bowlese at gmail.com> wrote:
+
+> ?
+>  fasta8c18.fa
+> <https://drive.google.com/file/d/0B6qb8IlaQGFZX0Q0YzNUVGNHV1E/view?usp=drive_web>
+> ?Hello,
+>
+> I'm trying to complete the very simple task of reading in an unphased
+> fasta file and phasing it using ape, and then calculating Tajima's D using
+> pegas, but my data doesn't seem to be reading in correctly. Input and
+> output is as follows:
+> library("ape")
+> library("adegenet")
+> library("ade4")
+> library("pegas")
+>
+> > DNAbin8c18 <- read.dna(file="fasta8c18.fa", format="f")
+> > data(DNAbin8c18)
+> Warning message:
+> In data(DNAbin8c18) : data set ?DNAbin8c18? not found
+>
+> ##clearly the data is not read in properly, so looked at what had been
+> loaded
+>
+> > DNAbin8c18
+> 817452 DNA sequences in binary format stored in a matrix.
+>
+> All sequences of same length: 96
+>
+> Labels:
+> CLocus_12706_Sample_1_Locus_34105_Allele_0 [BayOfIslands_s08...
+> CLocus_12706_Sample_2_Locus_31118_Allele_0 [BayOfIslands_s08...
+> CLocus_12706_Sample_3_Locus_30313_Allele_0 [BayOfIslands_s09...
+> CLocus_12706_Sample_5_Locus_33345_Allele_0 [BayOfIslands_s09...
+> CLocus_12706_Sample_7_Locus_37388_Allele_0 [BayOfIslands_s09...
+> CLocus_12706_Sample_8_Locus_29451_Allele_0 [BayOfIslands_s09...
+> ...
+>
+> More than 10 million nucleotides: not printing base composition
+>
+> ##although likely won't work, trying taj d test to see what happens
+> > tajima.test(DNAbin8c18)
+> Error: cannot allocate vector of size 2489.3 Gb
+>
+> ?I'm sending the datafile along as a link as well.
+>
+> Any thoughts would be much appreciated.
+>
+> Ella?
+>
+> --
+> Ella Bowles, PhD
+> Postdoctoral Researcher
+> Department of Biology
+> Concordia University
+>
+> Website: https://ellabowlesphd.wordpress.com/
+> Email: bowlese at gmail.com
+>
+
+
+
+-- 
+Ella Bowles, PhD
+Postdoctoral Researcher
+Department of Biology
+Concordia University
+
+Website: https://ellabowlesphd.wordpress.com/
+Email: bowlese at gmail.com
+
+	[[alternative HTML version deleted]]
+
+
+From zkamvar at gmail.com  Wed Sep 13 18:08:03 2017
+From: zkamvar at gmail.com (Zhian Kamvar)
+Date: Wed, 13 Sep 2017 11:08:03 -0500
+Subject: [R-sig-genetics] New release of poppr version 2.5.0
+Message-ID: <207EA363-B926-410B-B05F-58E4F3C0A6B9@gmail.com>
+
+It's my pleasure to announce that there is a new release of poppr available for download on CRAN now.
+Version 2.5.0 contains major bug fixes to Bruvo's distance (bug fix for polyploids) and read.genalex.
+Details: https://github.com/grunwaldlab/poppr/releases/tag/v.2.5.0
+
+Additionally, as a reminder, Thibaut Jombart (author of adegenet) and I will be leading a course on Reproducible Data Science For Population Genetics in October.
+Details: https://www.prstatistics.com/course/reproducible-data-science-for-population-genetics-rdpg01/
+
+Cheers,
+Zhian
+
+-----
+Zhian N. Kamvar, Ph. D.
+Postdoctoral Researcher (Everhart Lab)
+Department of Plant Pathology
+University of Nebraska-Lincoln
+ORCID: 0000-0003-1458-7108
+
+

@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2014-10",
+  "messages": [
+    {
+      "id": "msg-df236b159614",
+      "message_id": "<emfa21cead-2c47-415e-b0ff-ed7c362e63d4@acer>",
+      "from_name": "Domagoj Čulinović",
+      "from_email_hash": "4d9880e95972838cef74db5589565cfd3a8cf03d1c4d5dd63fd5a0794183e45a",
+      "date": "2014-10-03T10:42:33Z",
+      "subject": "[R-sig-genetics] Genetic algorithm help",
+      "subject_clean": "Genetic algorithm help",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I am new in R, and i need more information and help for problem i am try \nto solve.\nMy idea is to use genetic algorithm to analyze my datasets.\nData are stored in series for last 15 years, and there are 12 criteria \nwhich i must include. Each of this criteria have also time variable \n(last 15 years, for each year one database record).\nAll data are in MS SQL database.\n\nAlso i have a polygons geometry stored in MS SQL Spatial database.\nResults from genetic algorithm must be shown with polygons stored in MS \nSQL.\nWhere to start?\nWho can give me some advice?\n\nRegards,\nDomagoj\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "I am new in R, and i need more information and help for problem i am try \nto solve.\nMy idea is to use genetic algorithm to analyze my datasets.\nData are stored in series for last 15 years, and there a",
+      "thread_id": "thread-df236b159614",
+      "thread_depth": 0,
+      "month": "2014-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-df236b159614",
+      "subject": "Genetic algorithm help",
+      "message_count": 1,
+      "participants": [
+        "Domagoj Čulinović"
+      ],
+      "started": "2014-10-03T10:42:33+00:00",
+      "last_reply": "2014-10-03T10:42:33+00:00",
+      "root_message_id": "msg-df236b159614"
+    }
+  ]
+}

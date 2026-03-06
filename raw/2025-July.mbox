@@ -1,0 +1,397 @@
+From mzyphur m@iii@g oii i@st@ts@org  Tue Jul  1 10:20:00 2025
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Tue, 01 Jul 2025 08:20:00 +0000 (UTC)
+Subject: [R-sig-genetics] Longitudinal Data Analysis in Biostatistics - free
+ seminar
+Message-ID: <m_JM4NLkSg6m6-1GYnjsUg@geopod-ismtpd-14>
+
+Hi everyone
+
+Instats is excited to offer a free seminar, Longitudinal Data Analysis in Biostatistics <https://instats.org/seminar/longitudinal-data-analysis-in-biostatist>, livestreaming August 5 and led by Dr Tuhin Sheikh from the Biostatistics Department at Arizona State University. Designed for PhD students, academics, and applied researchers, this hands-on workshop shows you how to harness R to track and interpret within-subject change over time?skills that are crucial for producing rigorous, high-impact health and social science research. Across a full day of immersive instruction, you?ll explore the rationale behind longitudinal study designs, learn best practices for preparing and visualizing repeated-measures data, and gain confidence fitting and interpreting linear mixed-effects models. Diagnostic techniques for assessing model assumptions, strategies for communicating findings in clinical contexts, and a capstone analysis of the pbcseq dataset ensure you finish with both theoretical insight and practical code you can immediately adapt to your own projects.
+
+Sign up today <https://instats.org/seminar/longitudinal-data-analysis-in-biostatist> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Institute for Statistical and Data Science
+https://instats.org
+	[[alternative HTML version deleted]]
+
+
+From mzyphur m@iii@g oii i@st@ts@org  Thu Jul  3 08:35:00 2025
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Thu, 03 Jul 2025 06:35:00 +0000 (UTC)
+Subject: [R-sig-genetics] Bayesian Phylogenetics with BEAST2 - livestream
+ seminar
+Message-ID: <94JKaq09ThCrXM9AHbh9rg@geopod-ismtpd-12>
+
+Hi everyone
+
+Instats is excited to offer a 2-day seminar, Bayesian Phylogenetics with BEAST2 <https://instats.org/seminar/bayesian-phylogenetics-with-beast2>, running livestreaming September 18 ? 20 and led by Dr Jo?lle Barido-Sottani from the Institute of Biology, ENS-PSL, CNRS. Bayesian phylogenetics has transformed evolutionary research by allowing scientists to incorporate prior knowledge, quantify uncertainty, and analyse complex molecular-evolution models in a coherent probabilistic framework. Over two intensive days, Dr Barido-Sottani will guide participants from the theoretical foundations of Bayesian inference to hands-on proficiency with BEAST2?the modular, plugin-driven platform that uses MCMC to sample across tree space and deliver robust divergence-time and parameter estimates. You?ll learn how to specify informative priors, analyse diverse data types such as DNA sequences and traits, conduct thorough post-analysis diagnostics, and interpret posterior distributions with confidence. Whether you are a PhD student, academic, or research professional already familiar with basic phylogenetics, this seminar will equip you with cutting-edge skills to integrate Bayesian workflows into your own evolutionary studies and produce more reliable, publication-ready results.
+
+Sign up today <https://instats.org/seminar/bayesian-phylogenetics-with-beast2> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Institute for Statistical and Data Science
+https://instats.org
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Sun Jul  6 09:49:53 2025
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Sun, 6 Jul 2025 09:49:53 +0200 (CEST)
+Subject: [R-sig-genetics] =?utf-8?q?Conservation_Genomics_course_=28Onlin?=
+ =?utf-8?q?e=2C_July_21-24=29?=
+Message-ID: <1751788193.743318311@webmail.jimdo.com>
+
+
+Dear all,
+We only have 3 seats left for our upcoming Conservation Genomics course, taking place online from 21?24 July!
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/course62/ ]( https://www.physalia-courses.org/courses-workshops/course62/ )
+ 
+ 
+This hands-on course will guide participants through key genomic tools and analyses used in conservation, including study design, SNP filtering, population structure, adaptation, effective population size, inbreeding, and relatedness.
+ 
+Designed for researchers and graduate students with prior experience in R and UNIX, this course combines live lectures, practical exercises, and interactive discussions in a fully online format.
+ 
+ 
+Best regards,Carlo
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )
+
+
+	[[alternative HTML version deleted]]
+
+
+From mzyphur m@iii@g oii i@st@ts@org  Mon Jul  7 11:50:00 2025
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Mon, 07 Jul 2025 09:50:00 +0000 (UTC)
+Subject: [R-sig-genetics] Using ChatGPT to Teach and Learn Statistics -
+ livestream seminar
+Message-ID: <Eu90oGqPT829RQb-hOv1zQ@geopod-ismtpd-3>
+
+Hi everyone
+
+Instats is excited to offer a 3-day seminar, Using ChatGPT for Teaching and Learning Statistics 4.0 <https://instats.org/seminar/using-chatgpt-for-teaching-and-learning>, livestreaming August 4?7 and led by professor Peter Gruber. Generative AI is reshaping statistical education, and this workshop equips instructors to redesign their courses for the ChatGPT era. Drawing on nearly two years of classroom experience, professor Gruber will present the P.R.O.P.E.R. framework for crafting effective prompts, demonstrate how to build interactive probability and statistics lessons, and share specialized software, didactic strategies, and ready-to-use teaching materials. Participants will learn to mitigate hallucinations and biases, reimagine exercises and exams, teach students to critically assess AI output, and navigate the ethical and professional implications of generative AI for their graduates.
+
+Sign up today <https://instats.org/seminar/using-chatgpt-for-teaching-and-learning> and feel free to pass this opportunity along to colleagues and students who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Institute for Statistical and Data Science
+https://instats.org
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Wed Jul  9 07:40:21 2025
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Wed, 9 Jul 2025 07:40:21 +0200 (CEST)
+Subject: [R-sig-genetics] =?utf-8?q?Physalia_online_course=3A_Population_?=
+ =?utf-8?q?Genomics_Using_Ancient_DNA_Data_-_22nd=E2=80=9326th_September?=
+Message-ID: <1752039621.577823449@webmail.jimdo.com>
+
+
+ 
+
+Dear all,
+
+ We are excited to announce our upcoming Physalia online course: Population Genomics Using Ancient DNA Data
+
+ Dates: 22nd?26th September
+Daily sessions: 2?8 PM (Berlin time)
+
+Course website: [ https://www.physalia-courses.org/courses-workshops/adna-popgen/ ]( https://www.physalia-courses.org/courses-workshops/adna-popgen/ ) 
+
+ This course covers the unique challenges and opportunities of working with ancient DNA (aDNA) in population genomics. You will learn how aDNA data is generated, processed, authenticated, and analysed to answer key evolutionary and demographic questions.
+
+ Through lectures and hands-on exercises, attendees will gain practical skills in:
+Authenticating and processing ancient genomic data
+Exploring population structure and relatedness
+Applying D and F statistics to assess population affinity and gene flow
+Performing demographic inference and simulations
+Detecting signatures of natural selection
+
+ Explore all our courses and workshops here: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )
+
+ Best regards,
+ 
+Carlo
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )
+
+
+To unsubscribe from this list please go to [ https://community.esa.org/confirm/?u=lKhBEKIuLGNpAP2Mn2vVImKBpc8fej9d ]( https://community.esa.org/confirm/?u=lKhBEKIuLGNpAP2Mn2vVImKBpc8fej9d )
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Sun Jul 20 16:08:07 2025
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Sun, 20 Jul 2025 16:08:07 +0200 (CEST)
+Subject: [R-sig-genetics] Physalia upcoming online course: Analysing
+ Biodiversity Through Time and Space Using R
+Message-ID: <1753020487.5792640@webmail.jimdo.com>
+
+
+Dear all,
+there are only a few seats available for the Physalia upcoming online course: Analysing Biodiversity Through Time and Space Using R
+Dates: 18?22 August
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/biodiversity-in-r/ ]( https://www.physalia-courses.org/courses-workshops/biodiversity-in-r/ )
+ 
+This hands-on course offers a comprehensive introduction to reproducible workflows for biodiversity data analysis in R. Participants will learn how to acquire, clean, and analyse palaeontological and neontological datasets to explore biodiversity across spatial and temporal scales.
+ 
+LEARNING OUTCOMES
+
+- Understanding of occurrence data for fossil and modern biodiversity: data structure, key databases and limitations.
+- Working knowledge of geographic information systems (GIS), chronostratigraphy, and palaeogeographic models in R
+- An overview of structuring of taxonomic diversity across space and through time, diversity/diversification rate metrics and the diversification process.
+- Understanding of sampling variation, the practical problems these pose for biodiversity analysis, and tools which can help alleviate these issues.
+- Appreciation for empirical patterns of diversity across geographic space and through geological time, and how to test hypotheses for these phenomena.
+Format:
+Each day includes live lectures and discussions from 15:00?18:00 (Berlin time), followed by self-paced practical exercises (~4 hrs/day). A pre-course R refresher will also be available.
+ 
+Best regards,
+Carlo
+	[[alternative HTML version deleted]]
+
+
+From mzyphur m@iii@g oii i@st@ts@org  Tue Jul 22 14:35:00 2025
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Tue, 22 Jul 2025 12:35:00 +0000 (UTC)
+Subject: [R-sig-genetics] AI Powered Web Apps with R Shiny - livestream
+ seminar
+Message-ID: <_RDOdtFBTMOREDXWV4d09w@geopod-ismtpd-2>
+
+Hi everyone
+
+Instats is offering a 1-day seminar, AI Powered Web Apps with R Shiny <https://instats.org/seminar/ai-powered-web-apps-with-r-shiny>, livestreaming August 13th and led by Instats Research Fellow, Dr Fodil Ihaddaden. In an era where interactive, AI-driven tools are reshaping scholarly communication, this workshop equips PhD students, academics, and professional researchers with the skills to harness R Shiny alongside cutting-edge Large Language Models. Dr Ihaddaden will guide you through building and deploying dynamic web applications, configuring and integrating LLMs via the ellmer package, and creating AI-enhanced interfaces that streamline workflows, boost collaboration, and elevate the reach of your research. By the end of the day, participants with a basic grasp of Shiny and RStudio will have hands-on experience constructing an AI-powered app and publishing it on shinyapps.io?opening new avenues for data collection, dissemination, and audience engagement across disciplines.
+
+Sign up today <https://instats.org/seminar/ai-powered-web-apps-with-r-shiny> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Institute for Statistical and Data Science
+https://instats.org
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Mon Jul 28 17:17:01 2025
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Mon, 28 Jul 2025 17:17:01 +0200 (CEST)
+Subject: [R-sig-genetics] =?utf-8?q?Online_Course=3A_Phylogenomics_?=
+ =?utf-8?b?4oCTIDHigJM1IERlY2VtYmVy?=
+Message-ID: <1753715821.15183357@webmail.jimdo.com>
+
+
+Dear all,
+ 
+We are pleased to announce our upcoming online course: PHYLOGENOMICS
+ 
+Dates: 1?5 December
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/phylogenomics/ ]( https://www.physalia-courses.org/courses-workshops/phylogenomics/ )
+ 
+ 
+ 
+This course will introduce participants to the theory and practice of phylogenetic inference and divergence-time estimation using genome-scale datasets. Topics include model selection, gene-tree discordance, species-tree inference under the multispecies coalescent, and detection of introgression and gene flow.
+Each day includes a mix of lectures and hands-on exercises using preconfigured cloud environments (no installation required), with opportunities to analyze example datasets and interpret results.
+The course is aimed at researchers at the PhD/postdoc level who are planning to perform phylogenomic analyses with little or no prior experience.
+ 
+ 
+Feel free to share this announcement with colleagues or students who may be interested.
+Best regards,
+ 
+Carlo
+ 
+ 
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From mzyphur @end|ng |rom |n@t@t@@org  Tue Jul 29 10:50:00 2025
+From: mzyphur @end|ng |rom |n@t@t@@org (Michael Zyphur)
+Date: Tue, 29 Jul 2025 08:50:00 +0000 (UTC)
+Subject: [R-sig-genetics] Developing Gene Therapies - A Statistician's Guide
+ (free seminar)
+Message-ID: <E9-grQZoSdmqV5F0ByyGgA@geopod-ismtpd-2>
+
+Hi everyone
+
+Instats is excited to offer a free seminar on Developing Gene Therapies: A Statistician's Guide <https://instats.org/seminar/developing-gene-therapies-a-statistician>, livestreaming August 19 and led by Avery McIntosh from Pfizer and Alex Sverdlov from Novartis. Gene therapy is transforming modern medicine with recent landmark approvals for sickle cell anemia, spinal muscular atrophy, and multiple oncology indications, yet its one-time, potentially curative nature introduces statistical challenges that traditional drug-development frameworks cannot address. This seminar provides a practical roadmap for navigating the entire GTx lifecycle?from non-clinical translation and biodistribution to condensed clinical phases, immunogenicity considerations, and long-term follow-up?while showcasing innovative methodologies for dose-finding with ultra-small sample sizes, Bayesian safety monitoring, and adaptive platform trials. Participants will emerge able to articulate key regulatory pathways such as RMAT and PRIME, anticipate safety and efficacy pitfalls unique to AAV vectors, and design robust studies when a single pivotal trial may enroll fewer than 20 patients. Whether you are a PhD student, academic researcher, or industry scientist, this free session delivers the statistical tools and conceptual frameworks essential for contributing to the rapidly expanding pipeline of more than 2,000 gene-therapy products in development. 
+
+Sign up today <https://instats.org/seminar/developing-gene-therapies-a-statistician> to secure your spot, and feel free to share this opportunity with anyone who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Institute for Statistical and Data Science
+https://instats.org
+	[[alternative HTML version deleted]]
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Tue Jul 29 19:44:32 2025
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Tue, 29 Jul 2025 18:44:32 +0100
+Subject: [R-sig-genetics] Introduction to Generalised Linear Mixed Models
+ for Ecologists (MMIE01)
+Message-ID: <CAEsSYzwax5Yv5fZddvy+00iKco=YPvk_=muh7RSYZup2K2hE8w@mail.gmail.com>
+
+*Course Title:* Introduction to Generalised Linear Mixed Models for
+Ecologists (MMIE01)
+https://www.prstats.org/course/introduction-to-generalised-linear-mixed-models-for-ecologists-mmie01/
+
+*Dates:* 22?26 September 2025
+*Format:* Live online (GMT+1) with recordings available for this who can't
+join live
+*Price:* ?400 early?bird (first 10 places), ?450 thereafter
+------------------------------
+Why Attend?
+
+Unlock powerful statistical tools tailored for ecological research:
+
+   -
+
+   Dive into *generalised linear mixed models (GLMMs)* to model complex
+   ecological datasets with hierarchical or grouped structure.
+   -
+
+   Learn to implement real-world analyses using *R packages including lme4
+   and brms*, including Bayesian methods.
+   -
+
+   Tackle count, binary, overdispersed, and zero-inflated data with ease.
+   -
+
+   Engage in *hands?on sessions*, workshops, and case studies?bring your
+   own data to practice.
+   -
+
+   Benefit from *post-course support* and 30-day access to session
+   recordings so you can catch up anytime.
+
+------------------------------
+Who Should Join?
+
+Designed for ecologists, early-career researchers, postgraduate students,
+and data analysts with basic R and statistical backgrounds:
+
+   -
+
+   Familiarity with R or RStudio basics, importing data, and simple linear
+   models is recommended.
+   -
+
+   Experience with exploratory data tools (e.g. dplyr, ggplot2) is
+   helpful?but not required.
+
+------------------------------
+What You'll Learn -
+
+Over five days (approx. 40 learning hours), you?ll explore:
+
+   1.
+
+   *The GLMM framework*: fixed vs. random effects, hierarchical structures
+   2.
+
+   *Practice in R*: fitting GLMMs via lme4, exploring Bayesian extensions
+   with brms
+   3.
+
+   *Model diagnostics*: checking assumptions, handling overdispersion,
+   understanding shrinkage and intraclass correlation
+   4.
+
+   *Advanced structures*: nested vs crossed random effects, group-level
+   predictors
+   5.
+
+   *Bayesian approaches*: how and when to use brms for complex ecological
+   data.
+
+
+   Please visit the course schedule
+   <https://www.prstats.org/course/introduction-to-generalised-linear-mixed-models-for-ecologists-mmie01/>
+   on the course webpage for a detailed outline of the topics covered.
+
+------------------------------
+Meet the Expert Instructors
+
+Led by seasoned ecologists-statisticians, *Dr Niamh?Mimnagh*, the course
+brings real-world experience at the intersection of ecology, epidemiology,
+and statistical methodology. Expect an engaging blend of theory,
+interactive workshops, and lively Q&A sessions.
+------------------------------
+Ready to Advance Your Analysis?
+
+Whether you're designing ecological field studies, managing wildlife
+monitoring data, or analyzing species distributions over space and
+time?this course equips you with practical expertise to unlock deeper
+insights from your data.
+
+Secure your place today and take your ecological modelling to the next
+level!
+
+
+Email oliverhooker at prstatistics.com with any questions
+
+-- 
+Oliver Hooker PhD.
+PR stats
+
+	[[alternative HTML version deleted]]
+
+

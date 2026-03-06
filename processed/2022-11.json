@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2022-11",
+  "messages": [
+    {
+      "id": "msg-56e98a9dac16",
+      "message_id": "<1669652351.97921277@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2022-11-28T17:19:11+01:00",
+      "subject": "[R-sig-genetics] Speciation Genomics course (5th-9th of December)",
+      "subject_clean": "Speciation Genomics course (5th-9th of December)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nthere is 1 seat left on the Physalia Speciation Genomics course happening next week online!\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course37/ ]( https://www.physalia-courses.org/courses-workshops/course37/ )\n \n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\nFollow us on [ Twitter ]( https://twitter.com/Physacourses ) & [ Mastodon ]( https://mas.to/@PhysaliaCourses )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nthere is 1 seat left on the Physalia Speciation Genomics course happening next week online!\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course37/ ]( https://www.",
+      "thread_id": "thread-56e98a9dac16",
+      "thread_depth": 0,
+      "month": "2022-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-56e98a9dac16",
+      "subject": "Speciation Genomics course (5th-9th of December)",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2022-11-28T17:19:11+01:00",
+      "last_reply": "2022-11-28T17:19:11+01:00",
+      "root_message_id": "msg-56e98a9dac16"
+    }
+  ]
+}

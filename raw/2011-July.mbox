@@ -1,0 +1,26 @@
+From f.calboli at imperial.ac.uk  Tue Jul 12 18:45:45 2011
+From: f.calboli at imperial.ac.uk (Federico Calboli)
+Date: Tue, 12 Jul 2011 17:45:45 +0100
+Subject: [R-sig-genetics] package MultiPhen
+Message-ID: <889CF5E5-4BF8-47E2-A827-F618A14F8631@imperial.ac.uk>
+
+Dear All,
+
+the new package MultiPhen is up. The latest version is 0.2, which should be available in a couple of days from a CRAN mirror near to you. MultiPhen performs genetic association tests between SNPs (one-at-a-time) and multiple phenotypes (separately or in joint model). So far it deals with SNPs, called or imputed, CNV and raw calls will be added in future releases.
+
+bw
+
+Federico
+
+--
+Federico C. F. Calboli
+Department of Epidemiology and Biostatistics
+Imperial College, St. Mary's Campus
+Norfolk Place, London W2 1PG
+
+Tel +44 (0)20 75941602   Fax +44 (0)20 75943193
+
+f.calboli [.a.t] imperial.ac.uk
+f.calboli [.a.t] gmail.com
+
+

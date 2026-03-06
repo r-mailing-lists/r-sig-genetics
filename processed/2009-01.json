@@ -1,0 +1,109 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2009-01",
+  "messages": [
+    {
+      "id": "msg-5e92e72f8858",
+      "message_id": "<e7529c930901041632i37f29df8o5312be7d44825fd0@mail.gmail.com>",
+      "from_name": "Grant Gillis",
+      "from_email_hash": "a89a4403e234398eb342007e100114ce89f4e27340c96eb5ebdc9f20f9db8717",
+      "date": "2009-01-04T19:32:05-05:00",
+      "subject": "[R-sig-genetics] combining scores from multiple panels",
+      "subject_clean": "combining scores from multiple panels",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090104/b1007693/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090104/b1007693/attachment.pl>",
+      "thread_id": "thread-5e92e72f8858",
+      "thread_depth": 0,
+      "month": "2009-01"
+    },
+    {
+      "id": "msg-d74520dd02d2",
+      "message_id": "<E8DD08F33547E54CBE7C124E5C4BAD5003D6663F@icex1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut J X",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2009-01-11T17:34:25Z",
+      "subject": "[R-sig-genetics] combining scores from multiple panels",
+      "subject_clean": "combining scores from multiple panels",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090111/2ac797af/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090111/2ac797af/attachment.pl>",
+      "thread_id": "thread-d74520dd02d2",
+      "thread_depth": 0,
+      "month": "2009-01"
+    },
+    {
+      "id": "msg-0a76ad0122e5",
+      "message_id": "<e7529c930901120649y6280d6c3hf8a8a44c67552099@mail.gmail.com>",
+      "from_name": "Grant Gillis",
+      "from_email_hash": "a89a4403e234398eb342007e100114ce89f4e27340c96eb5ebdc9f20f9db8717",
+      "date": "2009-01-12T09:49:14-05:00",
+      "subject": "[R-sig-genetics] combining scores from multiple panels",
+      "subject_clean": "combining scores from multiple panels",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090112/1c40bd9c/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090112/1c40bd9c/attachment.pl>",
+      "thread_id": "thread-0a76ad0122e5",
+      "thread_depth": 0,
+      "month": "2009-01"
+    },
+    {
+      "id": "msg-d4d054e0b9ac",
+      "message_id": "<E8DD08F33547E54CBE7C124E5C4BAD5003D66650@icex1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut J X",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2009-01-12T15:28:01Z",
+      "subject": "[R-sig-genetics] combining scores from multiple panels",
+      "subject_clean": "combining scores from multiple panels",
+      "in_reply_to": null,
+      "references": [
+        "<e7529c930901120649y6280d6c3hf8a8a44c67552099@mail.gmail.com>"
+      ],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090112/83092186/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090112/83092186/attachment.pl>",
+      "thread_id": "thread-0a76ad0122e5",
+      "thread_depth": 1,
+      "month": "2009-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-5e92e72f8858",
+      "subject": "combining scores from multiple panels",
+      "message_count": 1,
+      "participants": [
+        "Grant Gillis"
+      ],
+      "started": "2009-01-04T19:32:05-05:00",
+      "last_reply": "2009-01-04T19:32:05-05:00",
+      "root_message_id": "msg-5e92e72f8858"
+    },
+    {
+      "id": "thread-d74520dd02d2",
+      "subject": "combining scores from multiple panels",
+      "message_count": 1,
+      "participants": [
+        "Jombart, Thibaut J X"
+      ],
+      "started": "2009-01-11T17:34:25+00:00",
+      "last_reply": "2009-01-11T17:34:25+00:00",
+      "root_message_id": "msg-d74520dd02d2"
+    },
+    {
+      "id": "thread-0a76ad0122e5",
+      "subject": "combining scores from multiple panels",
+      "message_count": 2,
+      "participants": [
+        "Grant Gillis",
+        "Jombart, Thibaut J X"
+      ],
+      "started": "2009-01-12T09:49:14-05:00",
+      "last_reply": "2009-01-12T15:28:01+00:00",
+      "root_message_id": "msg-0a76ad0122e5"
+    }
+  ]
+}

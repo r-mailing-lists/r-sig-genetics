@@ -1,0 +1,113 @@
+From i@io m@iii@g oii phys@ii@-courses@org  Sun Sep 17 17:33:44 2023
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Sun, 17 Sep 2023 17:33:44 +0200 (CEST)
+Subject: [R-sig-genetics] course" Population Genomics Using Ancient DNA Data"
+Message-ID: <1694964824.32018398@webmail.jimdo.com>
+
+
+Dear all,
+registrations are now open for the 2nd edition of the course" Population Genomics Using Ancient DNA Data".
+ 
+Dates: (Online) 8th-12th January 2024
+
+
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/adna-popgen/ ]( https://www.physalia-courses.org/courses-workshops/adna-popgen/ )
+ 
+ 
+ Our course will delve into the methods and techniques for generating and analyzing ancient DNA (aDNA) data, with a primary focus on eukaryote genomes, which boasts a wealth of publicly available aDNA data.
+ 
+ 
+This course combines in-depth lectures with hands-on exercises, providing a comprehensive understanding of population genomic research using aDNA. The practical exercises will be conducted in a Linux environment, and data visualization will be performed using RStudio.
+ 
+It is tailored for graduate students and researchers in genetics, ecology, and anthropology who wish to harness the power of aDNA data in population genetics research. While the course examples primarily focus on humans, the methods discussed are applicable to researchers studying other organisms with available aDNA data.
+ 
+ 
+Course Schedule (Berlin Time):
+- Monday: Data processing and authentication
+- Tuesday: Population structure and relatedness
+- Wednesday: Introduction to the coalescent theory; D and F statistics
+- Thursday: Demographic inference
+- Friday: Simulations; Natural selection
+ 
+For the full list of our courses and Workshops, please have a look at [ https://www.physalia-courses.org/courses-workshops ]( https://www.physalia-courses.org/courses-workshops )
+ 
+ 
+Best regards,
+Carlo
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+Follow us on [ Twitter ]( https://twitter.com/Physacourses ) & [ Mastodon ]( https://mas.to/@PhysaliaCourses )
+	[[alternative HTML version deleted]]
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Wed Sep 20 19:26:50 2023
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Wed, 20 Sep 2023 18:26:50 +0100
+Subject: [R-sig-genetics] The Practice of RADseq: Population Genomics
+ Analysis with Stacks (RADS02)
+Message-ID: <CAEsSYzzhTtV7GF3AU9gMgxp1b6xkEBYWNbG5bHXcoVf1ov8H5g@mail.gmail.com>
+
+Not an R course but I thought this might be of interest to some group
+members, feel free to delete if not suitable.
+
+The Practice of RADseq: Population Genomics Analysis with Stacks (RADS02)
+<https://www.prstatistics.com/course/the-practice-of-radseq-population-genomics-analysis-with-stacks-rads02/>
+
+https://www.prstatistics.com/course/the-practice-of-radseq-population-genomics-analysis-with-stacks-rads02/
+2nd - 6th October 2023, 09:00-16:00 CDT (Central Daylight Time), however
+all sessions will be recorded and made available daily allowing attendees
+from different time zones to follow.
+Cost
+Early bird - book before 18th September ?350.00
+Normal - book after 18th September ?450.00
+
+Delivered by Dr Julian Catchen <https://catchenlab.life.illinois.edu/>
+
+Please feel free to share!
+
+About This Course
+This course is aimed at introducing researchers to the theory and practice
+of using reduced representation libraries ? such as RAD sequencing ? to
+preform population genomic analysis in non-model organisms. The course will
+center on running the software pipeline Stacks, focusing on how the
+characteristics of the underlying molecular libraries result in weak or
+robust analytical results. Sessions will be live online, consisting of a
+blend of lectures, interactive demonstrations, and lab practicals, where
+participants will have the opportunity to ask questions throughout.
+Computation will be done on the Amazon AWS Cloud.
+
+By the end of the course, participants should be able to:
+
+   - Navigate the UNIX file system, execute commands, and interact with
+   bioinformatic data files;
+   - Understand how to perform a de novo analysis ? without a reference
+   genome ? including parameter optimization;
+   - Understand how PCR duplicates and other molecular library
+   characteristics affect analysis;
+   - Complete a reference genome-based analysis;
+   - Take the outputs from Stacks to complete a Structure analysis (de novo),
+   a genome scan based on FST(reference-based), and a private allele
+   analysis.
+
+Please email oliverhooker at prstatistics.com
+
+-- 
+
+Oliver Hooker PhD.
+PR statistics
+
+	[[alternative HTML version deleted]]
+
+

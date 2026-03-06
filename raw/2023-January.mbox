@@ -1,0 +1,192 @@
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Tue Jan 24 17:35:24 2023
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Tue, 24 Jan 2023 16:35:24 +0000
+Subject: [R-sig-genetics] =?utf-8?q?Introduction_to_Multi=E2=80=99omics_D?=
+	=?utf-8?q?ata_Analysis_from_Microbial_Communities_=28MOMC01=29?=
+Message-ID: <CAEsSYzzDJCQ3bCTCEOJ1HADC0pq8sDK7dVb1+E3cYY1Fi+pLuA@mail.gmail.com>
+
+ONLINE COURSE ? Introduction to Multi?omics Data Analysis from Microbial
+Communities (MOMC01) This course will be delivered live
+
+https://www.prstatistics.com/course/introduction-to-multiomics-data-analysis-from-microbial-communities-momc01/
+
+Delivered by Dr. Melanie Schirmer
+
+Please feel free to share!
+
+Friday 10th March 2023
+
+The aim of this one-day workshop is to provide a thorough introduction to
+computational approaches for the analysis of microbial community profiles
+with a focus on metagenomic sequencing data. We will explain how taxonomic
+and functional profiles are generated from raw sequencing data, introduce
+different bioinformatic approaches to process sequencing data, followed by
+multivariate statistical analysis and different visualization techniques.
+The course will consist of a mixture of lectures and hands-on tutorials.
+The practical part of the
+course will focus on the analysis of publicly available multi-omics
+profiles.
+
+By the end of the course participants should:
+
+1. Be familiar with different workflows involved in the analysis of
+large-scale multi-omics studies.
+2. Understand how to generate taxonomic, functional and strain profiles from
+metagenomic sequencing data.
+3. Be familiar with applying a multivariate statistical framework to
+generate hypothesesand account for confounding covariates.
+4. Be able to use exploratory data visualizations techniques and visualize
+results from the statistical analysis using R.
+
+Lecture 1 ? general Introduction
+
+Lecture 2 ? Introduction to microbial community analysis
+
+Practical 1 ? Introduction to R and R notebook
+
+Lecture 3 ? Metagenomic data visualisation and exploratory analysis with cMD
+
+Practical 2 ? Metagenomic data visualisation
+
+Lecture 4 ? Statistics for microbial multi-comics data, methods for
+multi-comics integration
+
+Practical 3 ? Multivariate analysis (Linear models and/or MaAsLin2
+
+Lecture 5 ? Large-scale multi-omics studies
+
+Conclusions ? Discussion, questions, wrap up!
+
+-- 
+
+Oliver Hooker PhD.
+PR statistics
+
+	[[alternative HTML version deleted]]
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Fri Jan 27 18:17:36 2023
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Fri, 27 Jan 2023 17:17:36 +0000
+Subject: [R-sig-genetics] Introduction to eco-phylogenetics and comparative
+ analyses using R (ECPH02)
+Message-ID: <CAEsSYzyNWxYfzK91Gb1H5-b24AyF1RRh1GkLFTG8XGHNfhG+xA@mail.gmail.com>
+
+ONLINE COURSE ? Introduction to eco-phylogenetics and comparative analyses
+using R (ECPH02)
+
+https://www.prstatistics.com/course/introduction-to-eco-phylogenetics-and-comparative-analyses-using-r-ecph02/
+
+Please feel free to share!
+
+13th - 17th March 2023
+
+In this five day course, we provide an introduction to eco-phylogenetics
+and comparative analyses using R. We begin by providing an  overview on the
+use of phylogenies as a tool for evolutionary biologists and modern
+techniques to deal with large phylogenies and to incorporate phylogenetic
+uncertainty in the analyses (day 1). We then cover some of the most
+relevant eco-phylogenetic analyses and provide examples from the community
+to themacro-ecological scale (day 2-3). Finally, we introduce a diversity
+of classic and modern phylogenetic comparative methods to consider the
+historical relationship of lineages in eco-evolutionary research, including
+models of trait evolution, analysis of clade diversification and the use of
+phylogenies in spatial distribution models among others (day 4-5).
+
+Please email any questions to oliverhooker at prstatistics.com
+
+Upcoming courses
+
+Stable Isotope Mixing Models using SIBER, SIAR, MixSIAR (SIMM09)
+February 7th - 10th
+https://www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm09/
+
+Making Beautiful And Effective Maps In R (MAPR04)
+February 23rd - 24th
+https://www.prstatistics.com/course/making-beautiful-and-effective-maps-in-r-mapr04/Structural
+
+
+Equation Modelling for Ecologists and Evolutionary Biologists (SEMR05)
+March 6th - 10th
+https://www.prstatistics.com/course/structural-equation-modelling-for-ecologists-and-evolutionary-biologists-semr05/
+
+Introduction to Multi?omics Data Analysis from Microbial Communities
+(MOMC01)
+March 10th
+https://www.prstatistics.com/course/introduction-to-multiomics-data-analysis-from-microbial-communities-momc01/
+
+Movement Ecology (MOVE05)
+March 13th - 17th
+https://www.prstatistics.com/course/online-course-movement-ecology-move05/
+
+A Non Mathematical Introduction To Ordination Methods Using R (ORDM01)
+March 27th - 30th
+https://www.prstatistics.com/course/a-non-mathematical-introduction-to-ordination-methods-using-r-ordm01/
+
+Quantitative analysis of infrared spectroscopy data for soil and plant
+sciences (SPEC01)
+March 27th - 30th
+https://www.prstatistics.com/course/quantitative-analysis-of-infrared-spectroscopy-data-for-soil-and-plant-sciences-spec01/
+
+Species Distribution Modeling using R (SDMR05)
+April 25th - 29th
+https://www.prstatistics.com/course/species-distribution-modeling-using-r-sdmr05/
+
+Introduction to Bayesian modelling with INLA (BMIN02)
+May 22nd - 26th
+https://www.prstatistics.com/course/introduction-to-bayesian-modelling-with-inla-bmin02/
+
+Reproducible and collaborative data analysis with R (RACR02)
+June 13th - 15th
+https://www.prstatistics.com/course/reproducible-and-collaborative-data-analysis-with-r-racr02/
+
+Species Distribution Modelling With Bayesian Statistics Using R (SDMB05)
+September 4th - 8th
+https://www.prstatistics.com/course/online-course-species-distribution-modelling-with-bayesian-statistics-using-r-sdmb05/
+
+Multivariate Analysis Of Ecological Communities Using R With The VEGAN
+package (VGNR05)
+September 18th - 22ndhttps://
+www.prstatistics.com/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr05/
+
+-- 
+
+Oliver Hooker PhD.
+PR statistics
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Sat Jan 28 11:19:20 2023
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Sat, 28 Jan 2023 11:19:20 +0100 (CET)
+Subject: [R-sig-genetics] Course: Machine Learning in R for omics data
+Message-ID: <1674901160.2667238@webmail.jimdo.com>
+
+
+Dear all,
+ 
+there are the last 4 seats for the 3rd edition of the Machine Learning in R course.
+ 
+The objective of this course is to highlight advantages and limitations of these data analysis approaches in the context of biological research, providing a broad hands-on introduction to the use of multivariate methods and machine learning for the analysis of ?omics datasets.
+ 
+Dates: online, February 13th-17th
+ 
+Course:  [ https://www.physalia-courses.org/courses-workshops/course43/ ]( https://www.physalia-courses.org/courses-workshops/course43/ )
+ 
+Our courses and workshop: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )
+ 
+Best regards,
+ 
+Valentina
+ 
+ 
+Valentina Sardina
+Course coordinator
+info at physalia-courses.org
+[ http://www.physalia-courses.org/ ]( http://www.physalia-courses.org/ ) 
+mobile: +49 17645230846
+Follow us on [ Twitter ]( https://twitter.com/Physacourses ) & [ Mastodon ]( https://mas.to/@PhysaliaCourses )
+	[[alternative HTML version deleted]]
+
+

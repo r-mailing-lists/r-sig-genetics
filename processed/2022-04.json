@@ -1,0 +1,117 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2022-04",
+  "messages": [
+    {
+      "id": "msg-648831deb2af",
+      "message_id": "<1649838654.173211472@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2022-04-13T10:30:54+02:00",
+      "subject": "[R-sig-genetics] Landscape Genomics in R course",
+      "subject_clean": "Landscape Genomics in R course",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nthere are still a few seats available for the Landscape Genomics in R course.\n \nDates: online, 13th-17th June\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course17/ ]( https://www.physalia-courses.org/courses-workshops/course17/ ) \n \nThe course will provide an overview of the type of dataset that can be used for a landscape genomics analysis. Firstly, students will learn how to obtain environmental data from publicly available databases, how to process it with Geographic Information Systems (GIS) and how to use the latter to produce indicators able to describe the characteristics of the landscape. Next, the course will discuss the different approaches to obtain genetic data and subsequently show how to study genetic variation and population structure across space in the R environment. Students will be given an overview of the different statistical approaches to study local adaptation, and will be trained in using two of them, Sambada and LFMM. The course will also cover the critical task of the interpretation and validation of the results. Finally, the workshop will consider the crucial aspects and good habits to account for when planning a landscape genomics experiment (e.g. sampling design).  \n\n \nBest regards,\nCarlo\n \n \n\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\nFollow us on [ Twitter ]( https://twitter.com/Physacourses )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nthere are still a few seats available for the Landscape Genomics in R course.\n \nDates: online, 13th-17th June\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course1",
+      "thread_id": "thread-648831deb2af",
+      "thread_depth": 0,
+      "month": "2022-04"
+    },
+    {
+      "id": "msg-cea37f59c57f",
+      "message_id": "<CAJ9LPN2k5mGUP5QLfH_OJRz-BDNjy8nvfc_R8DNT-8whTaNn-A@mail.gmail.com>",
+      "from_name": "Melanie Delleuze",
+      "from_email_hash": "a32f6e1a163b9f633f9943ecc3a3ca5676320f18f32901cef76c039739fc366b",
+      "date": "2022-04-14T11:51:32-04:00",
+      "subject": "[R-sig-genetics] F statistics in R",
+      "subject_clean": "F statistics in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello dear community,\n\nI was wondering if anyone knows how to calculate pairwise Fst and ?st for\nhaplotypes data set in R ? I have a fasta file with the haplotype sequences\nand an haplotype abundance table per site, and I am looking for a way to\ncalculate those statistics by pair of site (populations) in R.  I have\ntried the function pairwise.fst in adegenet but didn't succeed, it seems\nthat the function is not available anymore.\n\nAnd I have a second question: how can I expand a fasta file with unique\nhaplotype sequences with an haplotype abundance table in R?\n\nI would be grateful to any guidance,\nKind regards,\n\nM?lanie Delleuze\n\nMaster Student - Biodiversity, Ecology and Evolution\n\nLille University\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello dear community,\n\nI was wondering if anyone knows how to calculate pairwise Fst and ?st for\nhaplotypes data set in R ? I have a fasta file with the haplotype sequences\nand an haplotype abundance ",
+      "thread_id": "thread-cea37f59c57f",
+      "thread_depth": 0,
+      "month": "2022-04"
+    },
+    {
+      "id": "msg-d7eeb04cf321",
+      "message_id": "<CAEsSYzw7YZS6mNDOdWPi_o5K2xnZPpvbwsXpOWYp7ByPuAY8mw@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2022-04-21T14:30:49+01:00",
+      "subject": "[R-sig-genetics] ONLINE COURSE – Introduction To Multivariate Analysis In Ecology And Evolutionary Biology",
+      "subject_clean": "ONLINE COURSE – Introduction To Multivariate Analysis In Ecology And Evolutionary Biology",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Introduction To Multivariate Analysis In Ecology And\nEvolutionary Biology\n\nhttps://www.prstatistics.com/course/online-course-introduction-to-multivariate-analysis-in-ecology-and-evolutionary-biology-imae01-this-course-will-be-delivered-live/\n\nPlease feel free to share!\n\nABOUT THIS COURSE\n\nThis community analytics course is designed for students who have recently\nstarted their projects or researchers who are starting using the R\necosystem. During this three-day course, we will cover the basic concepts\nof multivariate analysis and their implementation in R. This course is a\ncomplement to the PR Statistic offering allowing also beginners and\nnon-programmers to discover the statistical tools needed to analyze an\necological dataset in research, natural resource management or conservation\ncontext. This course is not geared toward any particular taxonomic group or\necological system.\n\nWe will cover diversity indices, distance measures and multivariate\ndistance-based methods, clustering, classification, and ordination\ntechniques. We will focus on the concept of the methods and their\nimplementation on R using different R packages. We will use real-world\nexamples to implement analyses, such as describing patterns along gradients\nof environmental or anthropogenic disturbances, quantifying the effects of\ncontinuous and discrete predictors, data mining. The course will consist of\nlectures, work on R code scripts, and exercises for participants.\n\nPlease feel free to contact oliverhooker at prstatistics.com with any\nquestions.\n\nhttps://www.prstatistics.com/live-courses/\n\nhttps://www.prstatistics.com/recorded-courses/\n\n-- \n\nOliver Hooker PhD.\nPR statistics\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? Introduction To Multivariate Analysis In Ecology And\nEvolutionary Biology\n\nhttps://www.prstatistics.com/course/online-course-introduction-to-multivariate-analysis-in-ecology-and-evolut",
+      "thread_id": "thread-d7eeb04cf321",
+      "thread_depth": 0,
+      "month": "2022-04"
+    },
+    {
+      "id": "msg-1018d302ee5d",
+      "message_id": "<1650549654.694927882@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2022-04-21T16:00:54+02:00",
+      "subject": "[R-sig-genetics] Online course - GENE SET ENRICHMENT ANALYSIS IN R (May 3rd-6th)",
+      "subject_clean": "Online course - GENE SET ENRICHMENT ANALYSIS IN R (May 3rd-6th)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nthere are the last seats available on the Physalia course \"GENE SET ENRICHMENT ANALYSIS IN R\", which will be held online from the 3rd to the 6th of May.\n \nIn this course, we will teach the use of popular GSEA tools, both for online-based tools and those implemented as R packages. We will give a detailed introduction on a variety of methods of GSEA analysis, including overrepresentation analysis, univariate methods, multivariate methods, as well as extensions of GSEA analysis, such as network-based GSEA, and single-sample GSEA. Finally, you will also learn downstream processing of GSEA results, including efficiently visualizing the massive GSEA results, clustering, and simplifying GSEA results via various methods.In the course, we will cover some other topics that are tightly related to GSEA analysis, such as multiple hypothesis testing. You will also learn how to implement GSEA methods completely from scratch in R.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/gse-in-r/ ]( https://www.physalia-courses.org/courses-workshops/gse-in-r/ )\n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\nFollow us on [ Twitter ]( https://twitter.com/Physacourses )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nthere are the last seats available on the Physalia course \"GENE SET ENRICHMENT ANALYSIS IN R\", which will be held online from the 3rd to the 6th of May.\n \nIn this course, we will teach the",
+      "thread_id": "thread-1018d302ee5d",
+      "thread_depth": 0,
+      "month": "2022-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-648831deb2af",
+      "subject": "Landscape Genomics in R course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2022-04-13T10:30:54+02:00",
+      "last_reply": "2022-04-13T10:30:54+02:00",
+      "root_message_id": "msg-648831deb2af"
+    },
+    {
+      "id": "thread-cea37f59c57f",
+      "subject": "F statistics in R",
+      "message_count": 1,
+      "participants": [
+        "Melanie Delleuze"
+      ],
+      "started": "2022-04-14T11:51:32-04:00",
+      "last_reply": "2022-04-14T11:51:32-04:00",
+      "root_message_id": "msg-cea37f59c57f"
+    },
+    {
+      "id": "thread-d7eeb04cf321",
+      "subject": "ONLINE COURSE – Introduction To Multivariate Analysis In Ecology And Evolutionary Biology",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2022-04-21T14:30:49+01:00",
+      "last_reply": "2022-04-21T14:30:49+01:00",
+      "root_message_id": "msg-d7eeb04cf321"
+    },
+    {
+      "id": "thread-1018d302ee5d",
+      "subject": "Online course - GENE SET ENRICHMENT ANALYSIS IN R (May 3rd-6th)",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2022-04-21T16:00:54+02:00",
+      "last_reply": "2022-04-21T16:00:54+02:00",
+      "root_message_id": "msg-1018d302ee5d"
+    }
+  ]
+}

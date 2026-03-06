@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2022-10",
+  "messages": [
+    {
+      "id": "msg-e7a514e29d0b",
+      "message_id": "<1664874778.84772825@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2022-10-04T11:12:58+02:00",
+      "subject": "[R-sig-genetics] Physalia course \"Developing R/Bioconductor packages for genomics\"",
+      "subject_clean": "Physalia course \"Developing R/Bioconductor packages for genomics\"",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nlast days to apply for the Physalia course \"Developing R/Bioconductor packages for genomics\"!\n \nDates: online, 24th-28th of October\n \nWebsite: https://www.physalia-courses.org/courses-workshops/r-packages/\n \nThis course aims at making Bioconductor package development within one?s reach. It is specifically designed for biologists and newer bioinformaticians who may find themselves using R/Bioconductor packages and who wish to expand their programmatic toolkit.\n\nOverall, this course will help the attendees gain accurate insights into the fundamental notions required for proper R/Bioconductor package development. We will cover key theory concepts about package development and the Bioconductor ecosystem, supported by a range of demonstrations and exercises, to get a complete understanding of all the steps of package development.\n \nThe material is suitable both for experimentalists who want to learn more about R/Bioconductor ecosystem as well as computational biologists who want to expand their set of coding skills. However, the course will be most beneficial to those who have already been familiarized with the R environment.\n \n \nFull list of our courses and Workshops: [ https://www.physalia-courses.org/courses-workshops ]( https://www.physalia-courses.org/courses-workshops )\n \n \n \nShould you have any questions, please do not hesitate to contact us at: info at physalia-courses.org\n \n \n \n \n \n \n \nBest regards,\n \n \n \nCarlo\n \n \n \n \n \n \n \n \n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\nFollow us on [ Twitter ]( https://twitter.com/Physacourses )\n \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nlast days to apply for the Physalia course \"Developing R/Bioconductor packages for genomics\"!\n \nDates: online, 24th-28th of October\n \nWebsite: https://www.physalia-courses.org/courses-work",
+      "thread_id": "thread-e7a514e29d0b",
+      "thread_depth": 0,
+      "month": "2022-10"
+    },
+    {
+      "id": "msg-b65367724e0a",
+      "message_id": "<1665681785.208521178@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2022-10-13T19:23:05+02:00",
+      "subject": "[R-sig-genetics] Online course: Seascape Genomics in  R",
+      "subject_clean": "Online course: Seascape Genomics in  R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nthere are the last 2 seats avaiable for the Physalia course on Seascape Genomics in R\n \n \nDates: online, 31st of October -4th of November\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course70/ ]( https://www.physalia-courses.org/courses-workshops/course70/ )\n \n \nBest regards,\nCarlo\n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\nFollow us on [ Twitter ]( https://twitter.com/Physacourses )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nthere are the last 2 seats avaiable for the Physalia course on Seascape Genomics in R\n \n \nDates: online, 31st of October -4th of November\n \nCourse website: [ https://www.physalia-courses.o",
+      "thread_id": "thread-b65367724e0a",
+      "thread_depth": 0,
+      "month": "2022-10"
+    },
+    {
+      "id": "msg-e661153d4450",
+      "message_id": "<1666772986.579921@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2022-10-26T10:29:46+02:00",
+      "subject": "[R-sig-genetics] Seascape genomics in R",
+      "subject_clean": "Seascape genomics in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nthere are the last 2 seats available for the 3rd edition of the Seascape genomics in R course next week.\n \nIf interested, please check it out: [ https://www.physalia-courses.org/courses-workshops/course70/ ]( https://www.physalia-courses.org/courses-workshops/course70/ )\n \n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\nFollow us on [ Twitter ]( https://twitter.com/Physacourses )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nthere are the last 2 seats available for the 3rd edition of the Seascape genomics in R course next week.\n \nIf interested, please check it out: [ https://www.physalia-courses.org/courses-wo",
+      "thread_id": "thread-e661153d4450",
+      "thread_depth": 0,
+      "month": "2022-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-e7a514e29d0b",
+      "subject": "Physalia course \"Developing R/Bioconductor packages for genomics\"",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2022-10-04T11:12:58+02:00",
+      "last_reply": "2022-10-04T11:12:58+02:00",
+      "root_message_id": "msg-e7a514e29d0b"
+    },
+    {
+      "id": "thread-b65367724e0a",
+      "subject": "Online course: Seascape Genomics in  R",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2022-10-13T19:23:05+02:00",
+      "last_reply": "2022-10-13T19:23:05+02:00",
+      "root_message_id": "msg-b65367724e0a"
+    },
+    {
+      "id": "thread-e661153d4450",
+      "subject": "Seascape genomics in R",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2022-10-26T10:29:46+02:00",
+      "last_reply": "2022-10-26T10:29:46+02:00",
+      "root_message_id": "msg-e661153d4450"
+    }
+  ]
+}

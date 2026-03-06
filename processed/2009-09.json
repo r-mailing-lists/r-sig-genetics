@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2009-09",
+  "messages": [
+    {
+      "id": "msg-ef6bdc0e0630",
+      "message_id": "<4AB8E45F.2060502@gmail.com>",
+      "from_name": "gmail",
+      "from_email_hash": "f8f7d181ca489c160dafab77f9affa837bcc62c9decb0dc7bb24cc88822f8a60",
+      "date": "2009-09-22T16:51:11+02:00",
+      "subject": "[R-sig-genetics] Nei-Li distance",
+      "subject_clean": "Nei-Li distance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi all,\nhere is the function to calculate Nei-Li (1979) distance (or \ndissimilarity) for a binary matrix where columns are species and rows \nare alleles.\nIt is a modification of \"jaccard\" function in package prabclus by \nChristian Hennig and Bernhard Hausdorf.\n\n########################################\nneidist<-function (regmat)\n{\n    nart <- ncol(regmat)\n    jdist <- rep(0, nart * nart)\n    dim(jdist) <- c(nart, nart)\n    reg.col.sum <- apply(regmat, 2, sum)\n    reg.aggrement <- t(regmat) %*% regmat\n    nedist <- 1 - (reg.aggrement+reg.aggrement)/((reg.col.sum - \nt(t(reg.aggrement) -\n        reg.col.sum))+reg.aggrement)\n    nedist\n}\n###############################################\n\n\nUseful in AFLP or other dominant (0-1 response) markers analysis\n\nFiorello Toneatto",
+      "body_snippet": "Hi all,\nhere is the function to calculate Nei-Li (1979) distance (or \ndissimilarity) for a binary matrix where columns are species and rows \nare alleles.\nIt is a modification of \"jaccard\" function in ",
+      "thread_id": "thread-ef6bdc0e0630",
+      "thread_depth": 0,
+      "month": "2009-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-ef6bdc0e0630",
+      "subject": "Nei-Li distance",
+      "message_count": 1,
+      "participants": [
+        "gmail"
+      ],
+      "started": "2009-09-22T16:51:11+02:00",
+      "last_reply": "2009-09-22T16:51:11+02:00",
+      "root_message_id": "msg-ef6bdc0e0630"
+    }
+  ]
+}

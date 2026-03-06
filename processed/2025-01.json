@@ -1,0 +1,387 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2025-01",
+  "messages": [
+    {
+      "id": "msg-57ce7ec65999",
+      "message_id": "<NHWbK4rlT3OFhizR9rEL6w@geopod-ismtpd-2>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-01-02T11:50:00Z",
+      "subject": "[R-sig-genetics] Spatial and Spatio-Temporal Health Modeling - Last Chance",
+      "subject_clean": "Spatial and Spatio-Temporal Health Modeling - Last Chance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nLast chance to register for the new 4-day workshop on Bayesian Spatial and Spatio-Temporal Health Modeling in R <https://instats.org/seminar/bayesian-spatial-and-spatio-temporal-mod2>, running Jan 7 - 10 with professor Andrew Lawson. This workshop provides a comprehensive introduction to techniques for analyzing spatial and spatio-temporal data. While the examples used will be primarily from the health sciences, this hands-on workshop is designed to equip PhD students, academics, and professional researchers with the skills to conduct cutting-edge research across a broad range of fields using spatial data. Leveraging the power of R and OpenBugs software, the examples used will come from health research, including professor Lawson's extensive work in the field, but the methods and code are applicable to problems encountered in the health sciences and beyond.\n\nSign up today <https://instats.org/seminar/bayesian-spatial-and-spatio-temporal-mod2> to secure your spot in this exciting 4-day event, and please feel free to tell your colleagues and students.\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nLast chance to register for the new 4-day workshop on Bayesian Spatial and Spatio-Temporal Health Modeling in R <https://instats.org/seminar/bayesian-spatial-and-spatio-temporal-mod2>, ru",
+      "thread_id": "thread-57ce7ec65999",
+      "thread_depth": 0,
+      "month": "2025-01"
+    },
+    {
+      "id": "msg-c72c9fd3d292",
+      "message_id": "<1735904923.69835480@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-01-03T12:48:43+01:00",
+      "subject": "[R-sig-genetics] Only 2 Seats Left: Landscape Genomics Workshop in Poland (20–24 January 2025)",
+      "subject_clean": "Only 2 Seats Left: Landscape Genomics Workshop in Poland (20–24 January 2025)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nWe?re thrilled to announce our Landscape Genomics workshop, happening 20?24 January 2025 at the Faculty of Biology and Environmental Protection, University of Lodz, Poland. \n \nOnly 2 Seats Remaining! \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course17/ ]( https://www.physalia-courses.org/courses-workshops/course17/ ) \n \nWorkshop Highlights:\nExplore how genetic diversity is distributed across landscapes and influenced by environmental features.\nLearn to process environmental data using GIS, analyse genetic variation and identify local adaptation using Sambada.\nGain insights into planning experiments, sampling designs, and interpreting results for evolutionary biology and conservation studies.\nWho Should Attend?\nThis workshop is perfect for biologists, ecologists, geneticists, and veterinarians looking to integrate landscape genomics into their research. \nProgram Overview:\nDay 1: Introduction to landscape genomics, environmental and genetic data basics, GIS fundamentals.\nDay 2: Environmental characterization, remote sensing, and Google Earth Engine.\nDay 3: Experiment planning, genetic data filtering, spatial genetic variation, and population structure.\nDay 4: Integrating genetic and environmental data, identifying markers under selection, and spatial autocorrelation mapping.\nDay 5: Thematic mapping, take-home messages, and Q&A.\n \nWe look forward to welcoming you to Lodz!\n \nBest regards and Happy New Year,\nCarlo\n\n\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nWe?re thrilled to announce our Landscape Genomics workshop, happening 20?24 January 2025 at the Faculty of Biology and Environmental Protection, University of Lodz, Poland. \n \nOnly 2 Seats",
+      "thread_id": "thread-c72c9fd3d292",
+      "thread_depth": 0,
+      "month": "2025-01"
+    },
+    {
+      "id": "msg-52dcde0120ed",
+      "message_id": "<7tNN8DWfQGWoYPK3pfq56g@geopod-ismtpd-1>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-01-08T08:50:00Z",
+      "subject": "[R-sig-genetics] Online Course: Meta-Analysis: Introductory and Advance",
+      "subject_clean": "Online Course: Meta-Analysis: Introductory and Advance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nLast chance to register for our new 4-day seminars on Meta-Analysis: Introductory and Advanced <https://instats.org/structuredcourse/meta-analysis-introductory-and-advanced2>, running Jan 13 - 16 and January 27 - 30, with renowned meta-analytic expert Michael Borenstein (who is also the author of the Comprehensive Meta-Analysis program). The introductory seminar <https://instats.org/seminar/meta-analysis-an-introductory-course2> provides the knowledge and skills needed to start conducting and reporting the results of meta-analyses. An emphasis is placed on the two primary types of meta-analysis: fixed-effects versus random-effects models. All sessions include time for an extensive discussion. The advanced seminar <https://instats.org/seminar/meta-analysis-an-advanced-course2> covers a variety of additional topics, including how to quantify and explain heterogeneity in effects across studies. Participants will learn how to use subgroups analysis and meta-regression while covering publication bias, complex data sets, limitations of the random-effects model, and more. In both seminars, each topic will be introduced at the conceptual level, followed by worked examples and exercises so that participants will feel comfortable performing these analyses on their own.\n\nYou can sign up for either seminar individually, but by signing up for both seminars <https://instats.org/structuredcourse/meta-analysis-introductory-and-advanced2> an automatic 10% discount is applied to both. We hope to see you at these unique events with one of the world's leading experts in meta-analysis.\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nLast chance to register for our new 4-day seminars on Meta-Analysis: Introductory and Advanced <https://instats.org/structuredcourse/meta-analysis-introductory-and-advanced2>, running Jan",
+      "thread_id": "thread-52dcde0120ed",
+      "thread_depth": 0,
+      "month": "2025-01"
+    },
+    {
+      "id": "msg-6faf9b168eb3",
+      "message_id": "<1736354927.884619205@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-01-08T17:48:47+01:00",
+      "subject": "[R-sig-genetics] Course online: Multivariate Data Analysis with R and vegan",
+      "subject_clean": "Course online: Multivariate Data Analysis with R and vegan",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are excited to announce that our online course, Multivariate Data Analysis with R and vegan, is almost full! Join us if you want to enhance your skills in analysing multivariate data using one of the most widely-used R packages for community ecology, vegan.\n \nDates: 10-13 February 2025 (Online)\nCourse website: [ https://www.physalia-courses.org/courses-workshops/vegan/ ]( https://www.physalia-courses.org/courses-workshops/vegan/ )\n \nThis course provides a practical introduction to multivariate methods, focusing on tools available in vegan. Topics include:\nUnconstrained ordination (PCA, PCoA, NMDS)\nConstrained ordination (CCA, RDA, PERMANOVA)\nStatistical testing with restricted permutations\nDiagnostics and visualization for ordination models\nThrough a mix of lectures and hands-on exercises, participants will gain the skills to analyse complex multivariate datasets and apply appropriate statistical methods.\nWho Should Attend?\nThis course is ideal for PhD students, researchers, and professionals working with multivariate datasets in fields such as ecology, microbiology, and agriculture. Attendees should have basic R programming skills and familiarity with RStudio.\nLearning Outcomes\nUnderstand key multivariate analysis methods\nSelect appropriate methods for analyzing datasets\nPerform restricted permutation tests with constrained ordination\nUse R to analyze and visualize multivariate data\nSchedule\nMonday-Thursday: 14:00 to 20:00 (Berlin time)\nSessions include Q&A, lectures, discussions, and practical exercises via Slack and Zoom.\n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are excited to announce that our online course, Multivariate Data Analysis with R and vegan, is almost full! Join us if you want to enhance your skills in analysing multivariate data usin",
+      "thread_id": "thread-6faf9b168eb3",
+      "thread_depth": 0,
+      "month": "2025-01"
+    },
+    {
+      "id": "msg-c9e348375485",
+      "message_id": "<1736442065.953725300@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-01-09T18:01:05+01:00",
+      "subject": "[R-sig-genetics] Landscape Genomics course in Poland - 20-24 January",
+      "subject_clean": "Landscape Genomics course in Poland - 20-24 January",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nwe still have one seat available for the Landscape Genomics course at the University of Lodz in Poland.\nDates: January 20th-24th\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course17/ ]( https://www.physalia-courses.org/courses-workshops/course17/ )\n \nShould you have any questions, please do not hesitate to contact us.\n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nwe still have one seat available for the Landscape Genomics course at the University of Lodz in Poland.\nDates: January 20th-24th\n \nCourse website: [ https://www.physalia-courses.org/course",
+      "thread_id": "thread-c9e348375485",
+      "thread_depth": 0,
+      "month": "2025-01"
+    },
+    {
+      "id": "msg-f8e48ef7a833",
+      "message_id": "<PJJ_AziNRqOCxOnwJTseuA@geopod-ismtpd-9>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-01-13T09:20:00Z",
+      "subject": "[R-sig-genetics] Online Course: Introduction to Bayesian Statistical Modelling",
+      "subject_clean": "Online Course: Introduction to Bayesian Statistical Modelling",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nLast chance to register for our 3-day seminar Introduction to Bayesian Statistical Modelling <https://instats.org/seminar/introduction-to-statistical-modelling-in2>, running on January 15, 22, and 29. This seminar is an excellent opportunity to dive into the fundamentals of Bayesian statistics, a powerful and flexible approach to statistical modeling that is increasingly used across a wide range of disciplines. Participants will learn the core principles of Bayesian inference, how to construct and evaluate Bayesian models, and practical implementation using modern computational tools. The course emphasizes hands-on learning, equipping attendees with the skills to apply Bayesian methods to their own research questions. Whether you're new to Bayesian statistics or looking to deepen your understanding, this seminar provides a comprehensive introduction to this essential framework for data analysis.\n\nSign up today <https://instats.org/seminar/introduction-to-statistical-modelling-in2> to secure your spot, and please feel free to share this opportunity with colleagues and students who might benefit from this engaging and practical course.\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nLast chance to register for our 3-day seminar Introduction to Bayesian Statistical Modelling <https://instats.org/seminar/introduction-to-statistical-modelling-in2>, running on January 15",
+      "thread_id": "thread-f8e48ef7a833",
+      "thread_depth": 0,
+      "month": "2025-01"
+    },
+    {
+      "id": "msg-6e9f35892044",
+      "message_id": "<HcSitLjwRJ6bOjT6MblIDQ@geopod-ismtpd-6>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-01-14T10:14:39Z",
+      "subject": "[R-sig-genetics] Online Course: Deep Learning for the Life Sciences",
+      "subject_clean": "Online Course: Deep Learning for the Life Sciences",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is pleased to be offering a 1-day seminar on Deep Learning for the Life Sciences <https://instats.org/seminar/deep-learning-for-the-life-sciences2>, running on Jan 27. Led by Dr. Nikolay Oskolkov, this seminar provides an excellent opportunity to explore how deep learning techniques can be applied to solve complex problems in the life sciences. Whether you are new to deep learning or looking to expand your expertise, this course will equip you with the knowledge and tools needed to integrate these cutting-edge methods into your research. Participants will delve into key topics such as neural network architectures, data preprocessing for biological datasets, and practical applications of deep learning in genomics, proteomics, and other areas of the life sciences. With a focus on hands-on learning, the seminar ensures attendees gain practical experience with tools and frameworks commonly used in the field. \n\nDon?t miss this chance to learn from a leading expert?sign up today <https://instats.org/seminar/deep-learning-for-the-life-sciences2> to secure your spot!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is pleased to be offering a 1-day seminar on Deep Learning for the Life Sciences <https://instats.org/seminar/deep-learning-for-the-life-sciences2>, running on Jan 27. Led by Dr. ",
+      "thread_id": "thread-6e9f35892044",
+      "thread_depth": 0,
+      "month": "2025-01"
+    },
+    {
+      "id": "msg-e989eb6e8513",
+      "message_id": "<LKCf6CwwTsmfGtvFP6ncTA@geopod-ismtpd-8>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-01-15T07:20:00Z",
+      "subject": "[R-sig-genetics] Free Seminars: Machine Learning and Data Visualization",
+      "subject_clean": "Free Seminars: Machine Learning and Data Visualization",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is pleased to be offering free introductions to Advanced Data Visualization and Machine Learning in February -- we hope to see you there:\n\nAdvanced Data Visualizations in R: <https://instats.org/seminar/advanced-data-visualizations-in-r-free->\nOffered by the Statistical Society of Canada (Biostatistics Section) and McGill University, this 2-hour seminar running February 21st is perfect for anyone interested in learning more about creating publication-ready graphics and exploring interactive visualizations. Ideal for experienced R users looking to take their skills to the next level. \n\nMachine Learning Essentials: <https://instats.org/seminar/machine-learning-essentials-free-semina2>\nJoin Dr. Kimberly Fessel on February 5th for a concise introduction to machine learning fundamentals, including supervised and unsupervised learning, model evaluation, and real-world applications. This 1-hour seminar is perfect for beginners or anyone seeking a quick refresher on machine learning methods.\n\nSign up today to secure your spot and please feel free to share with colleagues and students who might benefit.\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is pleased to be offering free introductions to Advanced Data Visualization and Machine Learning in February -- we hope to see you there:\n\nAdvanced Data Visualizations in R: <http",
+      "thread_id": "thread-e989eb6e8513",
+      "thread_depth": 0,
+      "month": "2025-01"
+    },
+    {
+      "id": "msg-caddf81422b8",
+      "message_id": "<CAEsSYzwc1Dn1M9GLf65VpU2Ce33_Dfr4_+wK=jX=1HqYz+NH9Q@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2025-01-16T16:02:33Z",
+      "subject": "[R-sig-genetics] Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR07)",
+      "subject_clean": "Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR07)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR07)\n\nhttps://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr07/\n<https://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr06/>\n\nUse discount code 'JAN25' to make the most of our Jan sale worth 20% off\nall courses\n\n*31st - March - 4th April 2025*\n\nPlease feel free to share!\n\nWe encourage attendees to bring their own data, you will\nreceive opportunities to discuss your data with the instructor throughout\nthe course, if you would like guideline on how to organize your data\nprior to the course please ask oliverhoooker at prstatistica.com\n\nThis course is suitable for researchers (PhD and MSc students, post-docs,\nprimary investigators) and environmental professionals who are interested\nin implementing best practices and state-of-the-art methods for modelling\nspecies? distributions or ecological niches, with applications to\nbiogeography, spatial ecology, biodiversity conservation and related\ndisciplines.\n\nThis 5-day course will cover R concepts, methods, and tools that can be\nused to analyze community ecology data. The course will review data\nprocessing techniques relevant to multivariate data sets. We will cover\ndiversity indices, distance measures and distance-based multivariate\nmethods, clustering, classification and ordination techniques using the R\npackage VEGAN. We will use real-world empirical data sets to motivate\nanalyses, such as describing patterns along gradients of environ-mental or\nanthropogenic disturbances, and quantifying the effects of continuous and\ndiscrete predictors. We will emphasise visualisation and reproducible\nworkflows as well as good programming practices. The modules will consist\nof introductory lectures, guided computer coding, and participant\nexercises. The course is intended for intermediate users of R who are\ninterested in community ecology, particularly in the areas of terrestrial\nand wetland ecology, microbial ecology, and natural resource management.\nYou are strongly encouraged to use your own data sets (they should be clean\nand already structured, see the document: ?recommendation if you\nparticipate with your data?.\n\n*Classes will run from 08:00 ? 13:00 for the morning lecture and 14:00 ?\n16:00 for the practical (UK time) with an evening time session tbc for US,\nCanada etc. attendees. The course will be recorded and made available each\nday and will remain available for 28 days after the course for you to\nrevisit any lectures.*\n\nDAY 1\n? Module 1: Introduction to community data analysis, basics of programming\nin R\n? Module 2: Diversity analysis, species-abundance distributions\n\nDAY 2\n? Module 3: Distance and transformation measures\n? Module 4: Clustering and classification analysis\n\nDAY 3\n? Module 5: Unconstrained ordinations: Principal Component Analysis\n? Module 6: Other unconstrained ordinations\n\nDAY 4\n? Module 7: Constrained ordinations: RDA and other canonical analysis\n? Module 8: Statistical tests for multivariate data and variation\npartitioning\n\nDAY 5\n? Module 9: Overview of Spatial analysis, and recent Hierarchical Modeling\nof Species Communities (HMSC) methods\n? Modules 10: Special topics and discussion, analyzing participants? data.\n\n\nWe also offer an introductory version of this course if you fell this is\ntoo advanced\n\nONLINE COURSE ? Community Analytics in Ecology and Evolutionary Biology for\nBeginners (CAFB01)\nhttps://www.prstats.org/course/community-analytics-in-ecology-and-evolutionary-biology-for-beginners-cafb01/\n\nUpcoming courses\nONLINE COURSE ? Time Series Analysis and Forecasting using R and Rstudio\n(TSAF01) This course will be delivered live\n<https://www.prstats.org/course/time-series-analysis-and-forecasting-using-r-and-rstudio-tsaf01/>\nONLINE COURSE ? Machine Vision using Python (MVUP01) This course will be\ndelivered live\n<https://www.prstats.org/course/machine-vision-using-python-mvup01/>\nONLINE COURSE ? Machine Learning using Python (MLUP01) This course will be\ndelivered live\n<https://www.prstats.org/course/machine-learning-using-python-mlup01/>\nONLINE COURSE ? Species Distribution Modelling With Bayesian Statistics\nUsing R (SDMB06) This course will be delivered live\n<https://www.prstats.org/course/online-course-species-distribution-modelling-with-bayesian-statistics-using-r-sdmb06/>\nONLINE COURSE ? Remote sensing data analysis and coding in R for ecology\n(RSDA01) This course will be delivered live\n<https://www.prstats.org/course/remote-sensing-data-analysis-and-coding-in-r-for-ecology-rsda01/>\nONLINE COURSE ? Introduction to generalised linear models using R and\nRstudio (IGLM08) This course will be delivered live\n<https://www.prstats.org/course/introduction-to-generalised-linear-models-using-r-and-rstudio-iglm08/>\nONLINE COURSE ? Introduction To Mixed Models Using R And Rstudio (IMMR09)\nThis course will be delivered live\n<https://www.prstats.org/course/introduction-to-mixed-models-using-r-and-rstudio-immr09/>\nONLINE COURSE ? Stable Isotope Mixing Models using SIBER, SIAR, MixSIAR\n(SIMM11) This course will be delivered live\n<https://www.prstats.org/course/online-course-stable-isotope-mixing-models-using-siber-siar-mixsiar-simm11/>\nONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR07) This course will be delivered live\n<https://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr07/>\nONLINE COURSE ? Movement Ecology Using R(MOVE07) This course will be\ndelivered live\n<https://www.prstats.org/course/movement-ecology-using-rmove07/>\nONLINE COURSE ? Bioacoustics Data Analysis using R (BIAC05) This course\nwill be delivered live\n<https://www.prstats.org/course/bioacoustics-data-analysis-biac05/>\n\n\n-- \nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR07)\n\nhttps://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the",
+      "thread_id": "thread-caddf81422b8",
+      "thread_depth": 0,
+      "month": "2025-01"
+    },
+    {
+      "id": "msg-e38b477f14b6",
+      "message_id": "<wYbuhuGrRJ2I5z3EC14nyg@geopod-ismtpd-11>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-01-17T06:35:00Z",
+      "subject": "[R-sig-genetics] Developing R Packages and CRAN Publishing - Livestream Seminar",
+      "subject_clean": "Developing R Packages and CRAN Publishing - Livestream Seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is pleased to be offering a 1-day seminar on Developing R Packages and CRAN Publishing <https://instats.org/seminar/developing-r-packages-and-cran-publishin2>, running Jan 23 by Dr Fodil Ihaddaden, an expert in this area with significant experience writing and publishing R packages on CRAN. This seminar is an excellent opportunity for R users to learn how to create, document, and publish their own R packages on CRAN. Whether you are new to package development or looking to refine your skills, this course will provide the foundational knowledge needed to confidently share your work with the R community. Participants will cover essential topics such as structuring R packages, writing effective documentation, managing dependencies, and navigating the CRAN submission process. With a focus on practical applications, the seminar equips attendees with the tools necessary to develop high-quality, reusable R packages. \n\nDon?t miss this chance to learn from an expert?sign up today <https://instats.org/seminar/developing-r-packages-and-cran-publishin2> to secure your spot!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is pleased to be offering a 1-day seminar on Developing R Packages and CRAN Publishing <https://instats.org/seminar/developing-r-packages-and-cran-publishin2>, running Jan 23 by D",
+      "thread_id": "thread-e38b477f14b6",
+      "thread_depth": 0,
+      "month": "2025-01"
+    },
+    {
+      "id": "msg-97798a1cfe91",
+      "message_id": "<2ntmEMx8QX-ie7IE3nWDyg@geopod-ismtpd-3>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-01-21T05:54:02Z",
+      "subject": "[R-sig-genetics] Online Course: Deep Learning for Scientific Research",
+      "subject_clean": "Online Course: Deep Learning for Scientific Research",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nLast chance to register for our 1-day seminar on Deep Learning for Scientific Research <https://instats.org/seminar/deep-learning-for-the-life-sciences2>, running on Jan 27. Led by Dr. Nikolay Oskolkov, this seminar provides an excellent opportunity to explore how deep learning techniques can be applied to solve complex problems across the sciences. Whether you are new to deep learning or looking to expand your expertise, this course will equip you with the knowledge and tools needed to integrate these cutting-edge methods into your research. Participants will delve into key topics such as neural network architectures, data preprocessing, and practical applications of deep learning across the sciences, with examples including genomics, proteomics, and other areas. With a focus on hands-on learning, the seminar ensures attendees gain practical experience with tools and frameworks commonly used in the field.\n\nDon?t miss this chance to learn from a leading expert?sign up today <https://instats.org/seminar/deep-learning-for-the-life-sciences2> to secure your spot!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nLast chance to register for our 1-day seminar on Deep Learning for Scientific Research <https://instats.org/seminar/deep-learning-for-the-life-sciences2>, running on Jan 27. Led by Dr. Ni",
+      "thread_id": "thread-97798a1cfe91",
+      "thread_depth": 0,
+      "month": "2025-01"
+    },
+    {
+      "id": "msg-43cedb2c67fc",
+      "message_id": "<1737462421.515713950@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-01-21T13:27:01+01:00",
+      "subject": "[R-sig-genetics] Introduction to Machine Learning with R",
+      "subject_clean": "Introduction to Machine Learning with R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nthere are only a few seats remaining for our upcoming Introduction to Machine Learning with R (online) course. \n \nDates: 3?7 March 2025\nCourse website:[ https://www.physalia-courses.org/courses-workshops/course43/ ]( https://www.physalia-courses.org/courses-workshops/course43/ ) \n\nThis course provides a comprehensive introduction to machine learning for biological research, with a focus on the analysis of complex, multivariate ?omics datasets. You?ll explore tools like tidymodels and techniques including regression, classification, random forests, and unsupervised learning, all within the R programming environment.\n \nWhat You?ll Learn:\nUnderstand the principles of data mining and machine learning in an ?omics context.\nPerform regression and classification tasks using machine learning.\nApply methods such as Random Forests, PCA, UMAP, and more to analyse biological datasets.\nIdentify and avoid overfitting using resampling techniques.\nWho Should Attend?\nThis course is ideal for researchers and students seeking an intuitive introduction to machine learning. While no prior experience is required, a foundational understanding of statistics and basic R programming knowledge is recommended.\n \n \nWhy Join Us?\nThis course equips you with the tools and techniques to analyze complex biological data effectively, all while fostering discussions on real-world challenges and solutions.\n \nBest regards,\nCarlo\n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nthere are only a few seats remaining for our upcoming Introduction to Machine Learning with R (online) course. \n \nDates: 3?7 March 2025\nCourse website:[ https://www.physalia-courses.org/cour",
+      "thread_id": "thread-43cedb2c67fc",
+      "thread_depth": 0,
+      "month": "2025-01"
+    },
+    {
+      "id": "msg-f098e6505eed",
+      "message_id": "<D4sVwNsFTLCdtMy4aAZhSQ@geopod-ismtpd-6>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-01-27T11:50:00Z",
+      "subject": "[R-sig-genetics] Machine Learning Essentials - Free Seminar",
+      "subject_clean": "Machine Learning Essentials - Free Seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is pleased to be offering a free 1-hour seminar on Machine Learning Essentials <https://instats.org/seminar/machine-learning-essentials-free-semina2>, running February 5. Led by Dr. Kimberley Fessel, this seminar provides an excellent introduction to the fundamentals of machine learning, making it ideal for graduate students, academics, and professional researchers looking to explore this transformative field. Participants will gain insights into key concepts such as supervised and unsupervised learning, model evaluation, and practical applications of machine learning techniques. With a focus on accessibility and real-world relevance, this seminar is perfect for those new to machine learning or seeking a quick refresher on its core principles.\n\nSign up today <https://instats.org/seminar/machine-learning-essentials-free-semina2> to secure your spot and please feel free to share this opportunity with colleagues and students who might benefit.\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is pleased to be offering a free 1-hour seminar on Machine Learning Essentials <https://instats.org/seminar/machine-learning-essentials-free-semina2>, running February 5. Led by D",
+      "thread_id": "thread-f098e6505eed",
+      "thread_depth": 0,
+      "month": "2025-01"
+    },
+    {
+      "id": "msg-0560c3aafbfe",
+      "message_id": "<ky10Axs-S8WbCS1YvR4IKQ@geopod-ismtpd-2>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-01-30T06:05:00Z",
+      "subject": "[R-sig-genetics] Online Course: Vector Generalized Linear and Additive Models",
+      "subject_clean": "Online Course: Vector Generalized Linear and Additive Models",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is pleased to be offering a 3-day workshop, Vector Generalized Linear and Additive Models <https://instats.org/seminar/vector-generalized-linear-and-additive-m3>, running Feb 12 - 14 by professor Thomas Yee -- author of the VGAM package for R. This workshop explores the cutting-edge VGLM/VGAM framework, which extends traditional GLMs and GAMs to model multivariate responses and complex nonlinear relationships. Participants will learn how to handle count and categorical data, address overdispersion and excess zeros, and apply advanced techniques like GAITD regression and reduced-rank VGLMs in an intuitive R framework. The seminar combines theoretical insights with hands-on applications in R, equipping researchers with flexible tools for complex data analysis across social, health, and natural sciences.\n\nSign up today <https://instats.org/seminar/vector-generalized-linear-and-additive-m3> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is pleased to be offering a 3-day workshop, Vector Generalized Linear and Additive Models <https://instats.org/seminar/vector-generalized-linear-and-additive-m3>, running Feb 12 -",
+      "thread_id": "thread-0560c3aafbfe",
+      "thread_depth": 0,
+      "month": "2025-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-57ce7ec65999",
+      "subject": "Spatial and Spatio-Temporal Health Modeling - Last Chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-01-02T11:50:00+00:00",
+      "last_reply": "2025-01-02T11:50:00+00:00",
+      "root_message_id": "msg-57ce7ec65999"
+    },
+    {
+      "id": "thread-c72c9fd3d292",
+      "subject": "Only 2 Seats Left: Landscape Genomics Workshop in Poland (20–24 January 2025)",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-01-03T12:48:43+01:00",
+      "last_reply": "2025-01-03T12:48:43+01:00",
+      "root_message_id": "msg-c72c9fd3d292"
+    },
+    {
+      "id": "thread-52dcde0120ed",
+      "subject": "Online Course: Meta-Analysis: Introductory and Advance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-01-08T08:50:00+00:00",
+      "last_reply": "2025-01-08T08:50:00+00:00",
+      "root_message_id": "msg-52dcde0120ed"
+    },
+    {
+      "id": "thread-6faf9b168eb3",
+      "subject": "Course online: Multivariate Data Analysis with R and vegan",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-01-08T17:48:47+01:00",
+      "last_reply": "2025-01-08T17:48:47+01:00",
+      "root_message_id": "msg-6faf9b168eb3"
+    },
+    {
+      "id": "thread-c9e348375485",
+      "subject": "Landscape Genomics course in Poland - 20-24 January",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-01-09T18:01:05+01:00",
+      "last_reply": "2025-01-09T18:01:05+01:00",
+      "root_message_id": "msg-c9e348375485"
+    },
+    {
+      "id": "thread-f8e48ef7a833",
+      "subject": "Online Course: Introduction to Bayesian Statistical Modelling",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-01-13T09:20:00+00:00",
+      "last_reply": "2025-01-13T09:20:00+00:00",
+      "root_message_id": "msg-f8e48ef7a833"
+    },
+    {
+      "id": "thread-6e9f35892044",
+      "subject": "Online Course: Deep Learning for the Life Sciences",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-01-14T10:14:39+00:00",
+      "last_reply": "2025-01-14T10:14:39+00:00",
+      "root_message_id": "msg-6e9f35892044"
+    },
+    {
+      "id": "thread-e989eb6e8513",
+      "subject": "Free Seminars: Machine Learning and Data Visualization",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-01-15T07:20:00+00:00",
+      "last_reply": "2025-01-15T07:20:00+00:00",
+      "root_message_id": "msg-e989eb6e8513"
+    },
+    {
+      "id": "thread-caddf81422b8",
+      "subject": "Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR07)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2025-01-16T16:02:33+00:00",
+      "last_reply": "2025-01-16T16:02:33+00:00",
+      "root_message_id": "msg-caddf81422b8"
+    },
+    {
+      "id": "thread-e38b477f14b6",
+      "subject": "Developing R Packages and CRAN Publishing - Livestream Seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-01-17T06:35:00+00:00",
+      "last_reply": "2025-01-17T06:35:00+00:00",
+      "root_message_id": "msg-e38b477f14b6"
+    },
+    {
+      "id": "thread-97798a1cfe91",
+      "subject": "Online Course: Deep Learning for Scientific Research",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-01-21T05:54:02+00:00",
+      "last_reply": "2025-01-21T05:54:02+00:00",
+      "root_message_id": "msg-97798a1cfe91"
+    },
+    {
+      "id": "thread-43cedb2c67fc",
+      "subject": "Introduction to Machine Learning with R",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-01-21T13:27:01+01:00",
+      "last_reply": "2025-01-21T13:27:01+01:00",
+      "root_message_id": "msg-43cedb2c67fc"
+    },
+    {
+      "id": "thread-f098e6505eed",
+      "subject": "Machine Learning Essentials - Free Seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-01-27T11:50:00+00:00",
+      "last_reply": "2025-01-27T11:50:00+00:00",
+      "root_message_id": "msg-f098e6505eed"
+    },
+    {
+      "id": "thread-0560c3aafbfe",
+      "subject": "Online Course: Vector Generalized Linear and Additive Models",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-01-30T06:05:00+00:00",
+      "last_reply": "2025-01-30T06:05:00+00:00",
+      "root_message_id": "msg-0560c3aafbfe"
+    }
+  ]
+}

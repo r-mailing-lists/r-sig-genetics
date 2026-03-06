@@ -1,0 +1,335 @@
+From oliverhooker @ending from pr@t@ti@tic@@com  Tue Oct 16 14:22:54 2018
+From: oliverhooker @ending from pr@t@ti@tic@@com (Oliver Hooker)
+Date: Tue, 16 Oct 2018 13:22:54 +0100
+Subject: [R-sig-genetics] hylogenetic comparative methods for studying
+ diversification and phenotypic evolution
+Message-ID: <b1298053b9196b2cbcaf9debdf6bb089@prstatistics.com>
+
+I thought this course might be of interest to some page members...
+
+Phylogenetic comparative methods for studying diversification and 
+phenotypic evolution (PCME01)
+
+https://www.prstatistics.com/course/phylogenetic-comparative-methods-for-studying-diversification-and-phenotypic-evolution-pcme01/
+
+This course will be delivered by Dr. Antigoni Kaliontzopoulou from the 
+5th - 8th November 2018 in Glasgow City Centre.
+
+Course Overview:
+Phylogenetic comparative methods are commonly used nowadays to 
+investigate how species diversification occurs and to test hypotheses 
+about the mechanisms that drive phenotypic evolution, e.g. to model 
+speciation and extinction, to understand why some groups are more 
+diverse than others, to test whether phenotypic traits have evolved 
+under neutral, directional or diversifying selection, to investigate how 
+evolutionary rates are modified across the evolutionary history of a 
+group etc. In all these cases, a phylogenetic hypothesis for the group 
+of interest is combined to phenotypic and ecological data at the species 
+level to understand the tempo and mode of evolutionary change.
+The objective of this course is to provide an overview of these methods 
+and of the tools available for their implementation in the R statistical 
+language. During theoretical sessions, we will review the main concepts 
+and statistical tools necessary for testing hypotheses about species 
+diversification and phenotypic evolution. These will then be implemented 
+during practicals through worked examples to provide the participants 
+with hands-on experience on data management and the implementation of 
+these methods to real biological data.
+
+Monday 5th ? Classes from 09:30 ? 17:30
+Introduction
+1-1) Why do we need PCMs? A short history of the field
+1-2) Testing for phylogenetic signal
+1-3) Ancestral character reconstruction
+1-4) PRACTICALS
+
+Tuesday 6th ? Classes from 09:30 ? 17:30
+Testing hypotheses on phenotypic evolution
+2-1) Phylogenetic independent contrasts and phylogenetic GLS
+2-2) Phylogenetically-informed ordination
+2-3) PRACTICALS
+
+Wednesday 7th ? Classes from 09:30 ? 17:30
+Tempo and mode of evolutionary change
+3-1) Evolutionary rates: estimation and tests
+3-2) Models of phenotypic evolution
+3-3) PRACTICALS
+
+Thursday 8th ? Classes from 09:30 ? 16:00
+Miscellanea
+4-1) Modelling lineage diversification
+4-2) Future perspectives: multivariate extensions to PCMs
+4-3) PRACTICALS
+
+Email oliverhooker at prstatistics.com
+Check out our sister sites,
+www.PRstatistics.com (Ecology and Life Sciences)
+www.PRinformatics.com (Bioinformatics and data science)
+www.PSstatistics.com (Behaviour and cognition)
+
+
+1.	October 15th ? 19th 2018
+APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS (ABME04)
+Glasgow, Scotland, Dr. Matt Denwood, Emma Howard
+http://www.prstatistics.com/course/applied-bayesian-modelling-ecologists-epidemiologists-abme04/
+
+2.	October 23rd ? 25th 2018
+INTRODUCTIUON TO R (This is a private ?in-house? course)
+London, England, Dr William Hoppitt
+
+3.	October 29th ? November 2nd 2018
+INTRODCUTION TO R AND STATISTICS FOR BIOLOGISTS (IRFB02)
+Glasgow, Scotland, Dr. Olivier Gauthier
+https://www.prstatistics.com/course/introduction-to-statistics-and-r-for-biologists-irfb02/
+
+4.	October 29th ? November 2nd 2018
+INTRODUCTION TO BIOINFORMATICS FOR DNA AND RNA SEQUENCE ANALYSIS 
+(IBDR01)
+Glasgow, Scotland, Dr Malachi Griffith, Dr. Obi Griffith
+www.prinformatics.com/course/precision-medicine-bioinformatics-from-raw-genome-and-transcriptome-data-to-clinical-interpretation-pmbi01/
+
+5.	November 5th ? 8th 2018
+PHYLOGENETIC COMPARATIVE METHODS FOR STUDYING DIVERSIFICATION AND 
+PHENOTYPIC EVOLUTION (PCME01)
+Glasgow, Scotland, Dr. Antigoni Kaliontzopoulou
+https://www.prstatistics.com/course/phylogenetic-comparative-methods-for-studying-diversification-and-phenotypic-evolution-pcme01/
+
+6.	November 19th ? 23rd 2018
+STRUCTUAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY BIOLOGISTS 
+(SEMR02)
+Glasgow, Scotland, Dr. Jonathan Lefcheck
+https://www.prstatistics.com/course/structural-equation-modelling-for-ecologists-and-evolutionary-biologists-semr02/
+
+7.	November 26th ? 30th 2018
+FUNCTIONAL ECOLOGY FROM ORGANISM TO ECOSYSTEM: THEORY AND COMPUTATION 
+(FEER01)
+Glasgow, Scotland, Dr. Francesco de Bello, Dr. Lars G?tzenberger, Dr. 
+Carlos Carmona
+http://www.prstatistics.com/course/functional-ecology-from-organism-to-ecosystem-theory-and-computation-feer01/
+
+8.	December 3rd ? 7th 2018
+INTRODUCTION TO BAYESIAN DATA ANALYSIS FOR SOCIAL AND BEHAVIOURAL 
+SCIENCES USING R AND STAN (BDRS01)
+Glasgow, Dr. Mark Andrews
+https://www.psstatistics.com/course/introduction-to-bayesian-data-analysis-for-social-and-behavioural-sciences-using-r-and-stan-bdrs01/
+
+9.	January 21st ? 25th 2019
+STATISTICAL MODELLING OF TIME-TO-EVENT DATA USING SURVIVAL ANALYSIS: AN 
+INTRODUCTION FOR ANIMAL BEHAVIOURISTS, ECOLOGISTS AND EVOLUTIONARY 
+BIOLOGISTS (TTED01)
+Glasgow, Scotland, Dr. Will Hoppitt
+https://www.psstatistics.com/course/statistical-modelling-of-time-to-event-data-using-survival-analysis-tted01/
+
+10.	January 21st ? 25th 2019
+ADVANCING IN STATISTICAL MODELLING USING R (ADVR08)
+Glasgow, Scotland, Dr. Luc Bussiere, Dr. Tom Houslay
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr08/
+
+11.	January 28th?  February 1st 2019
+AQUATIC ACOUSTIC TELEMETRY DATA ANALYSIS AND SURVEY DESIGN
+Glasgow, Scotland, VEMCO staff and affiliates
+https://www.prstatistics.com/course/aquatic-acoustic-telemetry-data-analysis-atda01/
+
+12.	February  4th ? 8th 2019
+DESIGNING RELIABLE AND EFFICIENT EXPERIMENTS FOR SOCIAL SCIENCES 
+(DRES01)
+Glasgow, Scotland, Dr. Daniel Lakens
+https://www.psstatistics.com/course/designing-reliable-and-effecient-experiments-for-social-sciences-dres01/
+
+13.	February 11th ? 15th 2019
+REPRODUCIBLE DATA SCIENCE FOR POPULATION GENETICS
+Glasgow, Scotland, Dr. Thibaut Jombart, Dr. Zhain Kamvar
+https://www.prstatistics.com/course/reproducible-data-science-for-population-genetics-rdpg02/
+
+14.	25th February ? 1st March 2019
+MOVEMENT ECOLOGY (MOVE02)
+Margam Discovery Centre, Wales, Dr. Luca Borger, Prof. Ronny Wilson, Dr 
+Jonathan Potts
+https://www.prstatistics.com/course/movement-ecology-move02/
+
+15.	March 4th ? 8th 2019
+BIOACUSTIC DATA ANALYSIS
+Glasgow, Scotland, Dr. Paul Howden-Leach
+https://www.prstatistics.com/course/bioacoustics-for-ecologists-hardware-survey-design-and-data-analysis-biac01/
+
+16.	March 11th ? 15th  2019
+ECOLOGICAL NICHE MODELLING USING R (ENMR03)
+Glasgow, Scotland, Dr. Neftali Sillero
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr03/
+
+17.	March 18th ? 22nd 2019
+INTRODUCTION TO STATISTICS AND R FOR EVERYONE (IRFE01)
+Crete, Greece, Dr Aristides (Aris) Moustakas
+https://www.prstatistics.com/course/introduction-to-statistics-and-r-for-anyone-irfe01/
+
+18.	March 25th ? 29th 2019
+LANDSCAPE GENETIC DATA ANALYSIS USING R (LNDG03)
+Glasgow, Scotland, Prof. Rodney Dyer
+http://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg03/
+
+19.	April 1st ? 5th 2019
+INTRODUCTION TO STATISTICAL MODELLING FOR PSYCHOLOGISTS USING R (IPSY01)
+Glasgow, Scotland, Dr. Dale Barr, Dr Luc Bussierre
+http://www.psstatistics.com/course/introduction-to-statistics-using-r-for-psychologists-ipsy02/
+
+20.	April 1st ? 5th 2019
+INDIVIDUAL BASED MODELS FOR ECOLOGSITS (IBME01)
+Glasgow Scotland, Dr Aristides (Aris) Moustakas
+Link to follow
+
+21.	April 8th ? 12th 2019
+MACHINE LEARNING
+Glasgow Scotland, Dr Aristides (Aris) Moustakas
+https://www.prstatistics.com/course/machine-learning-using-r-mlur01/
+
+22.	April 8th ? 12th 2019
+SPATIAL MODELLING, ANALYSIS AND STATISTICAL INFERENCE OF GENOMIC DATA 
+(SPGN01)
+Crete, Greece, Dr Matt Fitzpatrick
+https://www.prstatistics.com/course/spatial-modelling-analysis-and-statistical-inference-of-genomic-data-spgn01/
+
+23.	May 6th ? 10th 2019
+NETWORK ANAYLSIS FOR ECOLOGISTS USING R (NTWA03)
+Myuna Bay, Australia,  Dr. Marco Scotti
+www.prstatistics.com/course/network-analysis-ecologists-ntwa03/
+
+24.	May 16th ? 18th 2019 (please note this a 3-day course from Thursday 
+to Saturday)
+AQUATIC MOVEMENT ECOLOGY USING R (AMER01)
+Myuna Bay, Australia, Dr. Ross Dwyer, Dr. Vinay Udyawer
+Link to follow
+
+25.	May 16th ? 19th 2019 (please note this a 4-day course from Thursday 
+to Monday)
+Introduction to R for everyone (IRFE02)
+Myuna Bay, Australia, Dr Aristides (Aris) Moustakas
+Link to follow
+
+26.	May 20th ? 24th 2019
+MODEL BASE MULTIVARIATE ANALYSIS OF ABUNDANCE DATA USING R (MBMV03)
+Myuna Bay, Australia, Prof. David Warton
+https://www.prstatistics.com/course/model-based-multivariate-analysis-of-abundance-data-using-r-mbmv03/
+
+27.	May 21st ? 24th 2019
+A statistical tool box for ecologists (STBE01)
+Myuna Bay, Australia, Dr Aristides (Aris) Moustakas
+Link to follow
+
+28.	June 10th ? 14th 2019
+STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR (SIMM04)
+Glasgow, Scotland, Dr. Andrew Parnell, Dr. Andrew Jackson
+www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm04/
+
+29.	June 17th ? 21st 2019
+INTRODUCTION TO PYTHON FOR BIOLOGISTS (IPYB06)
+Glasgow, Scotland, Dr. Martin Jones
+http://www.prinformatics.com/course/introduction-to-python-for-biologists-ipyb06/
+
+30.	June 24th ? 28th 2019
+ADVANCED PYTHON FOR BIOLOGISTS (APYB03)
+Glasgow, Scotland, Dr. Martin Jones
+www.prinformatics.com/course/advanced-python-biologists-apyb03/
+
+31.	July 1st ? 5th 2019
+DATA VISUALISATION AND MANIPULATION USING PYTHON (DVMP01)
+Glasgow, Scotland, Dr. Martin Jones
+http://www.prinformatics.com/course/data-visualisation-and-manipulation-using-python-dvmp01/
+
+32.	October 7th ? 11th 2019
+CONSERVATION PLANNING USING PRIORITIZR : FROM THEORY TO PRACTICE 
+(PRTZ01)
+Crete, Greece, Dr Richard Schuster and Nina Morell
+https://www.prstatistics.com/course/conservation-planning-using-prioritizr-from-theory-to-practice-prtz01/
+
+33.	October 21st ? 25th 2019
+A COMPLETE GUIDE TO MIXED MODELS (INCLUDING TEMPORAL AND SPATIAL 
+AUTOCORRELATION) (MMTS01)
+Crete, Greece, Dr Aristides (Aris) Moustakas
+https://www.prstatistics.com/course/a-complete-guide-to-mixed-models-including-temporal-and-spatial-autocorrelation-mmts01/
+
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+2018 publications -
+
+Alternative routes to piscivory: Contrasting growth trajectories in 
+brown trout (Salmo trutta) ecotypes exhibiting contrasting life history 
+strategies. Ecology of Freshwater Fish. DOI to follow
+
+Phenotypic and resource use partitioning amongst sympatric lacustrine 
+brown trout, Salmo trutta. Biological Journal of the Linnean Society. 
+DOI 10.1093/biolinnean/bly032
+
+prstatistics.com
+facebook.com/prstatistics/
+twitter.com/PRstatistics
+groups.google.com/d/forum/pr-statistics-post-course-forum
+prstatistics.com/organiser/oliver-hooker/
+
+6 Hope Park Crescent
+Edinburgh
+EH8 9NA
+
++44 (0) 7966500340
+
+
+From Emm@nuel@P@r@di@ @ending from ird@fr  Wed Oct 17 09:46:33 2018
+From: Emm@nuel@P@r@di@ @ending from ird@fr (Emmanuel Paradis)
+Date: Wed, 17 Oct 2018 14:46:33 +0700
+Subject: [R-sig-genetics] testing for admixture in R
+Message-ID: <51836b37-322a-2a81-400a-56492750105e@ird.fr>
+
+Hi all,
+
+I'm working on an implementation of admixture estimation according to 
+Alexander et al (2009, Genome Research) and Alexander & Lange (2011, BMC 
+Bioinformatics) available in their program ADMIXTURE. My (short) 
+question is: is anybody working on (or is aware of) something similar?
+
+Some context: I'm reviewing the methods to assess structure from genomic 
+data implemented in R. So far I've found adegenet::snapclust and 
+rhierbaps::hierBAPS which implement similar methods to the above (but 
+with different models). In addition, there are methods that fit models 
+given a known structure: adegenet::dapc, pegas::amova, and several 
+functions in the packages hierfstat and mmod (I may forget some here).
+
+There are three other packages on CRAN: radmixture to test the origin of 
+a single (personal) genotype, admixturegraph which plots graphs from the 
+output of the standalone AdmixTools 
+(https://github.com/DReichLab/AdmixTools), and LEAPFrOG to estimate 
+admixture in parents from offspring genotypes.
+
+The implementation of Alexander et al's method is pretty straightforward 
+given the data classes in R ('loci' and 'genind') and the optimisation 
+of the likelihood function seems to run well (on a toy data set at 
+least) with nlminb called alternatively as described in the above 
+papers. I think it could be useful to have this in R for, at least, 
+three reasons:
+
+1/ There are a few issues about the availability of the software 
+mentioned above: ADMIXTURE source code is not available and only 
+executables for Linux and MacOS can be downloaded 
+(http://www.genetics.ucla.edu/software/admixture/download.html). 
+AdmixTools is available only as C code and seems a bit tough to compile 
+(see: https://github.com/DReichLab/AdmixTools/issues/43).
+
+2/ We now have a lot of tools to handle and manipulate genetic/genomic 
+data in R (e.g., ape::read.FASTA, adegenet::genlight, pegas:read.vcf, 
+package vcfR and others on BioConductor) so that data format will not be 
+an issue.
+
+3/ It seems possible to extend the method to non-SNP loci and even to 
+take LD into account. Again, we have tools for these in different R 
+packages).
+
+Any comments welcome.
+
+Best,
+
+Emmanuel
+ 
+ 
+Ce message a ?t? control? par le service leader de filtrage de messagerie e-securemail de SECUSERVE, et est garanti sans virus connus.
+
+

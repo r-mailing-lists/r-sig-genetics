@@ -1,0 +1,260 @@
+From jdenton @end|ng |rom @mnh@org  Fri Aug 23 19:16:02 2019
+From: jdenton @end|ng |rom @mnh@org (John S Denton)
+Date: Fri, 23 Aug 2019 17:16:02 +0000
+Subject: [R-sig-genetics] two-way AMOVA?
+Message-ID: <BYAPR14MB2327CEB33CFC8FC7DB293425D4A40@BYAPR14MB2327.namprd14.prod.outlook.com>
+
+I'm curious to know if there is an R function/package for doing a two-way AMOVA, such as geographic region * sex, including the interaction term, and also hierarchical/nested geography. Most implementations I have seen are the standard nested one-way with a nested geographic variable. The one implementation of two-way I have seen appears to only do main effects.
+
+Thanks,
+
+~John
+
+	[[alternative HTML version deleted]]
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Thu Aug  8 16:04:17 2019
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Thu, 08 Aug 2019 14:04:17 -0000
+Subject: [R-sig-genetics] R Package design and development and reproducible
+ data science for biologists - FREE ACCOMMODATION
+Message-ID: <CAEsSYzyv8qrMJ36jDGZo-7g4fdNtPvxxczj=86nf+MFvV8Xuiw@mail.gmail.com>
+
+COURSE ON - R Package design and development and reproducible data
+science for biologists (RPKG01) with free accommodation.
+
+Apologies for cross posting.
+
+PR statistics now has a new accommodation option implemented allowing
+a limited amount of places with free accommodation. The next 5 people
+to register for this course will receive free accommodation if they
+require it (this does not apply to people working in industry).
+
+https://www.prstatistics.com/course/r-package-design-and-development-and-reproducible-data-science-for-biologists-rpkg01/
+
+Please email oliverhooker at prstatistics.com with inquiries
+
+This course will be delivered by Dr. Cory Merow and Dr Andy Rominger
+from the 16th - 20th September 2019 in Glasgow City Centre.
+
+Course overview:
+This course will help students develop professional R coding skills by
+leading them through the process of making reproducible, sharable and
+easily communicated software centered around developing fully
+functional R packages and extensions. In addition to teaching
+traditional uses of R packages to share quantitative tools, we?ll also
+show how R packages can be easily developed for individual research
+projects to share reproducible results. To develop skills, we?ll build
+several R packages full of useful and general utility functions that
+will hone coding skills and teach coding tips through the design of
+these functions. Each day, we?ll reserve time for open work sessions
+where students can receive mentoring while applying new skills to
+developing their own application specific package or refining the
+packages we?re developing for the course.
+
+Intended Audience:
+Anyone wanting to make their data science work accessible,
+reproducible and usable by others (the importance of specific R
+packages has grown considerable now that they are frequently cited in
+peer reviewed literature). This can include researches developing
+their own quantitative tools or those interested in taking the next
+step in making their research projects fully reproducible and easily
+shared.
+
+Course program:
+
+Monday 16th ? Classes from 09:30 to 17:30
+We?ll begin with polishing core skills in the creation, documentation
+and distribution of code:
+Writing functions
+Making your code reproducible by documenting it with RMarkdown and ROxygen
+Making your first package, breaking it, then fixing it
+Package structure
+
+Tuesday 17th ? Classes from 09:30 to 17:30
+Next we dive into specifics critical for the success of collaborative,
+reproducible and sharable projects:
+Principles of software development and reproducible projects
+Writing useful documentation and examples
+Error handling
+Collaboration with git and GitHub
+
+Wednesday 18th ? Classes from 09:30 to 17:30
+We will continue learning about the details that help to make a
+package robust to different use cases:
+Dependencies, and achieving independency
+Unit Testing
+Vignettes
+The rules of CRAN and GitHub
+
+Thursday 19th ? Classes from 09:30 to 17:30
+By now students will have fulling functioning, collaboratively
+produced, and reproducible R packages. We now turn to two key aspects
+of software usability: its computational burden, and its cognitive
+burden. Put simply, we will focus today on making code computationally
+fast and easy for users to quickly and intuitively understand.
+Writing fast code
+Profiling code for speed
+S3 and S4 objects
+
+Friday 20th ? Classes from 09:30 to 16:00
+On the final day we will culminate our software development by
+learning and implementing powerful ways to share our projects with a
+large audience.
+Adding a shiny web app to a project
+Publishing your own package
+
+Email oliverhooker at prstatistics.com
+
+Check out our sister sites,
+www.PRstatistics.com (Ecology and Life Sciences)
+www.PRstatistics.com/consultancy (Statistical and bioinformatics
+consultancy in all fields)
+www.PRinformatics.com (Bioinformatics and data science)
+www.PSstatistics.com (Behaviour and cognition)
+
+1. September 2nd ? 6th 2019
+APPLIED METHODS FOR ANALYSING CAPTURE-RECAPTURE (MARK-RECAPTURE) DATA
+USING SPATIALLY EXPLICIT AND NON-SPATIAL TECHNIQUES (MARK01)
+Glasgow, Scotland, Dr. Joanne Potts, Dr. David Borchers
+https://www.prstatistics.com/course/applied-methods-for-analysing-capture-recapture-mark-recapture-data-using-spatially-explicit-and-non-spatial-techniques-mark01/
+
+2. September 9th ? 13th 2019
+GENERALISED LINEAR (MIXED) (GLMM), NONLINEAR (NLGLM) AND GENERAL
+ADDITIVE MODELS (MIXED) (GAMM) (GNAM01)
+Glasgow, Scotland, Dr. Mark Andrews
+https://www.psstatistics.com/course/generalised-linear-glm-nonlinear-nlglm-and-general-additive-models-gam-gnam01/
+
+3. September 16th ? 20th 2019
+STRUCTURAL EQUATION MODELS, PATH ANALYSIS, CAUSAL MODELLING AND LATENT
+VARIABLE MODELS USING R (SMPA01)
+Glasgow, Scotland, Dr. Mark Andrews
+https://www.psstatistics.com/course/structural-equation-modelling-and-path-analysis-smpa01/
+
+4. September 16th ? 20th 2019
+R PACKAGE DESIGN AND DEVELOPMENT AND REPRODUCIBLE DATA SCIENCE FOR
+BIOLOGISTS (RPKG01)
+Glasgow, Scotland, Dr. Cory Merow, Dr. Andy Rominger
+https://www.prstatistics.com/course/r-package-design-and-development-and-reproducible-data-science-for-biologists-rpkg01/
+
+5. September 23rd ? 27th 2019
+PYTHON FOR DATA SCIENCE, MACHINE LEARNING, AND SCIENTIFIC COMPUTING (PDMS01)
+Glasgow, Scotland, Dr. Mark Andrews
+https://www.psstatistics.com/course/python-for-data-science-machine-learning-and-scientific-computing-pdms01/
+
+6. September 30th ? October 4th 2019
+THE PRACTICE OF RADSEQ: POPULATION GENOMICS ANALYSIS WITH STACKS (RDSQ01)
+Glasgow, Scotland, Dr Julien Catchen
+https://www.prinformatics.com/course/the-practice-of-radseq-population-genomics-analysis-with-stacks-rdsq01/
+
+7. September 30th ? October 4th 2019
+INTRODUCTION TO LINUX WORKFLOWS FOR BIOLOGISTS (IBUL04)
+Glasgow, Scotland, Dr Martin Jones
+https://www.prinformatics.com/course/introduction-to-linux-workflows-for-biologists-ibul04/
+
+8. October 7th ? 11th 2019
+CONSERVATION PLANNING USING PRIORITIZR : FROM THEORY TO PRACTICE (PRTZ01)
+Athens, GREECE, Dr Richard Schuster and Nina Morell
+https://www.prstatistics.com/course/conservation-planning-using-prioritizr-from-theory-to-practice-prtz01/
+
+9. October 14th ? 18th 2019
+GEOMETRIC MORPHOMETRICS USING R (GMMR02)
+Glasgow, Scotland, Prof. Dean Adams, Prof. Michael Collyer, Dr.
+Antigoni Kaliontzopoulou
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr02/
+
+10. October 14th ? 18th 2019
+INTRODUCTION TO BEHAVIOURAL DATA ANALYSIS USINR R (IBDA01)
+Glasgow, Scotland, Dr Will Hoppitt
+https://www.psstatistics.com/course/introduction-to-behavioural-data-analysis-using-r-ibda01/
+
+11. October 21st ? 25th 2019
+MULTIVARIATE ANALYSIS OF ECOLOGICAL COMMUNITIES USING THE VEGAN PACKAGE (VGNR01)
+Glasgow, Scotland, Dr. Guillaume Blanchet
+www.prstatistics.com/course/multivariate-analysis-of-ecological-communities-in-r-with-the-vegan-package-vgnr01/
+
+12. November 4th ? 8th 2019
+INTRODUCTION TO BAYESIAN DATA ANALYSIS FOR SOCIAL AND BEHAVIOURAL
+SCIENCES USING R AND STAN (BDRS02)
+Glasgow, Scotland, Dr. Mark Andrews
+https://www.psstatistics.com/course/introduction-to-bayesian-data-analysis-for-social-and-behavioural-sciences-using-r-and-stan-bdrs02/
+
+13. November 4th ? 8th 2019
+BEHAVIOURAL DATA ANALYSIS USING MAXIMUM LIKELIHOOD (BDML02)
+Glasgow, Scotland, Dr Will Hoppitt
+https://www.psstatistics.com/course/behavioural-data-analysis-using-maximum-likelihood-bdml02/
+
+14. November 11th ? 15th 2019
+APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS (ABME05)
+Glasgow, Scotland, Dr Matt Denwood, Emma Howard
+https://www.prstatistics.com/course/applied-bayesian-modelling-for-ecologists-and-epidemiologists-abme05/
+
+15. November 18th ? 22nd 2019
+INTRODUCTION TO STRUCTURED POPULATION MODELS AND DEMOGRAPHIC
+DISTRIBUTION MODELS (IIPM01)
+Athens, GREECE, Dr Cory Merow
+https://www.prstatistics.com/course/introduction-to-structured-population-models-and-demographic-distribution-models-iipm01/
+
+16. November 18th ? 22nd 2019
+GEOSTATISTICS ? HANDLING SPATIAL AND SPATIAL-TEMPORAL DATA USING R (GSFE01)
+Wimmipeg, CANADA, Dr Guillaume Blanchet
+https://www.prstatistics.com/course/geostatistics-handling-spatial-and-spatial-temporal-data-using-r-gsfe01/
+
+17. November 25th ? 29th 2019
+ADVANCED RANGE, NICHE, AND DISTRIBUTION MODELING (ASDM01)
+Athens, GREECE, Dr Cory Merow
+https://www.prstatistics.com/course/advanced-range-niche-and-distribution-modeling-asdm01/
+
+18. January 20th ? 24th2020
+R4ALL ? INTRODUCTION TO R (R4ALL
+Glasgow, Scotland, Dr Andrew Beckerman, Dr. Dylan Childs
+https://www.prstatistics.com/course/population-genetics-inference-with-migrate-pgmg01/
+
+19. March 16th ? 20th 2020
+POPULATION GENETICS INFERENCE WITH ?MIGRATE? (PGMG01)
+Glasgow, Scotland, Prof. Peter Beerli
+https://www.prstatistics.com/course/population-genetics-inference-with-migrate-pgmg01/
+
+20. May 11th ? 15th 2020
+FORMALIZING UNCERTAINTY: FUZZY LOGIC IN SPECIES DISTRIBUTION AND
+DIVERSITY PATTERNS (FLDM01)
+Glasgow, Scotland, Dr. Marcia Barbosa
+https://www.prstatistics.com/course/formalizing-uncertainty-fuzzy-logic-in-species-distribution-and-diversity-patterns-fldm01/
+
+21. May 18th ? 22nd 2020
+STRUCTUAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY BIOLOGISTS (SEMR02)
+Glasgow, Scotland, Dr. Jonathan Lefcheck, Dr. Jim (james) Grace
+https://www.prstatistics.com/course/structural-equation-modelling-for-ecologists-and-evolutionary-biologists-semr02/
+
+22. October 5th ? 9th 2020
+ECOLOGICAL NICHE MODELLING USING R (ENMR04)
+Glasgow, Scotland, Dr. Neftali Sillero
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr04/
+
+23. October 11th ? 16th 2020
+ADVANCED ECOLOGICAL NICHE MODELLING USING R (ABNMR01)
+Glasgow, Scotland, Dr. Neftali Sillero
+http://www.prstatistics.com/course/advanced-ecological-niche-modelling-using-r-anmr01/
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+2019 publications;
+
+A way forward with eco evo devo: an extended theory of resource
+polymorphism with postglacial fishes as model systems. Biological
+Reviews (2019).
+
+prstatistics.com
+facebook.com/prstatistics/
+twitter.com/PRstatistics
+groups.google.com/d/forum/pr-statistics-post-course-forum
+prstatistics.com/organiser/oliver-hooker/
+
+6 Hope Park Crescent
+Edinburgh
+EH8 9NA
++44 (0) 7966500340
+
+

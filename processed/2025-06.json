@@ -1,0 +1,333 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2025-06",
+  "messages": [
+    {
+      "id": "msg-c0f5387eab3e",
+      "message_id": "<1748769909.143111842@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-06-01T11:25:09+02:00",
+      "subject": "[R-sig-genetics] Course online: Analysing Biodiversity Through Time and Space Using R - 9–13 June",
+      "subject_clean": "Course online: Analysing Biodiversity Through Time and Space Using R - 9–13 June",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe?re excited to announce that only a few spots remain for our upcoming course \"Analysing Biodiversity Through Time and Space Using R\" (9?13 June, online).\n \nThis hands-on course offers a unique opportunity to explore biodiversity patterns?past and present?through reproducible R workflows, combining palaeontological and modern datasets across spatial and temporal scales.\n \nWhether you're interested in GIS, diversification rates, or palaeogeographic mapping, this course provides a comprehensive toolkit to deepen your understanding and sharpen your skills.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/biodiversity-in-r/ ]( https://www.physalia-courses.org/courses-workshops/biodiversity-in-r/ )\n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe?re excited to announce that only a few spots remain for our upcoming course \"Analysing Biodiversity Through Time and Space Using R\" (9?13 June, online).\n \nThis hands-on course offers a un",
+      "thread_id": "thread-c0f5387eab3e",
+      "thread_depth": 0,
+      "month": "2025-06"
+    },
+    {
+      "id": "msg-14b3cfcc63fb",
+      "message_id": "<o5DvUqnISLCYcbhm0cX3Yw@geopod-ismtpd-9>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-06-03T02:35:00Z",
+      "subject": "[R-sig-genetics] Using AI for Data Analysis in R - livestream seminar",
+      "subject_clean": "Using AI for Data Analysis in R - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Using AI for Data Analysis in R <https://instats.org/seminar/using-ai-for-data-analysis-in-r->, running July 1st and by professor Daisung Jang from the University of Melbourne. Integrating generative AI tools such as ChatGPT and OpenRouter into your R workflow can save time, reduce errors, and produce compelling visualizations, and this hands-on workshop shows you exactly how. Through interactive sessions you will learn to generate R code for cleaning, manipulating, and analysing data, create publication-ready tables and graphics, automate repetitive tasks with custom functions, compare and select packages, and annotate your scripts for transparent reporting. Whether you are a PhD student, an academic, or a professional researcher, mastering these techniques will streamline your research pipeline, boost productivity, and elevate the quality of your empirical work. \n\nSign up today <https://instats.org/seminar/using-ai-for-data-analysis-in-r-> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Using AI for Data Analysis in R <https://instats.org/seminar/using-ai-for-data-analysis-in-r->, running July 1st and by professor Daisung Jang",
+      "thread_id": "thread-14b3cfcc63fb",
+      "thread_depth": 0,
+      "month": "2025-06"
+    },
+    {
+      "id": "msg-35a01b524c7c",
+      "message_id": "<CAEsSYzzqoex5AU55CNLN9Hm+ZJigKQsjrMUubE9=0ZVYmsXw3g@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2025-06-03T16:55:04+01:00",
+      "subject": "[R-sig-genetics] Get to Grips with the Vegan Package",
+      "subject_clean": "Get to Grips with the Vegan Package",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "*Multivariate Tools for Ecologists ? Get to Grips with the Vegan Package*\n\nWant to analyse species composition, community structure, and ecological\ngradients?\n\nJoin our in-depth course: *Multivariate Analysis Of Ecological Communities\nUsing R With The VEGAN package (VGNR08)\n<https://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr08/>*\n\n*Course dates:* 15-19th September 2025\n\n*Location:* Live and Online\nInstructor: Dr. Antoine Becker-Scarpitta\nThis course is designed for ecologists and environmental scientists who\nwant to apply multivariate techniques using R?s*vegan* package. You?ll gain\nhands-on experience with the tools used to interpret species-environment\nrelationships and community composition.\n\nTaught by expert instructors, you?ll learn to:\n\n   -\n\n   Understand the principles of multivariate analysis\n   -\n\n   Apply ordination methods (PCA, NMDS, CCA, RDA)\n   -\n\n   Work with dissimilarity matrices and ecological distance measures\n   -\n\n   Analyse species?environment relationships\n   -\n\n   Use vegan effectively for real-world datasets\n\n*Who should attend?*\n\nField ecologists, biodiversity researchers, and community ecologists who\nalready have some R experience and want to apply robust multivariate\nmethods to ecological data.\n\n*Why join us?*\n\nDeepen your statistical toolkit, sharpen your interpretation of community\ndata, and gain confidence in your analysis using vegan.\n\n*Spaces are limited ? reserve your place now.*\n\n View full course details and register here\n<https://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr08/>\n\nEmail oliverhooker at prstatitics.com with any questions\n\n-- \nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*Multivariate Tools for Ecologists ? Get to Grips with the Vegan Package*\n\nWant to analyse species composition, community structure, and ecological\ngradients?\n\nJoin our in-depth course: *Multivariate ",
+      "thread_id": "thread-35a01b524c7c",
+      "thread_depth": 0,
+      "month": "2025-06"
+    },
+    {
+      "id": "msg-6837b609344a",
+      "message_id": "<1748971473.13168@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-06-03T19:24:33+02:00",
+      "subject": "[R-sig-genetics] Conservation Genomics course (online, 21–24 July)",
+      "subject_clean": "Conservation Genomics course (online, 21–24 July)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe?re excited to announce that our upcoming online course Conservation Genomics is nearly full ? only a few seats remain available!\nDates and time: 21?24 July - Daily sessions from 14:00 to 19:00 (Berlin time)\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course62/ ]( https://www.physalia-courses.org/courses-workshops/course62/ ) \n \nThis hands-on course will guide participants through the use of population genomics tools to address key conservation challenges. You?ll learn to design studies, process genomic data, and run analyses on population structure, adaptation, inbreeding, and more using Linux and R.\n \nIn this course, attendees will learn about:\n\nStudy design and SNP filtering\n\nPopulation structure and adaptation analysis\n\nInbreeding, relatedness, and effective population size estimation\n\nHands-on bioinformatics and data visualization in a conservation context\nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe?re excited to announce that our upcoming online course Conservation Genomics is nearly full ? only a few seats remain available!\nDates and time: 21?24 July - Daily sessions from 14:00 to ",
+      "thread_id": "thread-6837b609344a",
+      "thread_depth": 0,
+      "month": "2025-06"
+    },
+    {
+      "id": "msg-31aae8279b8e",
+      "message_id": "<CAEsSYzyJoPx0yCwBnvpJtCwnU469=QG74ZscFjL24v1KMeWqzw@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2025-06-03T22:56:10+01:00",
+      "subject": "[R-sig-genetics] PR stats new social media - £2000 in course prizes available",
+      "subject_clean": "PR stats new social media - £2000 in course prizes available",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone,\n\nWe?re currently refreshing our social media presence and would really\nappreciate your support. If you?re active on any of the platforms below,\nplease follow us and engage with any posts that catch your interest ? a\nquick like or share can go a long way in helping us build momentum.\n\nWe?ll be posting regular course updates, plus running competitions and\ngiveaways.\n\nTo kick things off, we?re offering ?500 in course credit to one randomly\nselected follower on each platform ? that?s ?2,000 in total! The more\nplatforms you follow and posts you like or share, the better your chances\nof winning.\n\nYou can find us here:\n\n*BlueSky* | @prstats.bsky.social\n<https://bsky.app/profile/prstats.bsky.social>\n\n*X (Twitter)* | @pr_stats <https://twitter.com/pr_stats>\n\n*Mastodon* | @prstats <https://mastodon.social/@prstats>\n\n*Instagram* | @pr._.stats <https://instagram.com/pr._.stats>\n\nWe?re also setting up our *Facebook* page. If you follow us now, you?ll be\nautomatically entered into the giveaway once we go live:\n\n*Facebook* | PR stats\n<https://www.facebook.com/profile.php?id=61576148023294>\n\nThanks in advance for your support,\n\n*Oliver*\n\n-- \nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone,\n\nWe?re currently refreshing our social media presence and would really\nappreciate your support. If you?re active on any of the platforms below,\nplease follow us and engage with any posts ",
+      "thread_id": "thread-31aae8279b8e",
+      "thread_depth": 0,
+      "month": "2025-06"
+    },
+    {
+      "id": "msg-18bdbd34b9f5",
+      "message_id": "<4c6BjZa-QEOF_w6P1uu4Uw@geopod-ismtpd-0>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-06-04T03:29:19Z",
+      "subject": "[R-sig-genetics] National Science Foundation at 75 - free online conference",
+      "subject_clean": "National Science Foundation at 75 - free online conference",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a free 2-day conference, NSF at 75: Advancing Statistical Science for a Data-Driven World <https://instats.org/seminar/nsfa75-advancing-statistical-science-for>, livestreaming July 16?17 and jointly presented by the American Statistical Association and Instats. Celebrating 75 years of NSF support for transformative research, this conference brings together awardees, program officers, and disciplinary leaders who will showcase landmark advances in statistical methodology, highlight emerging priorities, and discuss why sustained federal investment is essential for both fundamental theory and real-world impact. Participants will gain an insider?s view of the value of NSF for science and society, and why proposed policy changes could threaten the vibrant research ecosystem NSF has long cultivated. Whether you are a researcher or policymaker, or simply someone who values the public good that flows from robust, well-funded science, this event offers insight into cutting-edge research funded by the NSF, as well as timely evidence, perspective, and dialogue on safeguarding the future of statistical science. \n\nSign up today <https://instats.org/seminar/nsfa75-advancing-statistical-science-for> and please share this with colleagues and students who care about the next 75 years of data-driven discovery!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a free 2-day conference, NSF at 75: Advancing Statistical Science for a Data-Driven World <https://instats.org/seminar/nsfa75-advancing-statistical-science-for",
+      "thread_id": "thread-18bdbd34b9f5",
+      "thread_depth": 0,
+      "month": "2025-06"
+    },
+    {
+      "id": "msg-168120180c94",
+      "message_id": "<1749210889.908210444@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-06-06T13:54:49+02:00",
+      "subject": "[R-sig-genetics] Only a few seats left — Introduction to GWAS (Online, 23–27 June )",
+      "subject_clean": "Only a few seats left — Introduction to GWAS (Online, 23–27 June )",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe still have a few seats left for the popular Physalia online course: Introduction to Genome-Wide Association Studies (GWAS)\n \nDates: 23?27 June \n \n \nThis course will guide you through building a reusable, reproducible GWAS pipeline ? from data preparation to result interpretation ? with a strong hands-on component.\n \nTo foster international participation, the course format is highly flexible:\n1. Live lectures + discussions each day\n2.  Hands-on practicals in R and Linux, with mirrored and independent exercises\n3.  Recorded sessions available for review\n4. Live and ongoing support via Slack\n \nFor more information, please visit:  [ https://www.physalia-courses.org/courses-workshops/course49/ ]( https://www.physalia-courses.org/courses-workshops/course49/ )\n \nBest regards,\nCarlo\n \n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe still have a few seats left for the popular Physalia online course: Introduction to Genome-Wide Association Studies (GWAS)\n \nDates: 23?27 June \n \n \nThis course will guide you through buil",
+      "thread_id": "thread-168120180c94",
+      "thread_depth": 0,
+      "month": "2025-06"
+    },
+    {
+      "id": "msg-6782e0eb7b99",
+      "message_id": "<LE9HRROqTke_KI5AbRFx9w@geopod-ismtpd-5>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-06-19T00:50:50Z",
+      "subject": "[R-sig-genetics] AI Tools for Researchers - free seminar",
+      "subject_clean": "AI Tools for Researchers - free seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a free seminar, AI Tools for Researchers <https://instats.org/seminar/ai-tools-for-researchers-free-seminar>, livestreaming on June 24th and led by professor Peter Gruber?an early adopter of large language models with dual PhDs in physics and economics. In this seminar professor Gruber will distill the most valuable AI tools for every stage of academic work. From sparking ideas and accelerating literature reviews to analyzing data, generating reproducible code, polishing manuscripts, and refreshing course materials, you?ll discover which tools are genuinely worth your time (and why) as well as how to weave them into your daily workflow, and what the future of AI holds for researchers and graduate students alike. You?ll even get a behind-the-scenes look at his personal AI setup, plus practical guidance on privacy, classroom use, and emerging applications that can simplify life beyond the office.\n\nSign up today <https://instats.org/seminar/ai-tools-for-researchers-free-seminar> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a free seminar, AI Tools for Researchers <https://instats.org/seminar/ai-tools-for-researchers-free-seminar>, livestreaming on June 24th and led by professor P",
+      "thread_id": "thread-6782e0eb7b99",
+      "thread_depth": 0,
+      "month": "2025-06"
+    },
+    {
+      "id": "msg-1e393de31ded",
+      "message_id": "<pdP--l5ARUydzgiuyYDigw@geopod-ismtpd-13>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-06-19T12:20:00Z",
+      "subject": "[R-sig-genetics] Using AI for Data Analysis in R - livestream seminar",
+      "subject_clean": "Using AI for Data Analysis in R - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nWe still have a few places available for our 1-day seminar, Using AI for Data Analysis in R <https://instats.org/seminar/using-ai-for-data-analysis-in-r->, running July 1st and led by professor Daisung Jang from Melbourne Business School. Designed for PhD students, academics, and research professionals, this workshop shows how generative AI tools such as ChatGPT and OpenRouter can be paired with R to accelerate data cleaning, analysis, visualization, and reporting. Through interactive demonstrations, Professor Jang will reveal how to write error-free code, automate repetitive tasks with custom functions, compare and select optimal packages, and annotate workflows for transparent, reproducible research?all while boosting productivity and opening new avenues for empirical inquiry. By the end of the day, participants will have hands-on experience integrating AI into their R projects, enabling faster, more insightful, and higher-quality results across disciplines.\n\nSign up today <https://instats.org/seminar/using-ai-for-data-analysis-in-r-> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nWe still have a few places available for our 1-day seminar, Using AI for Data Analysis in R <https://instats.org/seminar/using-ai-for-data-analysis-in-r->, running July 1st and led by pro",
+      "thread_id": "thread-1e393de31ded",
+      "thread_depth": 0,
+      "month": "2025-06"
+    },
+    {
+      "id": "msg-c4931dd2a973",
+      "message_id": "<CAEsSYzxQjyJ4FaK6a7V0kkrbvT93OzrAXS1pAg-The2TOn0-eQ@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2025-06-23T18:18:15+01:00",
+      "subject": "[R-sig-genetics] PR Stats Recorded Courses - 50% off and access extended to 90 days",
+      "subject_clean": "PR Stats Recorded Courses - 50% off and access extended to 90 days",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "*Big Changes Coming to PR Stats Recorded Courses!*\n\nWe're revamping our recorded courses with brand-new features, improved\nstructure, updated content, and exciting new topics.\n\nAs we work on these upgrades, our recorded courses will be *unavailable\nfrom July through August*.\n\nTo celebrate the changes, we're offering *50% off all recorded courses*\n purchased *before the end of this week* ? plus, you?ll get *extended\naccess until January 1st, 2026*.\n\nDon't miss out on this opportunity to learn at your own pace and lock in\nhuge savings before the update!\n\nGeneral\n*Advancing in R (ADVR01)*\n<https://www.prstats.org/course/advancing-in-r-advrpr/>\nIntroduction to generalised linear models using R and Rstudio (IGLM06)\n<https://www.prstats.org/course/introduction-to-generalised-linear-models-using-r-and-rstudio-iglm06/>\nIntroduction To Mixed Models Using R And Rstudio (IMMR07)\n<https://www.prstats.org/course/introduction-to-mixed-models-using-r-and-rstudio-immr07/>\nModel selection and model simplification (MSMS04)\n<https://www.prstats.org/course/online-course-model-selection-and-model-simplification-msms04/>\nData visualization with ggplot2 using R and Rstudio (DVGG04)\n<https://www.prstats.org/course/data-visualization-with-ggplot2-using-r-and-rstudio-dvgg04/>\nReproducible and collaborative data analysis with R (RACR03)\n<https://www.prstats.org/course/reproducible-and-collaborative-data-analysis-with-r-racr03/>\nTime Series Data Analysis (TSDA02)\n<https://www.prstats.org/course/online-course-time-series-data-analysis-tsda02/>\nTime Series Analysis and Forecasting using R and Rstudio (TSAF01)\n<https://www.prstats.org/course/time-series-analysis-and-forecasting-using-r-and-rstudio-tsaf01/>\nIntroduction to Machine Learning using R and Rstudio (IMLR02)\n<https://www.prstats.org/course/introduction-to-machine-learning-using-r-and-rstudio-imlr02/>\nMachine Learning with R (Intermediate - Advanced) (MLIA01)\n<https://www.prstats.org/course/machine-learning-with-r-intermediate-advanced-mlia01/>\nBayesian\nIntroduction / Fundamentals of Bayesian Data Analysis statistics using R\n(FBDA01)\n<https://www.prstats.org/course/introduction-fundamentals-of-bayesian-data-analysis-statistics-using-r/>\nBayesian Approaches To Regression And Mixed Effects Models Using R and brms\n(BARM01)\n<https://www.prstats.org/course/bayesian-approaches-to-regression-and-mixed-effects-models-using-r-and-brms-barm01/>\nIntroduction To Stan For Bayesian Data Analysis (ISBD01)\n<https://www.prstats.org/course/introduction-to-stan-for-bayesian-data-analysis-isbd01/>\nBayesian Data Analysis (BADA02)\n<https://www.prstats.org/course/bayesian-data-analysis-bada02/>\nSpatial\nMaking Beautiful And Effective Maps In R (MAPR04)\n<https://www.prstats.org/course/making-beautiful-and-effective-maps-in-r-mapr04/>\nAdapting To The Recent Changes In R Spatial Packages (sf, terra, PROJ\nlibrary) (PROJ02)\n<https://www.prstats.org/course/adapting-to-the-recent-changes-in-r-spatial-packages-sf-terra-proj-library-projpr/>\nUsing Google Earth Engine in Ecological Studies (GEEE01)\n<https://www.prstats.org/course/using-google-earth-engine-in-ecological-studies-geeepr/>\nRemote sensing data analysis and coding in R for ecology (RSDA01)\n<https://www.prstats.org/course/remote-sensing-data-analysis-and-coding-in-r-for-ecology-rsda01/>\nMovement\nMovement Ecology Using R(MOVEPR)\n<https://www.prstats.org/course/movement-ecology-using-r-move07/>\nHidden Markov Models for movement, acceleration and other ecological data -\nan introduction using moveHMM and momentumHMM in R (HMMMPR)\n<https://www.prstats.org/course/hidden-markov-models-for-movement-acceleration-and-other-ecological-data-an-introduction-using-movehmm-and-momentuhmm-in-r-hmmmpr/>\nMiscellaneous\nBioacoustics For Ecologists: Hardware, Survey design And Data analysis\n(BIAC03)\n<https://www.prstats.org/course/bioacoustics-for-ecologists-hardware-survey-design-and-data-analysis-biac03/>\nMultivariate Analysis Of Ecological Communities Using R With The VEGAN\npackage (VGNR06)\n<https://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr06/>\nStable Isotope Mixing Models Using SIBER, SIAR, MixSIAR (SIMMPR)\n<https://www.prstats.org/course/stable-isotope-mixing-models-using-siber-siar-mixsiar-simmpr/>\n\n-- \nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*Big Changes Coming to PR Stats Recorded Courses!*\n\nWe're revamping our recorded courses with brand-new features, improved\nstructure, updated content, and exciting new topics.\n\nAs we work on these upg",
+      "thread_id": "thread-c4931dd2a973",
+      "thread_depth": 0,
+      "month": "2025-06"
+    },
+    {
+      "id": "msg-92d7b5cbe17b",
+      "message_id": "<PZsuh-IcSYC1gr47QiKlFw@geopod-ismtpd-1>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-06-24T17:20:00Z",
+      "subject": "[R-sig-genetics] Using AI for Exploratory Analysis - livestream seminar",
+      "subject_clean": "Using AI for Exploratory Analysis - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Exploratory Analysis of Complex Datasets with ChatGPT <https://instats.org/seminar/exploratory-analysis-of-complex-datasets>, running Jul 14th and led by professor Nikolay Oskolkov from Molecular Biosciences, Lund University. Designed for scholars and professionals working with high-dimensional data, this intensive workshop will show you how to navigate the curse of dimensionality using both linear (PCA, MDS) and non-linear (tSNE, UMAP) dimensionality-reduction methods, deploy clustering techniques ranging from k-means and hierarchical clustering to GMM, DBSCAN, spectral, and graph-based approaches, and integrate neural networks and autoencoders to uncover hidden structure in genomics, AI, or time-series research. Combining rigorous theory with hands-on coding in R and Python, Nikolay will also demonstrate how ChatGPT can be woven into your analytic workflow to interpret complex outputs, generate insightful explanations, and streamline reporting?empowering you to tackle challenging datasets with confidence and creativity.\n\nSign up today <https://instats.org/seminar/exploratory-analysis-of-complex-datasets> and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Exploratory Analysis of Complex Datasets with ChatGPT <https://instats.org/seminar/exploratory-analysis-of-complex-datasets>, running Jul 14th",
+      "thread_id": "thread-92d7b5cbe17b",
+      "thread_depth": 0,
+      "month": "2025-06"
+    },
+    {
+      "id": "msg-338cd4da787f",
+      "message_id": "<1750859453.190726396@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-06-25T15:50:53+02:00",
+      "subject": "[R-sig-genetics] Conservation Genomics course - online, 21-24 July",
+      "subject_clean": "Conservation Genomics course - online, 21-24 July",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nthe Conservation Genomics course is nearly fully booked!\n \nIf you're interested, don't miss the chance?check out the details here: [ https://www.physalia-courses.org/courses-workshops/course62/ ]( https://www.physalia-courses.org/courses-workshops/course62/ )\n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nthe Conservation Genomics course is nearly fully booked!\n \nIf you're interested, don't miss the chance?check out the details here: [ https://www.physalia-courses.org/courses-workshops/course",
+      "thread_id": "thread-338cd4da787f",
+      "thread_depth": 0,
+      "month": "2025-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-c0f5387eab3e",
+      "subject": "Course online: Analysing Biodiversity Through Time and Space Using R - 9–13 June",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-06-01T11:25:09+02:00",
+      "last_reply": "2025-06-01T11:25:09+02:00",
+      "root_message_id": "msg-c0f5387eab3e"
+    },
+    {
+      "id": "thread-14b3cfcc63fb",
+      "subject": "Using AI for Data Analysis in R - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-06-03T02:35:00+00:00",
+      "last_reply": "2025-06-03T02:35:00+00:00",
+      "root_message_id": "msg-14b3cfcc63fb"
+    },
+    {
+      "id": "thread-35a01b524c7c",
+      "subject": "Get to Grips with the Vegan Package",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2025-06-03T16:55:04+01:00",
+      "last_reply": "2025-06-03T16:55:04+01:00",
+      "root_message_id": "msg-35a01b524c7c"
+    },
+    {
+      "id": "thread-6837b609344a",
+      "subject": "Conservation Genomics course (online, 21–24 July)",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-06-03T19:24:33+02:00",
+      "last_reply": "2025-06-03T19:24:33+02:00",
+      "root_message_id": "msg-6837b609344a"
+    },
+    {
+      "id": "thread-31aae8279b8e",
+      "subject": "PR stats new social media - £2000 in course prizes available",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2025-06-03T22:56:10+01:00",
+      "last_reply": "2025-06-03T22:56:10+01:00",
+      "root_message_id": "msg-31aae8279b8e"
+    },
+    {
+      "id": "thread-18bdbd34b9f5",
+      "subject": "National Science Foundation at 75 - free online conference",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-06-04T03:29:19+00:00",
+      "last_reply": "2025-06-04T03:29:19+00:00",
+      "root_message_id": "msg-18bdbd34b9f5"
+    },
+    {
+      "id": "thread-168120180c94",
+      "subject": "Only a few seats left — Introduction to GWAS (Online, 23–27 June )",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-06-06T13:54:49+02:00",
+      "last_reply": "2025-06-06T13:54:49+02:00",
+      "root_message_id": "msg-168120180c94"
+    },
+    {
+      "id": "thread-6782e0eb7b99",
+      "subject": "AI Tools for Researchers - free seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-06-19T00:50:50+00:00",
+      "last_reply": "2025-06-19T00:50:50+00:00",
+      "root_message_id": "msg-6782e0eb7b99"
+    },
+    {
+      "id": "thread-1e393de31ded",
+      "subject": "Using AI for Data Analysis in R - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-06-19T12:20:00+00:00",
+      "last_reply": "2025-06-19T12:20:00+00:00",
+      "root_message_id": "msg-1e393de31ded"
+    },
+    {
+      "id": "thread-c4931dd2a973",
+      "subject": "PR Stats Recorded Courses - 50% off and access extended to 90 days",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2025-06-23T18:18:15+01:00",
+      "last_reply": "2025-06-23T18:18:15+01:00",
+      "root_message_id": "msg-c4931dd2a973"
+    },
+    {
+      "id": "thread-92d7b5cbe17b",
+      "subject": "Using AI for Exploratory Analysis - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-06-24T17:20:00+00:00",
+      "last_reply": "2025-06-24T17:20:00+00:00",
+      "root_message_id": "msg-92d7b5cbe17b"
+    },
+    {
+      "id": "thread-338cd4da787f",
+      "subject": "Conservation Genomics course - online, 21-24 July",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-06-25T15:50:53+02:00",
+      "last_reply": "2025-06-25T15:50:53+02:00",
+      "root_message_id": "msg-338cd4da787f"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2022-09",
+  "messages": [
+    {
+      "id": "msg-4e627c7259f8",
+      "message_id": "<25444b4f-a927-a650-61f7-09207771cbda@ird.fr>",
+      "from_name": "Emmanuel Paradis",
+      "from_email_hash": "aa2627c6a243dc96ac436c793b40dfd94fa6537a7f7723772a19e1fc2b2c0aa5",
+      "date": "2022-09-28T17:07:31+07:00",
+      "subject": "[R-sig-genetics] [2nd announcement] \"Bioinformatics: The Next 20 Years\" (Oct 27)",
+      "subject_clean": "[2nd announcement] \"Bioinformatics: The Next 20 Years\" (Oct 27)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nRegistration is now open:\n\nhttps://meeting-nstda.webex.com/meeting-nstda/j.php?RGID=r49da897c6a68260a5bf2bdf41763bcba\n\nCheers,\n\nEmmanuel",
+      "body_snippet": "Dear all,\n\nRegistration is now open:\n\nhttps://meeting-nstda.webex.com/meeting-nstda/j.php?RGID=r49da897c6a68260a5bf2bdf41763bcba\n\nCheers,\n\nEmmanuel",
+      "thread_id": "thread-4e627c7259f8",
+      "thread_depth": 0,
+      "month": "2022-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-4e627c7259f8",
+      "subject": "[2nd announcement] \"Bioinformatics: The Next 20 Years\" (Oct 27)",
+      "message_count": 1,
+      "participants": [
+        "Emmanuel Paradis"
+      ],
+      "started": "2022-09-28T17:07:31+07:00",
+      "last_reply": "2022-09-28T17:07:31+07:00",
+      "root_message_id": "msg-4e627c7259f8"
+    }
+  ]
+}

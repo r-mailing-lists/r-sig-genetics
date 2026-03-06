@@ -1,0 +1,162 @@
+From i@io m@iii@g oii phys@ii@-courses@org  Thu Dec  7 14:45:59 2023
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Thu, 7 Dec 2023 14:45:59 +0100 (CET)
+Subject: [R-sig-genetics] Course -Gene Set Enrichment Analysis in
+ R/Bioconductor
+Message-ID: <1701956759.841226104@webmail.jimdo.com>
+
+
+ 
+Dear all,
+ 
+there are still 5 seats for the next edition of the online course on "Gene Set Enrichment Analysis in R/Bioconductor" taking place from January 22nd to January 25th, 2024.
+ 
+ 
+This course will cover popular GSEA tools, both online-based and R packages, providing a detailed introduction to various GSEA methods, including overrepresentation analysis, univariate and multivariate methods, network-based GSEA, single-sample GSEA, and more. Additionally, you will learn how to efficiently process GSEA results, visualize them, and implement GSEA methods from scratch in R.
+ 
+ 
+Learning Outcomes:
+ 
+Perform GSEA analysis using popular tools.
+Understand various GSEA analysis methods.
+Efficiently visualize GSEA results.
+ 
+ 
+Program Details:
+ 
+Sessions from 14:00 to 20:00 (Berlin time) from Monday to Thursday, with 10-minute breaks after every 50 minutes.
+Sessions will follow a learn-by-practice approach, including discussions, Q&A, and hands-on practice.
+Participants are encouraged to bring their data for practical exercises.
+ 
+Course Schedule:
+ 
+Monday: Introduction to GSEA analysis, basic methods, and tool demonstrations.
+ 
+Tuesday: Theoretical foundations, including univariate and multivariate methods, and implementing new GSEA methods from scratch in R.
+ 
+Wednesday: Extensions of GSEA analysis, including network-based GSEA, genomic region-based GSEA, GOseq, and single-sample GSEA.
+ 
+Thursday: Downstream processing of GSEA results, efficient visualization, and simplifying interpretation.
+ 
+For more details and registration, please visit the course page: [ https://www.physalia-courses.org/courses-workshops/course53/ ]( https://www.physalia-courses.org/courses-workshops/course53/ )
+ 
+For the full list of our courses and Workshops, please check it out: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )
+ 
+ 
+ 
+Best regards,
+ 
+Carlo
+ 
+ 
+ 
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+
+ 
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Tue Dec 12 19:27:28 2023
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Tue, 12 Dec 2023 19:27:28 +0100 (CET)
+Subject: [R-sig-genetics] Course on Landscape Genomics - June 17-21 in
+ Lausanne, Switzerland
+Message-ID: <1702405648.878217973@webmail.jimdo.com>
+
+
+Dear all,
+ 
+registrations are now open for our upcoming workshop on "Landscape Genomics"
+
+**When:** June 17-21, 2024
+**Where:** EPFL, Lausanne, Switzerland
+
+Join us to learn the fundamentals of this approach and hone your skills with cutting-edge methods. From obtaining environmental data using GIS to analysing genetic variation in R, this workshop covers it all. Discover statistical approaches for studying local adaptation and gain hands-on experience with tools like Sambada and LFMM. Cap it off with insights on result interpretation and experiment planning.
+
+Ideal for those people eager to apply landscape genomics in evolutionary biology and conservation studies. 
+
+Course website: [ https://www.physalia-courses.org/courses-workshops/course17/ ]( https://www.physalia-courses.org/courses-workshops/course17/ ) 
+
+Best regards,
+ 
+Carlo
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+Follow us on [ Twitter ]( https://twitter.com/Physacourses ) & [ Mastodon ]( https://mas.to/@PhysaliaCourses )
+
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Sun Dec 17 15:25:08 2023
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Sun, 17 Dec 2023 15:25:08 +0100 (CET)
+Subject: [R-sig-genetics] =?utf-8?q?Gene_Set_Enrichment_Analysis_=28GSEA?=
+ =?utf-8?q?=29_in_R/Bioconductor_course?=
+Message-ID: <1702823108.180822323@webmail.jimdo.com>
+
+
+Dear all,
+there are only 5 seats left for upcoming online course on Gene Set Enrichment Analysis (GSEA) in R/Bioconductor!
+Dates: 22-25 January 2024
+Course Overview:
+- Dive into GSEA basics and tools
+- Explore overrepresentation analysis and gene set analysis
+- Learn various GSEA methods, including multivariate and network-based approaches
+- Understand downstream processing for efficient result interpretation
+Target Audience: Perfect for students and researchers with basic R programming skills (data structures: vectors, data frames, lists) and limited statistical knowledge.
+Learning Outcomes:
+- Perform GSEA analysis using popular R/Bioconductor packages
+- Grasp various GSEA methods
+- Efficiently visualize and interpret GSEA results
+Program:
+Sessions: 14:00 to 20:00 (Berlin time) from Monday to Thursday
+Learn-by-practice mode with breaks and Q&A after each topic
+Bring your data for hands-on practice!
+Monday: Get hands-on with GSEA basics and online tools.
+Tuesday: Dive deep into GSEA theories, frameworks, and implementing new methods.
+Wednesday: Explore GSEA extensions: network-based GSEA, genomic region-based GSEA, GOseq, and single-sample GSEA.
+Thursday: Master downstream processing: visualize results, cluster data, and simplify GSEA interpretations.
+Limited Slots Available! Secure your spot now: [ https://www.physalia-courses.org/courses-workshops/gse-in-r/ ]( https://www.physalia-courses.org/courses-workshops/gse-in-r/ )
+ 
+For the full list of our courses and workshops, have a look at: [ https://www.physalia-courses.org/courses-workshops ]( https://www.physalia-courses.org/courses-workshops )
+ 
+Best regards,
+Carlo
+ 
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+
+	[[alternative HTML version deleted]]
+
+

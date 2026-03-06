@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2019-05",
+  "messages": [
+    {
+      "id": "msg-38b1ad3666ca",
+      "message_id": "<ea952d5b-38d5-8f4a-ee02-4eef666ef1b8@ird.fr>",
+      "from_name": "Emmanuel Paradis",
+      "from_email_hash": "aa2627c6a243dc96ac436c793b40dfd94fa6537a7f7723772a19e1fc2b2c0aa5",
+      "date": "2019-05-16T14:37:18+02:00",
+      "subject": "[R-sig-genetics] new package psmcr",
+      "subject_clean": "new package psmcr",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi all,\n\nThe new package psmcr is a port of the program 'psmc' by Heng Li [1]. It \nis available on GitHub:\n\nhttps://github.com/emmanuelparadis/psmcr\n\nThere is a short tutorial showing a typical usage with a few tips. In \naddition to fitting the PSMC from R (and the bootstrap), psmcr has tools \nto prepare the input data and graphical tools to display the results.\n\nFeedback welcome!\n\nBest,\n\nEmmanuel\n\n[1] Li, H. and Durbin, R. (2011) Inference of human population history \nfrom individual whole-genome sequences. Nature 475: 493-U84.",
+      "body_snippet": "Hi all,\n\nThe new package psmcr is a port of the program 'psmc' by Heng Li [1]. It \nis available on GitHub:\n\nhttps://github.com/emmanuelparadis/psmcr\n\nThere is a short tutorial showing a typical usage ",
+      "thread_id": "thread-38b1ad3666ca",
+      "thread_depth": 0,
+      "month": "2019-05"
+    },
+    {
+      "id": "msg-ee18fdbafa22",
+      "message_id": "<CAEsSYzwRv5PYgXOS0ASCJBS+6LQ2a6sHvh2JqEFfDmfsx-f9fQ@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2019-05-23T22:44:28Z",
+      "subject": "[R-sig-genetics] Analysing Environmental Adaptation Using Landscape Genomics in R (EDAP01)",
+      "subject_clean": "Analysing Environmental Adaptation Using Landscape Genomics in R (EDAP01)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Analysing Environmental Adaptation Using Landscape Genomics in R (EDAP01)\n\n\n\nhttps://www.prstatistics.com/course/adaptive-landscape-genomics-in-r-edap01/\n\n\n\nThis course will be delivered by Matt Fitzpatrack and Dr Aki Laruson form\nthe 15th - 19th July in Glasgow City Centre.\n\n\n\nCourse Overview:\n\nLocal adaptation to climate and other environmental drivers increasingly is\nbeing studied at the molecular level using high-throughput sequencing\nmethods, with applications spanning both model and non-model organisms. At\nthe same time, statistical tools for modeling and mapping patterns of\nbiodiversity have seen increasing application, including to the challenge\nof understanding the drivers of spatial variation in adaptive genomic\nvariation and mapping these patterns under current and future climate. This\n5-day course will provide the skill set necessary to analyze sequence data\nfor signatures of natural selection and to apply spatial modeling\ntechniques to these patterns to quantify and map population-level genetic\nvariation using two spatial modelling algorithms ? Generalized\nDissimilarity Modelling (GDM) and Gradient Forest (GF).\n\n\n\nThe course will include introductory lectures, instruction on using the\nLinux command line for manipulation of genomic data, guided computer coding\nin R, and exercises for the participants, with an emphasis on visualization\nand reproducible workflows. Portions of each day will be allotted for\nstudents to work through their own datasets with the instructors.\n\n\n\nCourse Programme\n\nSunday 14th\n\n\n\nMeet at the accommodation at approx. 17:00 onwards\n\n\n\nMonday 15th ? Classes from 09:00 to 17:00\n\nDay 1 ? Background and introduction\n\n1) Introduction to approach\n\n2) Data types (spatial, environmental, and genomic)\n\n3) Considerations (quality control, SNP calling, filtering)\n\n\n\nTuesday 16th ? Classes from 09:00 to 17:00\n\nDay 2 ? Natural Selection I\n\n4) Introduction to the genomics of natural selection\n\n5) Review of population genomic approaches to inferring selection\n\n6) Implementing FST- and differentiation-outlier tests and interpreting\nresults\n\n\n\nWednesday 17th ? Classes from 09:00 to 17:00\n\nDay 3 ? Natural selection II\n\n7) Principles of inferring selection from environmental association analyses\n\n8) Review of landscape genomics approaches to inferring selection\n\n9) Preparing SNP data from VCF and environmental data from rasters\n\n10) Implementing multiple association methods (e.g., LFMM, RDA, etc.) and\ninterpreting results\n\n\n\nThursday 18th ? Classes from 09:00 to 17:00\n\nDay 4 ? Spatial Modeling I\n\n11) Introduction to GDM and GF\n\n12) Review of genetic and environmental data preparation\n\n13) Interpreting model results\n\n14) Model fitting / testing / validation / variable selection\n\n\n\nFriday 19th ? Classes from 09:00 to 16:30\n\nDay 5 ? Spatial Modeling II\n\n15) Predictions & Applications of GDM / GF\n\n16) Transforming environmental grids\n\n17) Visualizing spatial variation in genetic composition\n\n18) Calculating genetic differences between locations / times\n\n19) Projecting patterns under climate change\n\n\n\nEmail oliverhooker at prstatistics.com\n\n\n\nCheck out our sister sites,\n\nwww.PRstatistics.com (Ecology and Life Sciences)\n\nwww.PRstatistics.com/consultancy (Statistical and bioinformatics\nconsultancy in all fields)\n\nwww.PRinformatics.com (Bioinformatics and data science)\n\nwww.PSstatistics.com (Behaviour and cognition)\n\n\n\n\n\n1.           June 10th ? 14th 2019\n\nSTABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR (SIMM04)\n\nGlasgow, Scotland, Dr. Andrew Parnell, Dr. Andrew Jackson\n\nwww.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm04/\n\n\n\n2.           June 10th ? 14th 2019\n\nINTRODUCTION TO PYTHON FOR BIOLOGISTS (IPYB06)\n\nGlasgow, Scotland, Dr. Martin Jones\n\nhttp://www.prinformatics.com/course/introduction-to-python-for-biologists-ipyb06/\n\n\n\n3.           June 17th ? 21st 2019\n\nADVANCED PYTHON FOR BIOLOGISTS (APYB03)\n\nGlasgow, Scotland, Dr. Martin Jones\n\nwww.prinformatics.com/course/advanced-python-biologists-apyb03/\n\n\n\n4.           June 24th ? 28th 2019\n\nMICROBIOME DATA ANALYSIS USING QIIME2 (MBQM01)\n\nGlasgow, Scotland, Dr. Yoshiki Vazquez Baeza, Dr. Antonio Gonzalez Pena\n\nhttps://www.prinformatics.com/course/microbiome-data-analysis-using-qiime2-mbqm01/\n\n\n\n5.           July 1st ? 5th 2019\n\nBIOACOUSTICS FOR ECOLOGISTS: HARDWARE, SURVEY DESIGN AND DATA ANALYSIS\n(BIAC01)\n\nGlasgow, Scotland, Dr. Paul Howden-Leach\n\nhttps://www.prstatistics.com/course/bioacoustics-for-ecologists-hardware-survey-design-and-data-analysis-biac01/\n\n\n\n6.           July 8th ? 12th 2019\n\nINTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING USING R (IBHM03)\n\nGlasgow, Scotland, Dr. Andrew Parnell\n\nhttps://www.psstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm03/\n\n\n\n7.           July 15th ? 19th 2019\n\nANALYSING ENVIRONMENTAL ADAPTATION USING LANDSCAPE GENETICS (EDAP01)\n\nGlasgow, Dr. Matt Fitzpatrick\n\nhttps://www.prstatistics.com/course/analysing-environmental-adaptation-using-landscape-genetics-edap01\n\n\n\n8.           July 29th ? August 2nd 2019\n\nINTRODUCTION TO SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R (ISPE01)\n\nGlasgow, Scotland, Dr. Jakub Nowosad\n\nhttps://www.prstatistics.com/course/introduction-to-spatial-analysis-of-ecological-data-using-r-ispe01/\n\n\n\n9.           September 2nd ? 6th 2019\n\nAPPLIED METHODS FOR ANALYSING CAPTURE-RECAPTURE (MARK-RECAPTURE) DATA USING\nSPATIALLY EXPLICIT AND NON-SPATIAL TECHNIQUES (MARK01)\n\nGlasgow, Scotland, Dr. Joanne Potts, Dr. David Borchers\n\nhttps://www.prstatistics.com/course/applied-methods-for-analysing-capture-recapture-mark-recapture-data-using-spatially-explicit-and-non-spatial-techniques-mark01/\n\n\n\n10.        September 9th ? 13th 2019\n\nDATA SCIENCE/ANALYTICS USING PYTHON (DSAP01)\n\nGlasgow, Scotland, Dr. Mark Andrews\n\nhttps://www.psstatistics.com/course/data-science-analytics-using-python-dsap01/\n\n\n\n11.        September 16th ? 20th 2019\n\nR PACKAGE DESIGN AND DEVELOPMENT AND REPRODUCIBLE DATA SCIENCE FOR\nBIOLOGISTS (RPKG01)\n\nGlasgow, Scotland, Dr. Cory Merow, Dr. Andy Rominger\n\nhttps://www.prstatistics.com/course/r-package-design-and-development-and-reproducible-data-science-for-biologists-rpkg01/\n\n\n\n12.        September 16th ? 20th 2019\n\nSTRUCTURAL EQUATION MODELLING AND PATH ANALYSIS (SMPA01)\n\nGlasgow, Scotland, Dr. Mark Andrews\n\nhttps://www.psstatistics.com/course/structural-equation-modelling-and-path-analysis-smpa01/\n\n\n\n13.        September 23rd ? 27th 2019\n\nGENERALISED LINEAR (GLM), NONLINEAR (NLGLM) AND GENERAL ADDITIVE MODELS\n(GAM?S) (GNAM01)\n\nGlasgow, Scotland, Dr. Mark Andrews\n\nhttps://www.psstatistics.com/course/generalised-linear-glm-nonlinear-nlglm-and-general-additive-models-gam-gnam01/\n\n\n\n14.        September 30th ? October 4th 2019\n\nGEOMETRIC MORPHOMETRICS USING R (GMMR02)\n\nGlasgow, Scotland, Prof. Dean Adams, Prof. Michael Collyer, Dr. Antigoni\nKaliontzopoulou\n\nhttp://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr02/\n\n\n\n15.        October 7th ? 11th 2019\n\nCONSERVATION PLANNING USING PRIORITIZR : FROM THEORY TO PRACTICE (PRTZ01)\n\nAthens, GREECE, Dr Richard Schuster and Nina Morell\n\nhttps://www.prstatistics.com/course/conservation-planning-using-prioritizr-from-theory-to-practice-prtz01/\n\n\n\n16.        October 14th ? 18th 2019\n\nINTRODUCTION TO BEHAVIOURAL DATA ANALYSIS USINR R (IBDA01)\n\nGlasgow, Scotland, Dr Will Hoppitt\n\nhttps://www.psstatistics.com/course/introduction-to-behavioural-data-analysis-using-r-ibda01/\n\n\n\n17.        November 4th ? 8th 2019\n\nGlasgow, Scotland, Dr. Mark Andrews\n\nINTRODUCTION TO BAYESIAN DATA ANALYSIS FOR SOCIAL AND BEHAVIOURAL SCIENCES\nUSING R AND STAN (BDRS02)\n\nhttps://www.psstatistics.com/course/introduction-to-bayesian-data-analysis-for-social-and-behavioural-sciences-using-r-and-stan-bdrs02/\n\n\n\n18.        November 4th ? 8th 2019\n\nBEHAVIOURAL DATA ANALYSIS USING MAXIMUM LIKELIHOOD (BDML01)\n\nGlasgow, Scotland, Dr Will Hoppitt\n\nhttps://www.psstatistics.com/course/behavioural-data-analysis-using-maximum-likelihood-bdml02/\n\n\n\n19.        November 11th ? 15th 2019\n\nAPPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS (ABME05)\n\nGlasgow, Scotland, Dr Matt Denwood, Emma Howard\n\nhttps://www.prstatistics.com/course/applied-bayesian-modelling-for-ecologists-and-epidemiologists-abme05/\n\n\n\n20.        November 18th ? 22nd 2019\n\nINTRODUCTION TO STRUCTURED POPULATION MODELS AND DEMOGRAPHIC DISTRIBUTION\nMODELS (IIPM01)\n\nAthens, GREECE, Dr Cory Merow\n\nhttps://www.prstatistics.com/course/introduction-to-structured-population-models-and-demographic-distribution-models-iipm01/\n\n\n\n21.        November 25th ? 29th 2019\n\nADVANCED RANGE, NICHE, AND DISTRIBUTION MODELING (ASDM01)\n\nAthens, GREECE, Dr Cory Merow\nhttps://www.prstatistics.com/course/advanced-range-niche-and-distributio\n\n-- \nOliver Hooker PhD.\nPR statistics\n\n2019 publications;\n\nA way forward with eco evo devo: an extended theory of resource\npolymorphism with postglacial fishes as model systems. Biological Reviews\n(2019).\n\nprstatistics.com\nfacebook.com/prstatistics/\ntwitter.com/PRstatistics\ngroups.google.com/d/forum/pr-statistics-post-course-forum\nprstatistics.com/organiser/oliver-hooker/\n\n6 Hope Park Crescent\nEdinburgh\nEH8 9NA\n+44 (0) 7966500340\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Analysing Environmental Adaptation Using Landscape Genomics in R (EDAP01)\n\n\n\nhttps://www.prstatistics.com/course/adaptive-landscape-genomics-in-r-edap01/\n\n\n\nThis course will be delivered by Matt Fitzp",
+      "thread_id": "thread-ee18fdbafa22",
+      "thread_depth": 0,
+      "month": "2019-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-38b1ad3666ca",
+      "subject": "new package psmcr",
+      "message_count": 1,
+      "participants": [
+        "Emmanuel Paradis"
+      ],
+      "started": "2019-05-16T14:37:18+02:00",
+      "last_reply": "2019-05-16T14:37:18+02:00",
+      "root_message_id": "msg-38b1ad3666ca"
+    },
+    {
+      "id": "thread-ee18fdbafa22",
+      "subject": "Analysing Environmental Adaptation Using Landscape Genomics in R (EDAP01)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2019-05-23T22:44:28+00:00",
+      "last_reply": "2019-05-23T22:44:28+00:00",
+      "root_message_id": "msg-ee18fdbafa22"
+    }
+  ]
+}

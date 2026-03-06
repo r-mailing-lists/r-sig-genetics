@@ -1,0 +1,202 @@
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Fri Jul 30 01:39:42 2021
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Fri, 30 Jul 2021 00:39:42 +0100
+Subject: [R-sig-genetics] ntroduction to eco-phylogenetics and comparative
+ analyses using R (ECPH01)
+Message-ID: <CAEsSYzzDP3QGvwizqWxx5cKimNv=op4u4ML+ZyNNDU0FUPkoiw@mail.gmail.com>
+
+ONLINE COURSE - Introduction to eco-phylogenetics and comparative analyses
+using R (ECPH01) This course will be delivered live
+
+https://www.prstatistics.com/course/introduction-to-eco-phylogenetics-and-comparative-analyses-using-r-ecph01/
+
+22 September 2021 - 28 September 2021
+
+TIME ZONE ? UK local time (GMT+0) ? however all sessions will be recorded
+and made available allowing attendees from different time
+zones to follow a day behind with an additional 1/2 days support after the
+official course finish date (please email
+oliverhooker at prstatistics.com for full details or to discuss how we can
+accommodate you).
+
+Course Overview:
+
+In this five day course, we provide an introduction to eco-phylogenetics
+and comparative analyses using R. We begin by providing an  overview on the
+use of phylogenies as a tool for evolutionary biologists and modern
+techniques to deal with large phylogenies and to incorporate phylogenetic
+uncertainty in the analyses (day 1). We then cover some of the most
+relevant eco-phylogenetic analyses and provide examples from the community
+to themacro-ecological scale (day 2-3). Finally, we introduce a diversity
+of classic and modern phylogenetic comparative methods to consider the
+historical relationship of lineages in eco-evolutionary research, including
+models of trait evolution, analysis of clade diversification and the use of
+phylogenies in spatial distribution models among others (day 4-5).
+
+Instructors
+
+Dr. Rafael Molina Venegas
+Dr. Ignacio Morales Castilla
+
+Course Programme
+
+Wednesday 22nd ? Classes from 08:00 to 16:30? Introduction and a brief
+phylogenetic primer. Basic terminology for non- phylogeneticists,
+phylogenetic inference (quick overview), phylogenies aevolutionary
+hypotheses.? Working with phylogenies. Newick format and structure of the R
+phylo object. Elementary operations on phylogenies (pruning, resolving
+polytomies, sticking species). Visualizing large phylogenies.? Building
+purpose-specific mega-trees from extant trees and incorporating
+phylogenetic uncertainty. Software phylocom, V.PhyloMaker, SUNPLIN and
+randtip R package.
+
+Thursday 23rd ? Classes from 08:00 to 16:30? Introduction to the
+eco-phylogenetic framework, classical conception and posterior
+modifications.? Phylogenetic alpha diversity (how much? how different? how
+regular?). Community data matrices, null models, applications to
+biodiversity conservation.? Phylogenetic beta diversity. The turnover and
+nestedness component of beta diversity.
+
+Friday 24th ? Classes from 08:00 to 16:30? Incorporating the exact
+branching pattern of phylogenies into eco-phylogenetic analyses.? Spatial
+phylogenetics. RPD, RPE and CANEPE analysis.? Overview of functional trait
+ecology. Functional richness, evenness and divergence.Community weighted
+means.? Phylogenetic imputation of trait datasets. Bounding prediction
+uncertainty using evolutionary models. Phylogenies as a null model in
+ecology.
+
+Monday 27th from 08:00 to 16:30? The phylogenetic comparative method, from
+independent contrasts to sophisticated modelling.? Analyses of phylogenetic
+signal and models of evolution: rationale, common- practice, and new
+trends.? Correlated evolution and ancestral trait reconstruction.? Analyses
+of diversification, speciation and extinction rates in a geographic context.
+
+Tuesday 28th ? Classes from 08:00 to 16:30? The need to account for
+phylogenetic relationships in models.? Most common phylogenetic modelling
+approaches: PGLS, PGLMM, BayesianPMM.? Putting phylogenies in the
+geography: how to combine phylogenies with species distribution models.
+
+UPCOMING COURSES
+
+Missing Data Analytics (MDAR01)
+www.prstatistics.com/course/online-course-missing-data-analytics-mdar01
+8 September 2021 - 10 September 2021
+
+Functional ecology from organism to ecosystem: theory and computation
+(FEER02)
+www.prstatistics.com/course/functional-ecology-from-organism-to-ecosystem-theory-and-computation-feer02/
+13 September 2021 - 17 September 2021
+
+Meta-analysis in ecology, evolution and environmental sciences (METR02)
+www.prstatistics.com/course/meta-analysis-in-ecology-evolution-and-environmental-sciences-metr02/
+13 September 2021 - 17 September 2021
+
+Species Distribution Modeling using R (SDMR04)
+www.prstatistics.com/course/species-distribution-modeling-using-r-sdmr04/
+21 September 2021 - 30 September 2021
+
+Phylogenetic comparative methods (PGCM01)
+https://www.prstatistics.com/course/phylogenetic-comparative-methods-pgcm01/
+22 September 2021 - 28 September 2021
+
+Multivariate analysis of ecological communities in R with the VEGAN package
+(VGNR03)
+www.prstatistics.com/course/multivariate-analysis-of-ecological-communities-in-r-with-the-vegan-package-vgnr03/
+4 October 2021 - 8 October
+
+Introduction to Data Wrangling and Data Visualization using R (DWDV01)
+www.prstatistics.com/course/introduction-to-data-wrangling-and-data-visualization-using-r-dwdv01/
+4 October 2021 - 8 October 2021
+
+Introduction to Bayesian modelling with INLA (BMIN02)
+https://www.prstatistics.com/course/introduction-to-bayesian-modelling-with-inla-bmin02/
+4 October 2021 - 8 October 2021
+
+Landscape genetic data analysis using R (LNDG05)
+https://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg05/
+18 October 2021 - 27 October 2021
+
+Species distribution modelling with Bayesian statistics in R (SDMB03)
+www.prstatistics.com/course/species-distribution-modelling-with-bayesian-statistics-in-r-sdmb03/
+6 December 2021 - 10 December 2021
+
+Time Series Data Analysis (TSDA01)
+https://www.prstatistics.com/course/time-series-data-analysis-tsda01/
+14 December 2021 - 17 December 2021
+
+Bayesian Data Analysis (BADA01)
+https://www.prstatistics.com/course/bayesian-data-analysis-bada01/
+10th January 2022 - 14th January 2022
+
+Stable Isotope Mixing Models using SIBER, SIAR, MixSIAR (SIMM08)
+https://www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm08/
+1st February 2022 - 4th February 2022
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+Missing Data Analytics (MDAR01)
+www.prstatistics.com/course/online-course-missing-data-analytics-mdar01
+8 September 2021 - 10 September 2021
+
+Functional ecology from organism to ecosystem: theory and computation
+(FEER02)
+www.prstatistics.com/course/functional-ecology-from-organism-to-ecosystem-theory-and-computation-feer02/
+13 September 2021 - 17 September 2021
+
+Meta-analysis in ecology, evolution and environmental sciences (METR02)
+www.prstatistics.com/course/meta-analysis-in-ecology-evolution-and-environmental-sciences-metr02/
+13 September 2021 - 17 September 2021
+
+Species Distribution Modeling using R (SDMR04)
+www.prstatistics.com/course/species-distribution-modeling-using-r-sdmr04/
+21 September 2021 - 30 September 2021
+
+Phylogenetic comparative methods (PGCM01)
+https://www.prstatistics.com/course/phylogenetic-comparative-methods-pgcm01/
+22 September 2021 - 28 September 2021
+
+Multivariate analysis of ecological communities in R with the VEGAN package
+(VGNR03)
+www.prstatistics.com/course/multivariate-analysis-of-ecological-communities-in-r-with-the-vegan-package-vgnr03/
+4 October 2021 - 8 October
+
+Introduction to Data Wrangling and Data Visualization using R (DWDV01)
+www.prstatistics.com/course/introduction-to-data-wrangling-and-data-visualization-using-r-dwdv01/
+4 October 2021 - 8 October 2021
+
+Introduction to Bayesian modelling with INLA (BMIN02)
+https://www.prstatistics.com/course/introduction-to-bayesian-modelling-with-inla-bmin02/
+4 October 2021 - 8 October 2021
+
+Landscape genetic data analysis using R (LNDG05)
+https://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg05/
+18 October 2021 - 27 October 2021
+
+Species distribution modelling with Bayesian statistics in R (SDMB03)
+www.prstatistics.com/course/species-distribution-modelling-with-bayesian-statistics-in-r-sdmb03/
+6 December 2021 - 10 December 2021
+
+Time Series Data Analysis (TSDA01)
+https://www.prstatistics.com/course/time-series-data-analysis-tsda01/
+14 December 2021 - 17 December 2021
+
+Bayesian Data Analysis (BADA01)
+https://www.prstatistics.com/course/bayesian-data-analysis-bada01/
+10th January 2022 - 14th January 2022
+
+Stable Isotope Mixing Models using SIBER, SIAR, MixSIAR (SIMM08)
+https://www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm08/
+1st February 2022 - 4th February 2022
+
+www.PRstatistics.com
+
+53 Morrison Street
+Glasgow
+G5 8LB
++44 (0) 7966500340
+
+	[[alternative HTML version deleted]]
+
+

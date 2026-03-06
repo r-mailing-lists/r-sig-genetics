@@ -1,0 +1,82 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2013-06",
+  "messages": [
+    {
+      "id": "msg-d02e0032e6e9",
+      "message_id": "<51C013AA.5070808@imbe.fr>",
+      "from_name": "Benjamin Alric",
+      "from_email_hash": "c8e1671d33ad1e995b63b029209e65b4d64cea19d83f25651f9a18a574bf9152",
+      "date": "2013-06-18T10:00:42+02:00",
+      "subject": "[R-sig-genetics] Computation of bootstrap support values for UPGMA",
+      "subject_clean": "Computation of bootstrap support values for UPGMA",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130618/7c370e00/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130618/7c370e00/attachment.pl>",
+      "thread_id": "thread-d02e0032e6e9",
+      "thread_depth": 0,
+      "month": "2013-06"
+    },
+    {
+      "id": "msg-415949d80c47",
+      "message_id": "<2CB2DA8E426F3541AB1907F98ABA6570638784DE@icexch-m1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2013-06-18T10:19:50Z",
+      "subject": "[R-sig-genetics] Computation of bootstrap support values for UPGMA",
+      "subject_clean": "Computation of bootstrap support values for UPGMA",
+      "in_reply_to": "<51C013AA.5070808@imbe.fr>",
+      "references": [
+        "<51C013AA.5070808@imbe.fr>"
+      ],
+      "body_plain": "Hello, \n\nthis is clearly an adegenet-related question. Please repost on the adegenet forum.\n\nCheers\nThibaut\n________________________________________\nFrom: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] on behalf of Benjamin Alric [benjamin.alric at imbe.fr]\nSent: 18 June 2013 09:00\nTo: r-sig-genetics at r-project.org\nSubject: [R-sig-genetics] Computation of bootstrap support values for UPGMA\n\nDear Dr. Jombart and adegenet/adephylo users,\n\nSorry for the duplication between adegenet and adephylo list but not\nknowing which could help my problem, I send this message in both.\n\nI have microsatellite data set (8 locis in column and 24 population in\nrow) on the hybridizing populations of Daphnia in the three lakes.\n\nI assigned parental species and hyrids cluster by DAPC.\n\nThen, I made UPGMA from Nei's genetic distance according to the script\nbelow.\n\n#library (ade4)\n\n#library (adegenet)\n\ngenetDaph<-import2genind(\"UPGMA_Genetix_adegenet.gtx\",package=\"adegenet\")\n\ngenetDaph2<-genind2genpop(genetDaph)\n\ndist1<-dist.genpop(genetDaph2,method=1)\n\nclust<-hclust(dist1,method=\"average\")\n\nplot(clust)\n\nCurrently, I would like determined the bootstrap support values of this\ntree.\n\nHowever, I do not found such a function in 'adegenet' package.\n\nCan we made a bootstrap on tree from 'adegenet' package ?\n\nBesides, I seek in 'adephylo' package without success.\n\nThen, I found 'ape' package.\n\nIn this one, we can work from dist.gene, but I do not find how convert\n'genetDaph2' in dist.gene.\n\nSomebody have an idea or have already computed bootstrap support values\nof tree with R?\n\nThank you in advance for your help.\n\nBest regards,\n\nBenjamin ALRIC\n\n--\nBenjamin Alric,PhD\nUMR 7263-CNRS / 237-IRD - Institut M?diterran?en de Biodiversit? et d'Ecologie (IMBE)\nEquipe \"Ecologie des Eaux Continentales\"\nAix-Marseille Universit?, Facult? des Sciences, site de St J?r?me\n52 Avenue Escadrille Normandie Ni?men\n13397 Marseille cedex 20 - France\n\n\n        [[alternative HTML version deleted]]",
+      "body_snippet": "Hello, \n\nthis is clearly an adegenet-related question. Please repost on the adegenet forum.\n\nCheers\nThibaut\n________________________________________\nFrom: r-sig-genetics-bounces at r-project.org [r-si",
+      "thread_id": "thread-d02e0032e6e9",
+      "thread_depth": 1,
+      "month": "2013-06"
+    },
+    {
+      "id": "msg-74d6254ff47d",
+      "message_id": "<51C03557.8010506@imbe.fr>",
+      "from_name": "Benjamin Alric",
+      "from_email_hash": "c8e1671d33ad1e995b63b029209e65b4d64cea19d83f25651f9a18a574bf9152",
+      "date": "2013-06-18T12:24:23+02:00",
+      "subject": "[R-sig-genetics] Computation of bootstrap suuport values for UPGMA",
+      "subject_clean": "Computation of bootstrap suuport values for UPGMA",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130618/2bdc124e/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130618/2bdc124e/attachment.pl>",
+      "thread_id": "thread-74d6254ff47d",
+      "thread_depth": 0,
+      "month": "2013-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d02e0032e6e9",
+      "subject": "Computation of bootstrap support values for UPGMA",
+      "message_count": 2,
+      "participants": [
+        "Benjamin Alric",
+        "Jombart, Thibaut"
+      ],
+      "started": "2013-06-18T10:00:42+02:00",
+      "last_reply": "2013-06-18T10:19:50+00:00",
+      "root_message_id": "msg-d02e0032e6e9"
+    },
+    {
+      "id": "thread-74d6254ff47d",
+      "subject": "Computation of bootstrap suuport values for UPGMA",
+      "message_count": 1,
+      "participants": [
+        "Benjamin Alric"
+      ],
+      "started": "2013-06-18T12:24:23+02:00",
+      "last_reply": "2013-06-18T12:24:23+02:00",
+      "root_message_id": "msg-74d6254ff47d"
+    }
+  ]
+}

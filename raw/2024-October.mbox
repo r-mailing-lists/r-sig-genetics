@@ -1,0 +1,398 @@
+From mzyphur m@iii@g oii i@st@ts@org  Tue Oct  1 10:20:00 2024
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Tue, 01 Oct 2024 08:20:00 +0000 (UTC)
+Subject: [R-sig-genetics] Online course: Clustering High-Dimensional Data
+ (October 22)
+Message-ID: <gMT75JNVQsOsXwNcshWhNA@geopod-ismtpd-16>
+
+An HTML attachment was scrubbed...
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20241001/65980504/attachment.html>
+
+From mzyphur m@iii@g oii i@st@ts@org  Tue Oct  8 10:35:44 2024
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Tue, 08 Oct 2024 08:35:44 +0000 (UTC)
+Subject: [R-sig-genetics] Using Confidence Intervals for Visual Testing -
+ free seminars
+Message-ID: <vvbGvwgdTTyUNErrx3MR_A@geopod-ismtpd-3>
+
+Hi everyone
+
+Instats is pleased to be offering free seminars on Using Confidence Intervals for Visual Testing for R (Oct 25) and Stata (Nov 1), with professor David Armstrong from the University of Western Ontario:
+
+https://instats.org/seminar/using-confidence-intervals-for-visual-testing-in-r-2248
+
+https://instats.org/seminar/using-confidence-intervals-for-visual-testing-in-s-2166
+
+Confidence intervals and visualizations of them are common in the presentation of statistical results. Since their invention in the 1930's, researchers have recognized that readers will try to make inferences comparing estimates by evaluating whether confidence intervals overlap. A long line of research has discussed the pitfalls of this and attempted to build inferences around the probability that confidence intervals overlap under the null hypothesis - essentially burdening the visual display with an additional hypothesis testing function. To improve on this, these seminars will explore new visual tools that allow researchers to understand the precision of their estimates and to visually compare different groups or conditions in a meaningful and statistically defensible way. Designed for researchers across many disciplines, this workshop will equip participants with the expertise needed to leverage confidence intervals effectively using R and Stata.
+
+Instats is also offering free seminars on Switching from SPSS to R <https://instats.org/seminar/switching-from-spss-to-r-free-2-hour-se2> (Nov 5) and Efficient Programming in R <https://instats.org/seminar/efficient-programming-using-r-free-semi2> (Jan 27). We look forward to seeing you there!
+
+
+Best wishes
+
+Michael Zyphur
+Director
+Institute for Statistical and Data Science
+instats.org <http://instats.org>
+	[[alternative HTML version deleted]]
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Wed Oct  9 17:58:36 2024
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Wed, 9 Oct 2024 16:58:36 +0100
+Subject: [R-sig-genetics] =?utf-8?q?ONLINE_COURSE_=E2=80=93_Introduction_?=
+	=?utf-8?q?to_Machine_Learning_using_R_and_Rstudio_=28IMLR02=29?=
+Message-ID: <CAEsSYzxHRN3_Wtvf-R15U1YrK4C-ek47Cr3zRQ33iTz2jHQPZg@mail.gmail.com>
+
+ONLINE COURSE ? Introduction to Machine Learning using R and Rstudio
+(IMLR02)
+
+https://www.prstats.org/course/introduction-to-machine-learning-using-r-and-rstudio-imlr02/
+
+12th - 25th November (6 x 1/2 day sessions)
+
+Please feel free to share!
+
+In this six-day course, we provide a comprehensive practical and
+theoretical introduction to statistical machine learning using R. We start
+by introducing the concepts of supervised and unsupervised learning. We
+firstly explore unsupervised learning, and introduce k-means and hierarchical
+clustering, as well as principal components analysis. We then move to
+supervised learning methods, and cover logistic regression
+and regularisation methods (such as ridge regression and the LASSO).
+After that, we introduce the k-nearest neighbours method, and
+classification and regression trees (CART). Finally, we explore extensions
+to CART, such as random forests and, if time allows, Bayesian addi additive
+regression trees (BART).
+
+Please email oliverhoooker at prstatistics.com with any questions
+
+-- 
+Best wishes,
+
+Oliver
+
+Oliver Hooker PhD.
+PR stats
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Wed Oct  9 19:40:47 2024
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Wed, 9 Oct 2024 19:40:47 +0200 (CEST)
+Subject: [R-sig-genetics] Course: Population genomic inference from
+ low-coverage whole-genome sequencing data
+Message-ID: <1728495647.46882226@webmail.jimdo.com>
+
+
+Dear all,
+ 
+we have the last seat for the online course on Population genomic inference from low-coverage whole-genome sequencing data.
+ 
+Dates: 21-24 October 2024  
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/course64/ ]( https://www.physalia-courses.org/courses-workshops/course64/ )
+ 
+Best regards,
+Carlo
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+	[[alternative HTML version deleted]]
+
+
+From mzyphur m@iii@g oii i@st@ts@org  Mon Oct 14 12:13:11 2024
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Mon, 14 Oct 2024 10:13:11 +0000 (UTC)
+Subject: [R-sig-genetics] Online Course: Using ChatGPT for Advanced Data
+ Analysis - livestream seminar
+Message-ID: <ovh45EGgR4iPI9WiA77Asw@geopod-ismtpd-9>
+
+Hi everyone
+
+Last chance to register for our 2-day workshops on Using ChatGPT for Advanced Data Analysis 3.0 <https://instats.org/seminar/using-chatgpt-for-advanced-data-analysis10-2> on October 19 and 22. Imagine performing an entire statistical analysis without writing a single line of code or even knowing how to use a specific statistics program. In today's world of AI based language models such as ChatGPT, plain English is sufficient. In these workshops, professor Peter Gruber will show how to use ChatGPT and its Advanced Data Analysis tool for data wrangling and statistical analysis, without needing to use any statistics programs or programming languages - and with the newest version of ChatGPT, it's even faster and more intuitive. The seminar covers a range of topics from data preparation and descriptive statistics to regression analysis, advanced statistical tests, and data visualisations, which are essential tools for studying evolutionary patterns, trait correlations, population dynamics, and more. Emphasis is placed on understanding the workings and limits of this and similar AI models, while using them as extremely capable research assistants to drastically speed up and improve your research workflows.
+
+Sign up today <https://instats.org/seminar/using-chatgpt-for-advanced-data-analysis10-2> for this unique workshop, and please feel?free to tell your friends and colleagues!
+
+
+Best wishes
+
+Michael Zyphur
+Director
+Institute for Statistical and Data Science
+instats.org <http://instats.org?utm_source=GEO-TECTONICS>
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Mon Oct 14 17:51:38 2024
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Mon, 14 Oct 2024 17:51:38 +0200 (CEST)
+Subject: [R-sig-genetics] Seascape Genomics in R course - 28 October - 1
+ November
+Message-ID: <1728921098.73327642@webmail.jimdo.com>
+
+
+Dear all,
+We have just a few spots left for our Seascape Genomics in R course, running from 28 October - 1 November. This online course offers a unique opportunity to dive into the emerging field of seascape genomics, combining environmental data with genomic analysis.
+ 
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/course70/ ]( https://www.physalia-courses.org/courses-workshops/course70/ )
+ 
+ 
+Course Overview:
+Learn how the underwater environment shapes genomic diversity in marine organisms. The course will cover:
+Extracting and analyzing environmental data (e.g., sea temperature, water movements)
+Conducting genomic analyses to study population connectivity and local adaptation
+Applying results to conservation and management contexts
+Best practices for designing a seascape genomics experiment
+Who Should Attend:
+Ideal for biologists, ecologists, geneticists, and conservationists wanting to apply seascape genomics in their research. Basic knowledge of evolutionary biology, population genetics, and R is helpful.
+ 
+ 
+Best regards,
+
+Carlo
+ 
+ 
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Tue Oct 22 18:17:33 2024
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Tue, 22 Oct 2024 18:17:33 +0200 (CEST)
+Subject: [R-sig-genetics] online course - Seascape Genomics in R - October
+ 28th - November 1st
+Message-ID: <1729613853.92682708@webmail.jimdo.com>
+
+
+ 
+Dear all,
+ 
+ 
+ 
+There are only 2 seats available for the Seascape Genomics in R online course.
+ 
+ 
+ 
+Dates: October 28th - November 1st
+ 
+ 
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/course70/ ]( https://www.physalia-courses.org/courses-workshops/course70/ )
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+You?ll start by exploring how to extract and use environmental data from public databases to understand the seascape?s structure. Learn to harness remote sensing tools to track sea temperature changes and water movements. Then, shift gears to genomic analysis?discover how to evaluate genetic structures in marine populations and assess their connectivity. You?ll uncover genomic signatures of local adaptation to environmental pressures and delve into methods for interpreting and validating results, particularly in conservation contexts. The course wraps up with key insights on designing seascape genomics experiments, from sampling strategies to formulating impactful scientific questions.
+ 
+For the full list of our courses and workshops: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/course70/ )
+ 
+Best regards,
+Carlo
+ 
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+ 
+	[[alternative HTML version deleted]]
+
+
+From mzyphur m@iii@g oii i@st@ts@org  Wed Oct 23 14:11:36 2024
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Wed, 23 Oct 2024 12:11:36 +0000 (UTC)
+Subject: [R-sig-genetics] Online course: Single Cell Data Analysis, Nov 26
+Message-ID: <rx4vd2K8TumDOrwN_-ChAg@geopod-ismtpd-1>
+
+Hi everyone
+
+Instats is offering a 1-day seminar on Single Cell Data Analysis <https://instats.org/seminar/single-cell-data-analysis2> in R and Python, running Nov 26 with professor Nikolay Oskolkov. Single-cell analysis provides unprecedented insights into cellular heterogeneity, enabling researchers to explore complex biological systems at the most granular scale. With applications in cancer research, developmental biology, and immunology, among others, mastering the techniques of single-cell data analysis is essential for researchers aiming to push the boundaries of modern science. This one-day workshop offers an in-depth exploration of the computational tools and methodologies essential for high-level single-cell data interpretation.
+
+Sign up today <https://instats.org/seminar/single-cell-data-analysis2> to secure your spot in this unique seminar.
+
+
+Best wishes
+
+Michael Zyphur
+Director
+Institute for Statistical and Data Science
+instats.org <http://instats.org>
+	[[alternative HTML version deleted]]
+
+
+From mzyphur m@iii@g oii i@st@ts@org  Thu Oct 24 06:07:50 2024
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Thu, 24 Oct 2024 04:07:50 +0000 (UTC)
+Subject: [R-sig-genetics] Online seminar: Efficient Programming in R, Jan 27
+Message-ID: <4SCFUE7-R9-01sB7-n0KMg@geopod-ismtpd-4>
+
+Hi everyone
+
+Instats is offering a free 3-hour seminar on Efficient Programming in R <https://instats.org/seminar/efficient-programming-using-r-free-semi2>, running Jan 27 with professor Michail Tsagris. This free seminar explores efficient programming techniques in R for advanced data analysis, focusing on optimizing code, enhancing computational speed, and ensuring reproducible research practices. Participants will gain practical skills beneficial for diverse fields, improving both the precision and impact of their analytical work. Geared towards PhD students, academics, and professional researchers, the workshop will illuminate the nuances of proficient R programming that directly contributes to more robust and reproducible research outcomes.
+
+
+Best wishes
+
+Michael Zyphur
+Director
+Institute for Statistical and Data Science
+instats.org <http://instats.org>
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Fri Oct 25 18:29:42 2024
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Fri, 25 Oct 2024 18:29:42 +0200 (CEST)
+Subject: [R-sig-genetics] =?utf-8?q?Join_Our_Landscape_Genomics_Workshop_?=
+ =?utf-8?q?in_Lodz=2C_Poland_=E2=80=93_January_20-24=2C_2025?=
+Message-ID: <1729873782.695132087@webmail.jimdo.com>
+
+
+Dear all,
+
+We?re excited to announce our upcoming Landscape Genomics Workshop taking place in person at the Faculty of Biology and Environmental Protection, University of Lodz, Poland, from January 20-24, 2025. This comprehensive, hands-on workshop will guide participants through the fundamental principles and applications of landscape genomics in studying genetic diversity and local adaptation across environments.
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/course17/ ]( https://www.physalia-courses.org/courses-workshops/course17/ ) 
+
+ In this workshop, participants will:
+- Learn to obtain, process, and analyse environmental data using Geographic Information Systems (GIS)
+- Explore methods to characterize landscapes and study genetic variation and population structure
+- Gain hands-on experience with statistical approaches, including Sambada, to study local adaptation
+- Develop best practices in experiment planning, including sampling design, data interpretation, and validation.
+
+This workshop is ideal for biologists, ecologists, geneticists, and veterinarians looking to incorporate landscape genomics into evolutionary biology and conservation studies. 
+The workshop features ten learning sessions, blending theoretical insights with practical applications. Participants will gain real-world skills to design, implement, and analyse landscape genomics experiments effectively.
+
+Course Schedule
+**Monday ? 9 am-5 pm CET**
+- Course overview, introduction to landscape genomics, GIS essentials
+
+**Tuesday ? 9 am-5 pm CET**
+- Environmental sample characterization, remote sensing with Google Earth Engine
+
+**Wednesday ? 9 am-5 pm CET**
+- Experiment planning, genetic data filtering, spatial genetic variation, population structure
+
+**Thursday ? 9 am-5 pm CET**
+- Data integration with Sambada, association model analysis, spatial autocorrelation
+
+**Friday ? 9 am-3 pm CET**
+- Thematic mapping, course conclusions, Q&A
+
+Join us in Lodz for an engaging week of learning and networking. Seats are limited, so secure your spot soon!
+
+Best regards,  
+Carlo
+ 
+ 
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Sun Oct 27 09:06:20 2024
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Sun, 27 Oct 2024 09:06:20 +0100 (CET)
+Subject: [R-sig-genetics] online Multivariate Data Analysis with R and vegan
+ course - February 10-13
+Message-ID: <1730016380.019729734@webmail.jimdo.com>
+
+
+Dear all,
+Join us February 10-13, 2025, for the online Multivariate Data Analysis with R and vegan course.
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/vegan/ ]( https://www.physalia-courses.org/courses-workshops/vegan/ ) 
+ 
+ 
+Overview: This course will offer participants a practical introduction to some of the most useful functions available within vegan. We will focus on the use of ordination methods and on the use of restricted permutations to test a range of experimental designs.We will focus on when and how to use multivariate methods including unconstrained and constrained ordination (CCA, RDA, Constrained PCoA), as well as between-group tests such as PERMANOVA. We will cover concepts such as design- and model-based permutations and the exchangeability of samples in tests. We will also discuss the use of vegan to go beyond simply fitting a constrained ordination model, to diagnostics, plotting, etc.
+ 
+ 
+Who Should Attend? This course is suitable for PhD students (including senior thesis-based masters students) and researchers working with multivariate data sets in biology (inter alia ecology, animal science agriculture, microbial ecology/microbiology), with limited statistical knowledge but a willingness to learn more.Participants should be familiar with RStudio and have some fluency in programming R code, including being able to import, manipulate (e.g. modify variables) and visualise data. There will be a mix of lectures, and hands-on practical exercises throughout the course.
+ 
+ 
+Program Overview
+Monday: Intro to multivariate data, transformations, dissimilarity metrics
+Tuesday: Unconstrained ordination (PCA, PCoA, NMDS)
+Wednesday: Constrained ordination, PERMANOVA
+Thursday: Statistical inference with permutation tests
+For the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/vegan/ )
+ 
+ 
+Best regards,
+Carlo
+ 
+ 
+ 
+ 
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+
+
+
+
+	[[alternative HTML version deleted]]
+
+

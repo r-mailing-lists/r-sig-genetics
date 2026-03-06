@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2023-01",
+  "messages": [
+    {
+      "id": "msg-e59b9b9b033f",
+      "message_id": "<CAEsSYzzDJCQ3bCTCEOJ1HADC0pq8sDK7dVb1+E3cYY1Fi+pLuA@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2023-01-24T16:35:24Z",
+      "subject": "[R-sig-genetics] Introduction to Multi’omics Data Analysis from Microbial Communities (MOMC01)",
+      "subject_clean": "Introduction to Multi’omics Data Analysis from Microbial Communities (MOMC01)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Introduction to Multi?omics Data Analysis from Microbial\nCommunities (MOMC01) This course will be delivered live\n\nhttps://www.prstatistics.com/course/introduction-to-multiomics-data-analysis-from-microbial-communities-momc01/\n\nDelivered by Dr. Melanie Schirmer\n\nPlease feel free to share!\n\nFriday 10th March 2023\n\nThe aim of this one-day workshop is to provide a thorough introduction to\ncomputational approaches for the analysis of microbial community profiles\nwith a focus on metagenomic sequencing data. We will explain how taxonomic\nand functional profiles are generated from raw sequencing data, introduce\ndifferent bioinformatic approaches to process sequencing data, followed by\nmultivariate statistical analysis and different visualization techniques.\nThe course will consist of a mixture of lectures and hands-on tutorials.\nThe practical part of the\ncourse will focus on the analysis of publicly available multi-omics\nprofiles.\n\nBy the end of the course participants should:\n\n1. Be familiar with different workflows involved in the analysis of\nlarge-scale multi-omics studies.\n2. Understand how to generate taxonomic, functional and strain profiles from\nmetagenomic sequencing data.\n3. Be familiar with applying a multivariate statistical framework to\ngenerate hypothesesand account for confounding covariates.\n4. Be able to use exploratory data visualizations techniques and visualize\nresults from the statistical analysis using R.\n\nLecture 1 ? general Introduction\n\nLecture 2 ? Introduction to microbial community analysis\n\nPractical 1 ? Introduction to R and R notebook\n\nLecture 3 ? Metagenomic data visualisation and exploratory analysis with cMD\n\nPractical 2 ? Metagenomic data visualisation\n\nLecture 4 ? Statistics for microbial multi-comics data, methods for\nmulti-comics integration\n\nPractical 3 ? Multivariate analysis (Linear models and/or MaAsLin2\n\nLecture 5 ? Large-scale multi-omics studies\n\nConclusions ? Discussion, questions, wrap up!\n\n-- \n\nOliver Hooker PhD.\nPR statistics\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? Introduction to Multi?omics Data Analysis from Microbial\nCommunities (MOMC01) This course will be delivered live\n\nhttps://www.prstatistics.com/course/introduction-to-multiomics-data-an",
+      "thread_id": "thread-e59b9b9b033f",
+      "thread_depth": 0,
+      "month": "2023-01"
+    },
+    {
+      "id": "msg-895f02d60f79",
+      "message_id": "<CAEsSYzyNWxYfzK91Gb1H5-b24AyF1RRh1GkLFTG8XGHNfhG+xA@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2023-01-27T17:17:36Z",
+      "subject": "[R-sig-genetics] Introduction to eco-phylogenetics and comparative analyses using R (ECPH02)",
+      "subject_clean": "Introduction to eco-phylogenetics and comparative analyses using R (ECPH02)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Introduction to eco-phylogenetics and comparative analyses\nusing R (ECPH02)\n\nhttps://www.prstatistics.com/course/introduction-to-eco-phylogenetics-and-comparative-analyses-using-r-ecph02/\n\nPlease feel free to share!\n\n13th - 17th March 2023\n\nIn this five day course, we provide an introduction to eco-phylogenetics\nand comparative analyses using R. We begin by providing an  overview on the\nuse of phylogenies as a tool for evolutionary biologists and modern\ntechniques to deal with large phylogenies and to incorporate phylogenetic\nuncertainty in the analyses (day 1). We then cover some of the most\nrelevant eco-phylogenetic analyses and provide examples from the community\nto themacro-ecological scale (day 2-3). Finally, we introduce a diversity\nof classic and modern phylogenetic comparative methods to consider the\nhistorical relationship of lineages in eco-evolutionary research, including\nmodels of trait evolution, analysis of clade diversification and the use of\nphylogenies in spatial distribution models among others (day 4-5).\n\nPlease email any questions to oliverhooker at prstatistics.com\n\nUpcoming courses\n\nStable Isotope Mixing Models using SIBER, SIAR, MixSIAR (SIMM09)\nFebruary 7th - 10th\nhttps://www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm09/\n\nMaking Beautiful And Effective Maps In R (MAPR04)\nFebruary 23rd - 24th\nhttps://www.prstatistics.com/course/making-beautiful-and-effective-maps-in-r-mapr04/Structural\n\n\nEquation Modelling for Ecologists and Evolutionary Biologists (SEMR05)\nMarch 6th - 10th\nhttps://www.prstatistics.com/course/structural-equation-modelling-for-ecologists-and-evolutionary-biologists-semr05/\n\nIntroduction to Multi?omics Data Analysis from Microbial Communities\n(MOMC01)\nMarch 10th\nhttps://www.prstatistics.com/course/introduction-to-multiomics-data-analysis-from-microbial-communities-momc01/\n\nMovement Ecology (MOVE05)\nMarch 13th - 17th\nhttps://www.prstatistics.com/course/online-course-movement-ecology-move05/\n\nA Non Mathematical Introduction To Ordination Methods Using R (ORDM01)\nMarch 27th - 30th\nhttps://www.prstatistics.com/course/a-non-mathematical-introduction-to-ordination-methods-using-r-ordm01/\n\nQuantitative analysis of infrared spectroscopy data for soil and plant\nsciences (SPEC01)\nMarch 27th - 30th\nhttps://www.prstatistics.com/course/quantitative-analysis-of-infrared-spectroscopy-data-for-soil-and-plant-sciences-spec01/\n\nSpecies Distribution Modeling using R (SDMR05)\nApril 25th - 29th\nhttps://www.prstatistics.com/course/species-distribution-modeling-using-r-sdmr05/\n\nIntroduction to Bayesian modelling with INLA (BMIN02)\nMay 22nd - 26th\nhttps://www.prstatistics.com/course/introduction-to-bayesian-modelling-with-inla-bmin02/\n\nReproducible and collaborative data analysis with R (RACR02)\nJune 13th - 15th\nhttps://www.prstatistics.com/course/reproducible-and-collaborative-data-analysis-with-r-racr02/\n\nSpecies Distribution Modelling With Bayesian Statistics Using R (SDMB05)\nSeptember 4th - 8th\nhttps://www.prstatistics.com/course/online-course-species-distribution-modelling-with-bayesian-statistics-using-r-sdmb05/\n\nMultivariate Analysis Of Ecological Communities Using R With The VEGAN\npackage (VGNR05)\nSeptember 18th - 22ndhttps://\nwww.prstatistics.com/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr05/\n\n-- \n\nOliver Hooker PhD.\nPR statistics\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? Introduction to eco-phylogenetics and comparative analyses\nusing R (ECPH02)\n\nhttps://www.prstatistics.com/course/introduction-to-eco-phylogenetics-and-comparative-analyses-using-r-ecph",
+      "thread_id": "thread-895f02d60f79",
+      "thread_depth": 0,
+      "month": "2023-01"
+    },
+    {
+      "id": "msg-0ab4a7cb2a08",
+      "message_id": "<1674901160.2667238@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2023-01-28T11:19:20+01:00",
+      "subject": "[R-sig-genetics] Course: Machine Learning in R for omics data",
+      "subject_clean": "Course: Machine Learning in R for omics data",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nthere are the last 4 seats for the 3rd edition of the Machine Learning in R course.\n \nThe objective of this course is to highlight advantages and limitations of these data analysis approaches in the context of biological research, providing a broad hands-on introduction to the use of multivariate methods and machine learning for the analysis of ?omics datasets.\n \nDates: online, February 13th-17th\n \nCourse:  [ https://www.physalia-courses.org/courses-workshops/course43/ ]( https://www.physalia-courses.org/courses-workshops/course43/ )\n \nOur courses and workshop: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )\n \nBest regards,\n \nValentina\n \n \nValentina Sardina\nCourse coordinator\ninfo at physalia-courses.org\n[ http://www.physalia-courses.org/ ]( http://www.physalia-courses.org/ ) \nmobile: +49 17645230846\nFollow us on [ Twitter ]( https://twitter.com/Physacourses ) & [ Mastodon ]( https://mas.to/@PhysaliaCourses )\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nthere are the last 4 seats for the 3rd edition of the Machine Learning in R course.\n \nThe objective of this course is to highlight advantages and limitations of these data analysis approac",
+      "thread_id": "thread-0ab4a7cb2a08",
+      "thread_depth": 0,
+      "month": "2023-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-e59b9b9b033f",
+      "subject": "Introduction to Multi’omics Data Analysis from Microbial Communities (MOMC01)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2023-01-24T16:35:24+00:00",
+      "last_reply": "2023-01-24T16:35:24+00:00",
+      "root_message_id": "msg-e59b9b9b033f"
+    },
+    {
+      "id": "thread-895f02d60f79",
+      "subject": "Introduction to eco-phylogenetics and comparative analyses using R (ECPH02)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2023-01-27T17:17:36+00:00",
+      "last_reply": "2023-01-27T17:17:36+00:00",
+      "root_message_id": "msg-895f02d60f79"
+    },
+    {
+      "id": "thread-0ab4a7cb2a08",
+      "subject": "Course: Machine Learning in R for omics data",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2023-01-28T11:19:20+01:00",
+      "last_reply": "2023-01-28T11:19:20+01:00",
+      "root_message_id": "msg-0ab4a7cb2a08"
+    }
+  ]
+}

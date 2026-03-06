@@ -1,0 +1,82 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2008-06",
+  "messages": [
+    {
+      "id": "msg-ae35769e207e",
+      "message_id": "<485264AE.2060103@biomserv.univ-lyon1.fr>",
+      "from_name": "Hinda Haned",
+      "from_email_hash": "0d73c59167376c4fd0d9daf4d67cded3e78fa442c2952ae438cf76e8ec2bc096",
+      "date": "2008-06-13T14:14:38+02:00",
+      "subject": "[R-sig-genetics] simulation of consanguineous unions in human populations with R",
+      "subject_clean": "simulation of consanguineous unions in human populations with R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear list members,\n\nI was wondering if anyone had experience simulating non-random mating \nhuman populations with R.\n\nI want  to simulate the evolution of disease susceptibility loci under certain evolutionary scenarios and under specific non-random mating schemes. \nFor example, at each generation, p% of the matings occur between first cousins, offspring from such unions (must) have on average \n1/16 of their genome autozygous.\nI've been  exploring  simulation softwares  for a while , but they  offer limited  mating schemes, mainly because relationships between individuals can not be extracted.\nAny ideas or suggestions are welcome !\nThank you .\n\n\n\n\n\n\n\n-- \n######################################\nHinda HANED\nCNRS UMR 5558 - Laboratoire de Biom?trie et Biologie Evolutive\nUniversite Lyon 1\n43 bd du 11 novembre 1918\n69622 Villeurbanne Cedex\nT?l. : 04.72.43.27.57\nFax : 04.72.43.13.88\nhaned at biomserv.univ-lyon1.fr\nhttp://lbbe.univ-lyon1.fr/-Haned-Hinda-.html?lang=en",
+      "body_snippet": "Dear list members,\n\nI was wondering if anyone had experience simulating non-random mating \nhuman populations with R.\n\nI want  to simulate the evolution of disease susceptibility loci under certain evo",
+      "thread_id": "thread-ae35769e207e",
+      "thread_depth": 0,
+      "month": "2008-06"
+    },
+    {
+      "id": "msg-937dfd4f84ae",
+      "message_id": "<485651A1.7090902@biomserv.univ-lyon1.fr>",
+      "from_name": "Thibaut Jombart",
+      "from_email_hash": "745bd5f1d840815ae5156488a617b95dd0ec8c0e8571cbfdb7b8c4915d7b1fdd",
+      "date": "2008-06-16T13:42:25+02:00",
+      "subject": "[R-sig-genetics] simulation of consanguineous unions in human populations with R",
+      "subject_clean": "simulation of consanguineous unions in human populations with R",
+      "in_reply_to": "<485264AE.2060103@biomserv.univ-lyon1.fr>",
+      "references": [
+        "<485264AE.2060103@biomserv.univ-lyon1.fr>"
+      ],
+      "body_plain": "Hinda Haned wrote:\n> Dear list members,\n>\n> I was wondering if anyone had experience simulating non-random mating \n> human populations with R.\n>\n> I want  to simulate the evolution of disease susceptibility loci under \n> certain evolutionary scenarios and under specific non-random mating \n> schemes. For example, at each generation, p% of the matings occur \n> between first cousins, offspring from such unions (must) have on \n> average 1/16 of their genome autozygous.\n> I've been  exploring  simulation softwares  for a while , but they  \n> offer limited  mating schemes, mainly because relationships between \n> individuals can not be extracted.\n> Any ideas or suggestions are welcome !\n> Thank you .\nHi Hinda,\n\nI don't know how advanced the tools for simulating genetic data are in \nR. Maybe we are not very far, or not that far yet. The package rmetasim \nis said to perform individual-based population genetics simulation, so \nit may be worth having a look there:\nhttp://cran.r-project.org/web/packages/rmetasim/index.html\n\nOtherwise, there is a package GeneticsPed in the Rgenetics project for \nhandling pedigree data:\nhttp://bioconductor.org/packages/devel/bioc/html/GeneticsPed.html\n\nbut it seems to be in an early stage of development, and it does not \nseem to perform data simulations.\n\nGood luck,\n\nThibaut.\n\n-- \n######################################\nThibaut JOMBART\nCNRS UMR 5558 - Laboratoire de Biom?trie et Biologie Evolutive\nUniversite Lyon 1\n43 bd du 11 novembre 1918\n69622 Villeurbanne Cedex\nT?l. : 04.72.43.29.35\nFax : 04.72.43.13.88\njombart at biomserv.univ-lyon1.fr\nhttp://biomserv.univ-lyon1.fr/%7Ejombart/\nhttp://adegenet.r-forge.r-project.org/",
+      "body_snippet": "Hinda Haned wrote:\n> Dear list members,\n>\n> I was wondering if anyone had experience simulating non-random mating \n> human populations with R.\n>\n> I want  to simulate the evolution of disease suscepti",
+      "thread_id": "thread-ae35769e207e",
+      "thread_depth": 1,
+      "month": "2008-06"
+    },
+    {
+      "id": "msg-db9965e6ccd7",
+      "message_id": "<F189E18BBAA8B6479F618B9044CF4E9C686C133711@owa.bfro.uni-lj.si>",
+      "from_name": "Gorjanc Gregor",
+      "from_email_hash": "fa1948da1d5a19d793d64821dc48b628a0b7b353a62033b85cac76bd747bdc03",
+      "date": "2008-06-16T15:08:44+02:00",
+      "subject": "[R-sig-genetics] Simulation of consanguineous unions in human populations with R",
+      "subject_clean": "Simulation of consanguineous unions in human populations with R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi Hinda Haned!\n\n> I was wondering if anyone had experience simulating non-random mating\n> human populations with R.\n\n> I want  to simulate the evolution of disease susceptibility loci under certain evolutionary scenarios and under specific non-random mating schemes.\n> For example, at each generation, p% of the matings occur between first cousins, offspring from such unions (must) have on average\n> 1/16 of their genome autozygous.\n> I've been  exploring  simulation softwares  for a while , but they  offer limited  mating schemes, mainly because relationships between individuals can not be extracted.\n\nI guess there is plenty of programs that can simulate various scenarious. However,\neach simulation has a likely different scope and therefore the implenetations differ.\nI guess you could write your own simulator quite easily with few lines of R code -\nvarious r* functions can be of great help.\n\nIf I understand your question concerning the relationship take a look at a function kinship() or\nrelationshipAdditive() in the GeneticsPed package. As has been pointed out by Thibaut,\nthe package is not ready for use. However, you can see how kinship or additive\ngenetic relationship coefficients can be computed. There is also a package kinship()\nthat also has some similar functions.\n\nGregor",
+      "body_snippet": "Hi Hinda Haned!\n\n> I was wondering if anyone had experience simulating non-random mating\n> human populations with R.\n\n> I want  to simulate the evolution of disease susceptibility loci under certain e",
+      "thread_id": "thread-db9965e6ccd7",
+      "thread_depth": 0,
+      "month": "2008-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-ae35769e207e",
+      "subject": "simulation of consanguineous unions in human populations with R",
+      "message_count": 2,
+      "participants": [
+        "Hinda Haned",
+        "Thibaut Jombart"
+      ],
+      "started": "2008-06-13T14:14:38+02:00",
+      "last_reply": "2008-06-16T13:42:25+02:00",
+      "root_message_id": "msg-ae35769e207e"
+    },
+    {
+      "id": "thread-db9965e6ccd7",
+      "subject": "Simulation of consanguineous unions in human populations with R",
+      "message_count": 1,
+      "participants": [
+        "Gorjanc Gregor"
+      ],
+      "started": "2008-06-16T15:08:44+02:00",
+      "last_reply": "2008-06-16T15:08:44+02:00",
+      "root_message_id": "msg-db9965e6ccd7"
+    }
+  ]
+}

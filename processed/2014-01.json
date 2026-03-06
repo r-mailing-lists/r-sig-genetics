@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2014-01",
+  "messages": [
+    {
+      "id": "msg-acf666df6d0f",
+      "message_id": "<CA+T3NcqL_SKtRcq0arshXidUWipqD2JpVXEdK6vi9ix_qdtL1w@mail.gmail.com>",
+      "from_name": "Alicia Mastretta-Yanes",
+      "from_email_hash": "a973ace1d35cf37b9feae493fe57320dc3082565e5d8571293103fe715d5cbfc",
+      "date": "2014-01-14T17:31:15Z",
+      "subject": "[R-sig-genetics] BLAST from R using BoSSA: is it normal it takes so long?",
+      "subject_clean": "BLAST from R using BoSSA: is it normal it takes so long?",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20140114/2cd2e5ba/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20140114/2cd2e5ba/attachment.pl>",
+      "thread_id": "thread-acf666df6d0f",
+      "thread_depth": 0,
+      "month": "2014-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-acf666df6d0f",
+      "subject": "BLAST from R using BoSSA: is it normal it takes so long?",
+      "message_count": 1,
+      "participants": [
+        "Alicia Mastretta-Yanes"
+      ],
+      "started": "2014-01-14T17:31:15+00:00",
+      "last_reply": "2014-01-14T17:31:15+00:00",
+      "root_message_id": "msg-acf666df6d0f"
+    }
+  ]
+}

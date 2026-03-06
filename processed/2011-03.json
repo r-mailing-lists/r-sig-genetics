@@ -1,0 +1,55 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2011-03",
+  "messages": [
+    {
+      "id": "msg-937340a73ce4",
+      "message_id": "<loom.20110322T133004-430@post.gmane.org>",
+      "from_name": "Marcelo Laia",
+      "from_email_hash": "3e56683f13d30145fd0e101a5cdd081cc46ad30001510b9b462ff8ca527f3c17",
+      "date": "2011-03-22T12:37:44Z",
+      "subject": "[R-sig-genetics] Microsatellite analysis - Genetic Structure",
+      "subject_clean": "Microsatellite analysis - Genetic Structure",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi,\n\nI would like to calculate genetic polymorphism for each population (mean number\nof alleles per locus (A), the percentage of polymorphic loci (P), the mean\nobserved heterozygosity (HO) and the mean expected heterozygosity\nunder Hardy-Weinberg equilibrium (HE)), and population differentiation (analyzed\nfor polymorphic loci by F-statistics (Wright 1978)).\n\nPlease, could you point me out any paper or packages that do that?\n\nThank you very much!\n\nMarcelo",
+      "body_snippet": "Hi,\n\nI would like to calculate genetic polymorphism for each population (mean number\nof alleles per locus (A), the percentage of polymorphic loci (P), the mean\nobserved heterozygosity (HO) and the mea",
+      "thread_id": "thread-937340a73ce4",
+      "thread_depth": 0,
+      "month": "2011-03"
+    },
+    {
+      "id": "msg-4e7aee09eaaa",
+      "message_id": "<60AAE8805AAC4B44A8DF1888C0CBFDC42A787D6C@ICEXM3.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2011-03-23T16:13:32Z",
+      "subject": "[R-sig-genetics] Microsatellite analysis - Genetic Structure",
+      "subject_clean": "Microsatellite analysis - Genetic Structure",
+      "in_reply_to": "<loom.20110322T133004-430@post.gmane.org>",
+      "references": [
+        "<loom.20110322T133004-430@post.gmane.org>"
+      ],
+      "body_plain": "Dear Marcelo, \n\nnumbers of alleles per locus and heterozygosity (expected, observed) are given by the summary function of genind objects in adegenet. Global F statistics can be computed using the function fstat, and pairwise Fst using pairwise.fst. You will find more information on the adegenet website:\nhttp://adegenet.r-forge.r-project.org/\n\nAll the best,\n\nThibaut\n\n--\n######################################\nDr Thibaut JOMBART\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - Faculty of Medicine\nSt Mary?s Campus\nNorfolk Place\nLondon W2 1PG\nUnited Kingdom\nTel. : 0044 (0)20 7594 3658\nt.jombart at imperial.ac.uk\nhttp://sites.google.com/site/thibautjombart/\nhttp://adegenet.r-forge.r-project.org/\n\n________________________________________\nFrom: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] On Behalf Of Marcelo Laia [marcelolaia at gmail.com]\nSent: 22 March 2011 12:37\nTo: r-sig-genetics at r-project.org\nSubject: [R-sig-genetics] Microsatellite analysis - Genetic Structure\n\nHi,\n\nI would like to calculate genetic polymorphism for each population (mean number\nof alleles per locus (A), the percentage of polymorphic loci (P), the mean\nobserved heterozygosity (HO) and the mean expected heterozygosity\nunder Hardy-Weinberg equilibrium (HE)), and population differentiation (analyzed\nfor polymorphic loci by F-statistics (Wright 1978)).\n\nPlease, could you point me out any paper or packages that do that?\n\nThank you very much!\n\nMarcelo\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
+      "body_snippet": "Dear Marcelo, \n\nnumbers of alleles per locus and heterozygosity (expected, observed) are given by the summary function of genind objects in adegenet. Global F statistics can be computed using the func",
+      "thread_id": "thread-937340a73ce4",
+      "thread_depth": 1,
+      "month": "2011-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-937340a73ce4",
+      "subject": "Microsatellite analysis - Genetic Structure",
+      "message_count": 2,
+      "participants": [
+        "Jombart, Thibaut",
+        "Marcelo Laia"
+      ],
+      "started": "2011-03-22T12:37:44+00:00",
+      "last_reply": "2011-03-23T16:13:32+00:00",
+      "root_message_id": "msg-937340a73ce4"
+    }
+  ]
+}

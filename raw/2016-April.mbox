@@ -1,0 +1,65 @@
+From susana.campino at lshtm.ac.uk  Sun Apr  3 02:20:49 2016
+From: susana.campino at lshtm.ac.uk (Susana)
+Date: Sun, 3 Apr 2016 01:20:49 +0100
+Subject: [R-sig-genetics] nj tree
+Message-ID: <E53D4F8B-622F-4B12-AFC9-969E657F5753@lshtm.ac.uk>
+
+Hi,
+
+I am trying to make a plot similar with the one below, where each sample can be seen well and the branch is coloured.
+I tried but can?t get to have the branches coloured , only the tips. I tried edge.color  but it does not match the tips?
+Also, I have lots of samples but it looks like I just have a few. 
+Any help will be great, thanks  a lot
+
+My code now:
+tr1 <- nj(xxxx)
+plot(tr1,type="u",show.tip.label = F, tip.col=colorings[labs], no.margin=TRUE) ##edge.color=colorings[labs])
+tiplabels(pch =21, bg=colorings[labs], cex = 0.7)
+legend("topleft",levels(unique(as.factor(labes2))),col=yyyyy[,2],
+       pch=15,xpd=TRUE,cex=0.4,xjust=0,yjust=0,ncol=4)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20160403/9aabd7c4/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Screen Shot 2016-04-03 at 01.19.56.png
+Type: image/png
+Size: 460741 bytes
+Desc: not available
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20160403/9aabd7c4/attachment-0001.png>
+
+From susana.campino at lshtm.ac.uk  Wed Apr 27 02:32:05 2016
+From: susana.campino at lshtm.ac.uk (Susana)
+Date: Wed, 27 Apr 2016 01:32:05 +0100
+Subject: [R-sig-genetics] extract the sequences of the haplotypes
+Message-ID: <7A8EFC25-4783-433A-9BFA-00029D7F215D@lshtm.ac.uk>
+
+Hi,
+
+
+I have a vector with DNA sequences and I created the haplotypes using the haplotype function in Pegas. 
+I would like to extract the sequences of the haplotypes, but I can to it. the object it creates says:
+
+Haplotypes extracted from: finaldna 
+
+    Number of haplotypes: 27 
+         Sequence length: 20 
+
+Haplotype labels and frequencies:
+
+    I    II   III    IV     V    VI   VII  VIII    IX     X    XI 
+    9    33   329   219   105  1000  1159    14     3     5    24 
+  XII  XIII   XIV    XV   XVI  XVII XVIII   XIX    XX   XXI  XXII 
+   60    10     1    30     1     7    11     2     3     8     4 
+XXIII  XXIV   XXV  XXVI XXVII 
+    1     1    25     9     9
+
+
+So, how can I get the sequences from these 27 haplotypes?
+
+Already tried data.frame but it does not work:"cannot coerce class "c("haplotype", "DNAbin")" to a data.frame"
+
+Any help will be appreciated!
+Thanks!
+
+

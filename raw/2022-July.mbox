@@ -1,0 +1,477 @@
+From i@io m@iii@g oii phys@ii@-courses@org  Mon Jul 18 11:07:23 2022
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Mon, 18 Jul 2022 11:07:23 +0200 (CEST)
+Subject: [R-sig-genetics] Online training: Multivariate data analysis with R
+ and vegan
+Message-ID: <1658135243.002728246@webmail.jimdo.com>
+
+
+ 
+Dear all,
+ 
+ 
+ 
+registration is now open for the online Physalia course "Multivariate data analysis with R and vegan" in November (21st-25th).
+ 
+ 
+ 
+Course website: https://www.physalia-courses.org/courses-workshops/vegan/
+ 
+ 
+ 
+In this course, we will focus on the use of ordination methods and on the use of restricted permutations to test a range of experimental designs. We will focus in particular on when and how to use multivariate methods including unconstrained and constrained ordination (CCA, RDA, Constrained PCoA), as well as between-group tests such as PERMANOVA. We will cover concepts such as design- and model-based permutations and the exchangeability of samples in tests. We will also discuss the use of vegan to go beyond simply fitting a constrained ordination model, to diagnostics, plotting, etc.
+ 
+ 
+ 
+This course is suitable for PhD students (including senior thesis-based masters students) and researchers working with multivariate data sets in biology (inter alia ecology, animal science agriculture, microbial ecology/microbiology), with limited statistical knowledge but a willingness to learn more.
+ 
+ 
+ 
+ 
+ 
+Full list of our Courses and Workshops: [ https://www.physalia-courses.org/courses-workshops ]( https://www.physalia-courses.org/courses-workshops )
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Should you have any questions, please do not hesitate to contact us at: info at physalia-courses.org
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Best regards,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Carlo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+Follow us on [ Twitter ]( https://twitter.com/Physacourses )
+ 
+ 
+ 
+	[[alternative HTML version deleted]]
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Wed Jul 20 17:10:35 2022
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Wed, 20 Jul 2022 16:10:35 +0100
+Subject: [R-sig-genetics] 2 x multivariate stats courses (intro and more
+ advanced)
+Message-ID: <CAEsSYzx8mSuBc8egoRY2J3reeLatBu0P4y+ZgQ23afLqoprZ4A@mail.gmail.com>
+
+PR statistics have 2 courses on multivariate stats, an intro course (IMAE)
+and a more advanced course for people with one previous experience.
+
+
+
+These courses can be applied to any areas of community data, from gut biome
+to forest ecology data.
+
+
+
+Please feel free to share!
+
+
+
+-----
+
+
+
+ONLINE COURSE ? Introduction To Multivariate Analysis In Ecology And
+Evolutionary Biology (IMAE01)
+
+
+
+https://www.prstatistics.com/course/online-course-introduction-to-multivariate-analysis-in-ecology-and-evolutionary-biology-imae01/
+
+
+
+29 August 2022 - 31 August 2022
+
+
+
+This community analytics course is designed for students who have recently
+started their projects or researchers who are starting using the R
+ecosystem. During this three-day course, we will cover the basic concepts
+of multivariate analysis and their implementation in R. This course is a
+complement to the PR Statistic offering allowing also beginners and
+non-programmers to discover the statistical tools needed to analyze an
+ecological dataset in research, natural resource management or conservation
+context. This course is not geared toward any particular taxonomic group or
+ecological system.
+
+We will cover diversity indices, distance measures and multivariate
+distance-based methods, clustering, classification, and ordination
+techniques. We will focus on the concept of the methods and their
+implementation on R using different R packages. We will use real-world
+examples to implement analyses, such as describing patterns along gradients
+of environmental or anthropogenic disturbances, quantifying the effects of
+continuous and discrete predictors, data mining. The course will consist of
+lectures, work on R code scripts, and exercises for participants.
+
+
+
+-----
+
+
+
+ONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R
+With The VEGAN package (VGNR04)
+
+
+
+https://www.prstatistics.com/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr04/
+
+
+
+12 September 2022 - 16 September 2022
+
+
+
+This 5-day course will cover R concepts, methods, and tools that can be
+used to analyze community ecology data. The course will review data
+processing techniques relevant to multivariate data sets. We will cover
+diversity indices, distance measures and distance-based multivariate
+methods, clustering, classification and ordination techniques using the R
+package VEGAN. We will use real-world empirical data sets to motivate
+analyses, such as describing patterns along gradients of environ-mental or
+anthropogenic disturbances, quantifying the effects of continuous and
+discrete predictors. We will emphasise visualisation and reproducible
+workflows as well as good programming practices. The modules will consist
+of introductory lectures, guided computer coding, and participant
+exercises. The course is intended for intermediate users of R who are
+interested in community ecology, particularly in the areas of terrestrial
+and wetland ecology, microbial ecology, and natural resource management.
+You are strongly encouraged to use your own data sets (they should be clean
+and already structured, see the document: ?recommendation if you
+participate with your data?.
+
+
+
+Any questions please email oliverhooker at prstatistics.com
+
+-- 
+
+Oliver Hooker PhD.
+PR statistics
+
+	[[alternative HTML version deleted]]
+
+
+From emm@nue|@p@r@d|@ @end|ng |rom |rd@|r  Mon Jul 25 18:45:57 2022
+From: emm@nue|@p@r@d|@ @end|ng |rom |rd@|r (Emmanuel Paradis)
+Date: Mon, 25 Jul 2022 18:45:57 +0200 (CEST)
+Subject: [R-sig-genetics] How to avoid overlapping pies when plotting
+ haplotype networks when using the packages 'pegas' and 'ape' in R
+In-Reply-To: <db93d0cadfe240d0a370cbcdc4526164@snm.ku.dk>
+References: <db93d0cadfe240d0a370cbcdc4526164@snm.ku.dk>
+Message-ID: <1064814005.13022888.1658767557489.JavaMail.zimbra@ird.fr>
+
+Dear Steen,
+
+There is no simple way to handle your problem. One possibility is to use the package 'network' which has a nicer algorithm to calculate the layout of nodes than pegas has. The good thing is that 'network' returns the coordinates which can then be input into plot.haploNet (see ?replot for something similar in pegas). Here's a possible solution:
+
+## net3 is from your script
+library(network)
+xy <- plot(as.network(net3))
+xy <- list(x = xy[, 1], y = xy[, 2])
+size <- round(sqrt(attr(net3, "freq")))
+plot(net3, size = size, xy = xy, pie = ind.hap3, legend = TRUE, threshold = 0)
+
+Note the layout returned by network is random, so you can repeat the 2nd line above several times if you want, but it seems a single try is enough!
+
+The second trick is to change the scale of the pie sizes using a square root transformation. I'm afraid that when the sizes of symbols are too contrasted, plot.haploNet() is really at a pain! I'll try to have a look at it if this can be improved.
+
+In the last command, you'll still need to click on the plot to show where to draw the legend, but R will print the coordinates so these may be included in the script (or more simply you can delete the 'legend = TRUE' of you don't want the legend).
+
+Note that you did a TCS network (has done by pegas::haploNet) which has a lot of alternative links (hence the 'threshold = 0' option). You may try an RMST network which has much less alternatives links:
+
+d3 <- dist.dna(h3, "N", p = TRUE)
+rmst3 <- rmst(d3)
+
+Plotting can be done with:
+
+xybis <- plot(as.network(rmst3))
+xybis <- list(x = xybis[, 1], y = xybis[, 2])
+plot(rmst3, size = sz, xy = xybis, pie = ind.hap3, legend = TRUE, threshold = 0)
+
+Note that, if this is useful for you, you can use 'xy = xy' in the last command so that the layout of haplotypes will be identical with the two networks.
+
+You may also look in more details this help page in network:
+
+?network.layout.fruchtermanreingold
+
+It explains how the change the parameters of the layout calculations.
+
+HTH
+
+Best,
+
+Emmanuel
+
+----- Le 2 Juin 22, ? 9:07, Steen Wilhelm Knudsen swknudsen at snm.ku.dk a ?crit :
+
+> Dear All subscribers of the R-sig-genetics Archives,
+> 
+> I have a question to plotting haplotype networks using the packages 'pegas' and
+> 'ape' in R.
+> I often end up with overlapping pies for haplotypes, and appear unable to work
+> around it by adjusting the 'scale.ratio' when making the plot.
+> I could abstain from using the frequency of the haplotypes as determining the
+> size of the pies. But I would prefer to keep this setting, so that the diagram
+> ends up having circles that reflects the sample size. Instead I would like to
+> know if I can adjust the length of the lines between the pies, and perhaps
+> determine where the pies are to be positioned in the plot.
+> My understanding of the lines between the pies is that these lines are adjusted
+> in length to reflect the number of differences between the haplotypes. This is
+> fine, but seems to prevent me from avoiding the pies being overlaid. I am happy
+> to have incorrect lengths for the connecting lines, and can instead just use
+> the option that adds a number on such a connecting line, a number that  informs
+> how many differences there are between the haplotypes being connected by the
+> line.
+> I have had a go with the 'replot' function, but for some reason I can only
+> select the same pie over and over again. Also, I would prefer to do the entire
+> plotting by code alone. One of my motivations from switching away from
+> 'Network', 'popart' and 'TCS' was to avoid all the clicking and moving around
+> with pies.
+> 
+> I have placed my input file here
+> https://github.com/monis4567/Mnemiopsis_leidyi_in_NE_Atlantic/blob/main/suppmat01_inp_files/algn_Mnelei_18s_10.aligned.fasta.fas
+> 
+> My R code for making a haplotype network with this input file can be found here
+> https://github.com/monis4567/Mnemiopsis_leidyi_in_NE_Atlantic/blob/main/suppmat03_Rcodes/Rcode_example02_make_haplonet_v01.R
+> 
+> 
+> 
+> Can anyone suggest me how I can adjust this code to get haplotype networks where
+> pies do not overlap, or how I can adjust the length of the connecting lines, to
+> avoid the pies overlapping. Or suggest me a different solution that can sort
+> out my problem, but preferably let me solve the issue of presenting a diagram
+> that is possible to read while performing all the coding in R, and not having
+> to adjust the plot manually afterwards?
+> 
+> Thanks in advance for your time and help,
+> 
+> Steen Knudsen
+> Natural History Museum of Denmark
+> 
+> 
+> 
+>	[[alternative HTML version deleted]]
+> 
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+
+From emm@nue|@p@r@d|@ @end|ng |rom |rd@|r  Tue Jul 26 18:11:33 2022
+From: emm@nue|@p@r@d|@ @end|ng |rom |rd@|r (Emmanuel Paradis)
+Date: Tue, 26 Jul 2022 18:11:33 +0200 (CEST)
+Subject: [R-sig-genetics] How to avoid overlapping pies when plotting
+ haplotype networks when using the packages 'pegas' and 'ape' in R
+In-Reply-To: <1064814005.13022888.1658767557489.JavaMail.zimbra@ird.fr>
+References: <db93d0cadfe240d0a370cbcdc4526164@snm.ku.dk>
+ <1064814005.13022888.1658767557489.JavaMail.zimbra@ird.fr>
+Message-ID: <86945975.13312244.1658851893880.JavaMail.zimbra@ird.fr>
+
+Another solution which works only with pegas: set the lengths of the links between haplotypes equal to the sum of the sizes of their respective symbols:
+
+## extract the size of the haplotype symbols:
+size <- attr(net3, "freq")
+## make a copy of the network:
+mynet <- net3
+## change the lengths of the links by changing the 3th column:
+mynet[, 3] <- size[net3[, 1]] + size[net3[, 2]]
+
+We now plot the modified network:
+
+o <- plot(mynet, size = size, cex = 0.8, pie = ind.hap3, threshold = 0, show.mutation = 0, scale.ratio = 2)
+
+'o' is a list that includes (among other things) the coordinates; we extract them and adjust the names:
+
+xy <- setNames(o[c("xx", "yy")], c("x", "y"))
+
+We can plot the original network using these coordinates so that the mutations will be correctly displayed
+
+plot(net3, xy = xy, size = size, cex = 0.8, pie = ind.hap3, threshold = 0, scale.ratio = 2, legend = TRUE)
+
+The haplotype labels overlap quite a bit, so adding 'labels = FALSE' gives a nice result too (unless you want print these labels).
+
+Best,
+
+Emmanuel
+
+----- Le 25 Juil 22, ? 18:45, Emmanuel Paradis emmanuel.paradis at ird.fr a ?crit :
+
+> Dear Steen,
+> 
+> There is no simple way to handle your problem. One possibility is to use the
+> package 'network' which has a nicer algorithm to calculate the layout of nodes
+> than pegas has. The good thing is that 'network' returns the coordinates which
+> can then be input into plot.haploNet (see ?replot for something similar in
+> pegas). Here's a possible solution:
+> 
+> ## net3 is from your script
+> library(network)
+> xy <- plot(as.network(net3))
+> xy <- list(x = xy[, 1], y = xy[, 2])
+> size <- round(sqrt(attr(net3, "freq")))
+> plot(net3, size = size, xy = xy, pie = ind.hap3, legend = TRUE, threshold = 0)
+> 
+> Note the layout returned by network is random, so you can repeat the 2nd line
+> above several times if you want, but it seems a single try is enough!
+> 
+> The second trick is to change the scale of the pie sizes using a square root
+> transformation. I'm afraid that when the sizes of symbols are too contrasted,
+> plot.haploNet() is really at a pain! I'll try to have a look at it if this can
+> be improved.
+> 
+> In the last command, you'll still need to click on the plot to show where to
+> draw the legend, but R will print the coordinates so these may be included in
+> the script (or more simply you can delete the 'legend = TRUE' of you don't want
+> the legend).
+> 
+> Note that you did a TCS network (has done by pegas::haploNet) which has a lot of
+> alternative links (hence the 'threshold = 0' option). You may try an RMST
+> network which has much less alternatives links:
+> 
+> d3 <- dist.dna(h3, "N", p = TRUE)
+> rmst3 <- rmst(d3)
+> 
+> Plotting can be done with:
+> 
+> xybis <- plot(as.network(rmst3))
+> xybis <- list(x = xybis[, 1], y = xybis[, 2])
+> plot(rmst3, size = sz, xy = xybis, pie = ind.hap3, legend = TRUE, threshold = 0)
+> 
+> Note that, if this is useful for you, you can use 'xy = xy' in the last command
+> so that the layout of haplotypes will be identical with the two networks.
+> 
+> You may also look in more details this help page in network:
+> 
+> ?network.layout.fruchtermanreingold
+> 
+> It explains how the change the parameters of the layout calculations.
+> 
+> HTH
+> 
+> Best,
+> 
+> Emmanuel
+> 
+> ----- Le 2 Juin 22, ? 9:07, Steen Wilhelm Knudsen swknudsen at snm.ku.dk a ?crit :
+> 
+>> Dear All subscribers of the R-sig-genetics Archives,
+>> 
+>> I have a question to plotting haplotype networks using the packages 'pegas' and
+>> 'ape' in R.
+>> I often end up with overlapping pies for haplotypes, and appear unable to work
+>> around it by adjusting the 'scale.ratio' when making the plot.
+>> I could abstain from using the frequency of the haplotypes as determining the
+>> size of the pies. But I would prefer to keep this setting, so that the diagram
+>> ends up having circles that reflects the sample size. Instead I would like to
+>> know if I can adjust the length of the lines between the pies, and perhaps
+>> determine where the pies are to be positioned in the plot.
+>> My understanding of the lines between the pies is that these lines are adjusted
+>> in length to reflect the number of differences between the haplotypes. This is
+>> fine, but seems to prevent me from avoiding the pies being overlaid. I am happy
+>> to have incorrect lengths for the connecting lines, and can instead just use
+>> the option that adds a number on such a connecting line, a number that  informs
+>> how many differences there are between the haplotypes being connected by the
+>> line.
+>> I have had a go with the 'replot' function, but for some reason I can only
+>> select the same pie over and over again. Also, I would prefer to do the entire
+>> plotting by code alone. One of my motivations from switching away from
+>> 'Network', 'popart' and 'TCS' was to avoid all the clicking and moving around
+>> with pies.
+>> 
+>> I have placed my input file here
+>> https://github.com/monis4567/Mnemiopsis_leidyi_in_NE_Atlantic/blob/main/suppmat01_inp_files/algn_Mnelei_18s_10.aligned.fasta.fas
+>> 
+>> My R code for making a haplotype network with this input file can be found here
+>> https://github.com/monis4567/Mnemiopsis_leidyi_in_NE_Atlantic/blob/main/suppmat03_Rcodes/Rcode_example02_make_haplonet_v01.R
+>> 
+>> 
+>> 
+>> Can anyone suggest me how I can adjust this code to get haplotype networks where
+>> pies do not overlap, or how I can adjust the length of the connecting lines, to
+>> avoid the pies overlapping. Or suggest me a different solution that can sort
+>> out my problem, but preferably let me solve the issue of presenting a diagram
+>> that is possible to read while performing all the coding in R, and not having
+>> to adjust the plot manually afterwards?
+>> 
+>> Thanks in advance for your time and help,
+>> 
+>> Steen Knudsen
+>> Natural History Museum of Denmark
+>> 
+>> 
+>> 
+>>	[[alternative HTML version deleted]]
+>> 
+>> _______________________________________________
+>> R-sig-genetics mailing list
+>> R-sig-genetics at r-project.org
+> > https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+

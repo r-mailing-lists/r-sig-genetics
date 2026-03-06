@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2024-04",
+  "messages": [
+    {
+      "id": "msg-d04b02f39e9f",
+      "message_id": "<1711986205.89130351@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-04-01T17:43:25+02:00",
+      "subject": "[R-sig-genetics] Online course: Eukaryotic Metabarcoding",
+      "subject_clean": "Online course: Eukaryotic Metabarcoding",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nWe are excited to announce our upcoming online workshop on Eukaryotic Metabarcoding, scheduled for July 1-5, 2024. \n \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course4/ ]( https://www.physalia-courses.org/courses-workshops/course4/ )\n \n \nThis workshop provides a comprehensive overview of metabarcoding procedures, focusing on practical problem-solving and hands-on analysis using real datasets. By the end of the workshop, participants will gain the skills to understand the potential of metabarcoding, run complete analyses, and design their own projects.\n \n \nParticipants should have some experience with Unix commands and basic knowledge of R (preferably RStudio) for plotting and statistical procedures.\n \nFor the full list of our courses and workshops, please visit:  [ https://www.physalia-courses.org/courses-workshops ]( https://www.physalia-courses.org/courses-workshops )[  ]( https://www.physalia-courses.org/courses-workshops/course4/ )\n \nBest regards,\nCarlo\n \n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nWe are excited to announce our upcoming online workshop on Eukaryotic Metabarcoding, scheduled for July 1-5, 2024. \n \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops",
+      "thread_id": "thread-d04b02f39e9f",
+      "thread_depth": 0,
+      "month": "2024-04"
+    },
+    {
+      "id": "msg-d23323ef3531",
+      "message_id": "<1713938972.45923449@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-04-24T08:09:32+02:00",
+      "subject": "[R-sig-genetics] course: Introduction to Generalized Linear Models in R",
+      "subject_clean": "course: Introduction to Generalized Linear Models in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nReady to level up your statistical modeling skills? This 5-day course offers a hands-on introduction to generalized linear models (GLMs) using R.\nDates: 6-10 May (online)\nThis course is aimed at anyone who is interested in advanced statistical modelling as it is practiced widely throughout academic scientific research, as well as widely throughout the public and private sectors.\n \nLimited number of seats left: [ https://www.physalia-courses.org/courses-workshops/glm-in-r-1 ]( https://www.physalia-courses.org/courses-workshops/glm-in-r-1 )\n \nBest regards,\nCarlo\n \n \n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nReady to level up your statistical modeling skills? This 5-day course offers a hands-on introduction to generalized linear models (GLMs) using R.\nDates: 6-10 May (online)\nThis course is aime",
+      "thread_id": "thread-d23323ef3531",
+      "thread_depth": 0,
+      "month": "2024-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d04b02f39e9f",
+      "subject": "Online course: Eukaryotic Metabarcoding",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-04-01T17:43:25+02:00",
+      "last_reply": "2024-04-01T17:43:25+02:00",
+      "root_message_id": "msg-d04b02f39e9f"
+    },
+    {
+      "id": "thread-d23323ef3531",
+      "subject": "course: Introduction to Generalized Linear Models in R",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-04-24T08:09:32+02:00",
+      "last_reply": "2024-04-24T08:09:32+02:00",
+      "root_message_id": "msg-d23323ef3531"
+    }
+  ]
+}

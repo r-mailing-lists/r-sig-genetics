@@ -1,0 +1,178 @@
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Mon Nov  1 16:07:36 2021
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Mon, 1 Nov 2021 15:07:36 +0000
+Subject: [R-sig-genetics] Introduction to eco-phylogenetics and comparative
+ analyses using R (ECPH01)
+Message-ID: <CAEsSYzysjkuoGVi6xZ_hM5Tas3E-kyJnEzMjjqe1C6Rjrh=Uog@mail.gmail.com>
+
+Introduction to eco-phylogenetics and comparative analyses using R (ECPH01)
+
+https://www.prstatistics.com/course/introduction-to-eco-phylogenetics-and-comparative-analyses-using-r-ecph01/
+
+Please feel free to share!
+
+7th - 11th February 2022
+
+*Course overview: *
+
+In this five day course, we provide an introduction to eco-phylogenetics
+and comparative analyses using R. We begin by providing an  overview on the
+use of phylogenies as a tool for evolutionary biologists and modern
+techniques to deal with large phylogenies and to incorporate phylogenetic
+uncertainty in the analyses (day 1). We then cover some of the most
+relevant eco-phylogenetic analyses and provide examples from the community
+to the macro-ecological scale (day 2-3). Finally, we introduce a diversity
+of classic and modern phylogenetic comparative methods to consider the
+historical relationship of lineages in eco-evolutionary research, including
+models of trait evolution, analysis of clade diversification and the use of
+phylogenies in spatial distribution models among others (day 4-5).
+
+email oliverhooker at prstatistics.com with any questions
+
+
+Course program
+
+Monday 7th ? Classes from 08:00 to 16:30
+
+? Introduction and a brief phylogenetic primer. Basic terminology for non-
+phylogeneticists, phylogenetic inference (quick overview), phylogenies
+aevolutionary hypotheses.
+
+? Working with phylogenies. Newick format and structure of the R phylo
+object. Elementary operations on phylogenies (pruning, resolving
+polytomies, sticking species). Visualizing large phylogenies.
+
+? Building purpose-specific mega-trees from extant trees and incorporating
+phylogenetic uncertainty. Software phylocom, V.PhyloMaker, SUNPLIN and
+randtip R package.
+
+Tuesday 8th ? Classes from 08:00 to 16:30
+
+? Introduction to the eco-phylogenetic framework, classical conception and
+posterior modifications.
+
+? Phylogenetic alpha diversity (how much? how different? how regular?).
+Community data matrices, null models, applications to biodiversity
+conservation.
+
+? Phylogenetic beta diversity. The turnover and nestedness component of
+beta diversity.
+
+Wednesday 9th ? Classes from 08:00 to 16:30
+
+? Incorporating the exact branching pattern of phylogenies into
+eco-phylogenetic analyses.
+
+? Spatial phylogenetics. RPD, RPE and CANEPE analysis.
+
+? Overview of functional trait ecology. Functional richness, evenness and
+divergence.Community weighted means.
+
+? Phylogenetic imputation of trait datasets. Bounding prediction
+uncertainty using evolutionary models. Phylogenies as a null model in
+ecology.
+
+Thursday 10th from 08:00 to 16:30
+
+? The phylogenetic comparative method, from independent contrasts to
+sophisticated modelling.
+
+? Analyses of phylogenetic signal and models of evolution: rationale,
+common- practice, and new trends.
+
+? Correlated evolution and ancestral trait reconstruction.
+
+? Analyses of diversification, speciation and extinction rates in a
+geographic context.
+
+Friday 11th ? Classes from 08:00 to 16:30
+
+? The need to account for phylogenetic relationships in models.
+
+? Most common phylogenetic modelling approaches: PGLS, PGLMM, BayesianPMM.
+
+? Putting phylogenies in the geography: how to combine phylogenies with
+species distribution models.
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+	[[alternative HTML version deleted]]
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Mon Nov  1 16:36:58 2021
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Mon, 1 Nov 2021 15:36:58 +0000
+Subject: [R-sig-genetics] Pierre Legendre course - Advances in Spatial
+ Analysis of Multivariate Ecological Data: Theory and Practice
+Message-ID: <CAEsSYzyLe=70BP2ZkFwin5G9n7vRrPj0E4Nu=Th6L9q8ixMYeA@mail.gmail.com>
+
+Advances in Spatial Analysis of Multivariate Ecological Data: Theory and
+Practice
+
+https://www.prstatistics.com/course/advances-in-spatial-analysis-of-multivariate-ecological-data-theory-and-practice-mvsp04/
+
+Please feel free to share.
+
+25th - 29th April 2022
+
+?400 per person
+
+Course Overview:
+
+The course will describe recent methods (concepts and R tools) that can be
+used to analyse spatial patterns in community ecology. The umbrella concept
+of the course is beta diversity, which is the spatial variation of
+communities. These methods are applicable to all types of communities
+(bacteria, plants, animals) sampled along transects, regular grids or
+irregularly distributed sites. The new methods, collectively referred to as
+spatial eigen-function analysis, are grounded into techniques commonly used
+by community ecologists, which will be described first: simple ordination
+(PCA, CA, PCoA), multivariate regression and canonical analysis,
+permutation tests. The choice of dissimilarities that are appropriate for
+community composition data will also be discussed. The focal question is to
+determine how much of the community variation (beta diversity) is due to
+environmental sorting and to community-based processes, including neutral
+processes. Recently developed methods to partition beta diversity in
+different ways will be presented. Extensions will be made to temporal and
+space-time data.
+
+
+This course will be a combination of pre-recorded lectures delivered by
+Prof. Pierre Legendre, Practical sessions with live support via email or
+video link and final live summary with Q and A at the end of each day Prof
+Pierre Legendre.
+
+There will be morning lectures based on the modules outlined in the course
+timetable. In the afternoon there will be practicals based on the topics
+covered that morning. Data sets for computer practicals will be provided by
+the instructors, but participants are welcome to bring their own data.
+
+The recordings will be aired via zoom. Recordings last for approx. 4 hours.
+Followed by a 3-hour practical. And then an approx. 3 hour Q and A session
+with Pierre Legendre.
+
+Recordings will be aired to accommodate different time zones listed below
+in GMT.
+
+Group 1
+Recordings 08:00 ? 12:00
+Practical 12:30 ? 15:30
+
+Group 2
+Recordings 12:00 ? 16:00
+Practical 16:30 ? 19:30
+
+Group 1 and 2
+Live Q and A ? 20:00 ? 23:00 (with Prof. Pierre Legendre)
+
+Email oliverhooker at prstatistics.com with any questions
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+	[[alternative HTML version deleted]]
+
+

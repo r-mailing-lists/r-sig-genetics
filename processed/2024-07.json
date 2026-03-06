@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2024-07",
+  "messages": [
+    {
+      "id": "msg-97d3a1aee691",
+      "message_id": "<CAEsSYzw_hyXDb6j0sd-F2w6DL+Cw7tF+mysVD2yH=i-0dS5TVQ@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2024-07-04T18:31:50+01:00",
+      "subject": "[R-sig-genetics] ONLINE COURSE – Reproducible and collaborative data analysis with R (RACR03)",
+      "subject_clean": "ONLINE COURSE – Reproducible and collaborative data analysis with R (RACR03)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Reproducible and collaborative data analysis with R (RACR03)\n\nhttps://www.prstats.org/course/reproducible-and-collaborative-data-analysis-with-r-racr03/\n\nThis course consists of 6 x 3 hour sessions on the 28, 29, 30 August and 4,\n5, 6 September 2024\n\nPlease feel free to share!\n\nABOUT THIS COURSE - The computational part of a research is considered\nreproducible when other scientists (including ourselves in the future) can\nobtain identical results using the same code, data, workflow and software.\nResearch results are often based on complex statistical analyses which make\nuse of various software. In this context, it becomes rather difficult to\nguarantee the reproducibility of the research, which is increasingly\nconsidered a requirement to assess the validity of scientific claims.\nMoreover, reproducibility is not only important for findings published in\nacademic journals. It also becomes relevant for sharing analyses within a\nteam, with external collaborators and with one?s supervisor. During this\ncourse, the participants will be introduced to a suite of tools they can\nuse in combination with R to make reproducible the computational part of\ntheir own research. A strong emphasis is given to collaboration, and\nparticipants will learn how to set up a project to work with other people\nin an efficient way.\n\nAt the start off the course, participants learn about the most important\naspects that make research reproducible, which go beyond simply sharing R\ncode. This includes problems arising from the use of different packages\nversions, R versions, and operating systems. The concept of research\ncompendium is introduced and proposed as general framework to organise any\nresearch project. The course then moves on to version control with Git and\nGitHub which are fundamental tools for keeping track of code changes and\nfor collaborating with other people on the same project. We will cover\nboth, basic and more advanced features, like tagging, branching, and\nmerging. Towards the end of the course the participants are introduced to\nliterate programming using Quarto (the new scientific and publishing system\nrecently released by RStudio) with the focus on writing a scientific\narticle or report. The aim is to bind the outputs of the R analysis (i.e.\nresults, tables, and figures) together with the text of the article.\nParticipants will also learn how to use templates to fulfil requirements of\ndifferent journals.\nPlease email oliverhooker at prstatistics.com with any questions\n\nUpcoming courses\nONLINE COURSE ? Using Google Earth Engine in Ecological Studies (GEEE01)\nThis course will be delivered live\n<https://www.prstats.org/course/using-google-earth-engine-in-ecological-studies-geee01/>\nONLINE COURSE ? Reproducible and collaborative data analysis with R\n(RACR03) This course will be delivered live\n<https://www.prstats.org/course/reproducible-and-collaborative-data-analysis-with-r-racr03/>\nONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR06) This course will be delivered live\n<https://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr06/>\nONLINE COURSE ? Hidden Markov Models for movement, acceleration and other\necological data ? an introduction using moveHMM and momentuHMM in R\n(HMMM01) This course will be delivered live\n<https://www.prstats.org/course/hidden-markov-models-for-movement-acceleration-and-other-ecological-data-hmmm01/>\nONLINE COURSE ? Time Series Analysis and Forecasting using R and Rstudio\n(TSAF01) This course will be delivered live\n<https://www.prstats.org/course/time-series-analysis-and-forecasting-using-r-and-rstudio-tsaf01/>\nONLINE COURSE ? Remote sensing data analysis and coding in R for ecology\n(RSDA01) This course will be delivered live\n<https://www.prstats.org/course/remote-sensing-data-analysis-and-coding-in-r-for-ecology-rsda01/>\nONLINE COURSE ? Introduction to Metabarcoding and Metagenomics Analysis\n(IMAM01) This course will be delivered live\n<https://www.prstats.org/course/introduction-to-metabarcoding-and-metagenomics-analysis-imam01/>\nONLINE COURSE ? Bioacoustics Data Analysis using R and Studio (BIAC04) This\ncourse will be delivered live\n<https://www.prstats.org/course/bioacoustics-data-analysis-biac04/>\nONLINE COURSE ? Metabarcoding Pipelines for Eukariotic Communities (MPEC01)\nThis course will be delivered live\n<https://www.prstats.org/course/metabarcoding-pipelines-for-eukariotic-communities-mpec01/>\nONLINE COURSE ? Genome Assembly and Annotation (GAAA01) This course will be\ndelivered live\n<https://www.prstats.org/course/genome-assembly-and-annotation-gaaa01/>\nIN PERSON COURSE ? Hierarchical modelling in ecology (HMIE01) (Universit?\nde Sherbrooke, Canada)\n<https://www.prstats.org/course/hierarchical-modelling-in-ecology-hmie01/>\nONLINE COURSE ? Introduction to Machine Learning using R and Rstudio\n(IMLR02) This course will be delivered live\n<https://www.prstats.org/course/introduction-to-machine-learning-using-r-and-rstudio-imlr02/>\nONLINE COURSE ? Introduction to Single Cell Analysis (ISCA01) This course\nwill be delivered live\n<https://www.prstats.org/course/introduction-to-single-cell-analysis-isca01/>\nONLINE COURSE ? Species Distribution Modelling With Bayesian Statistics\nUsing R (SDMB06) This course will be delivered live\n<https://www.prstats.org/course/online-course-species-distribution-modelling-with-bayesian-statistics-using-r-sdmb06/>\n\n\n-- \nBest wishes,\n\nOliver\n\nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? Reproducible and collaborative data analysis with R (RACR03)\n\nhttps://www.prstats.org/course/reproducible-and-collaborative-data-analysis-with-r-racr03/\n\nThis course consists of 6 x 3 ",
+      "thread_id": "thread-97d3a1aee691",
+      "thread_depth": 0,
+      "month": "2024-07"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-97d3a1aee691",
+      "subject": "ONLINE COURSE – Reproducible and collaborative data analysis with R (RACR03)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2024-07-04T18:31:50+01:00",
+      "last_reply": "2024-07-04T18:31:50+01:00",
+      "root_message_id": "msg-97d3a1aee691"
+    }
+  ]
+}

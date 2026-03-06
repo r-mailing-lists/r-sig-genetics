@@ -1,0 +1,278 @@
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Wed Feb  6 22:54:41 2019
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Wed, 6 Feb 2019 21:54:41 +0000
+Subject: [R-sig-genetics] Ecological niche modelling using R (ENMR03)
+Message-ID: <CAEsSYzyLMKr58vLUC+xhzypj5jxPwfJF2Q+XxQaJr9H8bpHTKA@mail.gmail.com>
+
+Ecological niche modelling using R (ENMR03)
+
+This course may be of interest to some list members although not fully
+focused on genetics.
+
+https://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr03/
+
+This course will be delivered by Neftali Sillero form the 11th - 15th March
+2019 in Glasgow City Centre.
+
+Course Overview:
+The course will cover the base theory of ecological niche modelling and its
+main methodologies. By the end of this 5-day practical course, attendees
+will have the capacity to perform ecological niche models and understand
+their results, as well as to choose and apply the correct methodology
+depending on the aim of their type of study and data.
+
+Ecological niche, species distribution, habitat distribution, or climatic
+envelope models are different names for similar mechanistic or correlative
+models, empirical or mathematical approaches to the ecological niche of a
+species, where different types of ecogeographical variables (environmental,
+topographical, human) are related with a species physiological data or
+geographical locations, in order to identify the factors limiting and
+defining the species? niche. ENMs have become popular due to the need for
+efficiency in the design and implementation of conservation management.
+
+The course will be mainly practical, with some theoretical lectures. All
+modelling processes and calculations will be performed with R, the free
+software environment for statistical computing and graphics (
+http://www.r-project.org/). Attendees will learn to use modelling
+algorithms like Maxent, Bioclim, Domain, and logistic regressions, and R
+packages for computing ENMs like Dismo and Biomod2. Also, students will
+learn to compare different ecological niche models using the Ecospat
+package.
+
+Course programme:
+Monday 11th ? Classes from 09:30 to 17:30
+Elementary concepts on Ecological Niche Modelling
+Module 1: Introduction to ENM theory. Definition of ecological niche model;
+introduction to species ecological niche theory, types of ecological
+niches, types of ENM, diagram BAM, ENMs as approximations to species?
+niches.
+Module 2: Problems and limitations on ENM. Assumptions and uncertainties,
+equilibrium concept, niche conservatism, autocorrelation and intensity,
+sample size, correlation of environmental variables, size and form of study
+area, thresholds, model validation, model projections.
+Module 3: Methods on ENM. Mechanistic and correlative models. Overlap
+Analysis, Biomod, Domain, Habitat, Distance of Mahalanobis, ENFA, GARP,
+Maxent, Logistic regression, Generalised Linear Models, Generalised
+Additive Models, Generalised Boosted Regression Models, Random Forest,
+Support Vector Machines, Artificial Neural Network.
+Module 4: Conceptual and practice steps to calculate ENM. How to make an
+ENM step-by-step.
+Module 5: Applications of ENM. Ecological niche identification,
+Identification of contact zones, Integration with genetical data, Species
+expansions, Species invasions, Dispersion hypotheses, Species conservation
+status, Prediction of future conservation problems, Projection to future
+and past climate change scenarios, Modelling past species, Modelling
+species richness, Road-kills, Diseases, Windmills, Location of protected
+areas.
+
+Tuesday 12th ? Classes from 09:30 to 17:30
+Prepare environmental variables and run ecological niche models with dismo
+package.
+Module 6: Preparing variables. Choosing environmental data sources,
+Downloading variables, Clipping variables, Aggregating variables, Checking
+pixel size, Checking raster limits, Checking NoData, Correlating variables.
+Module 7: Dismo practice. How to run an ENM using the R package dismo.
+
+Wednesday 13th ? Classes from 09:30 to 17:30
+Run ecological niche models with Biomod2 package and Maxent.
+Module 8: Biomod2 practice. How to run an ENM using the R package Biomod2.
+Module 9: Maxent practice. How to run an ENM using the R packages dismo and
+Biomod2 as well as Maxent software.
+
+Thursday 14th ? Classes from 09:30 to 17:30
+Compare ecological niche models with ecospat.
+Module 10: Ecospat practice. Compare statistically two different ecological
+niche models using the R package Ecospat.
+Module 11: Students? talks. Attendees will have the opportunity to present
+their own data and analyse which is the best way to successfully obtain an
+ENM.
+
+Friday 15th ? Classes from 09:30 to 16:00
+Run ecological niche models with your own data.
+Module 12: Final practical. In this practical, the students will run ENM
+with their own data or with a new dataset, applying all the methods showed
+during the previous days.
+
+Email oliverhooker at prstatistics.com
+
+Check out our sister sites,
+www.PRstatistics.com (Ecology and Life Sciences)
+www.PRinformatics.com (Bioinformatics and data science)
+www.PSstatistics.com (Behaviour and cognition)
+
+1. February 4th ? 8th 2019
+DESIGNING RELIABLE AND EFFICIENT EXPERIMENTS FOR SOCIAL SCIENCES (DRES01)
+Glasgow, Scotland, Dr. Daniel Lakens
+https://www.psstatistics.com/course/designing-reliable-and-effecient-experiments-for-social-sciences-dres01/
+
+2. 25th February ? 1st March 2019
+MOVEMENT ECOLOGY (MOVE02)
+Margam Discovery Centre, Wales, Dr. Luca Borger, Prof. Ronny Wilson, Dr
+Jonathan Potts
+https://www.prstatistics.com/course/movement-ecology-move02/
+
+3. March 4th ? 8th 2019
+BIOACOUSTICS FOR ECOLOGISTS: HARDWARE, SURVEY DESIGN AND DATA ANALYSIS
+(BIAC01)
+Glasgow, Scotland, Dr. Paul Howden-Leach
+https://www.prstatistics.com/course/bioacoustics-for-ecologists-hardware-survey-design-and-data-analysis-biac01/
+
+4. March 11th ? 15th  2019
+ECOLOGICAL NICHE MODELLING USING R (ENMR03)
+Glasgow, Scotland, Dr. Neftali Sillero
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr03/
+
+5. March 18th ? 22nd 2019
+INTRODUCTION TO STATISTICS AND R FOR EVERYONE (IRFE01)
+Athens, GREECE, Dr Aristides (Aris) Moustakas
+https://www.prstatistics.com/course/introduction-to-statistics-and-r-for-anyone-irfe01/
+
+6. March 25th ? 29th 2019
+LANDSCAPE GENETIC DATA ANALYSIS USING R (LNDG03)
+Glasgow, Scotland, Prof. Rodney Dyer
+http://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg03/
+
+7. April 1st ? 5th 2019
+INTRODUCTION TO STATISTICAL MODELLING FOR PSYCHOLOGISTS USING R (IPSY01)
+Glasgow, Scotland, Dr. Dale Barr, Dr Luc Bussierre
+http://www.psstatistics.com/course/introduction-to-statistics-using-r-for-psychologists-ipsy02/
+
+8. April 1st ? 5th 2019
+INDIVIDUAL BASED MODELS FOR ECOLOGSITS (IBME01)
+Glasgow, Scotland, Dr Aristides (Aris) Moustakas
+https://www.prstatistics.com/course/individual-based-models-using-r-and-netlogo-ibms01/
+
+9. April 8th ? 12th 2019
+MACHINE LEARNING (MLUR01)
+Glasgow, Scotland, Dr Aristides (Aris) Moustakas
+https://www.prstatistics.com/course/machine-learning-using-r-mlur01/
+
+10. April 15th ? 19th 2019
+INTRODUCTION TO PYTHON FOR BIOLOGISTS (IPYB06)
+Athens, GREECE,, Dr. Martin Jones
+http://www.prinformatics.com/course/introduction-to-python-for-biologists-ipyb07/
+
+11. April 22nd ? 26th 2019
+GIS USING R (GISR)
+Glasgow, Scotland, Dr Luca Nelli
+https://www.prstatistics.com/course/gis-using-r-gisr01/
+
+12. May 6th ? 10th 2019
+INTRODUCTION TO MULTILEVEL MODELS (MIXED/HIERARCHICAL) FOR PSYCHOLOGISTS
+Myuna Bay, AUSTRALIA,  Dr. Sean Murphy
+https://www.psstatistics.com/course/an-exploration-of-r-for-psychologists-from-data-handling-to-multilevel-modelling-xplr01/
+
+13. May 16th ? 19th 2019 (please note this a 4-day course from Thursday to
+Monday)
+INTRODUCTION TO R FOR EVERYONE (IRFE02)
+Myuna Bay, AUSTRALIA, Dr Aristides (Aris) Moustakas
+https://www.prstatistics.com/course/introduction-to-statistics-and-r-for-anyone-irfe02/
+
+14. May 20th ? 24th 2019
+MODEL BASE MULTIVARIATE ANALYSIS OF ABUNDANCE DATA USING R (MBMV03)
+Myuna Bay, AUSTRALIA, Prof. David Warton
+https://www.prstatistics.com/course/model-based-multivariate-analysis-of-abundance-data-using-r-mbmv03/
+
+15. May 21st ? 24th 2019
+STATISTICAL TOOLKIT FOR ECOLOGISTS (STKE01)
+Myuna Bay, AUSTRALIA, Dr Aristides (Aris) Moustakas
+https://www.prstatistics.com/course/statistical-toolkit-for-ecologists-stke01/
+
+16. June 10th ? 14th 2019
+STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR (SIMM04)
+Glasgow, Scotland, Dr. Andrew Parnell, Dr. Andrew Jackson
+www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm04/
+
+17. June 17th ? 21st 2019
+SPATIAL MODELLING AND ANALYSIS OF ADAPTIVE GENOMIC VARIATION (SPGN01)
+Glasgow, Dr. Matt Fitzpatrick
+https://www.prstatistics.com/course/spatial-modelling-and-analysis-of-adaptive-genomic-variation-spgn01/
+
+18. June 17th ? 21st 2019
+INTRODUCTION TO PYTHON FOR BIOLOGISTS (IPYB06)
+Glasgow, Scotland, Dr. Martin Jones
+http://www.prinformatics.com/course/introduction-to-python-for-biologists-ipyb06/
+
+19. June 24th ? 28th 2019
+ADVANCED PYTHON FOR BIOLOGISTS (APYB03)
+Glasgow, Scotland, Dr. Martin Jones
+www.prinformatics.com/course/advanced-python-biologists-apyb03/
+
+20. July 1st ? 5th 2019
+DATA VISUALISATION AND MANIPULATION USING PYTHON (DVMP01)
+Glasgow, Scotland, Dr. Martin Jones
+http://www.prinformatics.com/course/data-visualisation-and-manipulation-using-python-dvmp01/
+
+21. July 29th ? August 2nd 2019
+INTRODUCTION TO SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R (ISPE01)
+Glasgow, Scotland, Dr. Jakub Nowosad
+https://www.prstatistics.com/course/introduction-to-spatial-analysis-of-ecological-data-using-r-ispe01/
+
+22. September 16th ? 20th 2019
+R PACKAGE DESIGN AND DEVELOPMENT AND REPRODUCIBLE DATA SCIENCE FOR
+BIOLOGISTS (RPKG01)
+Glasgow, Scotland, Dr. Cory Merow, Dr. Andy Rominger
+https://www.prstatistics.com/course/r-package-design-and-development-and-reproducible-data-science-for-biologists-rpkg01/
+
+23. September 30th ? October 4th 2019
+GEOMETRIC MORPHOMETRICS USING R (GMMR02)
+Glasgow, Scotland, Prof. Dean Adams, Prof. Michael Collyer, Dr. Antigoni
+Kaliontzopoulou
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr02/
+
+24. October 7th ? 11th 2019
+CONSERVATION PLANNING USING PRIORITIZR : FROM THEORY TO PRACTICE (PRTZ01)
+Athens, GREECE, Dr Richard Schuster and Nina Morell
+https://www.prstatistics.com/course/conservation-planning-using-prioritizr-from-theory-to-practice-prtz01/
+
+25. October 21st ? 25th 2019
+A COMPLETE GUIDE TO MIXED MODELS (INCLUDING TEMPORAL AND SPATIAL
+AUTOCORRELATION) (MMTS01)
+Athens, GREECE, Dr Aristides (Aris) Moustakas
+https://www.prstatistics.com/course/a-complete-guide-to-mixed-models-including-temporal-and-spatial-autocorrelation-mmts01/
+
+26. November 18th ? 22nd 2019
+INTRODUCTION TO STRUCTURED POPULATION MODELS AND DEMOGRAPHIC DISTRIBUTION
+MODELS (IIPM01)
+Athens, GREECE, Dr Cory Merow
+https://www.prstatistics.com/course/introduction-to-structured-population-models-and-demographic-distribution-models-iipm01/
+
+27. November 25th ? 29th 2019
+ADVANCED RANGE, NICHE, AND DISTRIBUTION MODELING (ASDM01)
+Athens, GREECE, Dr Cory Merow
+https://www.prstatistics.com/course/advanced-range-niche-and-distribution-modeling-asdm01/
+
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+2018 publications -
+Alternative routes to piscivory: Contrasting growth trajectories in brown
+trout (Salmo trutta) ecotypes exhibiting contrasting life history
+strategies. Ecology of Freshwater Fish.
+
+Phenotypic and resource use partitioning amongst sympatric lacustrine brown
+trout, Salmo trutta. Biological Journal of the Linnean Society. DOI
+10.1093/biolinnean/bly032
+
+prstatistics.com
+facebook.com/prstatistics/
+twitter.com/PRstatistics
+groups.google.com/d/forum/pr-statistics-post-course-forum
+prstatistics.com/organiser/oliver-hooker/
+
+6 Hope Park Crescent
+Edinburgh
+EH8 9NA
++44 (0) 7966500340
+
+<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>
+Virus-free.
+www.avast.com
+<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>
+<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>
+
+	[[alternative HTML version deleted]]
+
+

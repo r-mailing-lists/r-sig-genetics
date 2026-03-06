@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2020-11",
+  "messages": [
+    {
+      "id": "msg-11bfa0ff66f8",
+      "message_id": "<BN6PR14MB17951AED681DE615E9C93C15D4E90@BN6PR14MB1795.namprd14.prod.outlook.com>",
+      "from_name": "John S Denton",
+      "from_email_hash": "2f421aaa05d7ffe50589a5a3c357959a93d6d96aed47dbf22bf025f8626b68a4",
+      "date": "2020-11-10T15:26:34Z",
+      "subject": "[R-sig-genetics] a-score in adegenet",
+      "subject_clean": "a-score in adegenet",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello,\n\nI am using the a-score to determine the optimal number of PCs to retain in a discriminant function of principal components analysis, and am trying to figure out whether the result I am getting is pathological or not.\n\nI am trying to find the discriminant axes between two groups. One group is much larger than the other. The variances explained by the PCs do not fall off rapidly--the first 58 PCs explain ~95% of the variance.\n\nWhen I run optim.a.score(), I get a decaying curve without an internal optimum. The function says retaining only a single PC is optimal, with an a-score of ~0.4. I thought this might be an artifact of default values, to I increased the number of PCs at which to conduct simulations (n option) and increased the number of simulations per PC point to 50 (from 10), but I still get the boundary answer of 1 PC.\n\nIs this valid, or might this be a pathology of diffuse PC variation distribution and asymmetric sample sizes?\n\nThanks!\n\n~John\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello,\n\nI am using the a-score to determine the optimal number of PCs to retain in a discriminant function of principal components analysis, and am trying to figure out whether the result I am getting",
+      "thread_id": "thread-11bfa0ff66f8",
+      "thread_depth": 0,
+      "month": "2020-11"
+    },
+    {
+      "id": "msg-5872d98733d0",
+      "message_id": "<CAEsSYzyAW7RFFy+sL6K7_4ZyrpWF9BBkgFViC_vJnznAEr7F_g@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2020-11-25T17:04:52Z",
+      "subject": "[R-sig-genetics] Bayesian hierarchical modelling using R (IBHM05)",
+      "subject_clean": "Bayesian hierarchical modelling using R (IBHM05)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Apologies for cross posting and the flurry of posts.\n\nBayesian hierarchical modelling using R (IBHM05)\n\nhttps://www.prstatistics.com/course/bayesian-hierarchical-modelling-using-r-ibhm05/\n\nWe still have places available\n\nThis is a ?LIVE COURSE? ? the instructor will be delivering lectures\nand coaching attendees through the accompanying computer practical?s\nvia video link, a good internet connection is essential.\n\nTIME ZONE ? GMT ? however all sessions will be recorded and made\navailable allowing attendees from different time zones to follow a day\nbehind with an additional 1/2 days support after the official course\nfinish date (please email oliverhooker at prstatistics.com for full\ndetails or to discuss how we can accommodate you).\n\nCourse Overview:\nThis course will cover introductory hierarchical modelling for\nreal-world data sets from a Bayesian perspective. These methods lie at\nthe forefront of statistics research and are a vital tool in the\nscientist?s toolbox. The course focuses on introducing concepts and\ndemonstrating good practice in hierarchical models. All methods are\ndemonstrated with data sets which participants can run themselves.\nParticipants will be taught how to fit hierarchical models using the\nBayesian modelling software Jags and Stan through the R software\ninterface. The course covers the full gamut from simple regression\nmodels through to full generalised multivariate hierarchical\nstructures. A Bayesian approach is taken throughout, meaning that\nparticipants can include all available information in their models and\nestimates all unknown quantities with uncertainty. Participants are\nencouraged to bring their own data sets for discussion with the course\ntutors.\n\nFriday 27th November ? Classes from 09:30 to 17:30\n\nModule 3: Simple hierarchical regression models\nModule 4: Hierarchical models for non-Gaussian data\nPractical: Fitting hierarchical models\n\nFriday 4th December ? Classes from 09:30 to 17:30\n\nModule 5: Hierarchical models vs mixed effects models\nModule 6: Multivariate and multi-layer hierarchical models\nPractical: Advanced examples of hierarchical models\n\nFriday 11th December ? Classes from 09:30 to 17:30\n\nModule 7: Shrinkage and variable selection\nModule 8: Hierarchical models and partial pooling\nPractical: Shrinkage modelling\n\n-- \nOliver Hooker PhD.\nPR statistics\n\n2020 publications;\nParallelism in eco-morphology and gene expression despite variable\nevolutionary and genomic backgrounds in a Holarctic fish. PLOS\nGENETICS (2020). IN PRESS\n\nwww.PRstatistics.com\nfacebook.com/PRstatistics/\ntwitter.com/PRstatistics\n\n53 Morrison Street\nGlasgow\nG5 8LB\n+44 (0) 7966500340\n+44 (0) 7966500340",
+      "body_snippet": "Apologies for cross posting and the flurry of posts.\n\nBayesian hierarchical modelling using R (IBHM05)\n\nhttps://www.prstatistics.com/course/bayesian-hierarchical-modelling-using-r-ibhm05/\n\nWe still ha",
+      "thread_id": "thread-5872d98733d0",
+      "thread_depth": 0,
+      "month": "2020-11"
+    },
+    {
+      "id": "msg-3137f9e9b178",
+      "message_id": "<CAEsSYzyeH9iMcZM=7AVOM-fDU3EosSS=gWF+=EAx5qLvySme3w@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2020-11-25T17:13:24Z",
+      "subject": "[R-sig-genetics] Fundamentals of populations genetics using R (FOPG01)",
+      "subject_clean": "Fundamentals of populations genetics using R (FOPG01)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Fundamentals of populations genetics using R (FOPG01)\n\nhttps://www.prstatistics.com/course/fundamentals-of-populations-genetics-using-r-fopg01/\n\nThis is a ?LIVE COURSE? ? the instructor will be delivering lectures\nand coaching attendees through the accompanying computer practical?s\nvia video link, a good internet connection is essential.\n\nTIME ZONE ? Western European Summer Time ? however all sessions will\nbe recorded and made available allowing attendees from different time\nzones to follow a day behind with an additional 1/2 days support after\nthe official course finish date (please email\noliverhooker at prstatistics.com for full details or to discuss how we\ncan accommodate you).\n\nCourse Overview:\nThe aim of the course is to introduce you to the fundamentals of\npopulation genetics theory, through quantitative visualizations of the\ndynamic of genetic elements within and between populations, using the\nR statistical programming language. We will be using a mixture of\nlectures, exercises, and case studies to increase the intuitive\nunderstanding of population genetics concepts and facilitate\nconceptual experimentation and visualization in R.\n\nBy the end of the course participants should:\n1. Understand the fundamentals of population genetics theory\n2. Be able to use R to visualize data sets and write simple functions\n3. Know how to import different data types into and out of R\n4. Create simple population genetics simulations in R\n5. Understand essential summary statistics from the population\ngenetics literature (e.g. FST , D, pi, theta, etc.)\n6. Be able to generate publication quality figures from population genetic data\n\nThis is a ?LIVE COURSE? ? the instructor will be delivering lectures\nand coaching attendees through the accompanying computer practical?s\nvia video link, a good internet connection is essential.\n\nTIME ZONE ? Western European Summer Time ? however all sessions will\nbe recorded and made available allowing attendees from different time\nzones to follow a day behind with an additional 1/2 days support after\nthe official course finish date (please email\noliverhooker at prstatistics.com for full details or to discuss how we\ncan accommodate you).\n\nCourse Programme\nMonday 30th November ? Classes from 09:30 to 13:30\n1) Introduction to the course\n2) Learning through programming\n3) Key concepts related to population genetic data\n\nWednesday 2nd December ? Classes from 09:30 to 13:30\n1) Retrieving open data from web sources\n2) Using R packages for data retrieva\n3) Generating and switching between R data classes\n4) Reading different types of genetic data into R\n5) Understanding R?s statistical toolbox\n\nFriday 4th December ? Classes from 09:30 to 13:30\n1) Introduction to the Hardy-Weinberg equilibrium assumption\n2) Allele frequencies vs genotype frequencies\n3) Probability and likelihood in population genetics\n\nMonday 7th ? Classes from 09:30 to 13:30\n1) Generating basic simulations in R\n2) Reading and writing data files in R\n3) Introduction to algorithms\n4) Expectation-maximization of likelihood\n\nWednesday 9th ? Classes from 09:30 to 13:30\n1) Interpreting violations of expectations\n2) More complex genetic data (multiple loci)\n3) Fitness and selection on genetic elements\n\nFriday 11th ? Classes from 09:30 to 13:30\n1) Neutral variation and genetic drift\n2) Population assignment and comparison\n3) 2D and 3D visualization in R\n\n-- \nOliver Hooker PhD.\nPR statistics\n\n2020 publications;\nParallelism in eco-morphology and gene expression despite variable\nevolutionary and genomic backgrounds in a Holarctic fish. PLOS\nGENETICS (2020). IN PRESS\n\nwww.PRstatistics.com\nfacebook.com/PRstatistics/\ntwitter.com/PRstatistics\n\n53 Morrison Street\nGlasgow\nG5 8LB\n+44 (0) 7966500340\n+44 (0) 7966500340",
+      "body_snippet": "Fundamentals of populations genetics using R (FOPG01)\n\nhttps://www.prstatistics.com/course/fundamentals-of-populations-genetics-using-r-fopg01/\n\nThis is a ?LIVE COURSE? ? the instructor will be delive",
+      "thread_id": "thread-3137f9e9b178",
+      "thread_depth": 0,
+      "month": "2020-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-11bfa0ff66f8",
+      "subject": "a-score in adegenet",
+      "message_count": 1,
+      "participants": [
+        "John S Denton"
+      ],
+      "started": "2020-11-10T15:26:34+00:00",
+      "last_reply": "2020-11-10T15:26:34+00:00",
+      "root_message_id": "msg-11bfa0ff66f8"
+    },
+    {
+      "id": "thread-5872d98733d0",
+      "subject": "Bayesian hierarchical modelling using R (IBHM05)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2020-11-25T17:04:52+00:00",
+      "last_reply": "2020-11-25T17:04:52+00:00",
+      "root_message_id": "msg-5872d98733d0"
+    },
+    {
+      "id": "thread-3137f9e9b178",
+      "subject": "Fundamentals of populations genetics using R (FOPG01)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2020-11-25T17:13:24+00:00",
+      "last_reply": "2020-11-25T17:13:24+00:00",
+      "root_message_id": "msg-3137f9e9b178"
+    }
+  ]
+}

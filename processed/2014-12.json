@@ -1,0 +1,39 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2014-12",
+  "messages": [
+    {
+      "id": "msg-848fe20459de",
+      "message_id": "<2CB2DA8E426F3541AB1907F98ABA6570ABE973C4@icexch-m1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2014-12-04T11:49:43Z",
+      "subject": "[R-sig-genetics] FW: [R-sig-phylo] Population Genetics in R Hackathon - Open Call for\tParticipation",
+      "subject_clean": "Population Genetics in R Hackathon - Open Call for\tParticipation",
+      "in_reply_to": "<547FDFDE.5080506@nescent.org>",
+      "references": [
+        "<547FDFAD.2020009@nescent.org>",
+        "<547FDFDE.5080506@nescent.org>"
+      ],
+      "body_plain": "Dear all, \n\nplease find below the call for participation to an exciting hackathon for population genetics in R taking place in NESCent, North Carolina, next year.\n\nBest\nThibaut\n\n==============================\nDr Thibaut Jombart\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - School of Public Health\nNorfolk Place, London W2 1PG, UK\nTel. : 0044 (0)20 7594 3658\nhttp://sites.google.com/site/thibautjombart/\nhttp://sites.google.com/site/therepiproject/\nhttp://adegenet.r-forge.r-project.org/\nTwitter: @thibautjombart\n________________________________________\nFrom: R-sig-phylo [r-sig-phylo-bounces at r-project.org] on behalf of Hilmar Lapp [hlapp at nescent.org]\nSent: 04 December 2014 04:15\nTo: R-SIG-Phylo List\nSubject: [R-sig-phylo] Population Genetics in R Hackathon - Open Call for       Participation\n\n# Population Genetics in R Hackathon - Open Call for Participation\n\nDo you develop population genetics methods or algorithms in R? Are you a researcher wrestling with analyzing population genetics data in R? Have you run into difficulties with passing data or metadata from one R package to another? Have you run into problems with large datasets? Have you found documentation on building workflows from packages for population genetics analysis difficult to come by? Do you have expertise and ideas to share and energy to spend on overcoming these challenges?  Do you enjoy collaborating with like-minded others to do so? If you answered some (or all) of these questions with yes, then the following event may be for you.\n\n## Synopsis\n\nNESCent is sponsoring a hackathon to be held at NESCent in Durham, North Carolina, on March 16-20, 2015, with the objective to help foster an interoperating ecosystem of scalable tools and resources for population genetics data analysis in the popular R platform. The event is designed to target interoperability, scalability, and workflow building challenges among the many population genetics R packages that already exist. The gathering provides an opportunity for a diverse group of population genetics researchers, method developers, and people with other relevant areas of expertise to collaborate on code, documentation, use-cases, and other resources that will aid their communities.\n\nFull details and additional background are available at the following website:\nhttp://informatics.nescent.org/wiki/R_PopGen_Hackathon\n\n## How to participate\n\nApplications to participate in the hackathon are now being accepted. To apply, please fill out the following form:\nhttp://goo.gl/forms/siwNo1P3ti\n\nDeadline for receiving your application is December 11, 2014. Support for travel, food and lodging costs are available to successful applicants who indicate need. We particularly welcome applications from women and members of other groups underrepresented in science and in software engineering.\n\nOur plan is to begin sending out acceptance letters December 15, 2014, and if your application is successful, we will need you to confirm attendance within 2 days of receiving notice, so please ensure you can receive and send email during the week of December 15.\n\nSincerely,\n\nThe organizing team: Thibaut Jombart, Hilmar Lapp, St?phanie Manel,\nEmmanuel Paradis, Bastian Pfeifer, and Greg Warnes\n\n\n-- Hilmar Lapp -:- informatics.nescent.org/wiki -:- lappland.io\n\n\n        [[alternative HTML version deleted]]\n\n-------------- next part --------------\nAn embedded and charset-unspecified text was scrubbed...\nName: ATT00002.txt\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20141204/d5dfd6c9/attachment.txt>",
+      "body_snippet": "Dear all, \n\nplease find below the call for participation to an exciting hackathon for population genetics in R taking place in NESCent, North Carolina, next year.\n\nBest\nThibaut\n\n======================",
+      "thread_id": "thread-848fe20459de",
+      "thread_depth": 0,
+      "month": "2014-12"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-848fe20459de",
+      "subject": "Population Genetics in R Hackathon - Open Call for\tParticipation",
+      "message_count": 1,
+      "participants": [
+        "Jombart, Thibaut"
+      ],
+      "started": "2014-12-04T11:49:43+00:00",
+      "last_reply": "2014-12-04T11:49:43+00:00",
+      "root_message_id": "msg-848fe20459de"
+    }
+  ]
+}

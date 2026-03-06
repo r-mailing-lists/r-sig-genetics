@@ -1,0 +1,127 @@
+From haned at biomserv.univ-lyon1.fr  Fri Jun 13 14:14:38 2008
+From: haned at biomserv.univ-lyon1.fr (Hinda Haned)
+Date: Fri, 13 Jun 2008 14:14:38 +0200
+Subject: [R-sig-genetics] simulation of consanguineous unions in human
+	populations with R
+Message-ID: <485264AE.2060103@biomserv.univ-lyon1.fr>
+
+Dear list members,
+
+I was wondering if anyone had experience simulating non-random mating 
+human populations with R.
+
+I want  to simulate the evolution of disease susceptibility loci under certain evolutionary scenarios and under specific non-random mating schemes. 
+For example, at each generation, p% of the matings occur between first cousins, offspring from such unions (must) have on average 
+1/16 of their genome autozygous.
+I've been  exploring  simulation softwares  for a while , but they  offer limited  mating schemes, mainly because relationships between individuals can not be extracted.
+Any ideas or suggestions are welcome !
+Thank you .
+
+
+
+
+
+
+
+-- 
+######################################
+Hinda HANED
+CNRS UMR 5558 - Laboratoire de Biom?trie et Biologie Evolutive
+Universite Lyon 1
+43 bd du 11 novembre 1918
+69622 Villeurbanne Cedex
+T?l. : 04.72.43.27.57
+Fax : 04.72.43.13.88
+haned at biomserv.univ-lyon1.fr
+http://lbbe.univ-lyon1.fr/-Haned-Hinda-.html?lang=en
+
+
+From jombart at biomserv.univ-lyon1.fr  Mon Jun 16 13:42:25 2008
+From: jombart at biomserv.univ-lyon1.fr (Thibaut Jombart)
+Date: Mon, 16 Jun 2008 13:42:25 +0200
+Subject: [R-sig-genetics] simulation of consanguineous unions in human
+ populations with R
+In-Reply-To: <485264AE.2060103@biomserv.univ-lyon1.fr>
+References: <485264AE.2060103@biomserv.univ-lyon1.fr>
+Message-ID: <485651A1.7090902@biomserv.univ-lyon1.fr>
+
+Hinda Haned wrote:
+> Dear list members,
+>
+> I was wondering if anyone had experience simulating non-random mating 
+> human populations with R.
+>
+> I want  to simulate the evolution of disease susceptibility loci under 
+> certain evolutionary scenarios and under specific non-random mating 
+> schemes. For example, at each generation, p% of the matings occur 
+> between first cousins, offspring from such unions (must) have on 
+> average 1/16 of their genome autozygous.
+> I've been  exploring  simulation softwares  for a while , but they  
+> offer limited  mating schemes, mainly because relationships between 
+> individuals can not be extracted.
+> Any ideas or suggestions are welcome !
+> Thank you .
+Hi Hinda,
+
+I don't know how advanced the tools for simulating genetic data are in 
+R. Maybe we are not very far, or not that far yet. The package rmetasim 
+is said to perform individual-based population genetics simulation, so 
+it may be worth having a look there:
+http://cran.r-project.org/web/packages/rmetasim/index.html
+
+Otherwise, there is a package GeneticsPed in the Rgenetics project for 
+handling pedigree data:
+http://bioconductor.org/packages/devel/bioc/html/GeneticsPed.html
+
+but it seems to be in an early stage of development, and it does not 
+seem to perform data simulations.
+
+Good luck,
+
+Thibaut.
+
+-- 
+######################################
+Thibaut JOMBART
+CNRS UMR 5558 - Laboratoire de Biom?trie et Biologie Evolutive
+Universite Lyon 1
+43 bd du 11 novembre 1918
+69622 Villeurbanne Cedex
+T?l. : 04.72.43.29.35
+Fax : 04.72.43.13.88
+jombart at biomserv.univ-lyon1.fr
+http://biomserv.univ-lyon1.fr/%7Ejombart/
+http://adegenet.r-forge.r-project.org/
+
+
+From Gregor.Gorjanc at bfro.uni-lj.si  Mon Jun 16 15:08:44 2008
+From: Gregor.Gorjanc at bfro.uni-lj.si (Gorjanc Gregor)
+Date: Mon, 16 Jun 2008 15:08:44 +0200
+Subject: [R-sig-genetics] Simulation of consanguineous unions in human
+	populations with R
+Message-ID: <F189E18BBAA8B6479F618B9044CF4E9C686C133711@owa.bfro.uni-lj.si>
+
+Hi Hinda Haned!
+
+> I was wondering if anyone had experience simulating non-random mating
+> human populations with R.
+
+> I want  to simulate the evolution of disease susceptibility loci under certain evolutionary scenarios and under specific non-random mating schemes.
+> For example, at each generation, p% of the matings occur between first cousins, offspring from such unions (must) have on average
+> 1/16 of their genome autozygous.
+> I've been  exploring  simulation softwares  for a while , but they  offer limited  mating schemes, mainly because relationships between individuals can not be extracted.
+
+I guess there is plenty of programs that can simulate various scenarious. However,
+each simulation has a likely different scope and therefore the implenetations differ.
+I guess you could write your own simulator quite easily with few lines of R code -
+various r* functions can be of great help.
+
+If I understand your question concerning the relationship take a look at a function kinship() or
+relationshipAdditive() in the GeneticsPed package. As has been pointed out by Thibaut,
+the package is not ready for use. However, you can see how kinship or additive
+genetic relationship coefficients can be computed. There is also a package kinship()
+that also has some similar functions.
+
+Gregor
+
+

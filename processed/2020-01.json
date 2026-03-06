@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2020-01",
+  "messages": [
+    {
+      "id": "msg-9e548d8f393e",
+      "message_id": "<CAPsXksKRtPAzONh+-1hi0y87KVhstjDKFeKqD+THmKDydK3ixg@mail.gmail.com>",
+      "from_name": "Zhian Kamvar",
+      "from_email_hash": "197ee65e841aedec35350a60c88d8c4fa7006cc9c9bc406e9e36d7b98eebe1e6",
+      "date": "2020-01-22T10:47:17Z",
+      "subject": "[R-sig-genetics] adegenet 2.1.2 is now on CRAN",
+      "subject_clean": "adegenet 2.1.2 is now on CRAN",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello friends,\n\nI am cross-posting to the adegenet, poppr, and R-SIG-genetics forums to\nannounce that the adegenet package has officially been updated on CRAN\n(windows users should wait a couple of days for the binaries to be built)!\nYou can read all about the changes here:\nhttps://github.com/thibautjombart/adegenet/releases/tag/2.1.2\n\nI would highly recommend updating since this is the first release adegenet\nhas had in nearly two years!\n\nThere are a couple of important changes to highlight:\n\n1. Thanks to Klaus Schliep, df2genind() has gotten much much much faster\n(>100x), so importing vcf data from vcfR is now much less painful.\n2. Some of the likelihoods from snapclust for haploids were incorrect and\nhave been fixed\n3. showmekittens() now has more kittens.\n\nI would also like to announce that I am now the acting maintainer for\nadegenet. I do not plan on adding any new features, just fixing any bugs\nthat may pop up and improving performance should time allow.\n\nBest,\nZhian N. Kamvar\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello friends,\n\nI am cross-posting to the adegenet, poppr, and R-SIG-genetics forums to\nannounce that the adegenet package has officially been updated on CRAN\n(windows users should wait a couple of da",
+      "thread_id": "thread-9e548d8f393e",
+      "thread_depth": 0,
+      "month": "2020-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-9e548d8f393e",
+      "subject": "adegenet 2.1.2 is now on CRAN",
+      "message_count": 1,
+      "participants": [
+        "Zhian Kamvar"
+      ],
+      "started": "2020-01-22T10:47:17+00:00",
+      "last_reply": "2020-01-22T10:47:17+00:00",
+      "root_message_id": "msg-9e548d8f393e"
+    }
+  ]
+}

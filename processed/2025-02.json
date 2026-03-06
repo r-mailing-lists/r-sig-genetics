@@ -1,0 +1,333 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2025-02",
+  "messages": [
+    {
+      "id": "msg-762e46f812d9",
+      "message_id": "<Is4EUwWFReuNiJGYtIFEuA@geopod-ismtpd-2>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-02-03T06:20:00Z",
+      "subject": "[R-sig-genetics] Online Course: Using ChatGPT for Advanced Data Analysis 4.0",
+      "subject_clean": "Online Course: Using ChatGPT for Advanced Data Analysis 4.0",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is pleased to be offering the 3-day seminar Using ChatGPT for Advanced Data Analysis 4.0, running twice: February 10 - 12 (for Europe/Asia time zones) <https://instats.org/seminar/using-chatgpt-for-advanced-data-analysis13> and running February 24 - 26 (for the Americas) <https://instats.org/seminar/using-chatgpt-for-advanced-data-analysis13-1>. Led by Professor Peter Gruber, this seminar provides an excellent opportunity to explore how ChatGPT can be leveraged as a powerful tool for advanced data analysis, requiring only plain language statements rather than writing code or using a specific statistical software package. Ideal for academics and professional researchers, this seminar equips participants with practical techniques to enhance their analytical workflows using AI. Participants will delve into key topics such as automating data preparation, generating insights from complex datasets, and integrating ChatGPT into existing analysis pipelines. With a focus on hands-on applications, the seminar ensures attendees gain the skills needed to effectively use ChatGPT for cutting-edge data analysis tasks -- all without ever having to purchase statistical software or learn a new programming language.\n\nSign up today to secure your spot for the February 10 - 12 (for Europe/Asia time zones) <https://instats.org/seminar/using-chatgpt-for-advanced-data-analysis13> seminar or the February 24 - 26 (for the Americas) <https://instats.org/seminar/using-chatgpt-for-advanced-data-analysis13-1> seminar, and please feel free to share this opportunity with colleagues and students who might benefit.\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is pleased to be offering the 3-day seminar Using ChatGPT for Advanced Data Analysis 4.0, running twice: February 10 - 12 (for Europe/Asia time zones) <https://instats.org/seminar",
+      "thread_id": "thread-762e46f812d9",
+      "thread_depth": 0,
+      "month": "2025-02"
+    },
+    {
+      "id": "msg-370c22606292",
+      "message_id": "<CAEsSYzyhDhYoS6C9nxEGTZx92ryK3bUBD5VecX-o5oyTVWPGRg@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2025-02-03T17:26:48Z",
+      "subject": "[R-sig-genetics] ONLINE COURSE – Phylogenetic Species Distribution Modelling using R (PSDM01)",
+      "subject_clean": "ONLINE COURSE – Phylogenetic Species Distribution Modelling using R (PSDM01)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Phylogenetic Species Distribution Modelling using R\n(PSDM01) This course will be delivered live\n\nhttps://www.prstats.org/course/phylogenetic-species-distribution-modelling-using-r-psdm01-25/\n\n12th - 14th May 2025\n\nInstructor - Dr. Morales Castilla Ignacio\n\nPlease feel free to share!\n\nCOURSE OVERVIEW: In this three-day course, we introduce species\ndistribution models (SDMs) and ways to incorporate phylogenetic information\ninto single species models using R. We begin by providing an overview on\nthe use of SDMs as a central tool for ecologists and evolutionary biologists,\nreview and implement common SDM approaches and introduce hybrid models, which\nuse the information in functional traits to complement the models. We then\njustify the rationale for using phylogenetic information in absence of\nfunctional trait data and show how to incorporate phylogenetic information\nin SDMs (day 1). We review examples of practical implementation of PSDMs to\nboth present and future climate scenarios (day 2). Finally, we overview\nmore advanced approaches of incorporating phylogenies into models (the\nBayesian Phylogenetic Mixed Model) and how to project model results into a\nspatial context (day 3).\n\nPlease email oliverhooker at prstatistics.com with any questions.\nFebruary\nONLINE COURSE ? Machine Vision using Python (MVUP01) This course will be\ndelivered live\n<https://www.prstats.org/course/machine-vision-using-python-mvup01/>\nONLINE COURSE ? Machine Learning using Python (MLUP01) This course will be\ndelivered live\nONLINE COURSE ? Species Distribution Modelling With Bayesian Statistics\nUsing R (SDMB06) This course will be delivered live\n<https://www.prstats.org/course/online-course-species-distribution-modelling-with-bayesian-statistics-using-r-sdmb06/>\nONLINE COURSE ? Remote sensing data analysis and coding in R for ecology\n(RSDA01) This course will be delivered live\n<https://www.prstats.org/course/remote-sensing-data-analysis-and-coding-in-r-for-ecology-rsda01/>\nONLINE COURSE ? Introduction to generalised linear models using R and\nRstudio (IGLM08) This course will be delivered live\n<https://www.prstats.org/course/introduction-to-generalised-linear-models-using-r-and-rstudio-iglm08/>\nONLINE COURSE ? Community Analytics in Ecology and Evolutionary Biology for\nBeginners (CAFB01) This course will be delivered live\n<https://www.prstats.org/course/community-analytics-in-ecology-and-evolutionary-biology-for-beginners-cafb01/>\nMarch\nONLINE COURSE ? Introduction To Mixed Models Using R And Rstudio (IMMR09)\nThis course will be delivered live\n<https://www.prstats.org/course/introduction-to-mixed-models-using-r-and-rstudio-immr09/>\nONLINE COURSE ? Stable Isotope Mixing Models using SIBER, SIAR, MixSIAR\n(SIMM11) This course will be delivered live\n<https://www.prstats.org/course/online-course-stable-isotope-mixing-models-using-siber-siar-mixsiar-simm11/>\nONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR07) This course will be delivered live\n<https://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr07/>\nMay\nONLINE COURSE ? Phylogenetic Species Distribution Modelling using R\n(PSDM01) This course will be delivered liveONLINE COURSE ? Movement Ecology\nUsing R(MOVE07) This course will be delivered live\nJune\nONLINE COURSE ? Tidyverse for Ecologists and Evolutionary Biologists\n(TIDY01) This course will be delivered live\nJuly\n\nONLINE COURSE ? Path analysis, structural equations and causal inference\nfor biologists (PSCB03)\n\nOctober\nONLINE COURSE ? Bioacoustics Data Analysis using R (BIAC05) This course\nwill be delivered live\n\n-- \nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? Phylogenetic Species Distribution Modelling using R\n(PSDM01) This course will be delivered live\n\nhttps://www.prstats.org/course/phylogenetic-species-distribution-modelling-using-r-psdm",
+      "thread_id": "thread-370c22606292",
+      "thread_depth": 0,
+      "month": "2025-02"
+    },
+    {
+      "id": "msg-8350e91b7c77",
+      "message_id": "<1738761807.19727655@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-02-05T14:23:27+01:00",
+      "subject": "[R-sig-genetics] Course: Gene Set Enrichment Analysis in R/Bioconductor",
+      "subject_clean": "Course: Gene Set Enrichment Analysis in R/Bioconductor",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe still have a few seats available for our upcoming online course: Gene Set Enrichment Analysis in R/Bioconductor, in March (3-6).\n\n\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/gse-in-r/ ]( https://www.physalia-courses.org/courses-workshops/gse-in-r/ ) \n \nIn this course, we will teach the use of popular GSEA tools, both for online-based tools and those implemented as R packages. We will give a detailed introduction on a variety of methods of GSEA analysis, including overrepresentation analysis, univariate methods, multivariate methods, as well as extensions of GSEA analysis, such as network-based GSEA, and single-sample GSEA. Finally, you will also learn downstream processing of GSEA results, including efficiently visualizing the massive GSEA results, clustering, and simplifying GSEA results via various methods.\n We will also cover some other topics that are tightly related to GSEA analysis, such as multiple hypothesis testing. You will also learn how to implement GSEA methods completely from scratch in R.\n \nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )\n \n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe still have a few seats available for our upcoming online course: Gene Set Enrichment Analysis in R/Bioconductor, in March (3-6).\n\n\n \nCourse website: [ https://www.physalia-courses.org/cou",
+      "thread_id": "thread-8350e91b7c77",
+      "thread_depth": 0,
+      "month": "2025-02"
+    },
+    {
+      "id": "msg-f5e816b955dc",
+      "message_id": "<1738848066.525526642@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-02-06T14:21:06+01:00",
+      "subject": "[R-sig-genetics] Multivariate data analysis in R course",
+      "subject_clean": "Multivariate data analysis in R course",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \ndue to a last-minute cancellation, we have one seat available for the online course \"Multivariate data analysis with R and vegan\", starting next week (Feb 10th-13th).\n \nFor more information, please visit: [ https://www.physalia-courses.org/courses-workshops/vegan/ ]( https://www.physalia-courses.org/courses-workshops/vegan/ )\n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\n\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \ndue to a last-minute cancellation, we have one seat available for the online course \"Multivariate data analysis with R and vegan\", starting next week (Feb 10th-13th).\n \nFor more informatio",
+      "thread_id": "thread-f5e816b955dc",
+      "thread_depth": 0,
+      "month": "2025-02"
+    },
+    {
+      "id": "msg-102808591a2b",
+      "message_id": "<_GcUNqNGT8qGzlUrfpQOqg@geopod-ismtpd-5>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-02-14T02:05:00Z",
+      "subject": "[R-sig-genetics] Online course: Machine Learning and AI for Researchers",
+      "subject_clean": "Online course: Machine Learning and AI for Researchers",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer two new seminars on machine learning and AI for researchers: Machine Learning and AI for Researchers in R <https://instats.org/seminar/machine-learning-and-ai-for-researchers-6> with Dr Giovanni Cerulli, running February 20?21, and Machine Learning and AI in Python <https://instats.org/seminar/machine-learning-in-practice-hands-on-w2> with Dr Kimberly Fessel, running February 27?28. These seminars provide comprehensive, hands-on training in state-of-the-art machine learning algorithms and AI applications using two of the most popular programming environments. Designed for academics, researchers, and professionals, the sessions combine theoretical insights with practical exercises to help you harness the power of data science in your research?whether you work in R or Python. The seminars are crucial for geneticists and others in the life sciences and natural sciences who are increasingly expected to understand and use machine learning and AI tools that allow for valid prediction and explainability of results.\n\nSign up for both today <https://instats.org/structuredcourse/machine-learning-and-ai-for-researchers-2> and get an automatic 10% discount on these excellent seminars, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer two new seminars on machine learning and AI for researchers: Machine Learning and AI for Researchers in R <https://instats.org/seminar/machine-learning-and-ai-",
+      "thread_id": "thread-102808591a2b",
+      "thread_depth": 0,
+      "month": "2025-02"
+    },
+    {
+      "id": "msg-07a4cc63de73",
+      "message_id": "<1739698929.61165342@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-02-16T10:42:09+01:00",
+      "subject": "[R-sig-genetics] Generalised Linear Models in R course, Online 24–28 February",
+      "subject_clean": "Generalised Linear Models in R course, Online 24–28 February",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nJoin our online course, Generalised Linear Models in R, from 24?28 February. Learn how to use GLMs as a unified framework for analysing diverse data types?including Gaussian, binary, and count data?in R.\n \nInstructor: Dr. Bert van der Veen (Norwegian University of Science and Technology).\n \nThere are only a few seats left!\n\nFor more details and registration, please visit [ https://www.physalia-courses.org/courses-workshops/glm-in-r-1/ ]( https://www.physalia-courses.org/courses-workshops/glm-in-r-1/ )\n \n \nBest regards,\nCarlo\n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nJoin our online course, Generalised Linear Models in R, from 24?28 February. Learn how to use GLMs as a unified framework for analysing diverse data types?including Gaussian, binary, and cou",
+      "thread_id": "thread-07a4cc63de73",
+      "thread_depth": 0,
+      "month": "2025-02"
+    },
+    {
+      "id": "msg-5605e39d26ad",
+      "message_id": "<LAgYp44JSYu_t6RZiuVqRw@geopod-ismtpd-6>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-02-18T05:50:00Z",
+      "subject": "[R-sig-genetics] Linear and Nonlinear Dimensionality Reduction - Livestream Seminar",
+      "subject_clean": "Linear and Nonlinear Dimensionality Reduction - Livestream Seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Linear and Nonlinear Dimensionality Reduction <https://instats.org/seminar/linear-and-nonlinear-dimensionality-redu>, on February 26 with professor Nikolay Oskolkov from Lund University. This workshop provides hands-on training in classic linear methods like PCA and advanced nonlinear techniques such as tSNE and UMAP, which are essential for simplifying high-dimensional datasets and uncovering critical insights across the natural, health, and social sciences. Participants will learn to preprocess and analyze complex data using R and Python through practical examples, real-world case studies, and interactive exercises that highlight best practices and common pitfalls. Enhance your research efficiency and accuracy by mastering these techniques and making big data more manageable in genetics and beyond.\n\nSign up today to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Linear and Nonlinear Dimensionality Reduction <https://instats.org/seminar/linear-and-nonlinear-dimensionality-redu>, on February 26 with prof",
+      "thread_id": "thread-5605e39d26ad",
+      "thread_depth": 0,
+      "month": "2025-02"
+    },
+    {
+      "id": "msg-09a215170cd6",
+      "message_id": "<1739980110.195332478@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-02-19T16:48:30+01:00",
+      "subject": "[R-sig-genetics] Bayesian Data Analysis in R course - Online March 3-7",
+      "subject_clean": "Bayesian Data Analysis in R course - Online March 3-7",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all, \n \nthere are still 2 seats available for the Physalia online course on Bayesian Data Analysis in R, which will take place in March (3rd-7th).\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course46 ]( https://www.physalia-courses.org/courses-workshops/course46/ )\n \nThis course offers a hands-on introduction to Bayesian data analysis in R, designed to build your confidence in using Bayesian methods for common applications. Through practical examples and exercises, the participants will:\n \n          1. have become familiar with the basics of Bayesian inference,\n \n          2. be able to fit a range of regression models with several likelihood functions,\n \n          3. be able to fit several robust models and distributional models,\n \n         4. know how to select priors for their models using prior predictive checks,\n \n         5. know how to assess the descriptive accuracy of a model using posterior predictive checks, and\n \n  \n\n        6. know how to express their posterior distributions as effect sizes and informative figures.\n \n \nFormat: Daily live sessions (2?6 PM Berlin time) with theoretical lectures and interactive coding exercises.\n \n \nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/course46/ ]( https://www.physalia-courses.org/courses-workshops/course46/ )\n \nBest regards,\nCarlo\n \n \n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all, \n \nthere are still 2 seats available for the Physalia online course on Bayesian Data Analysis in R, which will take place in March (3rd-7th).\n \nCourse website: [ https://www.physalia-courses",
+      "thread_id": "thread-09a215170cd6",
+      "thread_depth": 0,
+      "month": "2025-02"
+    },
+    {
+      "id": "msg-e35022b442f1",
+      "message_id": "<1740328055.92893627@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-02-23T17:27:35+01:00",
+      "subject": "[R-sig-genetics] Gene Set Enrichment Analysis in R/Bioconductor - Online 3-6 March",
+      "subject_clean": "Gene Set Enrichment Analysis in R/Bioconductor - Online 3-6 March",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nthere are only 3 seats available for our upcoming online course, \"Gene Set Enrichment Analysis in R/Bioconductor\" taking place from 3-6 March. This course will provide a comprehensive introduction to GSEA, a fundamental method for associating biological functions with gene lists.\n \n \nIn this course, we will teach the use of popular GSEA tools, both for online-based tools and those implemented as R packages. We will give a detailed introduction on a variety of methods of GSEA analysis, including overrepresentation analysis, univariate methods, multivariate methods, as well as extensions of GSEA analysis, such as network-based GSEA, and single-sample GSEA. Finally, you will also learn downstream processing of GSEA results, including efficiently visualizing the massive GSEA results, clustering, and simplifying GSEA results via various methods.\n \nWe will also cover some other topics that are tightly related to GSEA analysis, such as multiple hypothesis testing. You will also learn how to implement GSEA methods completely from scratch in R.\n \nFor more information about this course, please visit: [ https://www.physalia-courses.org/courses-workshops/gse-in-r/ ]( https://www.physalia-courses.org/courses-workshops/gse-in-r/ )\n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nthere are only 3 seats available for our upcoming online course, \"Gene Set Enrichment Analysis in R/Bioconductor\" taking place from 3-6 March. This course will provide a comprehensive intro",
+      "thread_id": "thread-e35022b442f1",
+      "thread_depth": 0,
+      "month": "2025-02"
+    },
+    {
+      "id": "msg-e34bcc50b9d9",
+      "message_id": "<B9n5HFGbRlG1C77e3a_Qyg@geopod-ismtpd-2>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2025-02-24T10:44:45Z",
+      "subject": "[R-sig-genetics] Online course: Dimensionality Reduction with UMAP and Beyond",
+      "subject_clean": "Online course: Dimensionality Reduction with UMAP and Beyond",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nWe have a few places left in the upcoming 1-day seminar, Dimensionality Reduction with UMAP and Beyond <https://instats.org/seminar/linear-and-nonlinear-dimensionality-redu>, running February 27th with Dr. Nikolay Oskolkov, Senior Bioinformatician at Lund University. This hands-on workshop will guide you through classic linear methods like PCA as well as advanced nonlinear techniques including tSNE and UMAP, providing essential tools for simplifying high-dimensional, multivariate datasets. Designed for PhD students, academics, and professional researchers, you'll learn to apply these methods using R and Python through real-world examples and interactive exercises?enhancing your ability to uncover new insights and make complex data manageable across the natural, health, and social sciences.\n\nSign up today <https://instats.org/seminar/linear-and-nonlinear-dimensionality-redu> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nWe have a few places left in the upcoming 1-day seminar, Dimensionality Reduction with UMAP and Beyond <https://instats.org/seminar/linear-and-nonlinear-dimensionality-redu>, running Febr",
+      "thread_id": "thread-e34bcc50b9d9",
+      "thread_depth": 0,
+      "month": "2025-02"
+    },
+    {
+      "id": "msg-2877accd5cb3",
+      "message_id": "<1740430644.075412644@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-02-24T21:57:24+01:00",
+      "subject": "[R-sig-genetics] Multidimensional Phenotypic Evolution course",
+      "subject_clean": "Multidimensional Phenotypic Evolution course",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are thrilled to announce that only a few seats remain for our upcoming online course:\nMultidimensional Phenotypic Evolution.\n \n\nDates: 10?14 March 2025\nFormat: Online (to foster international participation)\nCourse website:  [ https://www.physalia-courses.org/courses-workshops/mpe/ ]( https://www.physalia-courses.org/courses-workshops/mpe/ ) \n \n \nCourse Overview:\nThis course delves into the techniques for analysing multidimensional phenotypes, such as morphometric (e.g., geometric morphometrics) and non-morphometric (e.g., gene expression) traits. Participants will gain insights into the challenges and opportunities of studying multidimensional traits, explore foundational and advanced methods, and apply these techniques to datasets at both microevolutionary and macroevolutionary scales.\n \nWho Should Attend?\nThe course is tailored for beginners and intermediate users, including researchers eager to analyse multidimensional phenotypic data or those looking for a structured foundation to enhance their current analyses.\n \n \nWhat You?ll Learn:\nExplore morphometric and non-morphometric phenotypes.\nMaster key techniques like PCA, regression, and comparative methods.\nAnalyze multidimensional data in evolutionary and ecological contexts.\nUse tools and R scripts to study co-variation, modularity, and phenotypic integration.\nSchedule:\nLive sessions: 13:00?19:00 (Berlin time).\nHands-on exercises: Apply techniques using your own data or example datasets.\nFor the full list of our courses and workshops, please have a look at: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/mpe/ )\n \nBest regards,\nCarlo\nPhysalia-courses Director\n[ https://www.physalia-courses.org/ ]( https://www.physalia-courses.org/ )\ninfo at physalia-courses.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are thrilled to announce that only a few seats remain for our upcoming online course:\nMultidimensional Phenotypic Evolution.\n \n\nDates: 10?14 March 2025\nFormat: Online (to foster internati",
+      "thread_id": "thread-2877accd5cb3",
+      "thread_depth": 0,
+      "month": "2025-02"
+    },
+    {
+      "id": "msg-3d1d2e838094",
+      "message_id": "<CAEsSYzxugp-B_OEv9pVy9FjQOft+z687HrDFeEgynHhaznBFjw@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2025-02-28T13:09:41Z",
+      "subject": "[R-sig-genetics] ONLINE COURSE – Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR07)",
+      "subject_clean": "ONLINE COURSE – Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR07)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR07)\n\nhttps://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr07/\n<https://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr06/>\n\n*31st - March - 4th April 2025*\n\nPlease feel free to share!\n\nWe encourage attendees to bring their own data, you will\nreceive opportunities to discuss your data with the instructor throughout\nthe course, if you would like guideline on how to organize your data\nprior to the course please ask oliverhoooker at prstatistica.com\n\nThis course is suitable for researchers (PhD and MSc students, post-docs,\nprimary investigators) and environmental professionals who are interested\nin implementing best practices and state-of-the-art methods for modelling\nspecies? distributions or ecological niches, with applications to\nbiogeography, spatial ecology, biodiversity conservation and related\ndisciplines.\n\nThis 5-day course will cover R concepts, methods, and tools that can be\nused to analyze community ecology data. The course will review data\nprocessing techniques relevant to multivariate data sets. We will cover\ndiversity indices, distance measures and distance-based multivariate\nmethods, clustering, classification and ordination techniques using the R\npackage VEGAN. We will use real-world empirical data sets to motivate\nanalyses, such as describing patterns along gradients of environ-mental or\nanthropogenic disturbances, and quantifying the effects of continuous and\ndiscrete predictors. We will emphasise visualisation and reproducible\nworkflows as well as good programming practices. The modules will consist\nof introductory lectures, guided computer coding, and participant\nexercises. The course is intended for intermediate users of R who are\ninterested in community ecology, particularly in the areas of terrestrial\nand wetland ecology, microbial ecology, and natural resource management.\nYou are strongly encouraged to use your own data sets (they should be clean\nand already structured, see the document: ?recommendation if you\nparticipate with your data?.\n\n*Classes will run from 08:00 ? 13:00 for the morning lecture and 14:00 ?\n16:00 for the practical (UK time) with an evening time session tbc for US,\nCanada etc. attendees. The course will be recorded and made available each\nday and will remain available for 28 days after the course for you to\nrevisit any lectures.*\n\nDAY 1\n? Module 1: Introduction to community data analysis, basics of programming\nin R\n? Module 2: Diversity analysis, species-abundance distributions\n\nDAY 2\n? Module 3: Distance and transformation measures\n? Module 4: Clustering and classification analysis\n\nDAY 3\n? Module 5: Unconstrained ordinations: Principal Component Analysis\n? Module 6: Other unconstrained ordinations\n\nDAY 4\n? Module 7: Constrained ordinations: RDA and other canonical analysis\n? Module 8: Statistical tests for multivariate data and variation\npartitioning\n\nDAY 5\n? Module 9: Overview of Spatial analysis, and recent Hierarchical Modeling\nof Species Communities (HMSC) methods\n? Modules 10: Special topics and discussion, analyzing participants? data.\n\n\nEmail oliverghooker at prstatistics.com with any questions.\n\n\n-- \nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR07)\n\nhttps://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the",
+      "thread_id": "thread-3d1d2e838094",
+      "thread_depth": 0,
+      "month": "2025-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-762e46f812d9",
+      "subject": "Online Course: Using ChatGPT for Advanced Data Analysis 4.0",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-02-03T06:20:00+00:00",
+      "last_reply": "2025-02-03T06:20:00+00:00",
+      "root_message_id": "msg-762e46f812d9"
+    },
+    {
+      "id": "thread-370c22606292",
+      "subject": "ONLINE COURSE – Phylogenetic Species Distribution Modelling using R (PSDM01)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2025-02-03T17:26:48+00:00",
+      "last_reply": "2025-02-03T17:26:48+00:00",
+      "root_message_id": "msg-370c22606292"
+    },
+    {
+      "id": "thread-8350e91b7c77",
+      "subject": "Course: Gene Set Enrichment Analysis in R/Bioconductor",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-02-05T14:23:27+01:00",
+      "last_reply": "2025-02-05T14:23:27+01:00",
+      "root_message_id": "msg-8350e91b7c77"
+    },
+    {
+      "id": "thread-f5e816b955dc",
+      "subject": "Multivariate data analysis in R course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-02-06T14:21:06+01:00",
+      "last_reply": "2025-02-06T14:21:06+01:00",
+      "root_message_id": "msg-f5e816b955dc"
+    },
+    {
+      "id": "thread-102808591a2b",
+      "subject": "Online course: Machine Learning and AI for Researchers",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-02-14T02:05:00+00:00",
+      "last_reply": "2025-02-14T02:05:00+00:00",
+      "root_message_id": "msg-102808591a2b"
+    },
+    {
+      "id": "thread-07a4cc63de73",
+      "subject": "Generalised Linear Models in R course, Online 24–28 February",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-02-16T10:42:09+01:00",
+      "last_reply": "2025-02-16T10:42:09+01:00",
+      "root_message_id": "msg-07a4cc63de73"
+    },
+    {
+      "id": "thread-5605e39d26ad",
+      "subject": "Linear and Nonlinear Dimensionality Reduction - Livestream Seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-02-18T05:50:00+00:00",
+      "last_reply": "2025-02-18T05:50:00+00:00",
+      "root_message_id": "msg-5605e39d26ad"
+    },
+    {
+      "id": "thread-09a215170cd6",
+      "subject": "Bayesian Data Analysis in R course - Online March 3-7",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-02-19T16:48:30+01:00",
+      "last_reply": "2025-02-19T16:48:30+01:00",
+      "root_message_id": "msg-09a215170cd6"
+    },
+    {
+      "id": "thread-e35022b442f1",
+      "subject": "Gene Set Enrichment Analysis in R/Bioconductor - Online 3-6 March",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-02-23T17:27:35+01:00",
+      "last_reply": "2025-02-23T17:27:35+01:00",
+      "root_message_id": "msg-e35022b442f1"
+    },
+    {
+      "id": "thread-e34bcc50b9d9",
+      "subject": "Online course: Dimensionality Reduction with UMAP and Beyond",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2025-02-24T10:44:45+00:00",
+      "last_reply": "2025-02-24T10:44:45+00:00",
+      "root_message_id": "msg-e34bcc50b9d9"
+    },
+    {
+      "id": "thread-2877accd5cb3",
+      "subject": "Multidimensional Phenotypic Evolution course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-02-24T21:57:24+01:00",
+      "last_reply": "2025-02-24T21:57:24+01:00",
+      "root_message_id": "msg-2877accd5cb3"
+    },
+    {
+      "id": "thread-3d1d2e838094",
+      "subject": "ONLINE COURSE – Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR07)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2025-02-28T13:09:41+00:00",
+      "last_reply": "2025-02-28T13:09:41+00:00",
+      "root_message_id": "msg-3d1d2e838094"
+    }
+  ]
+}

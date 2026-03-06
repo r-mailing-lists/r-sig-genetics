@@ -1,0 +1,74 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2009-06",
+  "messages": [
+    {
+      "id": "msg-9c4587b5fce6",
+      "message_id": "<124584AFB3A4D449834B67071ACCD55501A7D818@scomp0040.wurnet.nl>",
+      "from_name": "Lu, Kevin",
+      "from_email_hash": "0a79678e7249a2c09899085032fab95965e0ee55ebc92d8ad4c58ad867e51e24",
+      "date": "2009-06-08T18:38:13+02:00",
+      "subject": "[R-sig-genetics] Bayesian network",
+      "subject_clean": "Bayesian network",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090608/30e07672/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090608/30e07672/attachment.pl>",
+      "thread_id": "thread-9c4587b5fce6",
+      "thread_depth": 0,
+      "month": "2009-06"
+    },
+    {
+      "id": "msg-17238ec3a993",
+      "message_id": "<0B75A6276180B546A1CA8D2B46E7580502F3741474@ICEXM3.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2009-06-10T12:13:42+01:00",
+      "subject": "[R-sig-genetics] Bayesian network",
+      "subject_clean": "Bayesian network",
+      "in_reply_to": "<124584AFB3A4D449834B67071ACCD55501A7D818@scomp0040.wurnet.nl>",
+      "references": [
+        "<124584AFB3A4D449834B67071ACCD55501A7D818@scomp0040.wurnet.nl>"
+      ],
+      "body_plain": "Dear Kevin, \n\nI am admittedly not into Bayesian networks, but in any case the 10 SNPs limitation sounds a bit surprising. However, the error you encounter is quite package-specific. I think you may want to ask your question directly to deal's maintainer, in case you would not find an answer here. \n\nI don't know of any package that would implement Bayesian networks specifically for genetic data.\n\nBest regards,\n\nThibaut.\n\n________________________________________\nFrom: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] On Behalf Of Lu, Kevin [kevin.lu at wur.nl]\nSent: 08 June 2009 17:38\nTo: r-sig-genetics at r-project.org\nSubject: [R-sig-genetics] Bayesian network\n\nDear all,\n\nI am now trying to use Bayesian network to analyze my SNP data,\nassociating 20 SNPs with one phenotype (plasma cholesterol levels). I\nwant to use deal package to find the markov plane of my phenotype. I\nhave 3575 records. After trying the deal package, I can not go through\ncoomand----jointprior (). It is said \"Error in array(1, Dim) : 'dim'\nspecifies too large an array\".\n\nI reduced the number of SNP to 10 and I can continue.  When I try\n\"result<-heuristic(my.data1.nw,my.data1,my.data1.prior,restart=2,degree=\n10,trace=TRUE)\". It was said that \"[Heuristic [Autosearch Error in\nphi[[y]] : attempt to select less than one element\". So, I can not get\nthe results.\n\nI hope someone could help me with it. Am I using the right package?\n\nThanks in advance,\n\nKevin\n\n\n\n        [[alternative HTML version deleted]]\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
+      "body_snippet": "Dear Kevin, \n\nI am admittedly not into Bayesian networks, but in any case the 10 SNPs limitation sounds a bit surprising. However, the error you encounter is quite package-specific. I think you may wa",
+      "thread_id": "thread-9c4587b5fce6",
+      "thread_depth": 1,
+      "month": "2009-06"
+    },
+    {
+      "id": "msg-34f459e2e850",
+      "message_id": "<124584AFB3A4D449834B67071ACCD55501A7D833@scomp0040.wurnet.nl>",
+      "from_name": "Lu, Kevin",
+      "from_email_hash": "0a79678e7249a2c09899085032fab95965e0ee55ebc92d8ad4c58ad867e51e24",
+      "date": "2009-06-17T17:47:30+02:00",
+      "subject": "[R-sig-genetics] Bayesian network",
+      "subject_clean": "Bayesian network",
+      "in_reply_to": "<0B75A6276180B546A1CA8D2B46E7580502F3741474@ICEXM3.ic.ac.uk>",
+      "references": [
+        "<124584AFB3A4D449834B67071ACCD55501A7D818@scomp0040.wurnet.nl>",
+        "<0B75A6276180B546A1CA8D2B46E7580502F3741474@ICEXM3.ic.ac.uk>"
+      ],
+      "body_plain": "Hi Thibaut,\n\nThanks for your suggestion, and sorry for my late reply. The reason for\nmy try of the Bayesian network to find the markov blanket of my\nphenotype is about the high order of gene-gene interaction. In the\noutcome of Bayesian network, I can check these high order interactions\nwith causal suggestion. After so many trys and errors, I realize that\ndeal package can not deal too many variables due to limitation of the\nmemory (even using the computer cluster). I am now trying to use other\nBayesian network package, hopefully to reach my goal.\n\nBest wishes,\n\nKevin\n\n-----Original Message-----\nFrom: Jombart, Thibaut [mailto:t.jombart at imperial.ac.uk] \nSent: woensdag 10 juni 2009 13:14\nTo: Lu, Kevin; r-sig-genetics at r-project.org\nSubject: RE: Bayesian network\n\nDear Kevin, \n\nI am admittedly not into Bayesian networks, but in any case the 10 SNPs\nlimitation sounds a bit surprising. However, the error you encounter is\nquite package-specific. I think you may want to ask your question\ndirectly to deal's maintainer, in case you would not find an answer\nhere. \n\nI don't know of any package that would implement Bayesian networks\nspecifically for genetic data.\n\nBest regards,\n\nThibaut.\n\n________________________________________\nFrom: r-sig-genetics-bounces at r-project.org\n[r-sig-genetics-bounces at r-project.org] On Behalf Of Lu, Kevin\n[kevin.lu at wur.nl]\nSent: 08 June 2009 17:38\nTo: r-sig-genetics at r-project.org\nSubject: [R-sig-genetics] Bayesian network\n\nDear all,\n\nI am now trying to use Bayesian network to analyze my SNP data,\nassociating 20 SNPs with one phenotype (plasma cholesterol levels). I\nwant to use deal package to find the markov plane of my phenotype. I\nhave 3575 records. After trying the deal package, I can not go through\ncoomand----jointprior (). It is said \"Error in array(1, Dim) : 'dim'\nspecifies too large an array\".\n\nI reduced the number of SNP to 10 and I can continue.  When I try\n\"result<-heuristic(my.data1.nw,my.data1,my.data1.prior,restart=2,degree=\n10,trace=TRUE)\". It was said that \"[Heuristic [Autosearch Error in\nphi[[y]] : attempt to select less than one element\". So, I can not get\nthe results.\n\nI hope someone could help me with it. Am I using the right package?\n\nThanks in advance,\n\nKevin\n\n\n\n        [[alternative HTML version deleted]]\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
+      "body_snippet": "Hi Thibaut,\n\nThanks for your suggestion, and sorry for my late reply. The reason for\nmy try of the Bayesian network to find the markov blanket of my\nphenotype is about the high order of gene-gene inte",
+      "thread_id": "thread-9c4587b5fce6",
+      "thread_depth": 2,
+      "month": "2009-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-9c4587b5fce6",
+      "subject": "Bayesian network",
+      "message_count": 3,
+      "participants": [
+        "Jombart, Thibaut",
+        "Lu, Kevin"
+      ],
+      "started": "2009-06-08T18:38:13+02:00",
+      "last_reply": "2009-06-17T17:47:30+02:00",
+      "root_message_id": "msg-9c4587b5fce6"
+    }
+  ]
+}

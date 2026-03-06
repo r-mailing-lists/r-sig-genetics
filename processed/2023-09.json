@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2023-09",
+  "messages": [
+    {
+      "id": "msg-a6a5927ce19c",
+      "message_id": "<1694964824.32018398@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2023-09-17T17:33:44+02:00",
+      "subject": "[R-sig-genetics] course\" Population Genomics Using Ancient DNA Data\"",
+      "subject_clean": "course\" Population Genomics Using Ancient DNA Data\"",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nregistrations are now open for the 2nd edition of the course\" Population Genomics Using Ancient DNA Data\".\n \nDates: (Online) 8th-12th January 2024\n\n\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/adna-popgen/ ]( https://www.physalia-courses.org/courses-workshops/adna-popgen/ )\n \n \n Our course will delve into the methods and techniques for generating and analyzing ancient DNA (aDNA) data, with a primary focus on eukaryote genomes, which boasts a wealth of publicly available aDNA data.\n \n \nThis course combines in-depth lectures with hands-on exercises, providing a comprehensive understanding of population genomic research using aDNA. The practical exercises will be conducted in a Linux environment, and data visualization will be performed using RStudio.\n \nIt is tailored for graduate students and researchers in genetics, ecology, and anthropology who wish to harness the power of aDNA data in population genetics research. While the course examples primarily focus on humans, the methods discussed are applicable to researchers studying other organisms with available aDNA data.\n \n \nCourse Schedule (Berlin Time):\n- Monday: Data processing and authentication\n- Tuesday: Population structure and relatedness\n- Wednesday: Introduction to the coalescent theory; D and F statistics\n- Thursday: Demographic inference\n- Friday: Simulations; Natural selection\n \nFor the full list of our courses and Workshops, please have a look at [ https://www.physalia-courses.org/courses-workshops ]( https://www.physalia-courses.org/courses-workshops )\n \n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\nFollow us on [ Twitter ]( https://twitter.com/Physacourses ) & [ Mastodon ]( https://mas.to/@PhysaliaCourses )\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nregistrations are now open for the 2nd edition of the course\" Population Genomics Using Ancient DNA Data\".\n \nDates: (Online) 8th-12th January 2024\n\n\n \nCourse website: [ https://www.physalia-",
+      "thread_id": "thread-a6a5927ce19c",
+      "thread_depth": 0,
+      "month": "2023-09"
+    },
+    {
+      "id": "msg-4db5b78d4027",
+      "message_id": "<CAEsSYzzhTtV7GF3AU9gMgxp1b6xkEBYWNbG5bHXcoVf1ov8H5g@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2023-09-20T18:26:50+01:00",
+      "subject": "[R-sig-genetics] The Practice of RADseq: Population Genomics Analysis with Stacks (RADS02)",
+      "subject_clean": "The Practice of RADseq: Population Genomics Analysis with Stacks (RADS02)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Not an R course but I thought this might be of interest to some group\nmembers, feel free to delete if not suitable.\n\nThe Practice of RADseq: Population Genomics Analysis with Stacks (RADS02)\n<https://www.prstatistics.com/course/the-practice-of-radseq-population-genomics-analysis-with-stacks-rads02/>\n\nhttps://www.prstatistics.com/course/the-practice-of-radseq-population-genomics-analysis-with-stacks-rads02/\n2nd - 6th October 2023, 09:00-16:00 CDT (Central Daylight Time), however\nall sessions will be recorded and made available daily allowing attendees\nfrom different time zones to follow.\nCost\nEarly bird - book before 18th September ?350.00\nNormal - book after 18th September ?450.00\n\nDelivered by Dr Julian Catchen <https://catchenlab.life.illinois.edu/>\n\nPlease feel free to share!\n\nAbout This Course\nThis course is aimed at introducing researchers to the theory and practice\nof using reduced representation libraries ? such as RAD sequencing ? to\npreform population genomic analysis in non-model organisms. The course will\ncenter on running the software pipeline Stacks, focusing on how the\ncharacteristics of the underlying molecular libraries result in weak or\nrobust analytical results. Sessions will be live online, consisting of a\nblend of lectures, interactive demonstrations, and lab practicals, where\nparticipants will have the opportunity to ask questions throughout.\nComputation will be done on the Amazon AWS Cloud.\n\nBy the end of the course, participants should be able to:\n\n   - Navigate the UNIX file system, execute commands, and interact with\n   bioinformatic data files;\n   - Understand how to perform a de novo analysis ? without a reference\n   genome ? including parameter optimization;\n   - Understand how PCR duplicates and other molecular library\n   characteristics affect analysis;\n   - Complete a reference genome-based analysis;\n   - Take the outputs from Stacks to complete a Structure analysis (de novo),\n   a genome scan based on FST(reference-based), and a private allele\n   analysis.\n\nPlease email oliverhooker at prstatistics.com\n\n-- \n\nOliver Hooker PhD.\nPR statistics\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Not an R course but I thought this might be of interest to some group\nmembers, feel free to delete if not suitable.\n\nThe Practice of RADseq: Population Genomics Analysis with Stacks (RADS02)\n<https://",
+      "thread_id": "thread-4db5b78d4027",
+      "thread_depth": 0,
+      "month": "2023-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-a6a5927ce19c",
+      "subject": "course\" Population Genomics Using Ancient DNA Data\"",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2023-09-17T17:33:44+02:00",
+      "last_reply": "2023-09-17T17:33:44+02:00",
+      "root_message_id": "msg-a6a5927ce19c"
+    },
+    {
+      "id": "thread-4db5b78d4027",
+      "subject": "The Practice of RADseq: Population Genomics Analysis with Stacks (RADS02)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2023-09-20T18:26:50+01:00",
+      "last_reply": "2023-09-20T18:26:50+01:00",
+      "root_message_id": "msg-4db5b78d4027"
+    }
+  ]
+}

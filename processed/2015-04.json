@@ -1,0 +1,136 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2015-04",
+  "messages": [
+    {
+      "id": "msg-1b76879798f0",
+      "message_id": "<2CB2DA8E426F3541AB1907F98ABA6570ABF11DDF@icexch-m1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2015-04-08T16:21:00Z",
+      "subject": "[R-sig-genetics] r-sig-genetics is alive!",
+      "subject_clean": "r-sig-genetics is alive!",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nafter a rather quiet existence for the last few years, it may be good to send this reminder: r-sig-genetics is alive!\n\nMany awesome people have subscribed lately, and I am looking forward to seeing exciting discussions here. Posting guidelines have been freshly updated:\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n\nComing soon: exciting news regarding future releases of a bunch of population genetics packages.\n\nAll the best\n\nThibaut\n\n==============================\nDr Thibaut Jombart\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - School of Public Health\nNorfolk Place, London W2 1PG, UK\nTel. : 0044 (0)20 7594 3658\nhttp://sites.google.com/site/thibautjombart/\nhttp://sites.google.com/site/therepiproject/\nhttp://adegenet.r-forge.r-project.org/\nTwitter: @thibautjombart\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nafter a rather quiet existence for the last few years, it may be good to send this reminder: r-sig-genetics is alive!\n\nMany awesome people have subscribed lately, and I am looking forward t",
+      "thread_id": "thread-1b76879798f0",
+      "thread_depth": 0,
+      "month": "2015-04"
+    },
+    {
+      "id": "msg-80fb331c21e5",
+      "message_id": "<552563D9.9000900@duke.edu>",
+      "from_name": "Hilmar Lapp",
+      "from_email_hash": "c950ea6a7c8b39a6522603290fc55874438ad9b1b1162183aa821c203328f3bb",
+      "date": "2015-04-08T13:22:33-04:00",
+      "subject": "[R-sig-genetics] r-sig-genetics is alive!",
+      "subject_clean": "r-sig-genetics is alive!",
+      "in_reply_to": "<2CB2DA8E426F3541AB1907F98ABA6570ABF11DDF@icexch-m1.ic.ac.uk>",
+      "references": [
+        "<2CB2DA8E426F3541AB1907F98ABA6570ABF11DDF@icexch-m1.ic.ac.uk>"
+      ],
+      "body_plain": "Yay! R-SIG-Genetics is dead, long live R-SIG-Genetics :-) I'll post a\nrequest for feedback in separate email.\n\n   -hilmar\n\nOn 4/8/15, 12:21 PM, Jombart, Thibaut wrote:\n> Dear all,\n>\n> after a rather quiet existence for the last few years, it may be good to send this reminder: r-sig-genetics is alive!\n>\n> Many awesome people have subscribed lately, and I am looking forward to seeing exciting discussions here. Posting guidelines have been freshly updated:\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n>\n> Coming soon: exciting news regarding future releases of a bunch of population genetics packages.\n>\n> All the best\n>\n> Thibaut\n>\n> ==============================\n> Dr Thibaut Jombart\n> MRC Centre for Outbreak Analysis and Modelling\n> Department of Infectious Disease Epidemiology\n> Imperial College - School of Public Health\n> Norfolk Place, London W2 1PG, UK\n> Tel. : 0044 (0)20 7594 3658\n> http://sites.google.com/site/thibautjombart/\n> http://sites.google.com/site/therepiproject/\n> http://adegenet.r-forge.r-project.org/\n> Twitter: @thibautjombart\n>\n>\n>\n> \t[[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n\n-- \nHilmar Lapp -:- genome.duke.edu -:- lappland.io",
+      "body_snippet": "Yay! R-SIG-Genetics is dead, long live R-SIG-Genetics :-) I'll post a\nrequest for feedback in separate email.\n\n   -hilmar\n\nOn 4/8/15, 12:21 PM, Jombart, Thibaut wrote:\n> Dear all,\n>\n> after a rather q",
+      "thread_id": "thread-1b76879798f0",
+      "thread_depth": 1,
+      "month": "2015-04"
+    },
+    {
+      "id": "msg-2efdab464b1c",
+      "message_id": "<55256538.2040605@duke.edu>",
+      "from_name": "Hilmar Lapp",
+      "from_email_hash": "c950ea6a7c8b39a6522603290fc55874438ad9b1b1162183aa821c203328f3bb",
+      "date": "2015-04-08T13:28:24-04:00",
+      "subject": "[R-sig-genetics] request for feedback: R popgen packages for Docker image",
+      "subject_clean": "request for feedback: R popgen packages for Docker image",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "As an outcome of the recently held Population Genetics in R hackathon\n[1] I created a publicly maintained Docker container for population\ngenetics in R, and recently issued the following request for feedback:\n\nhttps://twitter.com/hlapp/status/582226596846813184\nDocker image for Population Genetics in R - is this useful? Do you have\npackages to suggest for editing? Any comments welcome: Docker Hub:\nhttps://registry.hub.docker.com/u/hlapp/rpopgen/\nIssue tracker (and source repository):\nhttps://github.com/NESCent/popgen-docker/issues\n\n  -hilmar\n\n[1] https://github.com/NESCent/r-popgen-hackathon\n-- \nHilmar Lapp -:- genome.duke.edu -:- lappland.io",
+      "body_snippet": "As an outcome of the recently held Population Genetics in R hackathon\n[1] I created a publicly maintained Docker container for population\ngenetics in R, and recently issued the following request for f",
+      "thread_id": "thread-2efdab464b1c",
+      "thread_depth": 0,
+      "month": "2015-04"
+    },
+    {
+      "id": "msg-c30a7fbbd1b1",
+      "message_id": "<2CB2DA8E426F3541AB1907F98ABA6570ABF12036@icexch-m1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2015-04-09T13:34:22Z",
+      "subject": "[R-sig-genetics] R/genetics packages on github",
+      "subject_clean": "R/genetics packages on github",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all\n\nfollowing the \"population genetics in R\" hackathon organized by Hilmar Lapp at NESCent (NC) last month, a bunch of R packages for genetic data analysis are now being developed in a collaborative, and coordinated way on Github. Several of them are undergoing major changes to improve data interoperability, minimize redundancies across packages, scale better for large genomic datasets, and implement new functionalities. \n\nThe list includes:\n- adegenet: https://github.com/thibautjombart/adegenet\n- apex (new package): https://github.com/thibautjombart/apex\n- hierfstat: https://github.com/jgx65/hierfstat\n- minautor (new package): https://github.com/NESCent/MINOTAUR\n- pegas: https://github.com/emmanuelparadis/pegas\n- phangorn: https://github.com/KlausVigo/phangorn\n- poppr: https://github.com/zkamvar/poppr\n- strataG: https://github.com/EricArcher/strataG\n\nThe development versions can be installed from R directly using (example with adegenet):\nlibrary(\"devtools\")\ninstall_github(\"thibautjombart/adegenet\")\n\nIf curious, visit the respective pages on github to track the development, join the development teams, post feature requests / bugs reports / discuss with the developers (all made simple using the 'issue' system). \n\nWatch this space for more news on this topic!\n\nBest\nThibaut\n    \n==============================\nDr Thibaut Jombart\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - School of Public Health\nNorfolk Place, London W2 1PG, UK\nTel. : 0044 (0)20 7594 3658\nhttp://sites.google.com/site/thibautjombart/\nhttp://sites.google.com/site/therepiproject/\nhttp://adegenet.r-forge.r-project.org/\n\nTwitter: @thibautjombart",
+      "body_snippet": "Dear all\n\nfollowing the \"population genetics in R\" hackathon organized by Hilmar Lapp at NESCent (NC) last month, a bunch of R packages for genetic data analysis are now being developed in a collabora",
+      "thread_id": "thread-c30a7fbbd1b1",
+      "thread_depth": 0,
+      "month": "2015-04"
+    },
+    {
+      "id": "msg-574df3b992b6",
+      "message_id": "<2CB2DA8E426F3541AB1907F98ABA6570ABF13213@icexch-m1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2015-04-16T15:59:25Z",
+      "subject": "[R-sig-genetics] New package apex 1.0.0 released on CRAN",
+      "subject_clean": "New package apex 1.0.0 released on CRAN",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\n(apologies for multiple posting)\n\nOn behalf of the apex development team (E. Paradis, K. Schliep, Z. Kamvar, R. Harris and myself), I am happy to announce that apex has been released on CRAN:\nhttp://cran.r-project.org/web/packages/apex/index.html\n\nThis package provides tools for reading, storing, handling and analysing genetic sequences from multiple genes, and is compatible with both ape and phangorn.\n\nFor more information on apex, questions, requests, or to join us, check our github project at:\nhttps://github.com/thibautjombart/apex\n\nBest regards\nThibaut\n               \n==============================\nDr Thibaut Jombart\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - School of Public Health\nNorfolk Place, London W2 1PG, UK\nTel. : 0044 (0)20 7594 3658\nhttp://sites.google.com/site/thibautjombart/\nhttp://sites.google.com/site/therepiproject/\nhttp://adegenet.r-forge.r-project.org/\nTwitter: @thibautjombart",
+      "body_snippet": "Dear all,\n\n(apologies for multiple posting)\n\nOn behalf of the apex development team (E. Paradis, K. Schliep, Z. Kamvar, R. Harris and myself), I am happy to announce that apex has been released on CRA",
+      "thread_id": "thread-574df3b992b6",
+      "thread_depth": 0,
+      "month": "2015-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-2efdab464b1c",
+      "subject": "request for feedback: R popgen packages for Docker image",
+      "message_count": 1,
+      "participants": [
+        "Hilmar Lapp"
+      ],
+      "started": "2015-04-08T13:28:24-04:00",
+      "last_reply": "2015-04-08T13:28:24-04:00",
+      "root_message_id": "msg-2efdab464b1c"
+    },
+    {
+      "id": "thread-1b76879798f0",
+      "subject": "r-sig-genetics is alive!",
+      "message_count": 2,
+      "participants": [
+        "Hilmar Lapp",
+        "Jombart, Thibaut"
+      ],
+      "started": "2015-04-08T16:21:00+00:00",
+      "last_reply": "2015-04-08T13:22:33-04:00",
+      "root_message_id": "msg-1b76879798f0"
+    },
+    {
+      "id": "thread-c30a7fbbd1b1",
+      "subject": "R/genetics packages on github",
+      "message_count": 1,
+      "participants": [
+        "Jombart, Thibaut"
+      ],
+      "started": "2015-04-09T13:34:22+00:00",
+      "last_reply": "2015-04-09T13:34:22+00:00",
+      "root_message_id": "msg-c30a7fbbd1b1"
+    },
+    {
+      "id": "thread-574df3b992b6",
+      "subject": "New package apex 1.0.0 released on CRAN",
+      "message_count": 1,
+      "participants": [
+        "Jombart, Thibaut"
+      ],
+      "started": "2015-04-16T15:59:25+00:00",
+      "last_reply": "2015-04-16T15:59:25+00:00",
+      "root_message_id": "msg-574df3b992b6"
+    }
+  ]
+}

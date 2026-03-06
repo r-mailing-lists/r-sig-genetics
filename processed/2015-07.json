@@ -1,0 +1,216 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2015-07",
+  "messages": [
+    {
+      "id": "msg-323bd0d75de2",
+      "message_id": "<2CB2DA8E426F3541AB1907F98ABA6570ABF4AA60@icexch-m1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2015-07-09T11:24:18Z",
+      "subject": "[R-sig-genetics] adegenet 2.0.0 on CRAN!",
+      "subject_clean": "adegenet 2.0.0 on CRAN!",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n(sorry about the double-posting)\n\nthe new release of adegenet, 2.0.0, has hit the CRAN!\n\nThis is a major release with some breaking of backward compatibility, but it is all for the greater good.\n\nYou can find a list of the main changes in the ChangeLog:\n http://cran.r-project.org/web/packages/adegenet/ChangeLog\n\nAmongst other things, here are some highlights:\n- genind objects now allow different individuals to have different ploidy\n- Zhian Kamvar has implemented hierarchical structure in genind and genlight objects\n- the generic label system has been removed\n- handling genind objects is now a lot easier and more powerful\n- a bunch of new accessors to make your life easier\n- better integration with hierfstat, pegas, and other packages\n\nAll of this is documented in tutorials. The main ones will be the basics, taking you through data structure, handling etc:\nhttps://github.com/thibautjombart/adegenet/blob/master/tutorials/tutorial-basics.pdf\n\nand the one on strata:\nhttps://github.com/thibautjombart/adegenet/blob/master/tutorials/tutorial-strata.pdf\n\nWe are slowly moving the old website onto github. As of now, this is where you should be finding the most up-to-date infos:\n https://github.com/thibautjombart/adegenet/wiki\n\nMany thanks to the whole team (especially Zhian Kamvar and Roman Lustrik) for the last push to get this on CRAN.\n\nAll the best\nThibaut",
+      "body_snippet": "Dear all,\n(sorry about the double-posting)\n\nthe new release of adegenet, 2.0.0, has hit the CRAN!\n\nThis is a major release with some breaking of backward compatibility, but it is all for the greater g",
+      "thread_id": "thread-323bd0d75de2",
+      "thread_depth": 0,
+      "month": "2015-07"
+    },
+    {
+      "id": "msg-4c7446220691",
+      "message_id": "<CAGutmY_Y3soZViKv87aFaA4bs_az7BN5_8YUGEAcAy-JxuDwSw@mail.gmail.com>",
+      "from_name": "Libby Liggins",
+      "from_email_hash": "996c1acf53838854a924a008a596817e1ae157e36fc3522befff1af5f1e78ec0",
+      "date": "2015-07-16T07:18:20+12:00",
+      "subject": "[R-sig-genetics] genind2hierfstat",
+      "subject_clean": "genind2hierfstat",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi Thibaut and Jerome -\n\nThe interoperability that you are building between your packages is\nfantastic! But, I am having trouble with the genind2hierfstat function. It\ndoesn't seem to exist in either adegenet 2.0 or the development version of\nhierfstat. I apologise if I missing something.\n\nThanks,\nLibby.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi Thibaut and Jerome -\n\nThe interoperability that you are building between your packages is\nfantastic! But, I am having trouble with the genind2hierfstat function. It\ndoesn't seem to exist in either ",
+      "thread_id": "thread-4c7446220691",
+      "thread_depth": 0,
+      "month": "2015-07"
+    },
+    {
+      "id": "msg-8e94bfed2c8e",
+      "message_id": "<2CB2DA8E426F3541AB1907F98ABA6570ABF4B45F@icexch-m1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2015-07-16T10:47:26Z",
+      "subject": "[R-sig-genetics] genind2hierfstat",
+      "subject_clean": "genind2hierfstat",
+      "in_reply_to": "<CAGutmY_Y3soZViKv87aFaA4bs_az7BN5_8YUGEAcAy-JxuDwSw@mail.gmail.com>",
+      "references": [
+        "<CAGutmY_Y3soZViKv87aFaA4bs_az7BN5_8YUGEAcAy-JxuDwSw@mail.gmail.com>"
+      ],
+      "body_plain": "Hi Libby, \n\nyes, it has been removed from adegenet and internalized in hierfstat. I think the idea is that ultimately all procedures in hierfstat will work directly with genind objects, so conversion will not be needed any more. \n\nFor now, we still cheat, and use genind2hierfstat inside hierfstat. This function is hidden (.genind2hierfstat), and not exported. To access it, you need:\n\nhierfstat:::.genind2hierfstat\n\n(with the current devel of hierfstat)\n\nBest\nThibaut\n\n==============================\nDr Thibaut Jombart\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - School of Public Health\nNorfolk Place, London W2 1PG, UK\nTel. : 0044 (0)20 7594 3658\nhttp://sites.google.com/site/thibautjombart/\nhttp://sites.google.com/site/therepiproject/\nhttp://adegenet.r-forge.r-project.org/\nTwitter: @thibautjombart\n\n\n\n________________________________________\nFrom: R-sig-genetics [r-sig-genetics-bounces at r-project.org] on behalf of Libby Liggins [libbyliggins at gmail.com]\nSent: 15 July 2015 20:18\nTo: r-sig-genetics at r-project.org\nSubject: [R-sig-genetics] genind2hierfstat\n\nHi Thibaut and Jerome -\n\nThe interoperability that you are building between your packages is\nfantastic! But, I am having trouble with the genind2hierfstat function. It\ndoesn't seem to exist in either adegenet 2.0 or the development version of\nhierfstat. I apologise if I missing something.\n\nThanks,\nLibby.\n\n        [[alternative HTML version deleted]]\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
+      "body_snippet": "Hi Libby, \n\nyes, it has been removed from adegenet and internalized in hierfstat. I think the idea is that ultimately all procedures in hierfstat will work directly with genind objects, so conversion ",
+      "thread_id": "thread-4c7446220691",
+      "thread_depth": 1,
+      "month": "2015-07"
+    },
+    {
+      "id": "msg-8aa55e37e118",
+      "message_id": "<CAGutmY8YcE3iE2Oqsth4OGckjPpgXk66+EZWAcD4WncV=kSueA@mail.gmail.com>",
+      "from_name": "Libby Liggins",
+      "from_email_hash": "996c1acf53838854a924a008a596817e1ae157e36fc3522befff1af5f1e78ec0",
+      "date": "2015-07-17T01:10:47+12:00",
+      "subject": "[R-sig-genetics] genind2hierfstat",
+      "subject_clean": "genind2hierfstat",
+      "in_reply_to": "<2CB2DA8E426F3541AB1907F98ABA6570ABF4B45F@icexch-m1.ic.ac.uk>",
+      "references": [
+        "<CAGutmY_Y3soZViKv87aFaA4bs_az7BN5_8YUGEAcAy-JxuDwSw@mail.gmail.com>",
+        "<2CB2DA8E426F3541AB1907F98ABA6570ABF4B45F@icexch-m1.ic.ac.uk>"
+      ],
+      "body_plain": "Great, thanks Thibaut!\n\nLibby.\n\nOn Thu, Jul 16, 2015 at 10:47 PM, Jombart, Thibaut <t.jombart at imperial.ac.uk\n> wrote:\n\n> Hi Libby,\n>\n> yes, it has been removed from adegenet and internalized in hierfstat. I\n> think the idea is that ultimately all procedures in hierfstat will work\n> directly with genind objects, so conversion will not be needed any more.\n>\n> For now, we still cheat, and use genind2hierfstat inside hierfstat. This\n> function is hidden (.genind2hierfstat), and not exported. To access it, you\n> need:\n>\n> hierfstat:::.genind2hierfstat\n>\n> (with the current devel of hierfstat)\n>\n> Best\n> Thibaut\n>\n> ==============================\n> Dr Thibaut Jombart\n> MRC Centre for Outbreak Analysis and Modelling\n> Department of Infectious Disease Epidemiology\n> Imperial College - School of Public Health\n> Norfolk Place, London W2 1PG, UK\n> Tel. : 0044 (0)20 7594 3658\n> http://sites.google.com/site/thibautjombart/\n> http://sites.google.com/site/therepiproject/\n> http://adegenet.r-forge.r-project.org/\n> Twitter: @thibautjombart\n>\n>\n>\n> ________________________________________\n> From: R-sig-genetics [r-sig-genetics-bounces at r-project.org] on behalf of\n> Libby Liggins [libbyliggins at gmail.com]\n> Sent: 15 July 2015 20:18\n> To: r-sig-genetics at r-project.org\n> Subject: [R-sig-genetics] genind2hierfstat\n>\n> Hi Thibaut and Jerome -\n>\n> The interoperability that you are building between your packages is\n> fantastic! But, I am having trouble with the genind2hierfstat function. It\n> doesn't seem to exist in either adegenet 2.0 or the development version of\n> hierfstat. I apologise if I missing something.\n>\n> Thanks,\n> Libby.\n>\n>         [[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Great, thanks Thibaut!\n\nLibby.\n\nOn Thu, Jul 16, 2015 at 10:47 PM, Jombart, Thibaut <t.jombart at imperial.ac.uk\n> wrote:\n\n> Hi Libby,\n>\n> yes, it has been removed from adegenet and internalized in hie",
+      "thread_id": "thread-4c7446220691",
+      "thread_depth": 2,
+      "month": "2015-07"
+    },
+    {
+      "id": "msg-93b1ef20da9c",
+      "message_id": "<91629265-9F72-4135-9125-A9EB9D4A4E02@gmail.com>",
+      "from_name": "Eric Crandall",
+      "from_email_hash": "da4e892f1ec2ad9821389691ed8d760f846c9edea54c2980320b958deedfc1e0",
+      "date": "2015-07-20T12:16:52-07:00",
+      "subject": "[R-sig-genetics] pegas::amova()",
+      "subject_clean": "pegas::amova()",
+      "in_reply_to": "<CAGutmY8YcE3iE2Oqsth4OGckjPpgXk66+EZWAcD4WncV=kSueA@mail.gmail.com>",
+      "references": [
+        "<CAGutmY_Y3soZViKv87aFaA4bs_az7BN5_8YUGEAcAy-JxuDwSw@mail.gmail.com>",
+        "<2CB2DA8E426F3541AB1907F98ABA6570ABF4B45F@icexch-m1.ic.ac.uk>",
+        "<CAGutmY8YcE3iE2Oqsth4OGckjPpgXk66+EZWAcD4WncV=kSueA@mail.gmail.com>"
+      ],
+      "body_plain": "Hi Emmanuel or others,\n\n\tI was directed here to ask a question about the amova function in pegas. Hopefully this is the right place.\n\n\t I have been using pegas::amova() in a function that loops over a database of species to calculate amova at up to three hierarchical levels. My function recently broke, apparently due to a recent update <https://cran.r-project.org/web/packages/pegas/NEWS> to Pegas - specifically this change:\n\n    o amova() failed when the factors in the rhs of the formula were\n      in a data frame. Thanks to Zhian Kamvar for the fix.\n\nAs a workaround to for pegas:amova not being able to use a dataframe of factors, I was assigning the factors to the global environment:\n\n      level1factor<<-as.factor(sp[[l1]])\n      level2factor<<-as.factor(sp[[l2]])\n      amova_out<-pegas::amova(dists~level2factor/level1factor, nperm=nperm, is.squared=T)\n\n\nNow, after the update, my function is throwing an error. The traceback goes\n\n4 stop(\"'bin' must be numeric or a factor\") \n3 FUN(X[[i]], ...) \n2 lapply(gr, tabulate) \n1 pegas::amova(dists ~ level2factor/level1factor, nperm = nperm, \n    is.squared = T) \n\nAs far as I can tell, the objects that I am submitting to tabulate() in gr via lapply() ARE factors. \n\nWhen I try to reproduce the problem by running step by step through the pegas::amova function, everything works fine. \n\nSo I am stumped for now. Does anyone have any ideas?\n\n\nMany thanks,\n\nEric Crandall\n\n\n\nPS - I?m very happy to see strata being added to genind objects in adegenet. Will these eventually be usable by pegas::amova or a similar amova function?\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi Emmanuel or others,\n\n\tI was directed here to ask a question about the amova function in pegas. Hopefully this is the right place.\n\n\t I have been using pegas::amova() in a function that loops over a",
+      "thread_id": "thread-4c7446220691",
+      "thread_depth": 3,
+      "month": "2015-07"
+    },
+    {
+      "id": "msg-b800b1e810b8",
+      "message_id": "<15E239CB-5131-4594-9EA1-6BA277ADDFD8@gmail.com>",
+      "from_name": "Zhian Kamvar",
+      "from_email_hash": "7dc521447931bd0edb4bad308c5643b75a875047acda912ef22609dec2e0a749",
+      "date": "2015-07-20T12:48:22-07:00",
+      "subject": "[R-sig-genetics] pegas::amova()",
+      "subject_clean": "pegas::amova()",
+      "in_reply_to": "<91629265-9F72-4135-9125-A9EB9D4A4E02@gmail.com>",
+      "references": [
+        "<CAGutmY_Y3soZViKv87aFaA4bs_az7BN5_8YUGEAcAy-JxuDwSw@mail.gmail.com>",
+        "<2CB2DA8E426F3541AB1907F98ABA6570ABF4B45F@icexch-m1.ic.ac.uk>",
+        "<CAGutmY8YcE3iE2Oqsth4OGckjPpgXk66+EZWAcD4WncV=kSueA@mail.gmail.com>",
+        "<91629265-9F72-4135-9125-A9EB9D4A4E02@gmail.com>"
+      ],
+      "body_plain": "Hi Eric,\n\nCan you provide a minimum working example and post your session information?\n\nThe following example works for me (adapted from https://github.com/emmanuelparadis/pegas/pull/2#issue-67437033):\n\nlibrary('pegas')\ndata(microbov)\nset.seed(20150409)\nmic20 <- microbov[sample(nInd(microbov), 20)]\nmicrodf <- data.frame(other(mic20))\nd <- dist(tab(mic20))\namova(d ~ spe/breed, data = microdf, nperm = 0)\n\nSPE   <<- as.factor(microdf$spe)\nBREED <<- as.factor(microdf$breed)\namova(d ~ SPE/BREED, nperm = 0)\n\n> sessionInfo()\nR version 3.2.1 (2015-06-18)\nPlatform: x86_64-apple-darwin13.4.0 (64-bit)\nRunning under: OS X 10.10.4 (Yosemite)\n\nlocale:\n[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8\n\nattached base packages:\n[1] stats     graphics  grDevices utils     datasets  methods   base     \n\nother attached packages:\n[1] pegas_0.8-1    adegenet_2.0.0 ade4_1.7-2     ape_3.3       \n\nloaded via a namespace (and not attached):\n [1] Rcpp_0.11.6      spdep_0.5-88     plyr_1.8.3       LearnBayes_2.15  tools_3.2.1     \n [6] boot_1.3-16      digest_0.6.8     nlme_3.1-120     gtable_0.1.2     lattice_0.20-31 \n[11] Matrix_1.2-1     igraph_1.0.1     shiny_0.12.1     DBI_0.3.1        parallel_3.2.1  \n[16] proto_0.3-10     coda_0.17-1      dplyr_0.4.2      stringr_1.0.0    grid_3.2.1      \n[21] R6_2.1.0         sp_1.1-1         ggplot2_1.0.1    reshape2_1.4.1   seqinr_3.1-3    \n[26] deldir_0.1-9     magrittr_1.5     scales_0.2.5     htmltools_0.2.6  MASS_7.3-41     \n[31] splines_3.2.1    assertthat_0.1   mime_0.3         colorspace_1.2-6 xtable_1.7-4    \n[36] httpuv_1.3.2     stringi_0.5-5    munsell_0.4.2  \n\nThe data frame implementation works now, so you can use your strata directly instead of pulling the levels from it:\n\nmy_strata <- strata(my_data)\namova_out <- pegas::amova(dists~l2/l1, data = my_strata, nperm=nperm, is.squared=T)\n\nAdditionally, poppr has a wrapper to ADE4's implementation of AMOVA that explicitly handles strata called poppr.amova.\n\nCheers,\nZhian \n\n\n> On Jul 20, 2015, at 12:16 , Eric Crandall <eric.d.crandall at gmail.com> wrote:\n> \n> Hi Emmanuel or others,\n> \n> \tI was directed here to ask a question about the amova function in pegas. Hopefully this is the right place.\n> \n> \t I have been using pegas::amova() in a function that loops over a database of species to calculate amova at up to three hierarchical levels. My function recently broke, apparently due to a recent update <https://cran.r-project.org/web/packages/pegas/NEWS> to Pegas - specifically this change:\n> \n>    o amova() failed when the factors in the rhs of the formula were\n>      in a data frame. Thanks to Zhian Kamvar for the fix.\n> \n> As a workaround to for pegas:amova not being able to use a dataframe of factors, I was assigning the factors to the global environment:\n> \n>      level1factor<<-as.factor(sp[[l1]])\n>      level2factor<<-as.factor(sp[[l2]])\n>      amova_out<-pegas::amova(dists~level2factor/level1factor, nperm=nperm, is.squared=T)\n> \n> \n> Now, after the update, my function is throwing an error. The traceback goes\n> \n> 4 stop(\"'bin' must be numeric or a factor\") \n> 3 FUN(X[[i]], ...) \n> 2 lapply(gr, tabulate) \n> 1 pegas::amova(dists ~ level2factor/level1factor, nperm = nperm, \n>    is.squared = T) \n> \n> As far as I can tell, the objects that I am submitting to tabulate() in gr via lapply() ARE factors. \n> \n> When I try to reproduce the problem by running step by step through the pegas::amova function, everything works fine. \n> \n> So I am stumped for now. Does anyone have any ideas?\n> \n> \n> Many thanks,\n> \n> Eric Crandall\n> \n> \n> \n> PS - I?m very happy to see strata being added to genind objects in adegenet. Will these eventually be usable by pegas::amova or a similar amova function?\n> \n> \n> \n> \t[[alternative HTML version deleted]]\n> \n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
+      "body_snippet": "Hi Eric,\n\nCan you provide a minimum working example and post your session information?\n\nThe following example works for me (adapted from https://github.com/emmanuelparadis/pegas/pull/2#issue-67437033)",
+      "thread_id": "thread-4c7446220691",
+      "thread_depth": 4,
+      "month": "2015-07"
+    },
+    {
+      "id": "msg-b589a85ba26c",
+      "message_id": "<F31E7A16-D0EB-4A4D-9047-E3319C55FF6B@science.oregonstate.edu>",
+      "from_name": "Zhian Kamvar",
+      "from_email_hash": "22d49dbeb0ae0b237f0469049b2a7bdfde827513b85adcc2c71ca951614f6bcc",
+      "date": "2015-07-20T13:31:50-07:00",
+      "subject": "[R-sig-genetics] pegas::amova()",
+      "subject_clean": "pegas::amova()",
+      "in_reply_to": "<15E239CB-5131-4594-9EA1-6BA277ADDFD8@gmail.com>",
+      "references": [
+        "<CAGutmY_Y3soZViKv87aFaA4bs_az7BN5_8YUGEAcAy-JxuDwSw@mail.gmail.com>",
+        "<2CB2DA8E426F3541AB1907F98ABA6570ABF4B45F@icexch-m1.ic.ac.uk>",
+        "<CAGutmY8YcE3iE2Oqsth4OGckjPpgXk66+EZWAcD4WncV=kSueA@mail.gmail.com>",
+        "<91629265-9F72-4135-9125-A9EB9D4A4E02@gmail.com>",
+        "<15E239CB-5131-4594-9EA1-6BA277ADDFD8@gmail.com>"
+      ],
+      "body_plain": "Hi Eric,\n\nCan you provide a minimum working example and post your session information?\n\nThe following example works for me (adapted from https://github.com/emmanuelparadis/pegas/pull/2#issue-67437033):\n\nlibrary('pegas')\ndata(microbov)\nset.seed(20150409)\nmic20 <- microbov[sample(nInd(microbov), 20)]\nmicrodf <- data.frame(other(mic20))\nd <- dist(tab(mic20))\namova(d ~ spe/breed, data = microdf, nperm = 0)\n\nSPE   <<- as.factor(microdf$spe)\nBREED <<- as.factor(microdf$breed)\namova(d ~ SPE/BREED, nperm = 0)\n\n> sessionInfo()\nR version 3.2.1 (2015-06-18)\nPlatform: x86_64-apple-darwin13.4.0 (64-bit)\nRunning under: OS X 10.10.4 (Yosemite)\n\nlocale:\n[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8\n\nattached base packages:\n[1] stats     graphics  grDevices utils     datasets  methods   base     \n\nother attached packages:\n[1] pegas_0.8-1    adegenet_2.0.0 ade4_1.7-2     ape_3.3       \n\nloaded via a namespace (and not attached):\n[1] Rcpp_0.11.6      spdep_0.5-88     plyr_1.8.3       LearnBayes_2.15  tools_3.2.1     \n[6] boot_1.3-16      digest_0.6.8     nlme_3.1-120     gtable_0.1.2     lattice_0.20-31 \n[11] Matrix_1.2-1     igraph_1.0.1     shiny_0.12.1     DBI_0.3.1        parallel_3.2.1  \n[16] proto_0.3-10     coda_0.17-1      dplyr_0.4.2      stringr_1.0.0    grid_3.2.1      \n[21] R6_2.1.0         sp_1.1-1         ggplot2_1.0.1    reshape2_1.4.1   seqinr_3.1-3    \n[26] deldir_0.1-9     magrittr_1.5     scales_0.2.5     htmltools_0.2.6  MASS_7.3-41     \n[31] splines_3.2.1    assertthat_0.1   mime_0.3         colorspace_1.2-6 xtable_1.7-4    \n[36] httpuv_1.3.2     stringi_0.5-5    munsell_0.4.2  \n\nThe data frame implementation works now, so you can use your strata directly instead of pulling the levels from it:\n\nmy_strata <- strata(my_data)\namova_out <- pegas::amova(dists~l2/l1, data = my_strata, nperm=nperm, is.squared=T)\n\nAdditionally, poppr has a wrapper to ADE4's implementation of AMOVA that explicitly handles strata called poppr.amova.\n\nCheers,\nZhian \n\n\n> On Jul 20, 2015, at 12:16 , Eric Crandall <eric.d.crandall at gmail.com> wrote:\n> \n> Hi Emmanuel or others,\n> \n> \tI was directed here to ask a question about the amova function in pegas. Hopefully this is the right place.\n> \n> \t I have been using pegas::amova() in a function that loops over a database of species to calculate amova at up to three hierarchical levels. My function recently broke, apparently due to a recent update <https://cran.r-project.org/web/packages/pegas/NEWS> to Pegas - specifically this change:\n> \n>   o amova() failed when the factors in the rhs of the formula were\n>     in a data frame. Thanks to Zhian Kamvar for the fix.\n> \n> As a workaround to for pegas:amova not being able to use a dataframe of factors, I was assigning the factors to the global environment:\n> \n>     level1factor<<-as.factor(sp[[l1]])\n>     level2factor<<-as.factor(sp[[l2]])\n>     amova_out<-pegas::amova(dists~level2factor/level1factor, nperm=nperm, is.squared=T)\n> \n> \n> Now, after the update, my function is throwing an error. The traceback goes\n> \n> 4 stop(\"'bin' must be numeric or a factor\") \n> 3 FUN(X[[i]], ...) \n> 2 lapply(gr, tabulate) \n> 1 pegas::amova(dists ~ level2factor/level1factor, nperm = nperm, \n>   is.squared = T) \n> \n> As far as I can tell, the objects that I am submitting to tabulate() in gr via lapply() ARE factors. \n> \n> When I try to reproduce the problem by running step by step through the pegas::amova function, everything works fine. \n> \n> So I am stumped for now. Does anyone have any ideas?\n> \n> \n> Many thanks,\n> \n> Eric Crandall\n> \n> \n> \n> PS - I?m very happy to see strata being added to genind objects in adegenet. Will these eventually be usable by pegas::amova or a similar amova function?\n> \n> \n> \n> \t[[alternative HTML version deleted]]\n> \n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
+      "body_snippet": "Hi Eric,\n\nCan you provide a minimum working example and post your session information?\n\nThe following example works for me (adapted from https://github.com/emmanuelparadis/pegas/pull/2#issue-67437033)",
+      "thread_id": "thread-4c7446220691",
+      "thread_depth": 5,
+      "month": "2015-07"
+    },
+    {
+      "id": "msg-66f79481cbf5",
+      "message_id": "<CD230320-2A6B-419B-8BBA-F0A50C153AEB@gmail.com>",
+      "from_name": "Eric Crandall",
+      "from_email_hash": "da4e892f1ec2ad9821389691ed8d760f846c9edea54c2980320b958deedfc1e0",
+      "date": "2015-07-22T17:40:41-07:00",
+      "subject": "[R-sig-genetics] pegas::amova()",
+      "subject_clean": "pegas::amova()",
+      "in_reply_to": "<F31E7A16-D0EB-4A4D-9047-E3319C55FF6B@science.oregonstate.edu>",
+      "references": [
+        "<CAGutmY_Y3soZViKv87aFaA4bs_az7BN5_8YUGEAcAy-JxuDwSw@mail.gmail.com>",
+        "<2CB2DA8E426F3541AB1907F98ABA6570ABF4B45F@icexch-m1.ic.ac.uk>",
+        "<CAGutmY8YcE3iE2Oqsth4OGckjPpgXk66+EZWAcD4WncV=kSueA@mail.gmail.com>",
+        "<91629265-9F72-4135-9125-A9EB9D4A4E02@gmail.com>",
+        "<15E239CB-5131-4594-9EA1-6BA277ADDFD8@gmail.com>",
+        "<F31E7A16-D0EB-4A4D-9047-E3319C55FF6B@science.oregonstate.edu>"
+      ],
+      "body_plain": "Hi Zhian,\n\n\tThanks for your quick reply, and sorry for being a bit slow on this end. \n\n\tPerhaps it is something specific to my system. I cannot run your example. See below.\n\nThanks again,\n\nEric\n\n\n\nlibrary('pegas')\ndata(microbov)\nset.seed(20150409)\nmic20 <- microbov[sample(nInd(microbov), 20)]\nmicrodf <- data.frame(other(mic20))\nd <- dist(tab(mic20))\namova(d ~ spe/breed, data = microdf, nperm = 0)\nError in FUN(X[[i]], ...) : 'bin' must be numeric or a factor\n\nSPE   <<- as.factor(microdf$spe)\nBREED <<- as.factor(microdf$breed)\namova(d ~ SPE/BREED, nperm = 0)\nError in FUN(X[[i]], ...) : 'bin' must be numeric or a factor\n\n\n> sessionInfo()\nR version 3.2.1 (2015-06-18)\nPlatform: x86_64-apple-darwin13.4.0 (64-bit)\nRunning under: OS X 10.10.4 (Yosemite)\n\nlocale:\n[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8\n\nattached base packages:\n[1] stats     graphics  grDevices utils     datasets  methods   base     \n\nother attached packages:\n [1] gdata_2.17.0      hierfstat_0.04-14 gtools_3.5.0      iNEXT_2.0.3       strataG_0.9.4     plyr_1.8.3        mmod_1.3.0        pegas_0.8-1       adegenet_2.0.0    ape_3.3          \n[11] seqinr_3.1-3      ade4_1.7-2       \n\nloaded via a namespace (and not attached):\n [1] Rcpp_0.11.6      spdep_0.5-88     mapdata_2.2-4    LearnBayes_2.15  tools_3.2.1      boot_1.3-17      digest_0.6.8     gtable_0.1.2     nlme_3.1-121     lattice_0.20-33  Matrix_1.2-2    \n[12] igraph_1.0.1     shiny_0.12.1     DBI_0.3.1        parallel_3.2.1   proto_0.3-10     coda_0.17-1      dplyr_0.4.2      stringr_1.0.0    maps_2.3-10      swfscMisc_1.0.3  grid_3.2.1      \n[23] R6_2.1.0         sp_1.1-1         ggplot2_1.0.1    reshape2_1.4.1   deldir_0.1-9     magrittr_1.5     scales_0.2.5     htmltools_0.2.6  MASS_7.3-43      splines_3.2.1    assertthat_0.1  \n[34] mime_0.3         colorspace_1.2-6 xtable_1.7-4     httpuv_1.3.2     stringi_0.5-5    munsell_0.4.2   \n\n\n> On Jul 20, 2015, at 1:31 PM, Zhian Kamvar <kamvarz at science.oregonstate.edu> wrote:\n> \n> Hi Eric,\n> \n> Can you provide a minimum working example and post your session information?\n> \n> The following example works for me (adapted from https://github.com/emmanuelparadis/pegas/pull/2#issue-67437033):\n> \n> library('pegas')\n> data(microbov)\n> set.seed(20150409)\n> mic20 <- microbov[sample(nInd(microbov), 20)]\n> microdf <- data.frame(other(mic20))\n> d <- dist(tab(mic20))\n> amova(d ~ spe/breed, data = microdf, nperm = 0)\n> \n> SPE   <<- as.factor(microdf$spe)\n> BREED <<- as.factor(microdf$breed)\n> amova(d ~ SPE/BREED, nperm = 0)\n> \n>> sessionInfo()\n> R version 3.2.1 (2015-06-18)\n> Platform: x86_64-apple-darwin13.4.0 (64-bit)\n> Running under: OS X 10.10.4 (Yosemite)\n> \n> locale:\n> [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8\n> \n> attached base packages:\n> [1] stats     graphics  grDevices utils     datasets  methods   base     \n> \n> other attached packages:\n> [1] pegas_0.8-1    adegenet_2.0.0 ade4_1.7-2     ape_3.3       \n> \n> loaded via a namespace (and not attached):\n> [1] Rcpp_0.11.6      spdep_0.5-88     plyr_1.8.3       LearnBayes_2.15  tools_3.2.1     \n> [6] boot_1.3-16      digest_0.6.8     nlme_3.1-120     gtable_0.1.2     lattice_0.20-31 \n> [11] Matrix_1.2-1     igraph_1.0.1     shiny_0.12.1     DBI_0.3.1        parallel_3.2.1  \n> [16] proto_0.3-10     coda_0.17-1      dplyr_0.4.2      stringr_1.0.0    grid_3.2.1      \n> [21] R6_2.1.0         sp_1.1-1         ggplot2_1.0.1    reshape2_1.4.1   seqinr_3.1-3    \n> [26] deldir_0.1-9     magrittr_1.5     scales_0.2.5     htmltools_0.2.6  MASS_7.3-41     \n> [31] splines_3.2.1    assertthat_0.1   mime_0.3         colorspace_1.2-6 xtable_1.7-4    \n> [36] httpuv_1.3.2     stringi_0.5-5    munsell_0.4.2  \n> \n> The data frame implementation works now, so you can use your strata directly instead of pulling the levels from it:\n> \n> my_strata <- strata(my_data)\n> amova_out <- pegas::amova(dists~l2/l1, data = my_strata, nperm=nperm, is.squared=T)\n> \n> Additionally, poppr has a wrapper to ADE4's implementation of AMOVA that explicitly handles strata called poppr.amova.\n> \n> Cheers,\n> Zhian \n> \n> \n>> On Jul 20, 2015, at 12:16 , Eric Crandall <eric.d.crandall at gmail.com> wrote:\n>> \n>> Hi Emmanuel or others,\n>> \n>> \tI was directed here to ask a question about the amova function in pegas. Hopefully this is the right place.\n>> \n>> \t I have been using pegas::amova() in a function that loops over a database of species to calculate amova at up to three hierarchical levels. My function recently broke, apparently due to a recent update <https://cran.r-project.org/web/packages/pegas/NEWS> to Pegas - specifically this change:\n>> \n>>  o amova() failed when the factors in the rhs of the formula were\n>>    in a data frame. Thanks to Zhian Kamvar for the fix.\n>> \n>> As a workaround to for pegas:amova not being able to use a dataframe of factors, I was assigning the factors to the global environment:\n>> \n>>    level1factor<<-as.factor(sp[[l1]])\n>>    level2factor<<-as.factor(sp[[l2]])\n>>    amova_out<-pegas::amova(dists~level2factor/level1factor, nperm=nperm, is.squared=T)\n>> \n>> \n>> Now, after the update, my function is throwing an error. The traceback goes\n>> \n>> 4 stop(\"'bin' must be numeric or a factor\") \n>> 3 FUN(X[[i]], ...) \n>> 2 lapply(gr, tabulate) \n>> 1 pegas::amova(dists ~ level2factor/level1factor, nperm = nperm, \n>>  is.squared = T) \n>> \n>> As far as I can tell, the objects that I am submitting to tabulate() in gr via lapply() ARE factors. \n>> \n>> When I try to reproduce the problem by running step by step through the pegas::amova function, everything works fine. \n>> \n>> So I am stumped for now. Does anyone have any ideas?\n>> \n>> \n>> Many thanks,\n>> \n>> Eric Crandall\n>> \n>> \n>> \n>> PS - I?m very happy to see strata being added to genind objects in adegenet. Will these eventually be usable by pegas::amova or a similar amova function?\n>> \n>> \n>> \n>> \t[[alternative HTML version deleted]]\n>> \n>> _______________________________________________\n>> R-sig-genetics mailing list\n>> R-sig-genetics at r-project.org\n>> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n> \n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
+      "body_snippet": "Hi Zhian,\n\n\tThanks for your quick reply, and sorry for being a bit slow on this end. \n\n\tPerhaps it is something specific to my system. I cannot run your example. See below.\n\nThanks again,\n\nEric\n\n\n\nlib",
+      "thread_id": "thread-4c7446220691",
+      "thread_depth": 6,
+      "month": "2015-07"
+    },
+    {
+      "id": "msg-e83c05230ec0",
+      "message_id": "<E640FB39-F11C-4CCB-9CCA-F68E0847256F@uq.edu.au>",
+      "from_name": "Cynthia Riginos",
+      "from_email_hash": "cc3755ae46bab89e9e348bc24b7cfbc68b73d118f597a7074ee9233ff7507313",
+      "date": "2015-07-31T08:15:12+10:00",
+      "subject": "[R-sig-genetics] assigning pie chart colors for pegas haploNet plot",
+      "subject_clean": "assigning pie chart colors for pegas haploNet plot",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I am trying to plot a series of haplotype networks using the plot function for haploNet in pegas and am trying to include population frequencies using the pie chart attribute.\n\nI have been able to assign population frequencies successfully (the post on stackoverflow was very helpful http://stackoverflow.com/questions/25755930/how-to-plot-pie-charts-in-haplonet-haplotype-networks-pegas).  \n\nBut, I am not able to control which colour gets assigned to each population. It seems that col=rainbow() is automatically being called but I would like to set specific colours to my population. How can I do this?\n\nMany thanks,\n\nCynthia Riginos",
+      "body_snippet": "I am trying to plot a series of haplotype networks using the plot function for haploNet in pegas and am trying to include population frequencies using the pie chart attribute.\n\nI have been able to ass",
+      "thread_id": "thread-e83c05230ec0",
+      "thread_depth": 0,
+      "month": "2015-07"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-323bd0d75de2",
+      "subject": "adegenet 2.0.0 on CRAN!",
+      "message_count": 1,
+      "participants": [
+        "Jombart, Thibaut"
+      ],
+      "started": "2015-07-09T11:24:18+00:00",
+      "last_reply": "2015-07-09T11:24:18+00:00",
+      "root_message_id": "msg-323bd0d75de2"
+    },
+    {
+      "id": "thread-4c7446220691",
+      "subject": "genind2hierfstat",
+      "message_count": 7,
+      "participants": [
+        "Eric Crandall",
+        "Jombart, Thibaut",
+        "Libby Liggins",
+        "Zhian Kamvar"
+      ],
+      "started": "2015-07-16T07:18:20+12:00",
+      "last_reply": "2015-07-22T17:40:41-07:00",
+      "root_message_id": "msg-4c7446220691"
+    },
+    {
+      "id": "thread-e83c05230ec0",
+      "subject": "assigning pie chart colors for pegas haploNet plot",
+      "message_count": 1,
+      "participants": [
+        "Cynthia Riginos"
+      ],
+      "started": "2015-07-31T08:15:12+10:00",
+      "last_reply": "2015-07-31T08:15:12+10:00",
+      "root_message_id": "msg-e83c05230ec0"
+    }
+  ]
+}

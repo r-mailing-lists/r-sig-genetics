@@ -1,0 +1,148 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2016-09",
+  "messages": [
+    {
+      "id": "msg-e613ef64be37",
+      "message_id": "<CANPRA+odKdrDNyx4Wy6B6tRd0K0QVh92X64MT9BLzEKCe7ac6Q@mail.gmail.com>",
+      "from_name": "Thibaut Jombart",
+      "from_email_hash": "a870df9f6e75f3cbcc4043deb7cf0598da9e8598f08b1621deb5537b21fb46f5",
+      "date": "2016-09-01T16:17:42+01:00",
+      "subject": "[R-sig-genetics] Fw: Query regarding DAPC using ADEGENT in R",
+      "subject_clean": "Query regarding DAPC using ADEGENT in R",
+      "in_reply_to": "<CADbY9FPFZXgsJtsGAFt++3xV_TqwPT3uZTiGh+G2cgPv-sMsgg@mail.gmail.com>",
+      "references": [
+        "<F587D8F2-14BA-40CF-A6AD-D9272C7D29BF@ic.ac.uk>",
+        "<CO2PR07MB2710658CD66523FCC97500DA88E30@CO2PR07MB2710.namprd07.prod.outlook.com>",
+        "<CADbY9FPFZXgsJtsGAFt++3xV_TqwPT3uZTiGh+G2cgPv-sMsgg@mail.gmail.com>"
+      ],
+      "body_plain": "Hi,\n\nwhat is the size of the dataset? Are you sure it did not display a graph of\ncumulative variance and waits for your input? As you specified it, the\nfunction is interactive and will wait on your input before giving results.\n\nBest\nThibaut\n\n\n--\nDr Thibaut Jombart\nLecturer, Department of Infectious Disease Epidemiology\nImperial College London\nhttps://sites.google.com/site/thibautjombart/\nhttps://github.com/thibautjombart\nTwitter: @TeebzR <https://twitter.com/TeebzR>\n\nOn 1 September 2016 at 00:33, Graham Reynolds <greynold at unca.edu> wrote:\n\n> Hi Rav, if you have multiple cores on your CPU you can distribute the task\n> among them, which really speeds it up. That might at least let you see\n> whether it is a problem with the dataset.\n>\n> grp <-find.clusters(app, max.n.clust=n, parallel = \"multicore\", ncpus = 4)\n>\n> You might need to install the Parallel package\n>\n> Cheers\n>\n>\n> R. Graham Reynolds, Ph.D.\n> Assistant Professor of Biology\n> University of North Carolina Asheville\n> www.caribbeanboas.org\n>\n>\n>\n> *From:* R-sig-genetics <r-sig-genetics-bounces at r-project.org> on behalf of\n> Bhuller, Ravneet <ravneet.bhuller13 at imperial.ac.uk>\n>\n> > *Sent:* Wednesday, August 31, 2016 5:39 AM\n> > *To:* r-sig-genetics at r-project.org\n> > *Subject:* [R-sig-genetics] Query regarding DAPC using ADEGENT in R\n> >\n> > Dear All,\n> >\n> > I am trying to do DAPC on my genind object (app) using ADEGENET in R. But\n> > when I run the following command:\n> >\n> > grp <- find.clusters(app)\n> >\n> > it is processing continuously for more than 2 hours but not producing any\n> > output. Any guidance will be very much appreciated.\n> >\n> > Regards,\n> >\n> > Rav\n> >\n> >         [[alternative HTML version deleted]]\n> >\n> > _______________________________________________\n> > R-sig-genetics mailing list\n> > R-sig-genetics at r-project.org\n> > https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n> > R-sig-genetics Info Page - stat.ethz.ch\n> > <https://stat.ethz.ch/mailman/listinfo/r-sig-genetics>\n> > stat.ethz.ch\n> > The R-sig-genetics mailing list is devoted to friendly, insightful,\n> > exciting discussions on genetic data analysis using the R software.\n> Covered\n> > topics include:\n> >\n> >\n>\n>         [[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi,\n\nwhat is the size of the dataset? Are you sure it did not display a graph of\ncumulative variance and waits for your input? As you specified it, the\nfunction is interactive and will wait on your in",
+      "thread_id": "thread-e613ef64be37",
+      "thread_depth": 0,
+      "month": "2016-09"
+    },
+    {
+      "id": "msg-60c025b27979",
+      "message_id": "<E94D6675-A11F-442E-B52D-FA7B52F2FD53@ic.ac.uk>",
+      "from_name": "Bhuller, Ravneet",
+      "from_email_hash": "2f52bcc8b186110745be11bd2e2d7406764c882240e3fb3684816b5771892833",
+      "date": "2016-09-02T08:51:56Z",
+      "subject": "[R-sig-genetics] Query regarding DAPC using ADEGENT in R",
+      "subject_clean": "Query regarding DAPC using ADEGENT in R",
+      "in_reply_to": "<CANPRA+odKdrDNyx4Wy6B6tRd0K0QVh92X64MT9BLzEKCe7ac6Q@mail.gmail.com>",
+      "references": [
+        "<F587D8F2-14BA-40CF-A6AD-D9272C7D29BF@ic.ac.uk>",
+        "<CO2PR07MB2710658CD66523FCC97500DA88E30@CO2PR07MB2710.namprd07.prod.outlook.com>",
+        "<CADbY9FPFZXgsJtsGAFt++3xV_TqwPT3uZTiGh+G2cgPv-sMsgg@mail.gmail.com>",
+        "<CANPRA+odKdrDNyx4Wy6B6tRd0K0QVh92X64MT9BLzEKCe7ac6Q@mail.gmail.com>"
+      ],
+      "body_plain": "Hello Thibaut,\n\nThe genind object is of size 8.9 Mb.\n\nYesterday, when I tried find.clusters in the Rmarkdown document, it did not ask for any input. I wanted to know how many components to retain to run DAPC.\n\nHowever, today, when I tried find.clusters in R (without Rmarkdown), it worked absolutely fine.\n\nBut another problem is that pop function is giving an error. Attached is the screenshot. My data is DNA multiple-sequence-alignment FASTA files of 357 genes, which are concatenated. Each file has same 220 bacterial strains. And my meta data includes 220 strains distributed into 19 serovars (integers). Is my meta data in the correct required form?\n\n[cid:943D7881-6E60-444E-8038-5754883AF5B2 at dlink.com]\n\nKind regards,\n\nRav\n\n\n\n\nOn 1 Sep 2016, at 16:17, Thibaut Jombart <thibautjombart at gmail.com<mailto:thibautjombart at gmail.com>> wrote:\n\nHi,\n\nwhat is the size of the dataset? Are you sure it did not display a graph of\ncumulative variance and waits for your input? As you specified it, the\nfunction is interactive and will wait on your input before giving results.\n\nBest\nThibaut\n\n\n--\nDr Thibaut Jombart\nLecturer, Department of Infectious Disease Epidemiology\nImperial College London\nhttps://sites.google.com/site/thibautjombart/\nhttps://github.com/thibautjombart\nTwitter: @TeebzR <https://twitter.com/TeebzR>\n\nOn 1 September 2016 at 00:33, Graham Reynolds <greynold at unca.edu> wrote:\n\nHi Rav, if you have multiple cores on your CPU you can distribute the task\namong them, which really speeds it up. That might at least let you see\nwhether it is a problem with the dataset.\n\ngrp <-find.clusters(app, max.n.clust=n, parallel = \"multicore\", ncpus = 4)\n\nYou might need to install the Parallel package\n\nCheers\n\n\nR. Graham Reynolds, Ph.D.\nAssistant Professor of Biology\nUniversity of North Carolina Asheville\nwww.caribbeanboas.org\n\n\n\n*From:* R-sig-genetics <r-sig-genetics-bounces at r-project.org> on behalf of\nBhuller, Ravneet <ravneet.bhuller13 at imperial.ac.uk>\n\n*Sent:* Wednesday, August 31, 2016 5:39 AM\n*To:* r-sig-genetics at r-project.org\n*Subject:* [R-sig-genetics] Query regarding DAPC using ADEGENT in R\n\nDear All,\n\nI am trying to do DAPC on my genind object (app) using ADEGENET in R. But\nwhen I run the following command:\n\ngrp <- find.clusters(app)\n\nit is processing continuously for more than 2 hours but not producing any\noutput. Any guidance will be very much appreciated.\n\nRegards,\n\nRav\n\n       [[alternative HTML version deleted]]\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics\nR-sig-genetics Info Page - stat.ethz.ch\n<https://stat.ethz.ch/mailman/listinfo/r-sig-genetics>\nstat.ethz.ch\nThe R-sig-genetics mailing list is devoted to friendly, insightful,\nexciting discussions on genetic data analysis using the R software.\nCovered\ntopics include:\n\n\n\n       [[alternative HTML version deleted]]\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n\n\n[[alternative HTML version deleted]]\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20160902/3f957198/attachment-0001.html>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: DAPC ERROR.png\nType: image/png\nSize: 84722 bytes\nDesc: DAPC ERROR.png\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20160902/3f957198/attachment-0001.png>",
+      "body_snippet": "Hello Thibaut,\n\nThe genind object is of size 8.9 Mb.\n\nYesterday, when I tried find.clusters in the Rmarkdown document, it did not ask for any input. I wanted to know how many components to retain to r",
+      "thread_id": "thread-e613ef64be37",
+      "thread_depth": 1,
+      "month": "2016-09"
+    },
+    {
+      "id": "msg-eec75ae2b4c6",
+      "message_id": "<CANPRA+pvnHO0LzgeoRZ6FPX1H2chPMevR-96ix5ECVYtJS0Z3w@mail.gmail.com>",
+      "from_name": "Thibaut Jombart",
+      "from_email_hash": "a870df9f6e75f3cbcc4043deb7cf0598da9e8598f08b1621deb5537b21fb46f5",
+      "date": "2016-09-02T10:24:39+01:00",
+      "subject": "[R-sig-genetics] Query regarding DAPC using ADEGENT in R",
+      "subject_clean": "Query regarding DAPC using ADEGENT in R",
+      "in_reply_to": "<CANPRA+r041Yw6ksERD+7Y4E648M8HOpzpm2fES7Xv67HuQ5HZg@mail.gmail.com>",
+      "references": [
+        "<F587D8F2-14BA-40CF-A6AD-D9272C7D29BF@ic.ac.uk>",
+        "<CO2PR07MB2710658CD66523FCC97500DA88E30@CO2PR07MB2710.namprd07.prod.outlook.com>",
+        "<CADbY9FPFZXgsJtsGAFt++3xV_TqwPT3uZTiGh+G2cgPv-sMsgg@mail.gmail.com>",
+        "<CANPRA+odKdrDNyx4Wy6B6tRd0K0QVh92X64MT9BLzEKCe7ac6Q@mail.gmail.com>",
+        "<E94D6675-A11F-442E-B52D-FA7B52F2FD53@ic.ac.uk>",
+        "<CANPRA+r041Yw6ksERD+7Y4E648M8HOpzpm2fES7Xv67HuQ5HZg@mail.gmail.com>"
+      ],
+      "body_plain": "Hi there,\nPlease check carefully the error msg. Here the problem is stated clearly.\nYou either need to provide the group factor as argument to dapc, or to\nattach it to the object - pop(x) <- ...\n\nCheers\nThibaut\n\nOn 2 Sep 2016 09:51, \"Bhuller, Ravneet\" <ravneet.bhuller13 at imperial.ac.uk>\nwrote:\n\nHello Thibaut,\n\nThe genind object is of size 8.9 Mb.\n\nYesterday, when I tried find.clusters in the Rmarkdown document, it did not\nask for any input. I wanted to know how many components to retain to run\nDAPC.\n\nHowever, today, when I tried find.clusters in R (without Rmarkdown), it\nworked absolutely fine.\n\nBut another problem is that pop function is giving an error. Attached is\nthe screenshot. My data is DNA multiple-sequence-alignment FASTA files of\n357 genes, which are concatenated. Each file has same 220 bacterial\nstrains. And my meta data includes 220 strains distributed into 19 serovars\n(integers). Is my meta data in the correct required form?\n\n\nKind regards,\n\nRav\n\n\n\n\nOn 1 Sep 2016, at 16:17, Thibaut Jombart <thibautjombart at gmail.com> wrote:\n\nHi,\n\nwhat is the size of the dataset? Are you sure it did not display a graph of\ncumulative variance and waits for your input? As you specified it, the\nfunction is interactive and will wait on your input before giving results.\n\nBest\nThibaut\n\n\n--\nDr Thibaut Jombart\nLecturer, Department of Infectious Disease Epidemiology\nImperial College London\nhttps://sites.google.com/site/thibautjombart/\nhttps://github.com/thibautjombart\nTwitter: @TeebzR <https://twitter.com/TeebzR>\n\n\nOn 1 September 2016 at 00:33, Graham Reynolds <greynold at unca.edu> wrote:\n\nHi Rav, if you have multiple cores on your CPU you can distribute the task\namong them, which really speeds it up. That might at least let you see\nwhether it is a problem with the dataset.\n\ngrp <-find.clusters(app, max.n.clust=n, parallel = \"multicore\", ncpus = 4)\n\nYou might need to install the Parallel package\n\nCheers\n\n\nR. Graham Reynolds, Ph.D.\nAssistant Professor of Biology\nUniversity of North Carolina Asheville\nwww.caribbeanboas.org\n\n\n\n*From:* R-sig-genetics <r-sig-genetics-bounces at r-project.org> on behalf of\nBhuller, Ravneet <ravneet.bhuller13 at imperial.ac.uk>\n\n*Sent:* Wednesday, August 31, 2016 5:39 AM\n*To:* r-sig-genetics at r-project.org\n*Subject:* [R-sig-genetics] Query regarding DAPC using ADEGENT in R\n\nDear All,\n\nI am trying to do DAPC on my genind object (app) using ADEGENET in R. But\nwhen I run the following command:\n\ngrp <- find.clusters(app)\n\nit is processing continuously for more than 2 hours but not producing any\noutput. Any guidance will be very much appreciated.\n\nRegards,\n\nRav\n\n       [[alternative HTML version deleted]]\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics\nR-sig-genetics Info Page - stat.ethz.ch\n<https://stat.ethz.ch/mailman/listinfo/r-sig-genetics>\nstat.ethz.ch\nThe R-sig-genetics mailing list is devoted to friendly, insightful,\nexciting discussions on genetic data analysis using the R software.\n\nCovered\n\ntopics include:\n\n\n\n       [[alternative HTML version deleted]]\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n\n\n[[alternative HTML version deleted]]\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20160902/21cae008/attachment-0001.html>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: DAPC ERROR.png\nType: image/png\nSize: 84722 bytes\nDesc: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20160902/21cae008/attachment-0001.png>",
+      "body_snippet": "Hi there,\nPlease check carefully the error msg. Here the problem is stated clearly.\nYou either need to provide the group factor as argument to dapc, or to\nattach it to the object - pop(x) <- ...\n\nChee",
+      "thread_id": "thread-eec75ae2b4c6",
+      "thread_depth": 0,
+      "month": "2016-09"
+    },
+    {
+      "id": "msg-5a0e1e7d2a2e",
+      "message_id": "<2A6693FE-ECE4-4A1F-82D7-48FCAAE3C91E@ic.ac.uk>",
+      "from_name": "Bhuller, Ravneet",
+      "from_email_hash": "2f52bcc8b186110745be11bd2e2d7406764c882240e3fb3684816b5771892833",
+      "date": "2016-09-02T09:52:00Z",
+      "subject": "[R-sig-genetics] Query regarding DAPC using ADEGENT in R",
+      "subject_clean": "Query regarding DAPC using ADEGENT in R",
+      "in_reply_to": "<CANPRA+pvnHO0LzgeoRZ6FPX1H2chPMevR-96ix5ECVYtJS0Z3w@mail.gmail.com>",
+      "references": [
+        "<F587D8F2-14BA-40CF-A6AD-D9272C7D29BF@ic.ac.uk>",
+        "<CO2PR07MB2710658CD66523FCC97500DA88E30@CO2PR07MB2710.namprd07.prod.outlook.com>",
+        "<CADbY9FPFZXgsJtsGAFt++3xV_TqwPT3uZTiGh+G2cgPv-sMsgg@mail.gmail.com>",
+        "<CANPRA+odKdrDNyx4Wy6B6tRd0K0QVh92X64MT9BLzEKCe7ac6Q@mail.gmail.com>",
+        "<E94D6675-A11F-442E-B52D-FA7B52F2FD53@ic.ac.uk>",
+        "<CANPRA+r041Yw6ksERD+7Y4E648M8HOpzpm2fES7Xv67HuQ5HZg@mail.gmail.com>",
+        "<CANPRA+pvnHO0LzgeoRZ6FPX1H2chPMevR-96ix5ECVYtJS0Z3w@mail.gmail.com>"
+      ],
+      "body_plain": "It?s all working now.\n\nThanks, Thibaut.\n\nRegards,\n\nRav\n\n\n\nOn 2 Sep 2016, at 10:24, Thibaut Jombart <thibautjombart at gmail.com<mailto:thibautjombart at gmail.com>> wrote:\n\n\nHi there,\nPlease check carefully the error msg. Here the problem is stated clearly. You either need to provide the group factor as argument to dapc, or to attach it to the object - pop(x) <- ...\n\nCheers\nThibaut\n\nOn 2 Sep 2016 09:51, \"Bhuller, Ravneet\" <ravneet.bhuller13 at imperial.ac.uk<mailto:ravneet.bhuller13 at imperial.ac.uk>> wrote:\nHello Thibaut,\n\nThe genind object is of size 8.9 Mb.\n\nYesterday, when I tried find.clusters in the Rmarkdown document, it did not ask for any input. I wanted to know how many components to retain to run DAPC.\n\nHowever, today, when I tried find.clusters in R (without Rmarkdown), it worked absolutely fine.\n\nBut another problem is that pop function is giving an error. Attached is the screenshot. My data is DNA multiple-sequence-alignment FASTA files of 357 genes, which are concatenated. Each file has same 220 bacterial strains. And my meta data includes 220 strains distributed into 19 serovars (integers). Is my meta data in the correct required form?\n\n<DAPC ERROR.png>\n\nKind regards,\n\nRav\n\n\n\n\nOn 1 Sep 2016, at 16:17, Thibaut Jombart <thibautjombart at gmail.com<mailto:thibautjombart at gmail.com>> wrote:\n\nHi,\n\nwhat is the size of the dataset? Are you sure it did not display a graph of\ncumulative variance and waits for your input? As you specified it, the\nfunction is interactive and will wait on your input before giving results.\n\nBest\nThibaut\n\n\n--\nDr Thibaut Jombart\nLecturer, Department of Infectious Disease Epidemiology\nImperial College London\nhttps://sites.google.com/site/thibautjombart/\nhttps://github.com/thibautjombart\nTwitter: @TeebzR <https://twitter.com/TeebzR>\n\n\nOn 1 September 2016 at 00:33, Graham Reynolds <greynold at unca.edu<mailto:greynold at unca.edu>> wrote:\n\nHi Rav, if you have multiple cores on your CPU you can distribute the task\namong them, which really speeds it up. That might at least let you see\nwhether it is a problem with the dataset.\n\ngrp <-find.clusters(app, max.n.clust=n, parallel = \"multicore\", ncpus = 4)\n\nYou might need to install the Parallel package\n\nCheers\n\n\nR. Graham Reynolds, Ph.D.\nAssistant Professor of Biology\nUniversity of North Carolina Asheville\nwww.caribbeanboas.org<http://www.caribbeanboas.org/>\n\n\n\n*From:* R-sig-genetics <r-sig-genetics-bounces at r-project.org<mailto:r-sig-genetics-bounces at r-project.org>> on behalf of\nBhuller, Ravneet <ravneet.bhuller13 at imperial.ac.uk<mailto:ravneet.bhuller13 at imperial.ac.uk>>\n\n*Sent:* Wednesday, August 31, 2016 5:39 AM\n*To:* r-sig-genetics at r-project.org<mailto:r-sig-genetics at r-project.org>\n*Subject:* [R-sig-genetics] Query regarding DAPC using ADEGENT in R\n\nDear All,\n\nI am trying to do DAPC on my genind object (app) using ADEGENET in R. But\nwhen I run the following command:\n\ngrp <- find.clusters(app)\n\nit is processing continuously for more than 2 hours but not producing any\noutput. Any guidance will be very much appreciated.\n\nRegards,\n\nRav\n\n       [[alternative HTML version deleted]]\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org<mailto:R-sig-genetics at r-project.org>\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics\nR-sig-genetics Info Page - stat.ethz.ch<http://stat.ethz.ch/>\n<https://stat.ethz.ch/mailman/listinfo/r-sig-genetics>\nstat.ethz.ch<http://stat.ethz.ch/>\nThe R-sig-genetics mailing list is devoted to friendly, insightful,\nexciting discussions on genetic data analysis using the R software.\nCovered\ntopics include:\n\n\n\n       [[alternative HTML version deleted]]\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org<mailto:R-sig-genetics at r-project.org>\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n\n\n[[alternative HTML version deleted]]\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org<mailto:R-sig-genetics at r-project.org>\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "It?s all working now.\n\nThanks, Thibaut.\n\nRegards,\n\nRav\n\n\n\nOn 2 Sep 2016, at 10:24, Thibaut Jombart <thibautjombart at gmail.com<mailto:thibautjombart at gmail.com>> wrote:\n\n\nHi there,\nPlease check car",
+      "thread_id": "thread-eec75ae2b4c6",
+      "thread_depth": 1,
+      "month": "2016-09"
+    },
+    {
+      "id": "msg-5b383eff93f4",
+      "message_id": "<83071939c4b9a1b14a139fc015c3f579@prstatistics.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "8d85adc6b153d8e80093a9f8e89d7f46369fdd650fe394f7644a0e0697798998",
+      "date": "2016-09-21T10:01:15+01:00",
+      "subject": "[R-sig-genetics] 'Landscape genetic data analysis course - FINAL CALL'",
+      "subject_clean": "'Landscape genetic data analysis course - FINAL CALL'",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "\"Landscape (population) genetic data analysis using R?\n\nFINAL CALL for last few places.\n\nDelivered by Dr. Rodney Dyer\n\nhttp://prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg/\n\nThis course will run from 17th ? 21st October 2016 at SCENE Field \nStation, Loch Lomond, Glasgow, Scotland\nThe term ?landscape genetics? has been applied studies that \nintegrate ecological context and intervening landscape into population \ngenetic analyses of contemporary processes such as gene flow and \nmigration.  This course will cover the basics of both quantitative \nlandscape ecology and population genetics, focusing on how we develop \nand evaluate spatial/genetic analyses using the R platform\n\nCourse content is as follows\nDay 1\n?\tSpatial & Ecological Data\n?\tInstallation & configuring R & RStudio\n?\tAcquiring spatial data, projections, and visualization\n?\tVector and raster data\n\nDay 2\n?\tGenetic markers and basic analyses\n?\tGenetic markers and sampling\n?\tGenetic distance, diversity, and structure\n?\tOrdination techniques based upon genetic markers\n\nDay 3\n?\tIntegrating spatial and genetic data\n?\tBarrier detection & population division\n?\tResistance Modeling\n?\tMantel and distance regressions\n?\tRemote sensing - LiDAR and Hyperspectral data\n\nDay 4\n?\tIntegrating spatial and genetic data\n?\tSpatial autocorrelation\n?\tNetwork Approaches\n?\tPCMN & Redundancy\n\nDay 5\n?\tAdaptive Genetic Variance\n?\tOutliers & gradients\n?\tQuantitative genetics, why we should care.\n?\tChromosome walking\n\nPlease email any inquiries to oliverhooker at prstatistics.com or visit our \nwebsite www.prstatistics.com\nPlease feel free to distribute this material anywhere you feel is \nsuitable\nUpcoming courses - email for details oliverhooker at prstatistics.com\n1.\tINTRODUCTION TO PYTHON FOR BIOLOGISTS (October)\n2.\tAPPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS \n(October)\n3.\tPHYLOGENETIC DATA ANALYSIS USING R (October/November)\n4.\tSPATIAL ANALYSIS OF ECOLOGIC AL DATA USING R (November)\n5.\tADVANCING IN STATISTICAL MODELLING USING R (December)\n6.\tMODEL BASED MULTIVARIATE ANALYSIS OF ECOLOGICAL DATA USING R \n(January)\n7.\tADVANCED PYTHON FOR BIOLOGISTS (February)\n8.      STABLE ISOTOPE MIXING MODELS USING R (Feb/Mar)\n8.\tNETWORK ANALYSIS FOR ECOLOGISTS USING R (March)\n9.\tINTRODUCTION TO GEOMETRIC MORPHOMETRICS USING R (June)\n\nDates still to be confirmed - email for details \noliverhooker at prstatistics.com\nINTRODUCTION TO PYTHON FOR BIOLOGISTS\nINTRODUCTI0ON TO BIOINFORMATIC USING LINUX\nINTRODUCTION TO R AND STATISTICS FOR BIOLOGISTS\nBIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS\n\nOliver Hooker PhD.\nPR statistics\n\n3/1\n128 Brunswick Street\nGlasgow\nG1 1TF\n\n+44 (0) 7966500340\n\nwww.prstatistics.com\nwww.prstatistics.com/organiser/oliver-hooker/",
+      "body_snippet": "\"Landscape (population) genetic data analysis using R?\n\nFINAL CALL for last few places.\n\nDelivered by Dr. Rodney Dyer\n\nhttp://prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg/\n\nThi",
+      "thread_id": "thread-5b383eff93f4",
+      "thread_depth": 0,
+      "month": "2016-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-e613ef64be37",
+      "subject": "Query regarding DAPC using ADEGENT in R",
+      "message_count": 2,
+      "participants": [
+        "Bhuller, Ravneet",
+        "Thibaut Jombart"
+      ],
+      "started": "2016-09-01T16:17:42+01:00",
+      "last_reply": "2016-09-02T08:51:56+00:00",
+      "root_message_id": "msg-e613ef64be37"
+    },
+    {
+      "id": "thread-eec75ae2b4c6",
+      "subject": "Query regarding DAPC using ADEGENT in R",
+      "message_count": 2,
+      "participants": [
+        "Bhuller, Ravneet",
+        "Thibaut Jombart"
+      ],
+      "started": "2016-09-02T10:24:39+01:00",
+      "last_reply": "2016-09-02T09:52:00+00:00",
+      "root_message_id": "msg-eec75ae2b4c6"
+    },
+    {
+      "id": "thread-5b383eff93f4",
+      "subject": "'Landscape genetic data analysis course - FINAL CALL'",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2016-09-21T10:01:15+01:00",
+      "last_reply": "2016-09-21T10:01:15+01:00",
+      "root_message_id": "msg-5b383eff93f4"
+    }
+  ]
+}

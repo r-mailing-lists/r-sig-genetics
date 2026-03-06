@@ -1,0 +1,74 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2013-03",
+  "messages": [
+    {
+      "id": "msg-328b71723f0c",
+      "message_id": "<28415404.c1p7uMXSO8@svarog>",
+      "from_name": "Vojtěch Zeisek",
+      "from_email_hash": "02b31b3a4a88d1c77a5400d295ee082a4c4cf53ed31468974c1e5c8e6ce551c8",
+      "date": "2013-03-20T10:23:28+01:00",
+      "subject": "[R-sig-genetics] R & Arlequin (little OT?)",
+      "subject_clean": "R & Arlequin (little OT?)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello,\nI hope this is not too much off-topic for this list. I'm using Arlequin 3.5 \nhttp://cmpg.unibe.ch/software/arlequin35/ (actually, Linux version of \nArlecore) and I'd like to parse Arelquin's output through R as described in \nthe manual, but I get error about missing function \nxmlTreeParse, so nothing is computed:\n\nsource(\"/home/vojta/bin/arlecore_linux/Rfunctions/rParsingSettings.r\")\nError in library(XML, lib.loc = paste(substr(sourcePath, 0, nchar(sourcePath) \n-  : \n  no library trees found in 'lib.loc'\nError in library(XML, lib.loc = paste(substr(sourcePath, 0, nchar(sourcePath) \n-  : \n  no library trees found in 'lib.loc'\nError in parseArlequin(infile, outfiles, sourcePath) : \n  could not find function \"xmlTreeParse\"\n\nSo it seems the xmlTreeParse is missing. Or am I doing something very wrong? \nDoes anyone have any experience with this? :-)\nAll the best,\nVojt?ch\n\n-- \nVojt?ch Zeisek\n\nKomunita openSUSE GNU/Linuxu\nCommunity of the openSUSE GNU/Linux\n\nhttp://www.opensuse.org/\nhttp://trapa.cz/\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: not available\nType: application/pgp-signature\nSize: 490 bytes\nDesc: This is a digitally signed message part.\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130320/6e9c9370/attachment.bin>",
+      "body_snippet": "Hello,\nI hope this is not too much off-topic for this list. I'm using Arlequin 3.5 \nhttp://cmpg.unibe.ch/software/arlequin35/ (actually, Linux version of \nArlecore) and I'd like to parse Arelquin's ou",
+      "thread_id": "thread-328b71723f0c",
+      "thread_depth": 0,
+      "month": "2013-03"
+    },
+    {
+      "id": "msg-91c70c2f3fda",
+      "message_id": "<2CB2DA8E426F3541AB1907F98ABA657057A4B93B@icexch-m1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2013-03-20T10:10:18Z",
+      "subject": "[R-sig-genetics] R & Arlequin (little OT?)",
+      "subject_clean": "R & Arlequin (little OT?)",
+      "in_reply_to": "<28415404.c1p7uMXSO8@svarog>",
+      "references": [
+        "<28415404.c1p7uMXSO8@svarog>"
+      ],
+      "body_plain": "Hello, \n\nI'm not sure if you're trying to export data, or merely results of some analyses. For data, the best may be to export to a format such as GENETIX, FStat, or Genepop, and then import the data in R (see import2genind in adegenet). For results, it is probably easiest to export everything to a text file and then read it from R. I have never used Arlequin, but I suspect these are standard features.\n\nBest\nThibaut\n________________________________________\nFrom: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] on behalf of Vojt?ch Zeisek [vojtech.zeisek at opensuse.org]\nSent: 20 March 2013 09:23\nTo: mailinglist R\nSubject: [R-sig-genetics] R & Arlequin (little OT?)\n\nHello,\nI hope this is not too much off-topic for this list. I'm using Arlequin 3.5\nhttp://cmpg.unibe.ch/software/arlequin35/ (actually, Linux version of\nArlecore) and I'd like to parse Arelquin's output through R as described in\nthe manual, but I get error about missing function\nxmlTreeParse, so nothing is computed:\n\nsource(\"/home/vojta/bin/arlecore_linux/Rfunctions/rParsingSettings.r\")\nError in library(XML, lib.loc = paste(substr(sourcePath, 0, nchar(sourcePath)\n-  :\n  no library trees found in 'lib.loc'\nError in library(XML, lib.loc = paste(substr(sourcePath, 0, nchar(sourcePath)\n-  :\n  no library trees found in 'lib.loc'\nError in parseArlequin(infile, outfiles, sourcePath) :\n  could not find function \"xmlTreeParse\"\n\nSo it seems the xmlTreeParse is missing. Or am I doing something very wrong?\nDoes anyone have any experience with this? :-)\nAll the best,\nVojt?ch\n\n--\nVojt?ch Zeisek\n\nKomunita openSUSE GNU/Linuxu\nCommunity of the openSUSE GNU/Linux\n\nhttp://www.opensuse.org/\nhttp://trapa.cz/",
+      "body_snippet": "Hello, \n\nI'm not sure if you're trying to export data, or merely results of some analyses. For data, the best may be to export to a format such as GENETIX, FStat, or Genepop, and then import the data ",
+      "thread_id": "thread-328b71723f0c",
+      "thread_depth": 1,
+      "month": "2013-03"
+    },
+    {
+      "id": "msg-2e19e71d7ed0",
+      "message_id": "<1607950.WhUxKpI5BM@svarog>",
+      "from_name": "Vojtěch Zeisek",
+      "from_email_hash": "02b31b3a4a88d1c77a5400d295ee082a4c4cf53ed31468974c1e5c8e6ce551c8",
+      "date": "2013-03-20T13:34:46+01:00",
+      "subject": "[R-sig-genetics] R & Arlequin (little OT?)",
+      "subject_clean": "R & Arlequin (little OT?)",
+      "in_reply_to": "<2CB2DA8E426F3541AB1907F98ABA657057A4B93B@icexch-m1.ic.ac.uk>",
+      "references": [
+        "<28415404.c1p7uMXSO8@svarog>",
+        "<2CB2DA8E426F3541AB1907F98ABA657057A4B93B@icexch-m1.ic.ac.uk>"
+      ],
+      "body_plain": "Hello,\nthe point is, that Arlequin produces XML file containing all results. Results \nare in form of tables. There is set of Arlequin's R scripts, which should be \nable to parse this XML and produce graphics. But I'm not able to get it to \nwork... :-( Never mind, I asked just in case someone would have experience \nwith it.\nAll the best,\nVojt?ch\n\nDne St 20. b?ezna 2013 10:10:18, Jombart, Thibaut napsal(a):\n> Hello,\n> \n> I'm not sure if you're trying to export data, or merely results of some\n> analyses. For data, the best may be to export to a format such as GENETIX,\n> FStat, or Genepop, and then import the data in R (see import2genind in\n> adegenet). For results, it is probably easiest to export everything to a\n> text file and then read it from R. I have never used Arlequin, but I\n> suspect these are standard features.\n> \n> Best\n> Thibaut\n> ________________________________________\n> From: r-sig-genetics-bounces at r-project.org\n> [r-sig-genetics-bounces at r-project.org] on behalf of Vojt?ch Zeisek\n> [vojtech.zeisek at opensuse.org] Sent: 20 March 2013 09:23\n> To: mailinglist R\n> Subject: [R-sig-genetics] R & Arlequin (little OT?)\n> \n> Hello,\n> I hope this is not too much off-topic for this list. I'm using Arlequin 3.5\n> http://cmpg.unibe.ch/software/arlequin35/ (actually, Linux version of\n> Arlecore) and I'd like to parse Arelquin's output through R as described in\n> the manual, but I get error about missing function\n> xmlTreeParse, so nothing is computed:\n> \n> source(\"/home/vojta/bin/arlecore_linux/Rfunctions/rParsingSettings.r\")\n> Error in library(XML, lib.loc = paste(substr(sourcePath, 0,\n> nchar(sourcePath) -  :\n>   no library trees found in 'lib.loc'\n> Error in library(XML, lib.loc = paste(substr(sourcePath, 0,\n> nchar(sourcePath) -  :\n>   no library trees found in 'lib.loc'\n> Error in parseArlequin(infile, outfiles, sourcePath) :\n>   could not find function \"xmlTreeParse\"\n> \n> So it seems the xmlTreeParse is missing. Or am I doing something very wrong?\n> Does anyone have any experience with this? :-)\n> All the best,\n> Vojt?ch\n-- \nVojt?ch Zeisek\n\nKomunita openSUSE GNU/Linuxu\nCommunity of the openSUSE GNU/Linux\n\nhttp://www.opensuse.org/\nhttp://trapa.cz/\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: not available\nType: application/pgp-signature\nSize: 490 bytes\nDesc: This is a digitally signed message part.\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130320/d64dfa0a/attachment.bin>",
+      "body_snippet": "Hello,\nthe point is, that Arlequin produces XML file containing all results. Results \nare in form of tables. There is set of Arlequin's R scripts, which should be \nable to parse this XML and produce g",
+      "thread_id": "thread-328b71723f0c",
+      "thread_depth": 2,
+      "month": "2013-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-328b71723f0c",
+      "subject": "R & Arlequin (little OT?)",
+      "message_count": 3,
+      "participants": [
+        "Jombart, Thibaut",
+        "Vojtěch Zeisek"
+      ],
+      "started": "2013-03-20T10:23:28+01:00",
+      "last_reply": "2013-03-20T13:34:46+01:00",
+      "root_message_id": "msg-328b71723f0c"
+    }
+  ]
+}

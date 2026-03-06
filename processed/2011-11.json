@@ -1,0 +1,94 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2011-11",
+  "messages": [
+    {
+      "id": "msg-eb108453edc9",
+      "message_id": "<F10478CF-9312-45AD-9BDB-D22C017D8A60@imperial.ac.uk>",
+      "from_name": "Federico Calboli",
+      "from_email_hash": "a8bbf369f348bd87d0af37612627264a6c22cc2852a56c36e1457f3a5c80f6d6",
+      "date": "2011-11-18T11:43:57Z",
+      "subject": "[R-sig-genetics] package mvtnorm is obsolete",
+      "subject_clean": "package mvtnorm is obsolete",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "> library(genetics)\nLoading required package: combinat\n\nAttaching package: ?combinat?\n\nThe following object(s) are masked from ?package:utils?:\n\n    combn\n\nLoading required package: gdata\ngdata: read.xls support for 'XLS' (Excel 97-2004) files ENABLED.\n\ngdata: read.xls support for 'XLSX' (Excel 2007+) files ENABLED.\n\nAttaching package: ?gdata?\n\nThe following object(s) are masked from ?package:Hmisc?:\n\n    combine\n\nThe following object(s) are masked from ?package:stats?:\n\n    nobs\n\nThe following object(s) are masked from ?package:utils?:\n\n    object.size\n\nLoading required package: gtools\nLoading required package: mvtnorm\n\nNOTE: THIS PACKAGE IS NOW OBSOLETE.\n\n  The R-Genetics project has developed an set of enhanced genetics\n  packages to replace 'genetics'. Please visit the project homepage\n  at http://rgenetics.org for informtion.\n\n\nAttaching package: ?genetics?\n\nOk, I went on to http://rgenetics.org/trac/rgalaxy but no clear guidance is present on mvtnorm. Aside from the message, wich I am happy to ignore, is there any other thing to do/be aware of?\n\nbw\n\nF\n\n\n\n--\nFederico C. F. Calboli\nNeuroepidemiology and Ageing Research\nImperial College, St. Mary's Campus\nNorfolk Place, London W2 1PG\n\nTel +44 (0)20 75941602   Fax +44 (0)20 75943193\n\nf.calboli [.a.t] imperial.ac.uk\nf.calboli [.a.t] gmail.com",
+      "body_snippet": "> library(genetics)\nLoading required package: combinat\n\nAttaching package: ?combinat?\n\nThe following object(s) are masked from ?package:utils?:\n\n    combn\n\nLoading required package: gdata\ngdata: read.",
+      "thread_id": "thread-eb108453edc9",
+      "thread_depth": 0,
+      "month": "2011-11"
+    },
+    {
+      "id": "msg-5edb6869eee5",
+      "message_id": "<2CB2DA8E426F3541AB1907F98ABA65701BE23307@icexch-m1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2011-11-18T12:22:30Z",
+      "subject": "[R-sig-genetics] package mvtnorm is obsolete",
+      "subject_clean": "package mvtnorm is obsolete",
+      "in_reply_to": "<F10478CF-9312-45AD-9BDB-D22C017D8A60@imperial.ac.uk>",
+      "references": [
+        "<F10478CF-9312-45AD-9BDB-D22C017D8A60@imperial.ac.uk>"
+      ],
+      "body_plain": "Dear Federico, \n\nmvtnorm is not obsolete, genetics is, and has been so for at least a year I think. The R-genetics project on Bioconductor is meant to replace it. \n\nI think most functionalities of 'genetics' are available in the packages pegas and adegenet.\n\nCheers\n\nThibaut.\n\n________________________________________\nFrom: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] on behalf of Federico Calboli [f.calboli at imperial.ac.uk]\nSent: 18 November 2011 11:43\nTo: r-sig-genetics at r-project.org\nSubject: [R-sig-genetics] package mvtnorm is obsolete\n\n> library(genetics)\nLoading required package: combinat\n\nAttaching package: ?combinat?\n\nThe following object(s) are masked from ?package:utils?:\n\n    combn\n\nLoading required package: gdata\ngdata: read.xls support for 'XLS' (Excel 97-2004) files ENABLED.\n\ngdata: read.xls support for 'XLSX' (Excel 2007+) files ENABLED.\n\nAttaching package: ?gdata?\n\nThe following object(s) are masked from ?package:Hmisc?:\n\n    combine\n\nThe following object(s) are masked from ?package:stats?:\n\n    nobs\n\nThe following object(s) are masked from ?package:utils?:\n\n    object.size\n\nLoading required package: gtools\nLoading required package: mvtnorm\n\nNOTE: THIS PACKAGE IS NOW OBSOLETE.\n\n  The R-Genetics project has developed an set of enhanced genetics\n  packages to replace 'genetics'. Please visit the project homepage\n  at http://rgenetics.org for informtion.\n\n\nAttaching package: ?genetics?\n\nOk, I went on to http://rgenetics.org/trac/rgalaxy but no clear guidance is present on mvtnorm. Aside from the message, wich I am happy to ignore, is there any other thing to do/be aware of?\n\nbw\n\nF\n\n\n\n--\nFederico C. F. Calboli\nNeuroepidemiology and Ageing Research\nImperial College, St. Mary's Campus\nNorfolk Place, London W2 1PG\n\nTel +44 (0)20 75941602   Fax +44 (0)20 75943193\n\nf.calboli [.a.t] imperial.ac.uk\nf.calboli [.a.t] gmail.com\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
+      "body_snippet": "Dear Federico, \n\nmvtnorm is not obsolete, genetics is, and has been so for at least a year I think. The R-genetics project on Bioconductor is meant to replace it. \n\nI think most functionalities of 'ge",
+      "thread_id": "thread-eb108453edc9",
+      "thread_depth": 1,
+      "month": "2011-11"
+    },
+    {
+      "id": "msg-3af7402b9314",
+      "message_id": "<DCCFFB96-F957-40F6-9C32-80CA10F61FC2@imperial.ac.uk>",
+      "from_name": "Federico Calboli",
+      "from_email_hash": "a8bbf369f348bd87d0af37612627264a6c22cc2852a56c36e1457f3a5c80f6d6",
+      "date": "2011-11-18T12:30:41Z",
+      "subject": "[R-sig-genetics] package mvtnorm is obsolete",
+      "subject_clean": "package mvtnorm is obsolete",
+      "in_reply_to": "<2CB2DA8E426F3541AB1907F98ABA65701BE23307@icexch-m1.ic.ac.uk>",
+      "references": [
+        "<F10478CF-9312-45AD-9BDB-D22C017D8A60@imperial.ac.uk>",
+        "<2CB2DA8E426F3541AB1907F98ABA65701BE23307@icexch-m1.ic.ac.uk>"
+      ],
+      "body_plain": "On 18 Nov 2011, at 12:22, Jombart, Thibaut wrote:\n\n> Dear Federico, \n> \n> mvtnorm is not obsolete, genetics is, and has been so for at least a year I think. The R-genetics project on Bioconductor is meant to replace it. \n\ngenetics is still on CRAN btw\n\n> \n> I think most functionalities of 'genetics' are available in the packages pegas and adegenet.\n\nNeither have the function genotype() and the corollary function as.genotype(), which are quite useful caculating HWE using other packages -- see hwe.hardy() in package gap.\n\nbw\n\nF\n\n\n\n> \n> Cheers\n> \n> Thibaut.\n> \n> ________________________________________\n> From: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] on behalf of Federico Calboli [f.calboli at imperial.ac.uk]\n> Sent: 18 November 2011 11:43\n> To: r-sig-genetics at r-project.org\n> Subject: [R-sig-genetics] package mvtnorm is obsolete\n> \n>> library(genetics)\n> Loading required package: combinat\n> \n> Attaching package: ?combinat?\n> \n> The following object(s) are masked from ?package:utils?:\n> \n>    combn\n> \n> Loading required package: gdata\n> gdata: read.xls support for 'XLS' (Excel 97-2004) files ENABLED.\n> \n> gdata: read.xls support for 'XLSX' (Excel 2007+) files ENABLED.\n> \n> Attaching package: ?gdata?\n> \n> The following object(s) are masked from ?package:Hmisc?:\n> \n>    combine\n> \n> The following object(s) are masked from ?package:stats?:\n> \n>    nobs\n> \n> The following object(s) are masked from ?package:utils?:\n> \n>    object.size\n> \n> Loading required package: gtools\n> Loading required package: mvtnorm\n> \n> NOTE: THIS PACKAGE IS NOW OBSOLETE.\n> \n>  The R-Genetics project has developed an set of enhanced genetics\n>  packages to replace 'genetics'. Please visit the project homepage\n>  at http://rgenetics.org for informtion.\n> \n> \n> Attaching package: ?genetics?\n> \n> Ok, I went on to http://rgenetics.org/trac/rgalaxy but no clear guidance is present on mvtnorm. Aside from the message, wich I am happy to ignore, is there any other thing to do/be aware of?\n> \n> bw\n> \n> F\n> \n> \n> \n> --\n> Federico C. F. Calboli\n> Neuroepidemiology and Ageing Research\n> Imperial College, St. Mary's Campus\n> Norfolk Place, London W2 1PG\n> \n> Tel +44 (0)20 75941602   Fax +44 (0)20 75943193\n> \n> f.calboli [.a.t] imperial.ac.uk\n> f.calboli [.a.t] gmail.com\n> \n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n\n--\nFederico C. F. Calboli\nNeuroepidemiology and Ageing Research\nImperial College, St. Mary's Campus\nNorfolk Place, London W2 1PG\n\nTel +44 (0)20 75941602   Fax +44 (0)20 75943193\n\nf.calboli [.a.t] imperial.ac.uk\nf.calboli [.a.t] gmail.com",
+      "body_snippet": "On 18 Nov 2011, at 12:22, Jombart, Thibaut wrote:\n\n> Dear Federico, \n> \n> mvtnorm is not obsolete, genetics is, and has been so for at least a year I think. The R-genetics project on Bioconductor is m",
+      "thread_id": "thread-eb108453edc9",
+      "thread_depth": 2,
+      "month": "2011-11"
+    },
+    {
+      "id": "msg-27aa65ed2cc4",
+      "message_id": "<2CB2DA8E426F3541AB1907F98ABA65701BE2331D@icexch-m1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2011-11-18T12:41:38Z",
+      "subject": "[R-sig-genetics] package mvtnorm is obsolete",
+      "subject_clean": "package mvtnorm is obsolete",
+      "in_reply_to": "<DCCFFB96-F957-40F6-9C32-80CA10F61FC2@imperial.ac.uk>",
+      "references": [
+        "<F10478CF-9312-45AD-9BDB-D22C017D8A60@imperial.ac.uk>",
+        "<2CB2DA8E426F3541AB1907F98ABA65701BE23307@icexch-m1.ic.ac.uk>",
+        "<DCCFFB96-F957-40F6-9C32-80CA10F61FC2@imperial.ac.uk>"
+      ],
+      "body_plain": "Hello, \n\nyes, genetics is still on CRAN but deprecated. Its functionalities are still available. There are quite a few options to do a HWE test:\n- (genetics): HWE.chisq, HWE.test, HWE.exact\n- (adegenet, wrapper for genetics): HWE.test.genind\n- (ape): hw.test\n\n...\n\nJudging from the check results for genetics:\nhttp://cran.r-project.org/web/checks/check_results_genetics.html\n\nit seems likely that the package will remain on CRAN for a while, unless the maintainers decide otherwise.\n\nCheers\n\nThibaut\n________________________________________\nFrom: Federico Calboli [f.calboli at imperial.ac.uk]\nSent: 18 November 2011 12:30\nTo: Jombart, Thibaut\nCc: r-sig-genetics at r-project.org\nSubject: Re: [R-sig-genetics] package mvtnorm is obsolete\n\nOn 18 Nov 2011, at 12:22, Jombart, Thibaut wrote:\n\n> Dear Federico,\n>\n> mvtnorm is not obsolete, genetics is, and has been so for at least a year I think. The R-genetics project on Bioconductor is meant to replace it.\n\ngenetics is still on CRAN btw\n\n>\n> I think most functionalities of 'genetics' are available in the packages pegas and adegenet.\n\nNeither have the function genotype() and the corollary function as.genotype(), which are quite useful caculating HWE using other packages -- see hwe.hardy() in package gap.\n\nbw\n\nF\n\n\n\n>\n> Cheers\n>\n> Thibaut.\n>\n> ________________________________________\n> From: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] on behalf of Federico Calboli [f.calboli at imperial.ac.uk]\n> Sent: 18 November 2011 11:43\n> To: r-sig-genetics at r-project.org\n> Subject: [R-sig-genetics] package mvtnorm is obsolete\n>\n>> library(genetics)\n> Loading required package: combinat\n>\n> Attaching package: ?combinat?\n>\n> The following object(s) are masked from ?package:utils?:\n>\n>    combn\n>\n> Loading required package: gdata\n> gdata: read.xls support for 'XLS' (Excel 97-2004) files ENABLED.\n>\n> gdata: read.xls support for 'XLSX' (Excel 2007+) files ENABLED.\n>\n> Attaching package: ?gdata?\n>\n> The following object(s) are masked from ?package:Hmisc?:\n>\n>    combine\n>\n> The following object(s) are masked from ?package:stats?:\n>\n>    nobs\n>\n> The following object(s) are masked from ?package:utils?:\n>\n>    object.size\n>\n> Loading required package: gtools\n> Loading required package: mvtnorm\n>\n> NOTE: THIS PACKAGE IS NOW OBSOLETE.\n>\n>  The R-Genetics project has developed an set of enhanced genetics\n>  packages to replace 'genetics'. Please visit the project homepage\n>  at http://rgenetics.org for informtion.\n>\n>\n> Attaching package: ?genetics?\n>\n> Ok, I went on to http://rgenetics.org/trac/rgalaxy but no clear guidance is present on mvtnorm. Aside from the message, wich I am happy to ignore, is there any other thing to do/be aware of?\n>\n> bw\n>\n> F\n>\n>\n>\n> --\n> Federico C. F. Calboli\n> Neuroepidemiology and Ageing Research\n> Imperial College, St. Mary's Campus\n> Norfolk Place, London W2 1PG\n>\n> Tel +44 (0)20 75941602   Fax +44 (0)20 75943193\n>\n> f.calboli [.a.t] imperial.ac.uk\n> f.calboli [.a.t] gmail.com\n>\n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n\n--\nFederico C. F. Calboli\nNeuroepidemiology and Ageing Research\nImperial College, St. Mary's Campus\nNorfolk Place, London W2 1PG\n\nTel +44 (0)20 75941602   Fax +44 (0)20 75943193\n\nf.calboli [.a.t] imperial.ac.uk\nf.calboli [.a.t] gmail.com",
+      "body_snippet": "Hello, \n\nyes, genetics is still on CRAN but deprecated. Its functionalities are still available. There are quite a few options to do a HWE test:\n- (genetics): HWE.chisq, HWE.test, HWE.exact\n- (adegene",
+      "thread_id": "thread-eb108453edc9",
+      "thread_depth": 3,
+      "month": "2011-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-eb108453edc9",
+      "subject": "package mvtnorm is obsolete",
+      "message_count": 4,
+      "participants": [
+        "Federico Calboli",
+        "Jombart, Thibaut"
+      ],
+      "started": "2011-11-18T11:43:57+00:00",
+      "last_reply": "2011-11-18T12:41:38+00:00",
+      "root_message_id": "msg-eb108453edc9"
+    }
+  ]
+}

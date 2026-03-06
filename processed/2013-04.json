@@ -1,0 +1,58 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2013-04",
+  "messages": [
+    {
+      "id": "msg-3b30cd15c850",
+      "message_id": "<loom.20130401T181259-323@post.gmane.org>",
+      "from_name": "Lina Valencia",
+      "from_email_hash": "1564629a6e68a17104581687622eab9ed5c02fec26a13abfd17d315106f4bfc6",
+      "date": "2013-04-01T16:14:37Z",
+      "subject": "[R-sig-genetics] Calculation of Queller and Goodnight relatedness\tin R:",
+      "subject_clean": "Calculation of Queller and Goodnight relatedness\tin R:",
+      "in_reply_to": null,
+      "references": [
+        "<4C263D71.8060305@monash.edu.au>"
+      ],
+      "body_plain": "Nevil Amos <nevil.amos at ...> writes:\n\n> \n> Do any of the genetics related packages allow calcualtion of individual \n> relatedness values?\n> \n> such as that in Queller, D.C. and Goodnight, K.F. 1989. Estimation of \n> genetic relatedness using allozyme data. Evolution 43:258-275.?\n> \n> cheers\n> \n> Nevil Amos\n> \n> \t[[alternative HTML version deleted]]\n> \n\n\nHi Nevil,\n\nI am also looking to an R package that calculate Q-G relatedness. Have you find\nany? I need to calculate R for many populations and different points in time,\nand doing it on Kingroup takes too much time.\n\nThanks!",
+      "body_snippet": "Nevil Amos <nevil.amos at ...> writes:\n\n> \n> Do any of the genetics related packages allow calcualtion of individual \n> relatedness values?\n> \n> such as that in Queller, D.C. and Goodnight, K.F. 1989.",
+      "thread_id": "thread-3b30cd15c850",
+      "thread_depth": 0,
+      "month": "2013-04"
+    },
+    {
+      "id": "msg-5ed5b23be069",
+      "message_id": "<CAN9eD7=gs3upT7-mikw+P=j==5yZvyL3HDdpobtwtKc3+REPUg@mail.gmail.com>",
+      "from_name": "nevil amos",
+      "from_email_hash": "7ffc8e7850936f1d46522bb167a2c37013690516fa044fadd25b7469baf30c8b",
+      "date": "2013-04-03T12:23:34+11:00",
+      "subject": "[R-sig-genetics] Calculation of Queller and Goodnight relatedness in R:",
+      "subject_clean": "Calculation of Queller and Goodnight relatedness in R:",
+      "in_reply_to": "<loom.20130401T181259-323@post.gmane.org>",
+      "references": [
+        "<4C263D71.8060305@monash.edu.au>",
+        "<loom.20130401T181259-323@post.gmane.org>"
+      ],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130403/bcbae4e5/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130403/bcbae4e5/attachment.pl>",
+      "thread_id": "thread-3b30cd15c850",
+      "thread_depth": 1,
+      "month": "2013-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-3b30cd15c850",
+      "subject": "Calculation of Queller and Goodnight relatedness\tin R:",
+      "message_count": 2,
+      "participants": [
+        "Lina Valencia",
+        "nevil amos"
+      ],
+      "started": "2013-04-01T16:14:37+00:00",
+      "last_reply": "2013-04-03T12:23:34+11:00",
+      "root_message_id": "msg-3b30cd15c850"
+    }
+  ]
+}

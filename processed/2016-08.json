@@ -1,0 +1,39 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2016-08",
+  "messages": [
+    {
+      "id": "msg-2cb7daad97f9",
+      "message_id": "<CADbY9FPFZXgsJtsGAFt++3xV_TqwPT3uZTiGh+G2cgPv-sMsgg@mail.gmail.com>",
+      "from_name": "Graham Reynolds",
+      "from_email_hash": "3150f42d9337cde9d69c8ac9a4691631926600de5693282b2fc92358c13fbb79",
+      "date": "2016-08-31T19:33:20-04:00",
+      "subject": "[R-sig-genetics] Fw: Query regarding DAPC using ADEGENT in R",
+      "subject_clean": "Query regarding DAPC using ADEGENT in R",
+      "in_reply_to": "<CO2PR07MB2710658CD66523FCC97500DA88E30@CO2PR07MB2710.namprd07.prod.outlook.com>",
+      "references": [
+        "<F587D8F2-14BA-40CF-A6AD-D9272C7D29BF@ic.ac.uk>",
+        "<CO2PR07MB2710658CD66523FCC97500DA88E30@CO2PR07MB2710.namprd07.prod.outlook.com>"
+      ],
+      "body_plain": "Hi Rav, if you have multiple cores on your CPU you can distribute the task\namong them, which really speeds it up. That might at least let you see\nwhether it is a problem with the dataset.\n\ngrp <-find.clusters(app, max.n.clust=n, parallel = \"multicore\", ncpus = 4)\n\nYou might need to install the Parallel package\n\nCheers\n\n\nR. Graham Reynolds, Ph.D.\nAssistant Professor of Biology\nUniversity of North Carolina Asheville\nwww.caribbeanboas.org\n\n\n\n*From:* R-sig-genetics <r-sig-genetics-bounces at r-project.org> on behalf of\nBhuller, Ravneet <ravneet.bhuller13 at imperial.ac.uk>\n\n> *Sent:* Wednesday, August 31, 2016 5:39 AM\n> *To:* r-sig-genetics at r-project.org\n> *Subject:* [R-sig-genetics] Query regarding DAPC using ADEGENT in R\n>\n> Dear All,\n>\n> I am trying to do DAPC on my genind object (app) using ADEGENET in R. But\n> when I run the following command:\n>\n> grp <- find.clusters(app)\n>\n> it is processing continuously for more than 2 hours but not producing any\n> output. Any guidance will be very much appreciated.\n>\n> Regards,\n>\n> Rav\n>\n>         [[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n> R-sig-genetics Info Page - stat.ethz.ch\n> <https://stat.ethz.ch/mailman/listinfo/r-sig-genetics>\n> stat.ethz.ch\n> The R-sig-genetics mailing list is devoted to friendly, insightful,\n> exciting discussions on genetic data analysis using the R software. Covered\n> topics include:\n>\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi Rav, if you have multiple cores on your CPU you can distribute the task\namong them, which really speeds it up. That might at least let you see\nwhether it is a problem with the dataset.\n\ngrp <-find.",
+      "thread_id": "thread-2cb7daad97f9",
+      "thread_depth": 0,
+      "month": "2016-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-2cb7daad97f9",
+      "subject": "Query regarding DAPC using ADEGENT in R",
+      "message_count": 1,
+      "participants": [
+        "Graham Reynolds"
+      ],
+      "started": "2016-08-31T19:33:20-04:00",
+      "last_reply": "2016-08-31T19:33:20-04:00",
+      "root_message_id": "msg-2cb7daad97f9"
+    }
+  ]
+}

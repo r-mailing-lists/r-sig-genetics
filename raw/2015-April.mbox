@@ -1,0 +1,195 @@
+From t.jombart at imperial.ac.uk  Wed Apr  8 18:21:00 2015
+From: t.jombart at imperial.ac.uk (Jombart, Thibaut)
+Date: Wed, 8 Apr 2015 16:21:00 +0000
+Subject: [R-sig-genetics] r-sig-genetics is alive!
+Message-ID: <2CB2DA8E426F3541AB1907F98ABA6570ABF11DDF@icexch-m1.ic.ac.uk>
+
+
+Dear all,
+
+after a rather quiet existence for the last few years, it may be good to send this reminder: r-sig-genetics is alive!
+
+Many awesome people have subscribed lately, and I am looking forward to seeing exciting discussions here. Posting guidelines have been freshly updated:
+https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+Coming soon: exciting news regarding future releases of a bunch of population genetics packages.
+
+All the best
+
+Thibaut
+
+==============================
+Dr Thibaut Jombart
+MRC Centre for Outbreak Analysis and Modelling
+Department of Infectious Disease Epidemiology
+Imperial College - School of Public Health
+Norfolk Place, London W2 1PG, UK
+Tel. : 0044 (0)20 7594 3658
+http://sites.google.com/site/thibautjombart/
+http://sites.google.com/site/therepiproject/
+http://adegenet.r-forge.r-project.org/
+Twitter: @thibautjombart
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From hlapp at duke.edu  Wed Apr  8 19:22:33 2015
+From: hlapp at duke.edu (Hilmar Lapp)
+Date: Wed, 8 Apr 2015 13:22:33 -0400
+Subject: [R-sig-genetics] r-sig-genetics is alive!
+In-Reply-To: <2CB2DA8E426F3541AB1907F98ABA6570ABF11DDF@icexch-m1.ic.ac.uk>
+References: <2CB2DA8E426F3541AB1907F98ABA6570ABF11DDF@icexch-m1.ic.ac.uk>
+Message-ID: <552563D9.9000900@duke.edu>
+
+Yay! R-SIG-Genetics is dead, long live R-SIG-Genetics :-) I'll post a
+request for feedback in separate email.
+
+   -hilmar
+
+On 4/8/15, 12:21 PM, Jombart, Thibaut wrote:
+> Dear all,
+>
+> after a rather quiet existence for the last few years, it may be good to send this reminder: r-sig-genetics is alive!
+>
+> Many awesome people have subscribed lately, and I am looking forward to seeing exciting discussions here. Posting guidelines have been freshly updated:
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>
+> Coming soon: exciting news regarding future releases of a bunch of population genetics packages.
+>
+> All the best
+>
+> Thibaut
+>
+> ==============================
+> Dr Thibaut Jombart
+> MRC Centre for Outbreak Analysis and Modelling
+> Department of Infectious Disease Epidemiology
+> Imperial College - School of Public Health
+> Norfolk Place, London W2 1PG, UK
+> Tel. : 0044 (0)20 7594 3658
+> http://sites.google.com/site/thibautjombart/
+> http://sites.google.com/site/therepiproject/
+> http://adegenet.r-forge.r-project.org/
+> Twitter: @thibautjombart
+>
+>
+>
+> 	[[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+-- 
+Hilmar Lapp -:- genome.duke.edu -:- lappland.io
+
+
+From hlapp at duke.edu  Wed Apr  8 19:28:24 2015
+From: hlapp at duke.edu (Hilmar Lapp)
+Date: Wed, 8 Apr 2015 13:28:24 -0400
+Subject: [R-sig-genetics] request for feedback: R popgen packages for Docker
+	image
+Message-ID: <55256538.2040605@duke.edu>
+
+As an outcome of the recently held Population Genetics in R hackathon
+[1] I created a publicly maintained Docker container for population
+genetics in R, and recently issued the following request for feedback:
+
+https://twitter.com/hlapp/status/582226596846813184
+Docker image for Population Genetics in R - is this useful? Do you have
+packages to suggest for editing? Any comments welcome: Docker Hub:
+https://registry.hub.docker.com/u/hlapp/rpopgen/
+Issue tracker (and source repository):
+https://github.com/NESCent/popgen-docker/issues
+
+  -hilmar
+
+[1] https://github.com/NESCent/r-popgen-hackathon
+-- 
+Hilmar Lapp -:- genome.duke.edu -:- lappland.io
+
+
+From t.jombart at imperial.ac.uk  Thu Apr  9 15:34:22 2015
+From: t.jombart at imperial.ac.uk (Jombart, Thibaut)
+Date: Thu, 9 Apr 2015 13:34:22 +0000
+Subject: [R-sig-genetics] R/genetics packages on github
+Message-ID: <2CB2DA8E426F3541AB1907F98ABA6570ABF12036@icexch-m1.ic.ac.uk>
+
+Dear all
+
+following the "population genetics in R" hackathon organized by Hilmar Lapp at NESCent (NC) last month, a bunch of R packages for genetic data analysis are now being developed in a collaborative, and coordinated way on Github. Several of them are undergoing major changes to improve data interoperability, minimize redundancies across packages, scale better for large genomic datasets, and implement new functionalities. 
+
+The list includes:
+- adegenet: https://github.com/thibautjombart/adegenet
+- apex (new package): https://github.com/thibautjombart/apex
+- hierfstat: https://github.com/jgx65/hierfstat
+- minautor (new package): https://github.com/NESCent/MINOTAUR
+- pegas: https://github.com/emmanuelparadis/pegas
+- phangorn: https://github.com/KlausVigo/phangorn
+- poppr: https://github.com/zkamvar/poppr
+- strataG: https://github.com/EricArcher/strataG
+
+The development versions can be installed from R directly using (example with adegenet):
+library("devtools")
+install_github("thibautjombart/adegenet")
+
+If curious, visit the respective pages on github to track the development, join the development teams, post feature requests / bugs reports / discuss with the developers (all made simple using the 'issue' system). 
+
+Watch this space for more news on this topic!
+
+Best
+Thibaut
+    
+==============================
+Dr Thibaut Jombart
+MRC Centre for Outbreak Analysis and Modelling
+Department of Infectious Disease Epidemiology
+Imperial College - School of Public Health
+Norfolk Place, London W2 1PG, UK
+Tel. : 0044 (0)20 7594 3658
+http://sites.google.com/site/thibautjombart/
+http://sites.google.com/site/therepiproject/
+http://adegenet.r-forge.r-project.org/
+
+Twitter: @thibautjombart
+
+
+
+From t.jombart at imperial.ac.uk  Thu Apr 16 17:59:25 2015
+From: t.jombart at imperial.ac.uk (Jombart, Thibaut)
+Date: Thu, 16 Apr 2015 15:59:25 +0000
+Subject: [R-sig-genetics] New package apex 1.0.0 released on CRAN
+Message-ID: <2CB2DA8E426F3541AB1907F98ABA6570ABF13213@icexch-m1.ic.ac.uk>
+
+Dear all,
+
+(apologies for multiple posting)
+
+On behalf of the apex development team (E. Paradis, K. Schliep, Z. Kamvar, R. Harris and myself), I am happy to announce that apex has been released on CRAN:
+http://cran.r-project.org/web/packages/apex/index.html
+
+This package provides tools for reading, storing, handling and analysing genetic sequences from multiple genes, and is compatible with both ape and phangorn.
+
+For more information on apex, questions, requests, or to join us, check our github project at:
+https://github.com/thibautjombart/apex
+
+Best regards
+Thibaut
+               
+==============================
+Dr Thibaut Jombart
+MRC Centre for Outbreak Analysis and Modelling
+Department of Infectious Disease Epidemiology
+Imperial College - School of Public Health
+Norfolk Place, London W2 1PG, UK
+Tel. : 0044 (0)20 7594 3658
+http://sites.google.com/site/thibautjombart/
+http://sites.google.com/site/therepiproject/
+http://adegenet.r-forge.r-project.org/
+Twitter: @thibautjombart
+
+
+

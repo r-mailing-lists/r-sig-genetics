@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2019-12",
+  "messages": [
+    {
+      "id": "msg-e0f009fdfa6c",
+      "message_id": "<CAEsSYzzbGrtgyJ8cT_E9StNmu9+B=z--uyE7gECwi+ydoWTJdw@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2019-12-07T16:20:28Z",
+      "subject": "[R-sig-genetics] COURSE - R 4 ALL (Andrew Beckerman & Dylan Childs) (R4LL01) FREE ACCOMMODATION AVAILABLE",
+      "subject_clean": "COURSE - R 4 ALL (Andrew Beckerman & Dylan Childs) (R4LL01) FREE ACCOMMODATION AVAILABLE",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "R 4 ALL (Andrew Beckerman & Dylan Childs) (R4LL01) FREE ACCOMMODATION AVAILABLE\n\nhttps://www.prstatistics.com/course/r-4-all-andrew-beckerman-dylan-childs-r4ll01/\n\nThis course will be delivered by Dr Andrew Beckerman and Dr Dylan\nChilds, authors of the best selling book ?Getting Started with R, An\nIntroduction for Biologists? from the 20th-24th January in Glasgow\nCity Centre.\n\nFREE ACCOMMODATION is available for people working in academia and for\nnon-profit organisations.\n\nPR Statistics has partnered with R4ALL (www.r4all.org) to offer an\nintroductory course to R, RStudio and statistics for Biologists. Based\non their best-selling book, ?Getting Started with R, An Introduction\nfor Biologists?, this course provides training in the R statistical\nand programming language for data management, visualisation, and\nanalysis. The R4All team, with more than 20 years experience\ndelivering this course, will boost you up the initial learning curve,\nstreamline your data management and analysis workflows, and give you\nscalable solutions. You will develop and take away robust and\nrepeatable workflows for visualisation and statistical analyses,\nranging from t-tests and ANOVA to generalised linear models and mixed\neffects models.\n\nFor more details or to request an invoice please email\noliverhooker at prstatistics.com or use the link to book via our website.\n\n\n-- \nOliver Hooker PhD.\nPR statistics\n\n2019 publications;\n\nA way forward with eco evo devo: an extended theory of resource\npolymorphism with postglacial fishes as model systems. Biological\nReviews (2019).\n\nprstatistics.com\nfacebook.com/prstatistics/\ntwitter.com/PRstatistics\ngroups.google.com/d/forum/pr-statistics-post-course-forum\nprstatistics.com/organiser/oliver-hooker/\n\n53 Morrison Street\nGlasgow\nG5 8LB\n+44 (0) 7966500340",
+      "body_snippet": "R 4 ALL (Andrew Beckerman & Dylan Childs) (R4LL01) FREE ACCOMMODATION AVAILABLE\n\nhttps://www.prstatistics.com/course/r-4-all-andrew-beckerman-dylan-childs-r4ll01/\n\nThis course will be delivered by Dr ",
+      "thread_id": "thread-e0f009fdfa6c",
+      "thread_depth": 0,
+      "month": "2019-12"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-e0f009fdfa6c",
+      "subject": "COURSE - R 4 ALL (Andrew Beckerman & Dylan Childs) (R4LL01) FREE ACCOMMODATION AVAILABLE",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2019-12-07T16:20:28+00:00",
+      "last_reply": "2019-12-07T16:20:28+00:00",
+      "root_message_id": "msg-e0f009fdfa6c"
+    }
+  ]
+}

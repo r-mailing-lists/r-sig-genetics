@@ -1,0 +1,252 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2024-11",
+  "messages": [
+    {
+      "id": "msg-2b1625663375",
+      "message_id": "<BCWmhqoiTAWbPXKlJPjVVA@geopod-ismtpd-7>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2024-11-08T05:30:28Z",
+      "subject": "[R-sig-genetics] Online Course: Python for R Users - last chance",
+      "subject_clean": "Online Course: Python for R Users - last chance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nLast chance to sign up for our new 1-day seminar Python for R Users <https://instats.org/seminar/python-for-r-users2>, running Nov 13 with professor Rebecca Barter from the Division of Epidemiology at the University of Utah School of Medicine. For researchers who are familiar with R, especially within the tidyverse ecosystem, transitioning to Python offers a strategic advantage for academic research. Python's versatility and broad applicability across a huge range of scientific fields make it a crucial tool for complex data analysis and model building. To facilitate this, the seminar is designed to help PhD students, academics, and professional researchers leverage their existing R knowledge to quickly gain proficiency in Python, focusing on translating concepts and techniques familiar in R to the Python environment. Participants will gain a robust understanding of Python's libraries and data structures, enabling them to integrate Python into their research workflows efficiently and expand their analytical capabilities, including with Python's substantial toolkits for machine learning and deep learning such as Scikit-learn and Keras (for machine learning and deep learning).\n\nSign up today <https://instats.org/seminar/python-for-r-users2> and don't miss out on this unique opportunity to easily transition from R to Python!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nLast chance to sign up for our new 1-day seminar Python for R Users <https://instats.org/seminar/python-for-r-users2>, running Nov 13 with professor Rebecca Barter from the Division of Ep",
+      "thread_id": "thread-2b1625663375",
+      "thread_depth": 0,
+      "month": "2024-11"
+    },
+    {
+      "id": "msg-74b1dcde7d78",
+      "message_id": "<1731419830.407823575@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-11-12T14:57:10+01:00",
+      "subject": "[R-sig-genetics] RADseq course using Stacks - only 2 seats left",
+      "subject_clean": "RADseq course using Stacks - only 2 seats left",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe?re excited to announce that there are only 2 seats remaining for our upcoming online course on RAD-seq Data Analysis, scheduled for 18-22 November 2024.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course16/ ]( https://www.physalia-courses.org/courses-workshops/course16/ )\n \n \nThis 5-day course provides comprehensive training on reduced representation genome sequencing methods like RAD-seq and focuses on data analysis using Stacks. Participants will gain practical, hands-on experience essential for conducting population genetics, phylogenetic, and association studies.\n \n \n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe?re excited to announce that there are only 2 seats remaining for our upcoming online course on RAD-seq Data Analysis, scheduled for 18-22 November 2024.\n \nCourse website: [ https://www.ph",
+      "thread_id": "thread-74b1dcde7d78",
+      "thread_depth": 0,
+      "month": "2024-11"
+    },
+    {
+      "id": "msg-3b4afbfc5145",
+      "message_id": "<CXD6nLKCQkeMZ6d8Pw5PCg@geopod-ismtpd-8>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2024-11-18T02:47:31Z",
+      "subject": "[R-sig-genetics] Single Cell Data Analysis - Livestream Seminar",
+      "subject_clean": "Single Cell Data Analysis - Livestream Seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nLast chance for the 1-day seminar on Single Cell Data Analysis <https://instats.org/seminar/single-cell-data-analysis2> in R and Python, running Nov 26 with professor Nikolay Oskolkov. Single-cellanalysis provides unprecedented insights into cellular heterogeneity, enabling researchers to explore complex biological systems at the most granular scale. With applications in cancer research, developmental biology, and immunology, among others, mastering the techniques of single-celldataanalysis is essential for researchers aiming to push the boundaries of modern science. This one-day workshop offers an in-depth exploration of the computational tools and methodologies essential for high-level single-celldata interpretation.\n\nSign up today <https://instats.org/seminar/single-cell-data-analysis2> to secure your spot in this unique seminar.\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nLast chance for the 1-day seminar on Single Cell Data Analysis <https://instats.org/seminar/single-cell-data-analysis2> in R and Python, running Nov 26 with professor Nikolay Oskolkov. Si",
+      "thread_id": "thread-3b4afbfc5145",
+      "thread_depth": 0,
+      "month": "2024-11"
+    },
+    {
+      "id": "msg-8e4445c7d284",
+      "message_id": "<1732111225.596610773@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-11-20T15:00:25+01:00",
+      "subject": "[R-sig-genetics] Online Course: Multivariate Data Analysis with R and vegan",
+      "subject_clean": "Online Course: Multivariate Data Analysis with R and vegan",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are happy to announce the upcoming Physalia online course: \"Multivariate Data Analysis with R and vegan\", taking place from 10-13 February 2025. \n\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/vegan/ ]( https://www.physalia-courses.org/courses-workshops/vegan/ ) \n \nWhat you?ll learn:\nKey multivariate analysis techniques, including constrained and unconstrained ordination (CCA, RDA, PERMANOVA, etc.).\nEffective use of the vegan R package for ordination, diversity analysis, and ecological simulations.\nHands-on application of restricted permutation tests for experimental design analysis.\nPractical R programming skills for analysing and visualizing multivariate data.\nFormat:\nOnline, fostering international participation.\nSessions from 14:00 to 20:00 Berlin time, blending lectures, practical exercises, and interactive Q&A.\nWho should join:\nThis course is ideal for those with a basic understanding of RStudio and R programming who wish to advance their knowledge of multivariate data analysis.\n \nWhy join?\nGain practical expertise to confidently analyze complex datasets and apply cutting-edge statistical methods using R.\n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are happy to announce the upcoming Physalia online course: \"Multivariate Data Analysis with R and vegan\", taking place from 10-13 February 2025. \n\n \nCourse website: [ https://www.physalia",
+      "thread_id": "thread-8e4445c7d284",
+      "thread_depth": 0,
+      "month": "2024-11"
+    },
+    {
+      "id": "msg-4b2cfaabde60",
+      "message_id": "<CAEsSYzwvYn11hc-smiqW+8NzsZ71WaNrcA77qzuap5FmLssrSA@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2024-11-20T19:10:01Z",
+      "subject": "[R-sig-genetics] Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR07)",
+      "subject_clean": "Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR07)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR07)\n\nhttps://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr07/\n<https://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr06/>\n\n*31st - March - 4th April 2025*\n\nPlease feel free to share!\n\nWe encourage attendees to bring their own data, you will\nreceive opportunities to discuss your data with the instructor throughout\nthe course, if you would like guideline on how to organize your data\nprior to the course please ask oliverhoooker at prstatistica.com\n\nThis course is suitable for researchers (PhD and MSc students, post-docs,\nprimary investigators) and environmental professionals who are interested\nin implementing best practices and state-of-the-art methods for modelling\nspecies? distributions or ecological niches, with applications to\nbiogeography, spatial ecology, biodiversity conservation and related\ndisciplines.\n\nThis 5-day course will cover R concepts, methods, and tools that can be\nused to analyze community ecology data. The course will review data\nprocessing techniques relevant to multivariate data sets. We will cover\ndiversity indices, distance measures and distance-based multivariate\nmethods, clustering, classification and ordination techniques using the R\npackage VEGAN. We will use real-world empirical data sets to motivate\nanalyses, such as describing patterns along gradients of environ-mental or\nanthropogenic disturbances, and quantifying the effects of continuous and\ndiscrete predictors. We will emphasise visualisation and reproducible\nworkflows as well as good programming practices. The modules will consist\nof introductory lectures, guided computer coding, and participant\nexercises. The course is intended for intermediate users of R who are\ninterested in community ecology, particularly in the areas of terrestrial\nand wetland ecology, microbial ecology, and natural resource management.\nYou are strongly encouraged to use your own data sets (they should be clean\nand already structured, see the document: ?recommendation if you\nparticipate with your data?.\n\n*Classes will run from 08:00 ? 13:00 for the morning lecture and 14:00 ?\n16:00 for the practical (UK time) with an evening time session tbc for US,\nCanada etc. attendees. The course will be recorded and made available each\nday and will remain available for 28 days after the course for you to\nrevisit any lectures.*\n\nDAY 1\n? Module 1: Introduction to community data analysis, basics of programming\nin R\n? Module 2: Diversity analysis, species-abundance distributions\n\nDAY 2\n? Module 3: Distance and transformation measures\n? Module 4: Clustering and classification analysis\n\nDAY 3\n? Module 5: Unconstrained ordinations: Principal Component Analysis\n? Module 6: Other unconstrained ordinations\n\nDAY 4\n? Module 7: Constrained ordinations: RDA and other canonical analysis\n? Module 8: Statistical tests for multivariate data and variation\npartitioning\n\nDAY 5\n? Module 9: Overview of Spatial analysis, and recent Hierarchical Modeling\nof Species Communities (HMSC) methods\n? Modules 10: Special topics and discussion, analyzing participants? data.\n\n\nPlease email oliverhooker at prstatistics.com with any questions\n\n\n-- \nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR07)\n\nhttps://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the",
+      "thread_id": "thread-4b2cfaabde60",
+      "thread_depth": 0,
+      "month": "2024-11"
+    },
+    {
+      "id": "msg-a47fe754f3a9",
+      "message_id": "<1732209229.740911195@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-11-21T18:13:49+01:00",
+      "subject": "[R-sig-genetics] Few Seats Left for Landscape Genomics Workshop (20–24 Jan 2025, Poland)",
+      "subject_clean": "Few Seats Left for Landscape Genomics Workshop (20–24 Jan 2025, Poland)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nDiscover the cutting-edge field of Landscape Genomics this January at the Faculty of Biology and Environmental Protection, University of ??d?, Poland. Learn how to integrate genetic data with environmental analysis, explore GIS tools, and master methods like Sambada to uncover local adaptation.\n\nWhen: 20?24 January 2025\nWhere: University of ??d?, Poland\n\nWith hands-on sessions and expert guidance, this course is perfect for biologists, ecologists, geneticists, and conservationists eager to apply these techniques in evolutionary biology and conservation.\n\nOnly a few seats remain!\n\nDon?t miss out?secure your spot now: https://www.physalia-courses.org/courses-workshops/course17/\n\nBest regards,\nCarlo\n\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nDiscover the cutting-edge field of Landscape Genomics this January at the Faculty of Biology and Environmental Protection, University of ??d?, Poland. Learn how to integrate genetic data wi",
+      "thread_id": "thread-a47fe754f3a9",
+      "thread_depth": 0,
+      "month": "2024-11"
+    },
+    {
+      "id": "msg-418b7a5ee247",
+      "message_id": "<1732442281.905322156@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-11-24T10:58:01+01:00",
+      "subject": "[R-sig-genetics] Online course -  Longitudinal Data Analysis in R (December 16-19)",
+      "subject_clean": "Online course -  Longitudinal Data Analysis in R (December 16-19)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nthere are still a few seats available for the online course on Longitudinal Data Analysis in R.\n\nWhen: December 16th-19th\n\n\nCourse website: https://www.physalia-courses.org/courses-workshops/longitudinal-data-in-r/ \n\n\nThis course covers methods and challenges in analyzing longitudinal data. It explores techniques for visualizing, analyzing, and modeling data collected over time or space. We will start by introducing the general concepts and approaches to deal with longitudinal data; we will then explore applications to specific scientific domains where longitudinal data are common: forecasting, epidemiology, gene expression.\n\nFor the full list of our courses and workshops, please visit: https://www.physalia-courses.org/courses-workshops/\n\nBest regards,\nCarlo\n\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846",
+      "body_snippet": "Dear all,\n\nthere are still a few seats available for the online course on Longitudinal Data Analysis in R.\n\nWhen: December 16th-19th\n\n\nCourse website: https://www.physalia-courses.org/courses-workshop",
+      "thread_id": "thread-418b7a5ee247",
+      "thread_depth": 0,
+      "month": "2024-11"
+    },
+    {
+      "id": "msg-8ed8d3d6022b",
+      "message_id": "<uvZCNU68QPCrIwVLuh4JUQ@geopod-ismtpd-4>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2024-11-25T12:09:00Z",
+      "subject": "[R-sig-genetics] Course: Single Cell Data Analysis - Last chance",
+      "subject_clean": "Course: Single Cell Data Analysis - Last chance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nLast chance for the 1-day seminar on Single Cell Data Analysis in R and Python <https://instats.org/seminar/single-cell-data-analysis2>, running Nov 26 with professor Nikolay Oskolkov. Single-cell analysis provides unprecedented insights into cellular heterogeneity, enabling researchers to explore complex biological systems at the most granular scale. With applications in cancer research, developmental biology, and immunology, among others, mastering the techniques of single-cell data analysis is essential for researchers aiming to push the boundaries of modern science. This one-day workshop offers an in-depth exploration of the computational tools and methodologies essential for high-level single-cell data interpretation.\n\nSign up today <https://instats.org/seminar/single-cell-data-analysis2> to secure your spot in this unique seminar! \n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nLast chance for the 1-day seminar on Single Cell Data Analysis in R and Python <https://instats.org/seminar/single-cell-data-analysis2>, running Nov 26 with professor Nikolay Oskolkov. Si",
+      "thread_id": "thread-8ed8d3d6022b",
+      "thread_depth": 0,
+      "month": "2024-11"
+    },
+    {
+      "id": "msg-efa63a94afec",
+      "message_id": "<1732638287.13767510@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-11-26T17:24:47+01:00",
+      "subject": "[R-sig-genetics] online course: Multivariate Data Analysis with R and vegan- February 10-13",
+      "subject_clean": "online course: Multivariate Data Analysis with R and vegan- February 10-13",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nJoin us February 10-13, 2025, for the online Multivariate Data Analysis with R and vegan course.\n \n \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/vegan/ ]( https://www.physalia-courses.org/courses-workshops/vegan/ ) \n \n \n \n \n \nOverview: This course will offer participants a practical introduction to some of the most useful functions available within vegan. We will focus on the use of ordination methods and on the use of restricted permutations to test a range of experimental designs.We will focus on when and how to use multivariate methods including unconstrained and constrained ordination (CCA, RDA, Constrained PCoA), as well as between-group tests such as PERMANOVA. We will cover concepts such as design- and model-based permutations and the exchangeability of samples in tests. We will also discuss the use of vegan to go beyond simply fitting a constrained ordination model, to diagnostics, plotting, etc.\n \n \n \n \n \nWho Should Attend? This course is suitable for PhD students (including senior thesis-based masters students) and researchers working with multivariate data sets in biology (inter alia ecology, animal science agriculture, microbial ecology/microbiology), with limited statistical knowledge but a willingness to learn more.Participants should be familiar with RStudio and have some fluency in programming R code, including being able to import, manipulate (e.g. modify variables) and visualise data. There will be a mix of lectures, and hands-on practical exercises throughout the course.\n \n \n \n \n \nProgram Overview\n \nMonday: Intro to multivariate data, transformations, dissimilarity metrics\nTuesday: Unconstrained ordination (PCA, PCoA, NMDS)\nWednesday: Constrained ordination, PERMANOVA\nThursday: Statistical inference with permutation tests\n \nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/vegan/ )\n \n \n \n \n \nBest regards,\n \nCarlo\n \n \n \n \n \n \n \n \n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nJoin us February 10-13, 2025, for the online Multivariate Data Analysis with R and vegan course.\n \n \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/vegan/ ]( https:",
+      "thread_id": "thread-efa63a94afec",
+      "thread_depth": 0,
+      "month": "2024-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-2b1625663375",
+      "subject": "Online Course: Python for R Users - last chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2024-11-08T05:30:28+00:00",
+      "last_reply": "2024-11-08T05:30:28+00:00",
+      "root_message_id": "msg-2b1625663375"
+    },
+    {
+      "id": "thread-74b1dcde7d78",
+      "subject": "RADseq course using Stacks - only 2 seats left",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-11-12T14:57:10+01:00",
+      "last_reply": "2024-11-12T14:57:10+01:00",
+      "root_message_id": "msg-74b1dcde7d78"
+    },
+    {
+      "id": "thread-3b4afbfc5145",
+      "subject": "Single Cell Data Analysis - Livestream Seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2024-11-18T02:47:31+00:00",
+      "last_reply": "2024-11-18T02:47:31+00:00",
+      "root_message_id": "msg-3b4afbfc5145"
+    },
+    {
+      "id": "thread-8e4445c7d284",
+      "subject": "Online Course: Multivariate Data Analysis with R and vegan",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-11-20T15:00:25+01:00",
+      "last_reply": "2024-11-20T15:00:25+01:00",
+      "root_message_id": "msg-8e4445c7d284"
+    },
+    {
+      "id": "thread-4b2cfaabde60",
+      "subject": "Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR07)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2024-11-20T19:10:01+00:00",
+      "last_reply": "2024-11-20T19:10:01+00:00",
+      "root_message_id": "msg-4b2cfaabde60"
+    },
+    {
+      "id": "thread-a47fe754f3a9",
+      "subject": "Few Seats Left for Landscape Genomics Workshop (20–24 Jan 2025, Poland)",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-11-21T18:13:49+01:00",
+      "last_reply": "2024-11-21T18:13:49+01:00",
+      "root_message_id": "msg-a47fe754f3a9"
+    },
+    {
+      "id": "thread-418b7a5ee247",
+      "subject": "Online course -  Longitudinal Data Analysis in R (December 16-19)",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-11-24T10:58:01+01:00",
+      "last_reply": "2024-11-24T10:58:01+01:00",
+      "root_message_id": "msg-418b7a5ee247"
+    },
+    {
+      "id": "thread-8ed8d3d6022b",
+      "subject": "Course: Single Cell Data Analysis - Last chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2024-11-25T12:09:00+00:00",
+      "last_reply": "2024-11-25T12:09:00+00:00",
+      "root_message_id": "msg-8ed8d3d6022b"
+    },
+    {
+      "id": "thread-efa63a94afec",
+      "subject": "online course: Multivariate Data Analysis with R and vegan- February 10-13",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-11-26T17:24:47+01:00",
+      "last_reply": "2024-11-26T17:24:47+01:00",
+      "root_message_id": "msg-efa63a94afec"
+    }
+  ]
+}

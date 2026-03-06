@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2023-10",
+  "messages": [
+    {
+      "id": "msg-b5c419c896d1",
+      "message_id": "<1696416969.804422299@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2023-10-04T12:56:09+02:00",
+      "subject": "[R-sig-genetics] Seascape Genomics course - 2 seats left",
+      "subject_clean": "Seascape Genomics course - 2 seats left",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nthere are still 2 seats left for the upcoming Sescape Genomics course!\n \nDates: online, 6-10 November \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course70/ ]( https://www.physalia-courses.org/courses-workshops/course70/ )\n \nIn this course, students will firstly learn how to extract environmental data from publicly available databases and how to use it to characterize the seascape structure and conditions. For instance, students will learn how to use remote sensing data to describe sea water temperature oscillations or sea water movements. Next, the course will bring its focus on genomic analyses: students will learn how to evaluate genetic structures in the marine environment and how to calculate and display connectivity between populations. The combination of environmental and genomic data will also lead to the study of local adaptation. Students will learn different methods to discover genetic/genomic signatures potentially involved in adaptation against specific environmental constraints. The course will also cover the critical task of the interpretation and validation of the results, particularly in an applied conservation and management context. Finally, the course will consider the crucial aspects and good habits to account for designing a seascape genomics experiment (e.g. sampling design) from a relevant scientific question.\n \nBest regards,\nCarlo\n \n \n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\nFollow us on [ Twitter ]( https://twitter.com/Physacourses ) & [ Mastodon ]( https://mas.to/@PhysaliaCourses )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nthere are still 2 seats left for the upcoming Sescape Genomics course!\n \nDates: online, 6-10 November \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course70/ ]( h",
+      "thread_id": "thread-b5c419c896d1",
+      "thread_depth": 0,
+      "month": "2023-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-b5c419c896d1",
+      "subject": "Seascape Genomics course - 2 seats left",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2023-10-04T12:56:09+02:00",
+      "last_reply": "2023-10-04T12:56:09+02:00",
+      "root_message_id": "msg-b5c419c896d1"
+    }
+  ]
+}

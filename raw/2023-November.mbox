@@ -1,0 +1,241 @@
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Wed Nov  1 17:22:20 2023
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Wed, 1 Nov 2023 16:22:20 +0000
+Subject: [R-sig-genetics] =?utf-8?q?ONLINE_COURSE_=E2=80=93_Machine_Learn?=
+	=?utf-8?q?ing_with_R_=28Intermediate_=E2=80=93_Advanced=29_=28MLIA?=
+	=?utf-8?b?MDEp?=
+Message-ID: <CAEsSYzyvHu-CkT2rjCQKo=2vDmBpVDFXFdPyr3KfR4=Ov2f_cg@mail.gmail.com>
+
+I hope this is ok here
+
+ONLINE COURSE ? Machine Learning with R (Intermediate ? Advanced) (MLIA01)
+
+https://www.prstatistics.com/course/machine-learning-with-r-intermediate-advanced-mlia01/
+
+4th - 8th December 2023
+
+PLEASE FEEL FREE TO SHARE!
+
+COURSE DETAILS - This intensive 4-day course provides an in-depth
+exploration of machine learning using the popular open-source statistical
+software, R. Participants are assumed to have a basic working knowledge of
+regression and supervised learning techniques and so will gain a further
+understanding of various intermediate and advanced machine learning
+algorithms, how they work, and how to implement them using R?s ecosystem of
+packages. Real-world data sets will be used to offer hands-on experience
+and help participants understand the practical applications of the covered
+concepts.
+
+By the end of this course, students should be able to:
+
+Understand and implement advanced supervised learning techniques such as
+CNNs, RNNs, Transformer Models, and Bayesian Machine Learning methods.
+Understand and implement advanced unsupervised learning techniques
+including various clustering, dimension reduction, and anomaly detection
+methods.
+Apply these techniques to real-world datasets and interpret the results.
+Understand the underlying methods and assumptions/drawbacks of these
+techniques.
+
+Day 1: Classes from 09:30 to 17:30 - Deep Dive into Supervised Learning
+We begin with an introduction to Deep Learning in which we cover the basic
+concepts and its difference from traditional machine learning. We then
+extend to Convolutional Neural Networks (CNNs), exploring their
+architecture, their use in image and video processing, and their role in
+object detection and recognition. Finally we cover time series models
+through Recurrent Neural Networks (RNNs) and their application in
+sequential data analysis and natural language processing.
+In the afternoon sessions we implement CNNs and RNNs using real data sets
+R Packages used: keras, tensorflow
+
+
+Day 2: Classes from 09:30 to 17:30 - Advanced Supervised Learning Techniques
+On day 2 we cover Transformer models and Bayesian machine learning
+techniques. We start by understanding the transformer architecture, its
+self-attention mechanism, and its use in natural language processing tasks.
+We then cover the basics of Bayesian inference and explore its use in
+classification and regression tasks, and compare it to traditional machine
+learning methods.
+In the afternoon sessions the students can choose whether they explore
+either the Transformer or Bayesian methods further by following and
+extending some example R scripts.
+R Packages: keras, tensorflow, rstan, brms, BART
+
+Day 3: Classes from 09:30 to 17:30 - Unsupervised Learning ? Clustering and
+Dimension Reduction
+The third day will focus on advanced clustering techniques and dimension
+reduction. We start by exploring clustering techniques including
+hierarchical clustering, DBSCAN, and their use in segmentation. We then
+cover dimension reduction techniques; starting with PCA and extending to
+t-SNE and UMAP. We explain how these techniques work and explore their use
+in visualisation of data sets with high dimensions.
+In the afternoon session students will explore the use of these techniques
+through real-world data sets.
+R Packages: cluster, dbscan, factoextra, Rtsne, umap
+
+Day 4: Classes from 09:30 to 17:30
+Unsupervised Learning ? Anomaly Detection and Course Wrap-up
+On the final day we will focus on anomaly detection techniques and bringing
+together the topics covered throughout the course. We start with various
+anomaly detection techniques and demonstrate their use in e.g. fraud
+detection, network security, and health monitoring. We then provide a
+discussion session where we review the content of the course and talk about
+future steps in Machine Learning.
+In the afternoon students have the opportunity to work on their own data
+sets and ask questions of the course instructor.
+R Packages: anomalize, forecast, e1071
+
+Please email oliverhooker at prstatistics.com with any questions
+
+
+-- 
+
+Oliver Hooker PhD.
+PR statistics
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Thu Nov  2 11:01:22 2023
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Thu, 2 Nov 2023 11:01:22 +0100 (CET)
+Subject: [R-sig-genetics] Seascape Genomics in R course - 1 seat available
+Message-ID: <1698919282.618516236@webmail.jimdo.com>
+
+
+Dear all,
+ 
+one seat is now available for the Seascape Genomics in R course (next week) due to one last minute cancellation.
+ 
+If interested, check it out: [ https://www.physalia-courses.org/courses-workshops/course70/ ]( https://www.physalia-courses.org/courses-workshops/course70/ )
+ 
+Best regards
+Carlo
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+Follow us on [ Twitter ]( https://twitter.com/Physacourses ) & [ Mastodon ]( https://mas.to/@PhysaliaCourses )
+
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Thu Nov 23 16:09:12 2023
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Thu, 23 Nov 2023 16:09:12 +0100 (CET)
+Subject: [R-sig-genetics] GWAS course
+Message-ID: <1700752152.61144155@webmail.jimdo.com>
+
+
+Hi all,
+ 
+we have one seat available for  next week?s course on GWAS: [ https://www.physalia-courses.org/courses-workshops/course49/ ]( https://www.physalia-courses.org/courses-workshops/course49/ )
+ 
+Best regards,
+Carlo
+ 
+ 
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+Follow us on [ Twitter ]( https://twitter.com/Physacourses ) & [ Mastodon ]( https://mas.to/@PhysaliaCourses )
+	[[alternative HTML version deleted]]
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Wed Nov 29 21:02:11 2023
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Wed, 29 Nov 2023 20:02:11 +0000
+Subject: [R-sig-genetics] An Introduction to Spatial Eco-Phylogenetics and
+ Comparative Methods (SECM01)
+Message-ID: <CAEsSYzymd78ZVbergkt6Jb2kYKW+3nudbw=ECoNxj1DyTOX-bg@mail.gmail.com>
+
+ONLINE COURSE ? An Introduction to Spatial Eco-Phylogenetics and
+Comparative Methods (SECM01)
+
+https://www.prstats.org/course/an-introduction-to-spatial-eco-phylogenetics-and-comparative-methods-secm01/
+
+19th - 22nd March 2024
+
+Please feel free to share!
+
+COURSE OVERVIEW - In this course we introduce phylogenetic analyses in a
+spatial context. Phylogenetic analyses often imply a high number of species
+for which phylogenetic information is unavailable, hence we begin by
+providing an overview on modern techniques to incorporate phylogenetic
+uncertainty in the analyses (day 1). We then cover the most popular
+analyses in the spatial phylogenetics discipline (day 2), with particular
+focus on the canonical analysis of neo- and paleo-endemism (CANAPE). The
+second part of the course will be devoted to integrating phylogenetic
+information into models of geographic distribution of species (day 3),
+followed by an overview of recent advances to improve ecological forecasts
+using phylogenetic mixed models in a Bayesian framework (day 4).
+
+By the end of the course, participants should:
+
+   - Know how to expand incomplete phylogenies based on taxonomic
+   information and customizing simulation parameters for optimal expansion.
+   - Understand the metrics and concepts used in spatial phylogenetics
+   (i.e. phylogenetic alpha and beta diversity, phylogenetic endemism),
+   interpret them critically, and assess pros and cons of analytical
+   techniques.
+   - Calculate phylogenetic predictors that can be included as covariates
+   in Species Distribution or Niche Models.
+   - Understand and implement the phylogenetic mixed model (PMM) and
+   translate its predictions into a spatial context.
+
+*Day 1  ? Expansion of molecular trees using taxonomic information and
+fundamental metrics of phylogenetic structure*
+
+   - Software for tree expansion exercises; randtip, PhyloMaker
+   - An overview of the fundamental metrics of phylogenetic structure. Null
+   models.
+
+*Day 2 ? Spatial Phylogenetics*
+
+   - Canonical analysis of neo- and paleo- endemism. Metrics, rationale,
+   workflow, and implementation.
+
+*Day 3 ? Phylogenetic Species Distribution Models*
+
+   - Putting phylogenies in the geography: the imprints of evolutionary
+   relationships in distribution models.
+   - Combining phylogenies with co-occurrence to infer spatial phylogenetic
+   predictors.
+   - Fitting, evaluating and interpreting Phylogenetic-SDMs.
+
+*Day 4 ? Beyond PGLS ? Bayes and more*
+
+   - Most common phylogenetic modelling approaches: PGLS
+   - PGLMM
+   - The phylogenetic mixed model (PMM) in a Bayesian framework
+
+Please email oliverhooker at prstatistics.com with any questions.
+
+-- 
+
+Oliver Hooker PhD.
+PR statistics
+
+	[[alternative HTML version deleted]]
+
+

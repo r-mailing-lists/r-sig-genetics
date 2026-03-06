@@ -1,0 +1,63 @@
+From Emmanuel.Paradis at ird.fr  Fri May  6 15:44:58 2016
+From: Emmanuel.Paradis at ird.fr (Emmanuel Paradis)
+Date: Fri, 6 May 2016 15:44:58 +0200
+Subject: [R-sig-genetics] extract the sequences of the haplotypes
+In-Reply-To: <7A8EFC25-4783-433A-9BFA-00029D7F215D@lshtm.ac.uk>
+References: <7A8EFC25-4783-433A-9BFA-00029D7F215D@lshtm.ac.uk>
+Message-ID: <572C9FDA.9000802@ird.fr>
+
+Hi Susana,
+
+In fact, the output of haplotype() _are_ the sequences of the haplotypes 
+(= the unique sequences from your "finaldna" object). It has an 
+additional attribute which is a list named "index" giving the indices of 
+individuals belonging to each haplotype (so in your case a list with 27 
+vectors). So you can, for instance, write these sequences in a file:
+
+h <- haplotype(finaldna)
+write.dna(h, "h.txt")
+
+Best,
+
+Emmanuel
+
+Le 27/04/2016 02:32, Susana a ?crit :
+> Hi,
+>
+>
+> I have a vector with DNA sequences and I created the haplotypes using the haplotype function in Pegas.
+> I would like to extract the sequences of the haplotypes, but I can to it. the object it creates says:
+>
+> Haplotypes extracted from: finaldna
+>
+>      Number of haplotypes: 27
+>           Sequence length: 20
+>
+> Haplotype labels and frequencies:
+>
+>      I    II   III    IV     V    VI   VII  VIII    IX     X    XI
+>      9    33   329   219   105  1000  1159    14     3     5    24
+>    XII  XIII   XIV    XV   XVI  XVII XVIII   XIX    XX   XXI  XXII
+>     60    10     1    30     1     7    11     2     3     8     4
+> XXIII  XXIV   XXV  XXVI XXVII
+>      1     1    25     9     9
+>
+>
+> So, how can I get the sequences from these 27 haplotypes?
+>
+> Already tried data.frame but it does not work:"cannot coerce class "c("haplotype", "DNAbin")" to a data.frame"
+>
+> Any help will be appreciated!
+> Thanks!
+>
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>
+>
+> Pour nous remonter une erreur de filtrage, veuillez vous rendre ici : http://f.security-mail.net/408F4P48kaW
+>
+>
+
+

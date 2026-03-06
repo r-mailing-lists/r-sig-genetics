@@ -1,0 +1,128 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2016-03",
+  "messages": [
+    {
+      "id": "msg-ac8a67ba581c",
+      "message_id": "<9148538B-FAC5-4A6B-B01A-23D2E3B0065F@gmail.com>",
+      "from_name": "Daniel Fulop",
+      "from_email_hash": "9285c5a6c3f750ec49fe135f70d32379d4b0fafe1d24403bc5edc061163bafc1",
+      "date": "2016-03-12T00:32:41-08:00",
+      "subject": "[R-sig-genetics] genlight to treemix conversion",
+      "subject_clean": "genlight to treemix conversion",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nI?m wondering if someone has code for converting data from genlight to treemix format. If you do and wouldn?t mind sharing it I would be most grateful.\n\nI think one could do as.matrix(genlight-object) and then sum the alleles for each population, but then I?m not sure how to deal with NAs.\n\nThanks!\nDan.\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nI?m wondering if someone has code for converting data from genlight to treemix format. If you do and wouldn?t mind sharing it I would be most grateful.\n\nI think one could do as.matrix(genli",
+      "thread_id": "thread-ac8a67ba581c",
+      "thread_depth": 0,
+      "month": "2016-03"
+    },
+    {
+      "id": "msg-178795ceb85f",
+      "message_id": "<7AD7BEF5-F4F6-4575-8A2D-1074316FF15B@gmail.com>",
+      "from_name": "Zhian Kamvar",
+      "from_email_hash": "7dc521447931bd0edb4bad308c5643b75a875047acda912ef22609dec2e0a749",
+      "date": "2016-03-14T13:54:19-07:00",
+      "subject": "[R-sig-genetics] genlight to treemix conversion",
+      "subject_clean": "genlight to treemix conversion",
+      "in_reply_to": "<9148538B-FAC5-4A6B-B01A-23D2E3B0065F@gmail.com>",
+      "references": [
+        "<9148538B-FAC5-4A6B-B01A-23D2E3B0065F@gmail.com>"
+      ],
+      "body_plain": "Hi Daniel,\n\nI'm not exactly sure this will work, but this might help:\n\n# Setting up fake data\nlibrary('adegenet')\nx       <- glSim(100, 1e3, ploid=2)\npop(x)  <- rep(letters[1:5], each = 20)\n\n# conversion \naltlist <- lapply(seppop(x), as.matrix)\nget_pop_counts <- function(altmatrix){\n  alt <- apply(altmatrix, 2, sum, na.rm = TRUE)\n  ref <- apply(2 - altmatrix, 2, sum, na.rm = TRUE)\n  paste(alt, ref, sep = \",\")\n}\n\ndat <- data.frame(lapply(altlist, get_pop_counts))\nwrite.table(dat, file = \"mydata.treemix\", sep = \"\\t\", row.names = FALSE, col.names = TRUE)\n\nZhian\n> On Mar 12, 2016, at 00:32 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:\n> \n> Dear all,\n> \n> I?m wondering if someone has code for converting data from genlight to treemix format. If you do and wouldn?t mind sharing it I would be most grateful.\n> \n> I think one could do as.matrix(genlight-object) and then sum the alleles for each population, but then I?m not sure how to deal with NAs.\n> \n> Thanks!\n> Dan.\n> \t[[alternative HTML version deleted]]\n> \n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
+      "body_snippet": "Hi Daniel,\n\nI'm not exactly sure this will work, but this might help:\n\n# Setting up fake data\nlibrary('adegenet')\nx       <- glSim(100, 1e3, ploid=2)\npop(x)  <- rep(letters[1:5], each = 20)\n\n# convers",
+      "thread_id": "thread-ac8a67ba581c",
+      "thread_depth": 1,
+      "month": "2016-03"
+    },
+    {
+      "id": "msg-dd2bcdebc4fe",
+      "message_id": "<56E93FE5.9050004@ird.fr>",
+      "from_name": "Emmanuel Paradis",
+      "from_email_hash": "4c085ad631493003895b8b2c8749a214fe7066719f788b94c2907a97cf0bf96d",
+      "date": "2016-03-16T12:13:41+01:00",
+      "subject": "[R-sig-genetics] new version of pegas",
+      "subject_clean": "new version of pegas",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nA new version of pegas is under preparation. It includes several new \nfunctions for LD mapping, a new na.omit function to check for missing \nalleles, improved code for VCF files and for extracting haplotypes from \n\"loci\" objects. The list of these new features can be found on GitHub:\n\nhttps://github.com/emmanuelparadis/pegas/blob/master/pegas/NEWS\n\nA testing version is available (0.8-2.7) from GitHub and from ape's site \nwhere a Windows version is also available:\n\nhttp://ape-package.ird.fr/ape_installation.html#versions",
+      "body_snippet": "Dear all,\n\nA new version of pegas is under preparation. It includes several new \nfunctions for LD mapping, a new na.omit function to check for missing \nalleles, improved code for VCF files and for ext",
+      "thread_id": "thread-dd2bcdebc4fe",
+      "thread_depth": 0,
+      "month": "2016-03"
+    },
+    {
+      "id": "msg-44556247e127",
+      "message_id": "<56E94020.4030301@ird.fr>",
+      "from_name": "Emmanuel Paradis",
+      "from_email_hash": "4c085ad631493003895b8b2c8749a214fe7066719f788b94c2907a97cf0bf96d",
+      "date": "2016-03-16T12:14:40+01:00",
+      "subject": "[R-sig-genetics] new version of pegas",
+      "subject_clean": "new version of pegas",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nA new version of pegas is under preparation. It includes several new \nfunctions for LD mapping, a new na.omit function to check for missing \nalleles, improved code for VCF files and for extracting haplotypes from \n\"loci\" objects. The list of these new features can be found on GitHub:\n\nhttps://github.com/emmanuelparadis/pegas/blob/master/pegas/NEWS\n\nA testing version is available (0.8-2.7) from GitHub and from ape's site \nwhere a Windows version is also available:\n\nhttp://ape-package.ird.fr/ape_installation.html#versions\n\nTests and feedback wecome!\n\nBest,\n\nEmmanuel",
+      "body_snippet": "Dear all,\n\nA new version of pegas is under preparation. It includes several new \nfunctions for LD mapping, a new na.omit function to check for missing \nalleles, improved code for VCF files and for ext",
+      "thread_id": "thread-44556247e127",
+      "thread_depth": 0,
+      "month": "2016-03"
+    },
+    {
+      "id": "msg-29940e46cf05",
+      "message_id": "<CANPRA+pYvbcLgtjCMzYLNZB8v4EFWmiR5us6Y=S1ZyZ44TyTRg@mail.gmail.com>",
+      "from_name": "Thibaut Jombart",
+      "from_email_hash": "a870df9f6e75f3cbcc4043deb7cf0598da9e8598f08b1621deb5537b21fb46f5",
+      "date": "2016-03-16T11:28:49Z",
+      "subject": "[R-sig-genetics] new version of pegas",
+      "subject_clean": "new version of pegas",
+      "in_reply_to": "<56E94020.4030301@ird.fr>",
+      "references": [
+        "<56E94020.4030301@ird.fr>"
+      ],
+      "body_plain": "Hi Emmanuel,\n\nnew version looks great!\n\nBest\nThibaut\n\n\n--\nDr Thibaut Jombart\nLecturer, Department of Infectious Disease Epidemiology\nImperial College London\nhttps://sites.google.com/site/thibautjombart/\nhttps://github.com/thibautjombart\nTwitter: @TeebzR <https://twitter.com/TeebzR>\n\nOn 16 March 2016 at 11:14, Emmanuel Paradis <Emmanuel.Paradis at ird.fr> wrote:\n\n> Dear all,\n>\n> A new version of pegas is under preparation. It includes several new\n> functions for LD mapping, a new na.omit function to check for missing\n> alleles, improved code for VCF files and for extracting haplotypes from\n> \"loci\" objects. The list of these new features can be found on GitHub:\n>\n> https://github.com/emmanuelparadis/pegas/blob/master/pegas/NEWS\n>\n> A testing version is available (0.8-2.7) from GitHub and from ape's site\n> where a Windows version is also available:\n>\n> http://ape-package.ird.fr/ape_installation.html#versions\n>\n> Tests and feedback wecome!\n>\n> Best,\n>\n> Emmanuel\n>\n>\n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi Emmanuel,\n\nnew version looks great!\n\nBest\nThibaut\n\n\n--\nDr Thibaut Jombart\nLecturer, Department of Infectious Disease Epidemiology\nImperial College London\nhttps://sites.google.com/site/thibautjombar",
+      "thread_id": "thread-44556247e127",
+      "thread_depth": 1,
+      "month": "2016-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-ac8a67ba581c",
+      "subject": "genlight to treemix conversion",
+      "message_count": 2,
+      "participants": [
+        "Daniel Fulop",
+        "Zhian Kamvar"
+      ],
+      "started": "2016-03-12T00:32:41-08:00",
+      "last_reply": "2016-03-14T13:54:19-07:00",
+      "root_message_id": "msg-ac8a67ba581c"
+    },
+    {
+      "id": "thread-dd2bcdebc4fe",
+      "subject": "new version of pegas",
+      "message_count": 1,
+      "participants": [
+        "Emmanuel Paradis"
+      ],
+      "started": "2016-03-16T12:13:41+01:00",
+      "last_reply": "2016-03-16T12:13:41+01:00",
+      "root_message_id": "msg-dd2bcdebc4fe"
+    },
+    {
+      "id": "thread-44556247e127",
+      "subject": "new version of pegas",
+      "message_count": 2,
+      "participants": [
+        "Emmanuel Paradis",
+        "Thibaut Jombart"
+      ],
+      "started": "2016-03-16T12:14:40+01:00",
+      "last_reply": "2016-03-16T11:28:49+00:00",
+      "root_message_id": "msg-44556247e127"
+    }
+  ]
+}

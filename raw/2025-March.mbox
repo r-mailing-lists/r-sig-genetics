@@ -1,0 +1,596 @@
+From mzyphur m@iii@g oii i@st@ts@org  Tue Mar  4 08:20:00 2025
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Tue, 04 Mar 2025 07:20:00 +0000 (UTC)
+Subject: [R-sig-genetics] Online course: Nonlinear Time Series Analysis
+Message-ID: <aVsqgTlxSwqjE7FrMHGGOA@geopod-ismtpd-4>
+
+Hi everyone
+
+Instats is excited to offer a two-seminar series, Nonlinear Time Series Analysis: Introductory and Advanced <https://instats.org/structuredcourse/nonlinear-time-series-analysis2>, led by professor Bernard Ricca. Part I <https://instats.org/seminar/nonlinear-time-series-analysis-part-i> runs from March 10?13 and provides a foundational introduction to nonlinear dynamics?teaching you how to reconstruct state spaces, conduct phase space analysis, and identify chaos using R. Part II <https://instats.org/seminar/nonlinear-time-series-analyses-part-ii>, running from April 21?24, builds on these skills with advanced techniques like sparse identification of nonlinear dynamics (SINDy), dynamic mode decomposition (DMD), and hidden Markov models (HMM) for data-driven time series modeling. Designed for PhD students, professors, and professional researchers, this series will expand your analytical toolkit and empower you to uncover complex genetic patterns that traditional linear methods might miss.
+
+Sign up today <https://instats.org/structuredcourse/nonlinear-time-series-analysis2> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Director
+Institute for Statistical and Data Science
+instats.org <http://instats.org>
+
+Follow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>
+	[[alternative HTML version deleted]]
+
+
+From mzyphur m@iii@g oii i@st@ts@org  Sun Mar 16 09:23:23 2025
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Sun, 16 Mar 2025 08:23:23 +0000 (UTC)
+Subject: [R-sig-genetics] Introduction to Bayesian Modelling using RStan -
+ Free Seminar
+Message-ID: <CjyvmE8tSemlUrKN12U5uA@geopod-ismtpd-13>
+
+Hi everyone
+
+Instats is excited to offer a free seminar, Introduction to Bayesian Modelling using RStan, on April 14th, led by Professor Justin Slater from the Department of Mathematics and Statistics at the University of Guelph. When tackling challenging statistical problems, understanding the data-generating process is essential, yet many researchers without advanced training struggle to know where to begin. This seminar fills that critical gap by introducing Bayesian statistics as a flexible, intuitive framework for building custom models tailored to your research context. You?ll explore key topics such as the fundamentals of Bayesian inference, the roles of prior and posterior distributions, and the basics of Markov Chain Monte Carlo (MCMC) methods as implemented in Stan. Through hands-on demonstrations, you?ll learn to express a simple custom statistical model in mathematical notation, convert it to Stan code, sample from its posterior distribution using MCMC, and diagnose common sampling issues. The workshop also includes applications to simple problems in biostatistics and epidemiology, providing you with a solid foundation to continue developing autonomous and rigorous data analytic practices.
+
+Sign up today to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Director
+Institute for Statistical and Data Science
+instats.org <http://instats.org>
+
+Follow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>
+	[[alternative HTML version deleted]]
+
+
+From mzyphur @end|ng |rom |n@t@t@@org  Sun Mar 16 09:33:52 2025
+From: mzyphur @end|ng |rom |n@t@t@@org (Michael Zyphur)
+Date: Sun, 16 Mar 2025 19:33:52 +1100
+Subject: [R-sig-genetics] 
+ Introduction to Bayesian Modelling using RStan - Free Seminar
+In-Reply-To: <CjyvmE8tSemlUrKN12U5uA@geopod-ismtpd-13>
+References: <CjyvmE8tSemlUrKN12U5uA@geopod-ismtpd-13>
+Message-ID: <CAFEsyOx0FUm9hdg_MQpPJ8u1AURKZa6zHvW8EdFBow50Fg0C8w@mail.gmail.com>
+
+Hi everyone
+
+Apologies, the link was missing in my previous email. The free
+'Introduction to Bayesian Modelling using RStan' seminar can be found here:
+
+https://instats.org/seminar/introduction-to-bayesian-modelling-using
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Institute for Statistical and Data Science
+
+*instats.org* <http://instats.org>Follow Instats*:  *Bluesky
+<https://bsky.app/profile/instats.bsky.social>  Linkedin
+<https://linkedin.com/company/instats1>  Facebook
+<https://www.facebook.com/InstatsTraining/>
+
+
+On Sun, 16 Mar 2025 at 19:23, Michael Zyphur via R-sig-genetics <
+r-sig-genetics at r-project.org> wrote:
+
+> Hi everyone
+>
+> Instats is excited to offer a free seminar, Introduction to Bayesian
+> Modelling using RStan, on April 14th, led by Professor Justin Slater from
+> the Department of Mathematics and Statistics at the University of Guelph.
+> When tackling challenging statistical problems, understanding the
+> data-generating process is essential, yet many researchers without advanced
+> training struggle to know where to begin. This seminar fills that critical
+> gap by introducing Bayesian statistics as a flexible, intuitive framework
+> for building custom models tailored to your research context. You?ll
+> explore key topics such as the fundamentals of Bayesian inference, the
+> roles of prior and posterior distributions, and the basics of Markov Chain
+> Monte Carlo (MCMC) methods as implemented in Stan. Through hands-on
+> demonstrations, you?ll learn to express a simple custom statistical model
+> in mathematical notation, convert it to Stan code, sample from its
+> posterior distribution using MCMC, and diagnose common sampling issues. The
+> workshop also includes applications to simple problems in biostatistics and
+> epidemiology, providing you with a solid foundation to continue developing
+> autonomous and rigorous data analytic practices.
+>
+> Sign up today to secure your spot, and feel free to share this opportunity
+> with colleagues and students who might benefit!
+>
+>
+> Best wishes
+>
+> Michael Zyphur
+> Director
+> Institute for Statistical and Data Science
+> instats.org <http://instats.org>
+>
+> Follow Instats: Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin
+> <https://linkedin.com/company/instats1>_Facebook <
+> https://www.facebook.com/InstatsTraining/>
+>         [[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Sun Mar 16 19:18:01 2025
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Sun, 16 Mar 2025 19:18:01 +0100 (CET)
+Subject: [R-sig-genetics] Course: Online.GenomeAnnotation.19-22May
+Message-ID: <1742149081.076311879@webmail.jimdo.com>
+
+
+Dear all,
+We are pleased to announce our upcoming online course: Introduction to Genome Annotation, scheduled for 19-22 May.
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/genome-annotation/ ]( https://www.physalia-courses.org/courses-workshops/genome-annotation/ ) 
+ 
+This course will provide an in-depth, hands-on introduction to genome annotation strategies, covering:
+Data quality assessment and sequencing technologies
+Ab initio and de novo transcriptome assembly (short and long-read data)
+Evidence-guided gene prediction (including BRAKER/Augustus)
+Building and refining gene models
+Visualizing and evaluating annotation quality
+This course is designed for PhD students, postdocs, and researchers working on genome assembly projects and looking to improve their annotation skills. Basic knowledge of the command line (Unix Shell) is essential.
+ 
+ 
+By the end of this course, you will:
+Understand core genome annotation strategies and technologies
+Develop practical skills to start annotating your genome of interest
+Tackle genome-specific challenges and improve annotation accuracy
+For the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/genome-annotation/ )
+ 
+Best regards,
+ 
+Carlo
+ 
+ 
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From mzyphur m@iii@g oii i@st@ts@org  Mon Mar 17 18:50:00 2025
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Mon, 17 Mar 2025 17:50:00 +0000 (UTC)
+Subject: [R-sig-genetics] Online Course: Clustering High-Dimensional Data
+ with ChatGPT
+Message-ID: <Dx04puasRHiBicikcpxIKA@geopod-ismtpd-1>
+
+Hi everyone
+
+Instats is excited to offer a one-day seminar, Clustering High-Dimensional Data with ChatGPT <https://instats.org/seminar/clustering-high-dimensional-data-with-ch>, on March 28 with Professor Nikolay Oskolkov from Lund University. In the era of big data, effectively analyzing high-dimensional datasets is critical. In this workshop, you'll learn to harness both classic and advanced clustering techniques using R and Python?with ChatGPT serving as your AI assistant to help write code, interpret results, and streamline your workflow. Dr. Oskolkov, an expert in bioinformatics, statistics, and machine learning, will guide you through methods to tackle the curse of dimensionality, apply dimensionality reduction (PCA, t-SNE, UMAP), and implement a range of clustering algorithms from basic (K-means, GMM, hierarchical) to advanced graph-based techniques (SNN, (H)DBSCAN, Louvain, Leiden). Designed for PhD students, academics, and professional researchers, this hands-on session will equip you with the skills to extract meaningful insights from complex, multi-dimensional data.
+
+Sign up today <https://instats.org/seminar/clustering-high-dimensional-data-with-ch> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Director
+Institute for Statistical and Data Science
+instats.org <http://instats.org>
+
+Follow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>
+	[[alternative HTML version deleted]]
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Thu Mar 20 19:02:59 2025
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Thu, 20 Mar 2025 18:02:59 +0000
+Subject: [R-sig-genetics] =?utf-8?q?ONLINE_COURSE_=E2=80=93_Phylogenetic_?=
+	=?utf-8?q?Species_Distribution_Modelling_using_R_=28PSDM01=29?=
+Message-ID: <CAEsSYzxV8TaH9BULvSBbTOcfgYcGH2Vskn-JS3zCdftyL-yC2g@mail.gmail.com>
+
+ONLINE COURSE ? Phylogenetic Species Distribution Modelling using R
+(PSDM01) This course will be delivered live
+
+https://www.prstats.org/course/phylogenetic-species-distribution-modelling-using-r-psdm01-25/
+
+12th - 14th May 2025
+
+Instructor - Dr. Morales Castilla Ignacio
+
+Please feel free to share!
+
+COURSE OVERVIEW: In this three-day course, we introduce species
+distribution models (SDMs) and ways to incorporate phylogenetic information
+into single species models using R. We begin by providing an overview on
+the use of SDMs as a central tool for ecologists and evolutionary biologists,
+review and implement common SDM approaches and introduce hybrid models, which
+use the information in functional traits to complement the models. We then
+justify the rationale for using phylogenetic information in absence of
+functional trait data and show how to incorporate phylogenetic information
+in SDMs (day 1). We review examples of practical implementation of PSDMs to
+both present and future climate scenarios (day 2). Finally, we overview
+more advanced approaches of incorporating phylogenies into models (the
+Bayesian Phylogenetic Mixed Model) and how to project model results into a
+spatial context (day 3).
+
+Please email oliverhooker at prstatistics.com with any questions.
+
+-- 
+Oliver Hooker PhD.
+PR stats
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Fri Mar 21 13:18:07 2025
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Fri, 21 Mar 2025 13:18:07 +0100 (CET)
+Subject: [R-sig-genetics] Machine and Deep Learning Methods in Population
+ Genomics and Phylogeography
+Message-ID: <1742559487.163120815@webmail.jimdo.com>
+
+
+ 
+Dear all,
+ 
+There are only a few seats left for the Physalia online course: Machine and Deep Learning Methods in Population Genomics and Phylogeography, scheduled from 31 March to 3 April.
+ 
+ 
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/deep-learning-in-popgen/ ]( https://www.physalia-courses.org/courses-workshops/deep-learning-in-popgen/ )
+ 
+ 
+ 
+This course will focus on using deep learning, specifically Convolutional Neural Networks (CNN), to extract information from genetic data for population genomics and phylogeography inference. The theoretical background for simulating genetic data and developing machine and deep learning architectures will be covered and followed by practical examples, in modules structured over four days.
+ 
+On the first day, the participants will learn how to simulate genetic data under competing demographic scenarios and use ABC for their inference. Day 2 will include an introduction to machine learning and its applications to evolutionary genomics. In Day 3, deep learning will be introduced and used to compare the demographic scenarios conceived in previous days. Day 4 will be dedicated to the simulation of genomic regions with selective sweeps and using CNN to detect such regions on real genomes. The course is structured to include lectures with discussions of key concepts and practical hands-on sessions, contextualised with research study cases.
+ 
+ 
+ 
+For the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/deep-learning-in-popgen/ )
+ 
+ 
+ 
+Best regards,
+ 
+Carlo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+ 
+	[[alternative HTML version deleted]]
+
+
+From mzyphur m@iii@g oii i@st@ts@org  Mon Mar 24 11:50:00 2025
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Mon, 24 Mar 2025 10:50:00 +0000 (UTC)
+Subject: [R-sig-genetics] Online Course: Clustering High-Dimensional Data
+ with ChatGPT
+Message-ID: <D9ad8tn3RWS5s-F9dVzrtg@geopod-ismtpd-13>
+
+Hi everyone
+
+Last chance to register for the new one-day seminar, Clustering High-Dimensional Data with ChatGPT <https://instats.org/seminar/clustering-high-dimensional-data-with-ch>, running March 28 with Professor Nikolay Oskolkov from Lund University. In the era of big data, effectively analyzing high-dimensional datasets is critical in a variety of fields. In this workshop, you'll learn to harness both classic and advanced clustering techniques using R and Python?with ChatGPT serving as your AI assistant to help write code, interpret results, and streamline your workflow. Dr. Oskolkov, an expert in bioinformatics, statistics, and machine learning, will guide you through methods to tackle the curse of dimensionality, apply dimensionality reduction (PCA, t-SNE, UMAP), and implement a range of clustering algorithms from basic (K-means, GMM, hierarchical) to advanced graph-based techniques (SNN, (H)DBSCAN, Louvain, Leiden). Designed for PhD students, academics, and professional researchers, this hands-on session will equip you with the skills to extract meaningful insights from complex, multi-dimensional data.
+
+Sign up today <https://instats.org/seminar/clustering-high-dimensional-data-with-ch> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Director
+Institute for Statistical and Data Science
+instats.org <http://instats.org>
+
+Follow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Mon Mar 24 15:51:48 2025
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Mon, 24 Mar 2025 15:51:48 +0100 (CET)
+Subject: [R-sig-genetics] Comparative Genomics course
+Message-ID: <1742827908.433722450@webmail.jimdo.com>
+
+
+Dear all,
+We are pleased to announce that a few seats remain for the upcoming Physalia online course: Comparative Genomics.
+ 
+ 
+Dates:  (online) 7-11 AprilCourse website: [ https://www.physalia-courses.org/courses-workshops/course34/ ]( https://www.physalia-courses.org/courses-workshops/course34/ ) 
+ 
+This five-day course provides a comprehensive introduction to comparative genomics, with a focus on structural variation. Participants will explore a range of tools and workflows, covering:
+Genome assembly and annotation for eukaryotic genomes
+Identification of single nucleotide variants (SNVs) and structural variants (SVs)
+Functional analysis of genomic variations in an evolutionary context
+The course combines lectures with hands-on practical exercises, ensuring participants develop both theoretical understanding and practical skills.
+ 
+By the end of this course, participants will:
+Identify SNPs and SVs using de novo assembly and read mapping approaches
+Evaluate sequencing technologies (Illumina, PacBio, Oxford Nanopore) for variant detection
+Compare multiple genomes and analyze structural variations
+Annotate variations and interpret their functional impacts
+ 
+For the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/course34/ )
+ 
+Best regards,
+ 
+Carlo
+ 
+ 
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Tue Mar 25 15:08:03 2025
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Tue, 25 Mar 2025 14:08:03 +0000
+Subject: [R-sig-genetics] 2 places left - Multivariate Analysis Of
+ Ecological Communities Using R With The VEGAN package (VGNR07)
+Message-ID: <CAEsSYzzLyL4oCHPQwPpEV6PSWwBnsZCTMH2q-0ms76nfjfkC8A@mail.gmail.com>
+
+ONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R
+With The VEGAN package (VGNR07)
+
+Only 2 places left!
+
+https://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr07/
+<https://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr06/>
+
+*31st - March - 4th April 2025*
+
+Please feel free to share!
+
+We encourage attendees to bring their own data, you will
+receive opportunities to discuss your data with the instructor throughout
+the course, if you would like guideline on how to organize your data
+prior to the course please ask oliverhoooker at prstatistica.com
+
+This course is suitable for researchers (PhD and MSc students, post-docs,
+primary investigators) and environmental professionals who are interested
+in implementing best practices and state-of-the-art methods for modelling
+species? distributions or ecological niches, with applications to
+biogeography, spatial ecology, biodiversity conservation and related
+disciplines.
+
+This 5-day course will cover R concepts, methods, and tools that can be
+used to analyze community ecology data. The course will review data
+processing techniques relevant to multivariate data sets. We will cover
+diversity indices, distance measures and distance-based multivariate
+methods, clustering, classification and ordination techniques using the R
+package VEGAN. We will use real-world empirical data sets to motivate
+analyses, such as describing patterns along gradients of environ-mental or
+anthropogenic disturbances, and quantifying the effects of continuous and
+discrete predictors. We will emphasise visualisation and reproducible
+workflows as well as good programming practices. The modules will consist
+of introductory lectures, guided computer coding, and participant
+exercises. The course is intended for intermediate users of R who are
+interested in community ecology, particularly in the areas of terrestrial
+and wetland ecology, microbial ecology, and natural resource management.
+You are strongly encouraged to use your own data sets (they should be clean
+and already structured, see the document: ?recommendation if you
+participate with your data?.
+
+*Classes will run from 08:00 ? 13:00 for the morning lecture and 14:00 ?
+16:00 for the practical (UK time) with an evening time session tbc for US,
+Canada etc. attendees. The course will be recorded and made available each
+day and will remain available for 28 days after the course for you to
+revisit any lectures.*
+
+DAY 1
+? Module 1: Introduction to community data analysis, basics of programming
+in R
+? Module 2: Diversity analysis, species-abundance distributions
+
+DAY 2
+? Module 3: Distance and transformation measures
+? Module 4: Clustering and classification analysis
+
+DAY 3
+? Module 5: Unconstrained ordinations: Principal Component Analysis
+? Module 6: Other unconstrained ordinations
+
+DAY 4
+? Module 7: Constrained ordinations: RDA and other canonical analysis
+? Module 8: Statistical tests for multivariate data and variation
+partitioning
+
+DAY 5
+? Module 9: Overview of Spatial analysis, and recent Hierarchical Modeling
+of Species Communities (HMSC) methods
+? Modules 10: Special topics and discussion, analyzing participants? data.
+
+
+Email oliverghooker at prstatistics.com with any questions.
+
+
+-- 
+Oliver Hooker PhD.
+PR stats
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Wed Mar 26 10:26:33 2025
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Wed, 26 Mar 2025 10:26:33 +0100 (CET)
+Subject: [R-sig-genetics] Online course: Introduction to Population Genomics
+ - 26-30 May
+Message-ID: <1742981193.419313088@webmail.jimdo.com>
+
+
+Dear all,
+We?re excited to announce the Physalia upcoming online course: Introduction to Population Genomics, running from 26-30 May.
+ 
+For details and registration, visit: [ https://www.physalia-courses.org/courses-workshops/population-genomics/ ]( https://www.physalia-courses.org/courses-workshops/population-genomics/ )
+ 
+ 
+This five-day, hands-on program offers a comprehensive introduction to key population genomics concepts and techniques ? from basic bioinformatics to population structure, introgression, demographic modeling, genome scans, and landscape genomics. Each day includes a mix of lectures (~2 hours) and practical exercises (~3 hours), helping participants build both foundational knowledge and practical skills.
+ 
+ This course is ideal for graduate students, postdocs, and researchers with a basic understanding of genetics/genomics and evolutionary biology, along with prior experience in a programming language (UNIX command line and R required).
+ 
+For the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/population-genomics/ )
+Best regards,
+ 
+Carlo
+ 
+ 
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From mzyphur m@iii@g oii i@st@ts@org  Thu Mar 27 12:20:00 2025
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Thu, 27 Mar 2025 11:20:00 +0000 (UTC)
+Subject: [R-sig-genetics] Online Course: Analysis of RNA-Seq Data
+Message-ID: <u-CycnybQuG_9lfQPcPMxg@geopod-ismtpd-12>
+
+Hi everyone
+
+Instats is excited to offer a 6-day seminar, Analysis of RNA-Seq Data <https://instats.org/seminar/analysis-of-rna-seq-data>, running once per week from April 17 to May 22, being led by senior biostatistician Dr. Rosina Savisaar. This comprehensive workshop demystifies the RNA-seq analysis pipeline by focusing on data analysis and interpretation, fostering an intuitive practical understanding of key concepts. You?ll gain hands-on experience with data visualization in genome browsers and R, learn descriptive statistics (such as RPKM, FPKM, TPM, and L2FC), and explore advanced techniques including hierarchical clustering with heatmaps, Principal Component Analysis, differential gene expression analysis using DESeq2, and functional enrichment methods like over-representation analysis and Gene Set Enrichment Analysis. Ideal for researchers new to gene expression analysis or those seeking deeper insights into RNA-seq methodologies, this seminar uses real-world datasets (including a reanalysis of a schizophrenia study) to reinforce learning through interactive weekly Zoom sessions.
+
+Sign up today <https://instats.org/seminar/foundations-of-statistical-analysis-in-r> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Director
+Institute for Statistical and Data Science
+instats.org <http://instats.org>
+
+Follow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Mon Mar 31 11:27:01 2025
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Mon, 31 Mar 2025 11:27:01 +0200 (CEST)
+Subject: [R-sig-genetics] Epigenomics Data Analysis with R & Bioconductor
+ course - online, 14-18 April
+Message-ID: <1743413221.65128805@webmail.jimdo.com>
+
+
+Dear all,
+Are you working with epigenomics data? Want to enhance your skills in analyzing ChIP-seq, MNase-seq, ATAC-seq, RNA-seq, and Hi-C data using R & Bioconductor?
+
+Join our hands-on online course and gain practical experience with cutting-edge tools and workflows.
+
+Course dates: 14th-18th April More details & registration: [ https://www.physalia-courses.org/courses-workshops/course59b/ ]( https://www.physalia-courses.org/courses-workshops/course59b/ )
+
+Best regards,
+
+Carlo
+
+
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From mzyphur m@iii@g oii i@st@ts@org  Mon Mar 31 13:35:00 2025
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Mon, 31 Mar 2025 11:35:00 +0000 (UTC)
+Subject: [R-sig-genetics] Instats & ASA Launch Free Research Training for
+ U.S. Government Employees
+Message-ID: <eSNyqyexT4SvGtcLDfffEQ@geopod-ismtpd-5>
+
+Hi everyone
+
+Today, Instats (instats.org <https://instats.org>) is proud to announce a new initiative in partnership with the American Statistical Association (ASA) to empower U.S. public servants. Starting immediately, all government employees with a .gov email address can freely access our premier streaming library of expert-led research training content?the entire library of over 200 courses, with thousands of hours of content streaming in 4K, free of charge. This includes all federal, state, and local government employees with a .gov email address.
+
+Our comprehensive library covers a range of topics from statistics and data science to advanced quantitative and qualitative research methods, designed to support the analytical skills essential for evidence-based decision making in government. By democratizing access to high-quality training, we?re investing in the continuous professional development of those who serve our communities.
+
+Eligible government professionals can sign up at instats.org using their official .gov email to unlock this resource. Join us in advancing public service and shaping a future where informed decisions lead to lasting impact.
+
+
+Best wishes
+
+Michael Zyphur
+Director
+Institute for Statistical and Data Science
+instats.org <http://instats.org>
+
+Follow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>
+	[[alternative HTML version deleted]]
+
+

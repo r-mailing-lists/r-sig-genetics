@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2016-04",
+  "messages": [
+    {
+      "id": "msg-d947eed04713",
+      "message_id": "<E53D4F8B-622F-4B12-AFC9-969E657F5753@lshtm.ac.uk>",
+      "from_name": "Susana",
+      "from_email_hash": "0577073b1525a66503644134e7cafe9adf7716f5b51851f98558f60cc3845692",
+      "date": "2016-04-03T01:20:49+01:00",
+      "subject": "[R-sig-genetics] nj tree",
+      "subject_clean": "nj tree",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi,\n\nI am trying to make a plot similar with the one below, where each sample can be seen well and the branch is coloured.\nI tried but can?t get to have the branches coloured , only the tips. I tried edge.color  but it does not match the tips?\nAlso, I have lots of samples but it looks like I just have a few. \nAny help will be great, thanks  a lot\n\nMy code now:\ntr1 <- nj(xxxx)\nplot(tr1,type=\"u\",show.tip.label = F, tip.col=colorings[labs], no.margin=TRUE) ##edge.color=colorings[labs])\ntiplabels(pch =21, bg=colorings[labs], cex = 0.7)\nlegend(\"topleft\",levels(unique(as.factor(labes2))),col=yyyyy[,2],\n       pch=15,xpd=TRUE,cex=0.4,xjust=0,yjust=0,ncol=4)\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20160403/9aabd7c4/attachment-0001.html>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: Screen Shot 2016-04-03 at 01.19.56.png\nType: image/png\nSize: 460741 bytes\nDesc: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20160403/9aabd7c4/attachment-0001.png>",
+      "body_snippet": "Hi,\n\nI am trying to make a plot similar with the one below, where each sample can be seen well and the branch is coloured.\nI tried but can?t get to have the branches coloured , only the tips. I tried ",
+      "thread_id": "thread-d947eed04713",
+      "thread_depth": 0,
+      "month": "2016-04"
+    },
+    {
+      "id": "msg-e2edfe4d7298",
+      "message_id": "<7A8EFC25-4783-433A-9BFA-00029D7F215D@lshtm.ac.uk>",
+      "from_name": "Susana",
+      "from_email_hash": "0577073b1525a66503644134e7cafe9adf7716f5b51851f98558f60cc3845692",
+      "date": "2016-04-27T01:32:05+01:00",
+      "subject": "[R-sig-genetics] extract the sequences of the haplotypes",
+      "subject_clean": "extract the sequences of the haplotypes",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi,\n\n\nI have a vector with DNA sequences and I created the haplotypes using the haplotype function in Pegas. \nI would like to extract the sequences of the haplotypes, but I can to it. the object it creates says:\n\nHaplotypes extracted from: finaldna \n\n    Number of haplotypes: 27 \n         Sequence length: 20 \n\nHaplotype labels and frequencies:\n\n    I    II   III    IV     V    VI   VII  VIII    IX     X    XI \n    9    33   329   219   105  1000  1159    14     3     5    24 \n  XII  XIII   XIV    XV   XVI  XVII XVIII   XIX    XX   XXI  XXII \n   60    10     1    30     1     7    11     2     3     8     4 \nXXIII  XXIV   XXV  XXVI XXVII \n    1     1    25     9     9\n\n\nSo, how can I get the sequences from these 27 haplotypes?\n\nAlready tried data.frame but it does not work:\"cannot coerce class \"c(\"haplotype\", \"DNAbin\")\" to a data.frame\"\n\nAny help will be appreciated!\nThanks!",
+      "body_snippet": "Hi,\n\n\nI have a vector with DNA sequences and I created the haplotypes using the haplotype function in Pegas. \nI would like to extract the sequences of the haplotypes, but I can to it. the object it cr",
+      "thread_id": "thread-e2edfe4d7298",
+      "thread_depth": 0,
+      "month": "2016-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d947eed04713",
+      "subject": "nj tree",
+      "message_count": 1,
+      "participants": [
+        "Susana"
+      ],
+      "started": "2016-04-03T01:20:49+01:00",
+      "last_reply": "2016-04-03T01:20:49+01:00",
+      "root_message_id": "msg-d947eed04713"
+    },
+    {
+      "id": "thread-e2edfe4d7298",
+      "subject": "extract the sequences of the haplotypes",
+      "message_count": 1,
+      "participants": [
+        "Susana"
+      ],
+      "started": "2016-04-27T01:32:05+01:00",
+      "last_reply": "2016-04-27T01:32:05+01:00",
+      "root_message_id": "msg-e2edfe4d7298"
+    }
+  ]
+}

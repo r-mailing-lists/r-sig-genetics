@@ -1,0 +1,57 @@
+From kamvarz at science.oregonstate.edu  Wed Feb 17 21:16:10 2016
+From: kamvarz at science.oregonstate.edu (Zhian Kamvar)
+Date: Wed, 17 Feb 2016 12:16:10 -0800
+Subject: [R-sig-genetics] Adegenet 2.0.1 has been released!
+Message-ID: <A54D5623-B1DA-4EDD-A974-C8FF055C36BB@science.oregonstate.edu>
+
+Hello all,
+
+This is just to let everyone know that adegenet version 2.0.1 has been released on CRAN. It includes new features such as avoiding overlapping labels in scatter.dapc(), speedups to df2genind() and `Hs()`, and several bug fixes.
+
+Read the details here: https://github.com/thibautjombart/adegenet/releases/tag/2.0.1
+
+download it from CRAN:
+
+install.packages("adegenet", repos = "http://cran.r-project.org")
+
+Cheers,
+Zhian
+
+
+From Hilmar.Lapp at duke.edu  Thu Feb 18 22:10:49 2016
+From: Hilmar.Lapp at duke.edu (Hilmar Lapp)
+Date: Thu, 18 Feb 2016 16:10:49 -0500
+Subject: [R-sig-genetics] Adegenet 2.0.1 has been released!
+In-Reply-To: <A54D5623-B1DA-4EDD-A974-C8FF055C36BB@science.oregonstate.edu>
+References: <A54D5623-B1DA-4EDD-A974-C8FF055C36BB@science.oregonstate.edu>
+Message-ID: <DE2127EA-2479-47D3-8513-EC15A062FB31@duke.edu>
+
+I rebuilt the rpopgen Docker container, so it?s available there now, too:
+https://hub.docker.com/r/hlapp/rpopgen/
+
+ -hilmar
+
+> On Feb 17, 2016, at 3:16 PM, Zhian Kamvar <kamvarz at science.oregonstate.edu> wrote:
+> 
+> Hello all,
+> 
+> This is just to let everyone know that adegenet version 2.0.1 has been released on CRAN. It includes new features such as avoiding overlapping labels in scatter.dapc(), speedups to df2genind() and `Hs()`, and several bug fixes.
+> 
+> Read the details here: https://github.com/thibautjombart/adegenet/releases/tag/2.0.1
+> 
+> download it from CRAN:
+> 
+> install.packages("adegenet", repos = "http://cran.r-project.org")
+> 
+> Cheers,
+> Zhian
+> 
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+-- 
+Hilmar Lapp -:- genome.duke.edu -:- lappland.io
+
+

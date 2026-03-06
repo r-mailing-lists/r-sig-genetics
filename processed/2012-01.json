@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2012-01",
+  "messages": [
+    {
+      "id": "msg-199a81349c8d",
+      "message_id": "<4F0DAFDD.1070201@aber.ac.uk>",
+      "from_name": "Ilaria Coscia",
+      "from_email_hash": "c454f5b7f14dff9f4d1640cb2723aa0c8a081be023ea8200351afdfe0ed56f10",
+      "date": "2012-01-11T15:50:53Z",
+      "subject": "[R-sig-genetics] visualising clusters when not separated geographically",
+      "subject_clean": "visualising clusters when not separated geographically",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20120111/ced6e4c2/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20120111/ced6e4c2/attachment.pl>",
+      "thread_id": "thread-199a81349c8d",
+      "thread_depth": 0,
+      "month": "2012-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-199a81349c8d",
+      "subject": "visualising clusters when not separated geographically",
+      "message_count": 1,
+      "participants": [
+        "Ilaria Coscia"
+      ],
+      "started": "2012-01-11T15:50:53+00:00",
+      "last_reply": "2012-01-11T15:50:53+00:00",
+      "root_message_id": "msg-199a81349c8d"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2015-11",
+  "messages": [
+    {
+      "id": "msg-d45ffd4e3786",
+      "message_id": "<76343D6E-C58B-4E4E-AAF1-3731EEB8483E@gmail.com>",
+      "from_name": "Daniel Fulop",
+      "from_email_hash": "9285c5a6c3f750ec49fe135f70d32379d4b0fafe1d24403bc5edc061163bafc1",
+      "date": "2015-11-16T20:55:57-08:00",
+      "subject": "[R-sig-genetics] genlight to genind conversion",
+      "subject_clean": "genlight to genind conversion",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi All,\n\nI?d like to use adegenet and poppr to analyze RADseq SNP data from Aspen trees. I am limited in what I can do because I have not been able to convert my data from genlight to genind. At one point I tried, but then gave up because of the long computation time for the conversion I was attempting.\n\nIs there a way to do the genlight to genind conversion? Otherwise, do you know if the functions related to clonal and mixed reproduction in poppr are implemented elsewhere (in R or outside of R)?\n\nI know that genind objects are not efficient for storing SNP data.  For what it?s worth, we have 181 individuals and ~39000 SNPs.\n\nThanks advance for your help!\nDan.\n\n-- \nDaniel Fulop, Ph.D.\nPostdoctoral Scholar\nDept. Plant Biology, UC Davis\nMaloof Lab, Rm. 2220\nLife Sciences Addition, One Shields Ave.\nDavis, CA 95616\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi All,\n\nI?d like to use adegenet and poppr to analyze RADseq SNP data from Aspen trees. I am limited in what I can do because I have not been able to convert my data from genlight to genind. At one p",
+      "thread_id": "thread-d45ffd4e3786",
+      "thread_depth": 0,
+      "month": "2015-11"
+    },
+    {
+      "id": "msg-40f413911841",
+      "message_id": "<39B77BA9-C3A1-447B-A0B3-31CA60118A43@science.oregonstate.edu>",
+      "from_name": "Zhian Kamvar",
+      "from_email_hash": "22d49dbeb0ae0b237f0469049b2a7bdfde827513b85adcc2c71ca951614f6bcc",
+      "date": "2015-11-16T21:20:37-08:00",
+      "subject": "[R-sig-genetics] genlight to genind conversion",
+      "subject_clean": "genlight to genind conversion",
+      "in_reply_to": "<76343D6E-C58B-4E4E-AAF1-3731EEB8483E@gmail.com>",
+      "references": [
+        "<76343D6E-C58B-4E4E-AAF1-3731EEB8483E@gmail.com>"
+      ],
+      "body_plain": "Hi Dan,\n\nThe question of how to analyze genomic SNP data in poppr was recently addressed:\nhttps://groups.google.com/forum/#!topic/poppr/_0GWvgC85S8\n\nWhat functions related to clonal and mixed reproduction are you looking to utilize? Adegenet has several functions for use with genlight objects including DAPC and PCA. Additionally, poppr v2 has the ability to perform the index of association and all multilocus genotype functions on genlight objects. \n\nOtherwise, a genlight to genind conversion usually takes the form of:\n\nx.mat <- as.matrix(x) # x is a genlight object\nx.mat[x.mat == 0] <- \"1/1\" # homozygote reference\nx.mat[x.mat == 1] <- \"1/2\" # heterozygote\nx.mat[x.mat == 2] <- \"2/2\" # homozygote alternate\nx.gid <- df2genind(x, sep = \"/\", ploidy = 2)\n\nThe object you get back will be ~55Mb\n\nI hope that addressed some of your questions.\n\nBest,\nZhian\n\n> On Nov 16, 2015, at 20:55 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:\n> \n> Hi All,\n> \n> I?d like to use adegenet and poppr to analyze RADseq SNP data from Aspen trees. I am limited in what I can do because I have not been able to convert my data from genlight to genind. At one point I tried, but then gave up because of the long computation time for the conversion I was attempting.\n> \n> Is there a way to do the genlight to genind conversion? Otherwise, do you know if the functions related to clonal and mixed reproduction in poppr are implemented elsewhere (in R or outside of R)?\n> \n> I know that genind objects are not efficient for storing SNP data.  For what it?s worth, we have 181 individuals and ~39000 SNPs.\n> \n> Thanks advance for your help!\n> Dan.\n> \n> -- \n> Daniel Fulop, Ph.D.\n> Postdoctoral Scholar\n> Dept. Plant Biology, UC Davis\n> Maloof Lab, Rm. 2220\n> Life Sciences Addition, One Shields Ave.\n> Davis, CA 95616\n>",
+      "body_snippet": "Hi Dan,\n\nThe question of how to analyze genomic SNP data in poppr was recently addressed:\nhttps://groups.google.com/forum/#!topic/poppr/_0GWvgC85S8\n\nWhat functions related to clonal and mixed reproduc",
+      "thread_id": "thread-d45ffd4e3786",
+      "thread_depth": 1,
+      "month": "2015-11"
+    },
+    {
+      "id": "msg-fd6882aa26c2",
+      "message_id": "<EB6B5B73-1A0A-4C85-B419-E40C8A0D4ACB@gmail.com>",
+      "from_name": "Daniel Fulop",
+      "from_email_hash": "9285c5a6c3f750ec49fe135f70d32379d4b0fafe1d24403bc5edc061163bafc1",
+      "date": "2015-11-16T21:32:13-08:00",
+      "subject": "[R-sig-genetics] genlight to genind conversion",
+      "subject_clean": "genlight to genind conversion",
+      "in_reply_to": "<39B77BA9-C3A1-447B-A0B3-31CA60118A43@science.oregonstate.edu>",
+      "references": [
+        "<76343D6E-C58B-4E4E-AAF1-3731EEB8483E@gmail.com>",
+        "<39B77BA9-C3A1-447B-A0B3-31CA60118A43@science.oregonstate.edu>"
+      ],
+      "body_plain": "Hi Zhian,\n\nThanks a ton!  That is super helpful.\n\nI?m also looking to bootstrap a Nei?s distance NJ tree, and I see that I can do that with about().\n\nAll the best,\nDan.\n\n\n> On Nov 16, 2015, at 9:20 PM, Zhian Kamvar <kamvarz at science.oregonstate.edu> wrote:\n> \n> Hi Dan,\n> \n> The question of how to analyze genomic SNP data in poppr was recently addressed:\n> https://groups.google.com/forum/#!topic/poppr/_0GWvgC85S8\n> \n> What functions related to clonal and mixed reproduction are you looking to utilize? Adegenet has several functions for use with genlight objects including DAPC and PCA. Additionally, poppr v2 has the ability to perform the index of association and all multilocus genotype functions on genlight objects. \n> \n> Otherwise, a genlight to genind conversion usually takes the form of:\n> \n> x.mat <- as.matrix(x) # x is a genlight object\n> x.mat[x.mat == 0] <- \"1/1\" # homozygote reference\n> x.mat[x.mat == 1] <- \"1/2\" # heterozygote\n> x.mat[x.mat == 2] <- \"2/2\" # homozygote alternate\n> x.gid <- df2genind(x, sep = \"/\", ploidy = 2)\n> \n> The object you get back will be ~55Mb\n> \n> I hope that addressed some of your questions.\n> \n> Best,\n> Zhian\n> \n>> On Nov 16, 2015, at 20:55 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:\n>> \n>> Hi All,\n>> \n>> I?d like to use adegenet and poppr to analyze RADseq SNP data from Aspen trees. I am limited in what I can do because I have not been able to convert my data from genlight to genind. At one point I tried, but then gave up because of the long computation time for the conversion I was attempting.\n>> \n>> Is there a way to do the genlight to genind conversion? Otherwise, do you know if the functions related to clonal and mixed reproduction in poppr are implemented elsewhere (in R or outside of R)?\n>> \n>> I know that genind objects are not efficient for storing SNP data.  For what it?s worth, we have 181 individuals and ~39000 SNPs.\n>> \n>> Thanks advance for your help!\n>> Dan.\n>> \n>> -- \n>> Daniel Fulop, Ph.D.\n>> Postdoctoral Scholar\n>> Dept. Plant Biology, UC Davis\n>> Maloof Lab, Rm. 2220\n>> Life Sciences Addition, One Shields Ave.\n>> Davis, CA 95616\n>> \n>",
+      "body_snippet": "Hi Zhian,\n\nThanks a ton!  That is super helpful.\n\nI?m also looking to bootstrap a Nei?s distance NJ tree, and I see that I can do that with about().\n\nAll the best,\nDan.\n\n\n> On Nov 16, 2015, at 9:20 PM",
+      "thread_id": "thread-d45ffd4e3786",
+      "thread_depth": 2,
+      "month": "2015-11"
+    },
+    {
+      "id": "msg-17c4c442f187",
+      "message_id": "<F55CD952-25FF-4435-9AA3-AD27072F6880@science.oregonstate.edu>",
+      "from_name": "Zhian Kamvar",
+      "from_email_hash": "22d49dbeb0ae0b237f0469049b2a7bdfde827513b85adcc2c71ca951614f6bcc",
+      "date": "2015-11-16T22:03:04-08:00",
+      "subject": "[R-sig-genetics] genlight to genind conversion",
+      "subject_clean": "genlight to genind conversion",
+      "in_reply_to": "<EB6B5B73-1A0A-4C85-B419-E40C8A0D4ACB@gmail.com>",
+      "references": [
+        "<76343D6E-C58B-4E4E-AAF1-3731EEB8483E@gmail.com>",
+        "<39B77BA9-C3A1-447B-A0B3-31CA60118A43@science.oregonstate.edu>",
+        "<EB6B5B73-1A0A-4C85-B419-E40C8A0D4ACB@gmail.com>"
+      ],
+      "body_plain": "Hi Dan,\n\nThere is a slight catch to this:\n\nBootstrapping for genlight objects defaults to a simple measure of dissimilarity (see the function bitwise.dist). To use Nei's distance, you must convert to either genind or genpop (unless you want to write the function to calculate Nei's distance off of a genlight object).\n\nZhian\n\n\n> On Nov 16, 2015, at 21:32 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:\n> \n> Hi Zhian,\n> \n> Thanks a ton!  That is super helpful.\n> \n> I?m also looking to bootstrap a Nei?s distance NJ tree, and I see that I can do that with about().\n> \n> All the best,\n> Dan.\n> \n> \n>> On Nov 16, 2015, at 9:20 PM, Zhian Kamvar <kamvarz at science.oregonstate.edu> wrote:\n>> \n>> Hi Dan,\n>> \n>> The question of how to analyze genomic SNP data in poppr was recently addressed:\n>> https://groups.google.com/forum/#!topic/poppr/_0GWvgC85S8\n>> \n>> What functions related to clonal and mixed reproduction are you looking to utilize? Adegenet has several functions for use with genlight objects including DAPC and PCA. Additionally, poppr v2 has the ability to perform the index of association and all multilocus genotype functions on genlight objects. \n>> \n>> Otherwise, a genlight to genind conversion usually takes the form of:\n>> \n>> x.mat <- as.matrix(x) # x is a genlight object\n>> x.mat[x.mat == 0] <- \"1/1\" # homozygote reference\n>> x.mat[x.mat == 1] <- \"1/2\" # heterozygote\n>> x.mat[x.mat == 2] <- \"2/2\" # homozygote alternate\n>> x.gid <- df2genind(x, sep = \"/\", ploidy = 2)\n>> \n>> The object you get back will be ~55Mb\n>> \n>> I hope that addressed some of your questions.\n>> \n>> Best,\n>> Zhian\n>> \n>>> On Nov 16, 2015, at 20:55 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:\n>>> \n>>> Hi All,\n>>> \n>>> I?d like to use adegenet and poppr to analyze RADseq SNP data from Aspen trees. I am limited in what I can do because I have not been able to convert my data from genlight to genind. At one point I tried, but then gave up because of the long computation time for the conversion I was attempting.\n>>> \n>>> Is there a way to do the genlight to genind conversion? Otherwise, do you know if the functions related to clonal and mixed reproduction in poppr are implemented elsewhere (in R or outside of R)?\n>>> \n>>> I know that genind objects are not efficient for storing SNP data.  For what it?s worth, we have 181 individuals and ~39000 SNPs.\n>>> \n>>> Thanks advance for your help!\n>>> Dan.\n>>> \n>>> -- \n>>> Daniel Fulop, Ph.D.\n>>> Postdoctoral Scholar\n>>> Dept. Plant Biology, UC Davis\n>>> Maloof Lab, Rm. 2220\n>>> Life Sciences Addition, One Shields Ave.\n>>> Davis, CA 95616\n>>> \n>> \n>",
+      "body_snippet": "Hi Dan,\n\nThere is a slight catch to this:\n\nBootstrapping for genlight objects defaults to a simple measure of dissimilarity (see the function bitwise.dist). To use Nei's distance, you must convert to ",
+      "thread_id": "thread-d45ffd4e3786",
+      "thread_depth": 3,
+      "month": "2015-11"
+    },
+    {
+      "id": "msg-3e186d7b270f",
+      "message_id": "<49970BE2-294A-48AE-B3B3-A5F742BA573F@gmail.com>",
+      "from_name": "Daniel Fulop",
+      "from_email_hash": "9285c5a6c3f750ec49fe135f70d32379d4b0fafe1d24403bc5edc061163bafc1",
+      "date": "2015-11-16T22:11:34-08:00",
+      "subject": "[R-sig-genetics] genlight to genind conversion",
+      "subject_clean": "genlight to genind conversion",
+      "in_reply_to": "<F55CD952-25FF-4435-9AA3-AD27072F6880@science.oregonstate.edu>",
+      "references": [
+        "<76343D6E-C58B-4E4E-AAF1-3731EEB8483E@gmail.com>",
+        "<39B77BA9-C3A1-447B-A0B3-31CA60118A43@science.oregonstate.edu>",
+        "<EB6B5B73-1A0A-4C85-B419-E40C8A0D4ACB@gmail.com>",
+        "<F55CD952-25FF-4435-9AA3-AD27072F6880@science.oregonstate.edu>"
+      ],
+      "body_plain": "Hi Zhian,\n\nI?m glad I asked!  The StAMPP package can calculate Nei?s distance on a genlight object using the stamppNeisD() function.  I thought of coding the resampling myself, but if I can incorporate stamppNeisD() within aboot() that?ll save me some trouble.\n\nAny thoughts about hacking aboot() to use stamppNeisD()?\n\nThanks again!\nDan.\n\n\n> On Nov 16, 2015, at 10:03 PM, Zhian Kamvar <kamvarz at science.oregonstate.edu> wrote:\n> \n> Hi Dan,\n> \n> There is a slight catch to this:\n> \n> Bootstrapping for genlight objects defaults to a simple measure of dissimilarity (see the function bitwise.dist). To use Nei's distance, you must convert to either genind or genpop (unless you want to write the function to calculate Nei's distance off of a genlight object).\n> \n> Zhian\n> \n> \n>> On Nov 16, 2015, at 21:32 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:\n>> \n>> Hi Zhian,\n>> \n>> Thanks a ton!  That is super helpful.\n>> \n>> I?m also looking to bootstrap a Nei?s distance NJ tree, and I see that I can do that with about().\n>> \n>> All the best,\n>> Dan.\n>> \n>> \n>>> On Nov 16, 2015, at 9:20 PM, Zhian Kamvar <kamvarz at science.oregonstate.edu> wrote:\n>>> \n>>> Hi Dan,\n>>> \n>>> The question of how to analyze genomic SNP data in poppr was recently addressed:\n>>> https://groups.google.com/forum/#!topic/poppr/_0GWvgC85S8\n>>> \n>>> What functions related to clonal and mixed reproduction are you looking to utilize? Adegenet has several functions for use with genlight objects including DAPC and PCA. Additionally, poppr v2 has the ability to perform the index of association and all multilocus genotype functions on genlight objects. \n>>> \n>>> Otherwise, a genlight to genind conversion usually takes the form of:\n>>> \n>>> x.mat <- as.matrix(x) # x is a genlight object\n>>> x.mat[x.mat == 0] <- \"1/1\" # homozygote reference\n>>> x.mat[x.mat == 1] <- \"1/2\" # heterozygote\n>>> x.mat[x.mat == 2] <- \"2/2\" # homozygote alternate\n>>> x.gid <- df2genind(x, sep = \"/\", ploidy = 2)\n>>> \n>>> The object you get back will be ~55Mb\n>>> \n>>> I hope that addressed some of your questions.\n>>> \n>>> Best,\n>>> Zhian\n>>> \n>>>> On Nov 16, 2015, at 20:55 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:\n>>>> \n>>>> Hi All,\n>>>> \n>>>> I?d like to use adegenet and poppr to analyze RADseq SNP data from Aspen trees. I am limited in what I can do because I have not been able to convert my data from genlight to genind. At one point I tried, but then gave up because of the long computation time for the conversion I was attempting.\n>>>> \n>>>> Is there a way to do the genlight to genind conversion? Otherwise, do you know if the functions related to clonal and mixed reproduction in poppr are implemented elsewhere (in R or outside of R)?\n>>>> \n>>>> I know that genind objects are not efficient for storing SNP data.  For what it?s worth, we have 181 individuals and ~39000 SNPs.\n>>>> \n>>>> Thanks advance for your help!\n>>>> Dan.\n>>>> \n>>>> -- \n>>>> Daniel Fulop, Ph.D.\n>>>> Postdoctoral Scholar\n>>>> Dept. Plant Biology, UC Davis\n>>>> Maloof Lab, Rm. 2220\n>>>> Life Sciences Addition, One Shields Ave.\n>>>> Davis, CA 95616\n>>>> \n>>> \n>> \n>",
+      "body_snippet": "Hi Zhian,\n\nI?m glad I asked!  The StAMPP package can calculate Nei?s distance on a genlight object using the stamppNeisD() function.  I thought of coding the resampling myself, but if I can incorporat",
+      "thread_id": "thread-d45ffd4e3786",
+      "thread_depth": 4,
+      "month": "2015-11"
+    },
+    {
+      "id": "msg-ebffa09761fc",
+      "message_id": "<CC507DE7-5738-4B11-941F-646FD125ACC0@science.oregonstate.edu>",
+      "from_name": "Zhian Kamvar",
+      "from_email_hash": "22d49dbeb0ae0b237f0469049b2a7bdfde827513b85adcc2c71ca951614f6bcc",
+      "date": "2015-11-16T22:30:48-08:00",
+      "subject": "[R-sig-genetics] genlight to genind conversion",
+      "subject_clean": "genlight to genind conversion",
+      "in_reply_to": "<49970BE2-294A-48AE-B3B3-A5F742BA573F@gmail.com>",
+      "references": [
+        "<76343D6E-C58B-4E4E-AAF1-3731EEB8483E@gmail.com>",
+        "<39B77BA9-C3A1-447B-A0B3-31CA60118A43@science.oregonstate.edu>",
+        "<EB6B5B73-1A0A-4C85-B419-E40C8A0D4ACB@gmail.com>",
+        "<F55CD952-25FF-4435-9AA3-AD27072F6880@science.oregonstate.edu>",
+        "<49970BE2-294A-48AE-B3B3-A5F742BA573F@gmail.com>"
+      ],
+      "body_plain": "Hi Dan,\n\nThanks for pointing that out! It can't be calculated in poppr as it exists on CRAN, but I just pushed a fix for aboot on github that will allow you to use any distance metric with genlight objects (previously, it would force bitwise.dist). \n\nyou can install it with devtools::install_github(\"grunwaldlab/poppr at devel\")\n\nI would also recommend installing the github versions of adegenet and pegas.\n\nHere's an example of bootstrapping with StAMPP:\n\nlibrary(poppr)\nlibrary(StAMPP)\nx <- glSim(100, 1e3, ploid=2)\npop(x) <- rep(LETTERS[1:5], 20)\naboot(x, distance = function(x) as.dist(stamppNeisD(x)), sample = 100)\n\nBest,\nZhian\n\n\n> On Nov 16, 2015, at 22:11 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:\n> \n> Hi Zhian,\n> \n> I?m glad I asked!  The StAMPP package can calculate Nei?s distance on a genlight object using the stamppNeisD() function.  I thought of coding the resampling myself, but if I can incorporate stamppNeisD() within aboot() that?ll save me some trouble.\n> \n> Any thoughts about hacking aboot() to use stamppNeisD()?\n> \n> Thanks again!\n> Dan.\n> \n> \n>> On Nov 16, 2015, at 10:03 PM, Zhian Kamvar <kamvarz at science.oregonstate.edu> wrote:\n>> \n>> Hi Dan,\n>> \n>> There is a slight catch to this:\n>> \n>> Bootstrapping for genlight objects defaults to a simple measure of dissimilarity (see the function bitwise.dist). To use Nei's distance, you must convert to either genind or genpop (unless you want to write the function to calculate Nei's distance off of a genlight object).\n>> \n>> Zhian\n>> \n>> \n>>> On Nov 16, 2015, at 21:32 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:\n>>> \n>>> Hi Zhian,\n>>> \n>>> Thanks a ton!  That is super helpful.\n>>> \n>>> I?m also looking to bootstrap a Nei?s distance NJ tree, and I see that I can do that with about().\n>>> \n>>> All the best,\n>>> Dan.\n>>> \n>>> \n>>>> On Nov 16, 2015, at 9:20 PM, Zhian Kamvar <kamvarz at science.oregonstate.edu> wrote:\n>>>> \n>>>> Hi Dan,\n>>>> \n>>>> The question of how to analyze genomic SNP data in poppr was recently addressed:\n>>>> https://groups.google.com/forum/#!topic/poppr/_0GWvgC85S8\n>>>> \n>>>> What functions related to clonal and mixed reproduction are you looking to utilize? Adegenet has several functions for use with genlight objects including DAPC and PCA. Additionally, poppr v2 has the ability to perform the index of association and all multilocus genotype functions on genlight objects. \n>>>> \n>>>> Otherwise, a genlight to genind conversion usually takes the form of:\n>>>> \n>>>> x.mat <- as.matrix(x) # x is a genlight object\n>>>> x.mat[x.mat == 0] <- \"1/1\" # homozygote reference\n>>>> x.mat[x.mat == 1] <- \"1/2\" # heterozygote\n>>>> x.mat[x.mat == 2] <- \"2/2\" # homozygote alternate\n>>>> x.gid <- df2genind(x, sep = \"/\", ploidy = 2)\n>>>> \n>>>> The object you get back will be ~55Mb\n>>>> \n>>>> I hope that addressed some of your questions.\n>>>> \n>>>> Best,\n>>>> Zhian\n>>>> \n>>>>> On Nov 16, 2015, at 20:55 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:\n>>>>> \n>>>>> Hi All,\n>>>>> \n>>>>> I?d like to use adegenet and poppr to analyze RADseq SNP data from Aspen trees. I am limited in what I can do because I have not been able to convert my data from genlight to genind. At one point I tried, but then gave up because of the long computation time for the conversion I was attempting.\n>>>>> \n>>>>> Is there a way to do the genlight to genind conversion? Otherwise, do you know if the functions related to clonal and mixed reproduction in poppr are implemented elsewhere (in R or outside of R)?\n>>>>> \n>>>>> I know that genind objects are not efficient for storing SNP data.  For what it?s worth, we have 181 individuals and ~39000 SNPs.\n>>>>> \n>>>>> Thanks advance for your help!\n>>>>> Dan.\n>>>>> \n>>>>> -- \n>>>>> Daniel Fulop, Ph.D.\n>>>>> Postdoctoral Scholar\n>>>>> Dept. Plant Biology, UC Davis\n>>>>> Maloof Lab, Rm. 2220\n>>>>> Life Sciences Addition, One Shields Ave.\n>>>>> Davis, CA 95616\n>>>>> \n>>>> \n>>> \n>> \n>",
+      "body_snippet": "Hi Dan,\n\nThanks for pointing that out! It can't be calculated in poppr as it exists on CRAN, but I just pushed a fix for aboot on github that will allow you to use any distance metric with genlight ob",
+      "thread_id": "thread-d45ffd4e3786",
+      "thread_depth": 5,
+      "month": "2015-11"
+    },
+    {
+      "id": "msg-01be8fabf383",
+      "message_id": "<12369104-0872-4CF6-9147-BA451C102BE9@gmail.com>",
+      "from_name": "Daniel Fulop",
+      "from_email_hash": "9285c5a6c3f750ec49fe135f70d32379d4b0fafe1d24403bc5edc061163bafc1",
+      "date": "2015-11-16T22:36:47-08:00",
+      "subject": "[R-sig-genetics] genlight to genind conversion",
+      "subject_clean": "genlight to genind conversion",
+      "in_reply_to": "<CC507DE7-5738-4B11-941F-646FD125ACC0@science.oregonstate.edu>",
+      "references": [
+        "<76343D6E-C58B-4E4E-AAF1-3731EEB8483E@gmail.com>",
+        "<39B77BA9-C3A1-447B-A0B3-31CA60118A43@science.oregonstate.edu>",
+        "<EB6B5B73-1A0A-4C85-B419-E40C8A0D4ACB@gmail.com>",
+        "<F55CD952-25FF-4435-9AA3-AD27072F6880@science.oregonstate.edu>",
+        "<49970BE2-294A-48AE-B3B3-A5F742BA573F@gmail.com>",
+        "<CC507DE7-5738-4B11-941F-646FD125ACC0@science.oregonstate.edu>"
+      ],
+      "body_plain": "Hi Zhian,\n\nThanks again!!\n\nBest,\nDan.\n\n> On Nov 16, 2015, at 10:30 PM, Zhian Kamvar <kamvarz at science.oregonstate.edu> wrote:\n> \n> Hi Dan,\n> \n> Thanks for pointing that out! It can't be calculated in poppr as it exists on CRAN, but I just pushed a fix for aboot on github that will allow you to use any distance metric with genlight objects (previously, it would force bitwise.dist). \n> \n> you can install it with devtools::install_github(\"grunwaldlab/poppr at devel\")\n> \n> I would also recommend installing the github versions of adegenet and pegas.\n> \n> Here's an example of bootstrapping with StAMPP:\n> \n> library(poppr)\n> library(StAMPP)\n> x <- glSim(100, 1e3, ploid=2)\n> pop(x) <- rep(LETTERS[1:5], 20)\n> aboot(x, distance = function(x) as.dist(stamppNeisD(x)), sample = 100)\n> \n> Best,\n> Zhian\n> \n> \n>> On Nov 16, 2015, at 22:11 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:\n>> \n>> Hi Zhian,\n>> \n>> I?m glad I asked!  The StAMPP package can calculate Nei?s distance on a genlight object using the stamppNeisD() function.  I thought of coding the resampling myself, but if I can incorporate stamppNeisD() within aboot() that?ll save me some trouble.\n>> \n>> Any thoughts about hacking aboot() to use stamppNeisD()?\n>> \n>> Thanks again!\n>> Dan.\n>> \n>> \n>>> On Nov 16, 2015, at 10:03 PM, Zhian Kamvar <kamvarz at science.oregonstate.edu> wrote:\n>>> \n>>> Hi Dan,\n>>> \n>>> There is a slight catch to this:\n>>> \n>>> Bootstrapping for genlight objects defaults to a simple measure of dissimilarity (see the function bitwise.dist). To use Nei's distance, you must convert to either genind or genpop (unless you want to write the function to calculate Nei's distance off of a genlight object).\n>>> \n>>> Zhian\n>>> \n>>> \n>>>> On Nov 16, 2015, at 21:32 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:\n>>>> \n>>>> Hi Zhian,\n>>>> \n>>>> Thanks a ton!  That is super helpful.\n>>>> \n>>>> I?m also looking to bootstrap a Nei?s distance NJ tree, and I see that I can do that with about().\n>>>> \n>>>> All the best,\n>>>> Dan.\n>>>> \n>>>> \n>>>>> On Nov 16, 2015, at 9:20 PM, Zhian Kamvar <kamvarz at science.oregonstate.edu> wrote:\n>>>>> \n>>>>> Hi Dan,\n>>>>> \n>>>>> The question of how to analyze genomic SNP data in poppr was recently addressed:\n>>>>> https://groups.google.com/forum/#!topic/poppr/_0GWvgC85S8\n>>>>> \n>>>>> What functions related to clonal and mixed reproduction are you looking to utilize? Adegenet has several functions for use with genlight objects including DAPC and PCA. Additionally, poppr v2 has the ability to perform the index of association and all multilocus genotype functions on genlight objects. \n>>>>> \n>>>>> Otherwise, a genlight to genind conversion usually takes the form of:\n>>>>> \n>>>>> x.mat <- as.matrix(x) # x is a genlight object\n>>>>> x.mat[x.mat == 0] <- \"1/1\" # homozygote reference\n>>>>> x.mat[x.mat == 1] <- \"1/2\" # heterozygote\n>>>>> x.mat[x.mat == 2] <- \"2/2\" # homozygote alternate\n>>>>> x.gid <- df2genind(x, sep = \"/\", ploidy = 2)\n>>>>> \n>>>>> The object you get back will be ~55Mb\n>>>>> \n>>>>> I hope that addressed some of your questions.\n>>>>> \n>>>>> Best,\n>>>>> Zhian\n>>>>> \n>>>>>> On Nov 16, 2015, at 20:55 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:\n>>>>>> \n>>>>>> Hi All,\n>>>>>> \n>>>>>> I?d like to use adegenet and poppr to analyze RADseq SNP data from Aspen trees. I am limited in what I can do because I have not been able to convert my data from genlight to genind. At one point I tried, but then gave up because of the long computation time for the conversion I was attempting.\n>>>>>> \n>>>>>> Is there a way to do the genlight to genind conversion? Otherwise, do you know if the functions related to clonal and mixed reproduction in poppr are implemented elsewhere (in R or outside of R)?\n>>>>>> \n>>>>>> I know that genind objects are not efficient for storing SNP data.  For what it?s worth, we have 181 individuals and ~39000 SNPs.\n>>>>>> \n>>>>>> Thanks advance for your help!\n>>>>>> Dan.\n>>>>>> \n>>>>>> -- \n>>>>>> Daniel Fulop, Ph.D.\n>>>>>> Postdoctoral Scholar\n>>>>>> Dept. Plant Biology, UC Davis\n>>>>>> Maloof Lab, Rm. 2220\n>>>>>> Life Sciences Addition, One Shields Ave.\n>>>>>> Davis, CA 95616\n>>>>>> \n>>>>> \n>>>> \n>>> \n>> \n>",
+      "body_snippet": "Hi Zhian,\n\nThanks again!!\n\nBest,\nDan.\n\n> On Nov 16, 2015, at 10:30 PM, Zhian Kamvar <kamvarz at science.oregonstate.edu> wrote:\n> \n> Hi Dan,\n> \n> Thanks for pointing that out! It can't be calculated i",
+      "thread_id": "thread-d45ffd4e3786",
+      "thread_depth": 6,
+      "month": "2015-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d45ffd4e3786",
+      "subject": "genlight to genind conversion",
+      "message_count": 7,
+      "participants": [
+        "Daniel Fulop",
+        "Zhian Kamvar"
+      ],
+      "started": "2015-11-16T20:55:57-08:00",
+      "last_reply": "2015-11-16T22:36:47-08:00",
+      "root_message_id": "msg-d45ffd4e3786"
+    }
+  ]
+}

@@ -1,0 +1,1313 @@
+From rnsarma at aau.ac.in  Mon Jan  2 10:37:39 2017
+From: rnsarma at aau.ac.in (Ramendra Nath Sarma)
+Date: Mon, 2 Jan 2017 15:07:39 +0530
+Subject: [R-sig-genetics] Fwd: Help in Pegas
+In-Reply-To: <CANpTdqW4y-P5MqhksV46bzUxnDcRi7g18udLxhKQTuTOGWX29w@mail.gmail.com>
+References: <CANpTdqW4y-P5MqhksV46bzUxnDcRi7g18udLxhKQTuTOGWX29w@mail.gmail.com>
+Message-ID: <CANpTdqX-c4=Cm-u9bXDQLZY-1FA+KJLEzFmpiqpwryndZg=8SA@mail.gmail.com>
+
+Hi,
+I used a file converted from Structure to use Pegas to analysis AMOVA and
+to analyse Fst or other population parameters. Iam getting the error with
+NA as:
+Warning message:
+In pegas::amova(amova_dist ~ Pop, data = amova_stra, nperm = 0) :
+  at least one missing value in the distance object.
+> pegas_amova
+
+    Analysis of Molecular Variance
+
+Call: pegas::amova(formula = amova_dist ~ Pop, data = amova_stra, nperm = 0)
+
+           SSD      MSD  df
+Pop         NA       NA   2
+Error 16241.53 113.5772 143
+Total       NA       NA 145
+
+Variance components:
+     Pop    Error
+      NA 113.5772
+
+Variance coefficients:
+       a
+29.23973
+
+
+
+My scripts in R as follows:
+library("poppr")
+library("adegenet")
+amova<-read.structure ("~/Desktop/HARENDRA/structure1.str")
+strata(amova) <- data.frame(Pop = pop(amova))
+library(pegas)
+amova_dist  <- dist(amova) # Euclidean distance
+amova_dist
+amova_stra  <- strata(amova)
+amova_stra
+pegas_amova <- pegas::amova(amova_dist ~Pop, data = amova_stra, nperm = 0)
+pegas_amova
+
+
+Where I am wrong? Please suggest as novice to R.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+*Dr R N SarmaProfessorDepartment of Plant Breeding and GeneticsAssam
+Agricultural UniversityJorhat-785013Assam, Indiaweb: www.aau.ac.in;
+<http://www.aaau.ac.in> Phone: +91-376-2310526; +91-376231133(R);
+9435350529(M)*
+--------------------------------------------------------------------------------------------------------------------------
+
+	[[alternative HTML version deleted]]
+
+
+From kamvarz at science.oregonstate.edu  Mon Jan  2 19:54:58 2017
+From: kamvarz at science.oregonstate.edu (Zhian Kamvar)
+Date: Mon, 2 Jan 2017 10:54:58 -0800
+Subject: [R-sig-genetics] Fwd: Help in Pegas
+In-Reply-To: <CANpTdqX-c4=Cm-u9bXDQLZY-1FA+KJLEzFmpiqpwryndZg=8SA@mail.gmail.com>
+References: <CANpTdqW4y-P5MqhksV46bzUxnDcRi7g18udLxhKQTuTOGWX29w@mail.gmail.com>
+	<CANpTdqX-c4=Cm-u9bXDQLZY-1FA+KJLEzFmpiqpwryndZg=8SA@mail.gmail.com>
+Message-ID: <A99CA139-8132-4AF7-A139-3818A9007FD3@science.oregonstate.edu>
+
+Hi Ramendra,
+
+> Warning message:
+> In pegas::amova(amova_dist ~ Pop, data = amova_stra, nperm = 0) :
+>  at least one missing value in the distance object.
+
+
+This warning is most likely caused by having genotypes with reciprocal missing data, which result in a distance matrix with missing data. You have two options:
+
+1. Interpolate the missing data in the distance matrix with the ape functions additive() or ultrametric() (see: http://stackoverflow.com/a/34022156/2752888 <http://stackoverflow.com/a/34022156/2752888> and http://dx.doi.org/10.1093/bioinformatics/bth211).
+2. Find the genotypes that have the most incompatibilities (you can use the poppr function incomp() for this) and remove them.
+
+Hope that helps,
+Zhian
+
+> On Jan 2, 2017, at 01:37 , Ramendra Nath Sarma <rnsarma at aau.ac.in> wrote:
+> 
+> Hi,
+> I used a file converted from Structure to use Pegas to analysis AMOVA and
+> to analyse Fst or other population parameters. Iam getting the error with
+> NA as:
+> Warning message:
+> In pegas::amova(amova_dist ~ Pop, data = amova_stra, nperm = 0) :
+>  at least one missing value in the distance object.
+>> pegas_amova
+> 
+>    Analysis of Molecular Variance
+> 
+> Call: pegas::amova(formula = amova_dist ~ Pop, data = amova_stra, nperm = 0)
+> 
+>           SSD      MSD  df
+> Pop         NA       NA   2
+> Error 16241.53 113.5772 143
+> Total       NA       NA 145
+> 
+> Variance components:
+>     Pop    Error
+>      NA 113.5772
+> 
+> Variance coefficients:
+>       a
+> 29.23973
+> 
+> 
+> 
+> My scripts in R as follows:
+> library("poppr")
+> library("adegenet")
+> amova<-read.structure ("~/Desktop/HARENDRA/structure1.str")
+> strata(amova) <- data.frame(Pop = pop(amova))
+> library(pegas)
+> amova_dist  <- dist(amova) # Euclidean distance
+> amova_dist
+> amova_stra  <- strata(amova)
+> amova_stra
+> pegas_amova <- pegas::amova(amova_dist ~Pop, data = amova_stra, nperm = 0)
+> pegas_amova
+> 
+> 
+> Where I am wrong? Please suggest as novice to R.
+> 
+> 
+> ----------------------------------------------------------------------------------------------------------------------------------------
+> 
+> 
+> 
+> 
+> 
+> 
+> *Dr R N SarmaProfessorDepartment of Plant Breeding and GeneticsAssam
+> Agricultural UniversityJorhat-785013Assam, Indiaweb: www.aau.ac.in;
+> <http://www.aaau.ac.in> Phone: +91-376-2310526; +91-376231133(R);
+> 9435350529(M)*
+> --------------------------------------------------------------------------------------------------------------------------
+> 
+> 	[[alternative HTML version deleted]]
+> 
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+
+	[[alternative HTML version deleted]]
+
+
+From ravneet.bhuller13 at imperial.ac.uk  Thu Jan  5 15:04:40 2017
+From: ravneet.bhuller13 at imperial.ac.uk (Bhuller, Ravneet)
+Date: Thu, 5 Jan 2017 14:04:40 +0000
+Subject: [R-sig-genetics] Suggestions regarding randomly repooling genind
+	objects
+Message-ID: <E493C75D-396A-48A7-8990-DFCF6FFC5FF3@ic.ac.uk>
+
+Dear Members,
+
+I have subset the genind object by population using seppop.
+
+This has given me a new obj (which is a list of genind objects)
+
+Now I want to randomly repool genind objects - incrementing the repooling size by 1 every time:
+
+e.g.
+
+1. randomly repool 2 genind objects, with replacement
+2. randomly repool 3 genind objects, with replacement
+
+and so on until all the genind objects are repooled.
+
+Please if anyone can give me any suggestions on how to do this. I have tried various for loops but not successful.
+
+Many thanks,
+
+Rav
+
+From kamvarz at science.oregonstate.edu  Thu Jan  5 15:46:29 2017
+From: kamvarz at science.oregonstate.edu (Zhian Kamvar)
+Date: Thu, 5 Jan 2017 06:46:29 -0800
+Subject: [R-sig-genetics] Suggestions regarding randomly repooling
+ genind objects
+In-Reply-To: <E493C75D-396A-48A7-8990-DFCF6FFC5FF3@ic.ac.uk>
+References: <E493C75D-396A-48A7-8990-DFCF6FFC5FF3@ic.ac.uk>
+Message-ID: <4B6BE2DF-C9D6-46B9-AAFC-0685A11D5468@science.oregonstate.edu>
+
+Hi,
+
+The function repool() can take a list object, and you can subset a list with replacement. The sample() function will allow you to randomly sample any vector with or without replacement. 
+
+For this problem, you should only need one loop/apply function.
+
+Here's an example:
+
+library(adegenet)
+data(nancycats)
+nanpop <- seppop(nancycats, drop = FALSE)
+repooled <- lapply(seq(2, nPop(nancycats)), function(n) repool(nanpop[sample(17, n)]))
+
+In the end, this will give you a list of repooled genind objects where each genind object only contains unique populations and the last object is the same size as the original, but in a different order. If you wanted the potential for duplicate populations within your data, you would add replace = TRUE to the sample() function. 
+
+Hope that helps,
+Zhian
+
+
+> On Jan 5, 2017, at 06:04 , Bhuller, Ravneet <ravneet.bhuller13 at imperial.ac.uk> wrote:
+> 
+> Dear Members,
+> 
+> I have subset the genind object by population using seppop.
+> 
+> This has given me a new obj (which is a list of genind objects)
+> 
+> Now I want to randomly repool genind objects - incrementing the repooling size by 1 every time:
+> 
+> e.g.
+> 
+> 1. randomly repool 2 genind objects, with replacement
+> 2. randomly repool 3 genind objects, with replacement
+> 
+> and so on until all the genind objects are repooled.
+> 
+> Please if anyone can give me any suggestions on how to do this. I have tried various for loops but not successful.
+> 
+> Many thanks,
+> 
+> Rav
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+
+From marcelolaia at gmail.com  Fri Jan  6 15:12:50 2017
+From: marcelolaia at gmail.com (Marcelo Laia)
+Date: Fri, 6 Jan 2017 12:12:50 -0200
+Subject: [R-sig-genetics] Export data from GeneMapper to TREMPR format
+Message-ID: <20170106141250.brveslnglv7zh534@localhost>
+
+Hi,
+
+I did an analysis in GeneMapper (T-RFLP) based on AFLP protocols, like
+ThermoFisher advise.
+
+I am in trouble to export de raw data. I need the dataset like TRAMPR need
+(https://dl.dropboxusercontent.com/u/34009642/demo_samples_abi.txt). But, i
+only was able to export like this
+https://dl.dropboxusercontent.com/u/34009642/TRFLP_Table.txt
+
+Please, could you help me in how I could export that data in TRAMPR input
+format?
+
+
+-- 
+Marcelo
+
+
+From oliverhooker at prstatistics.com  Tue Jan 10 15:16:42 2017
+From: oliverhooker at prstatistics.com (Oliver Hooker)
+Date: Tue, 10 Jan 2017 14:16:42 +0000
+Subject: [R-sig-genetics] IntroToRandStatisticsForBiologists.China.April17-21
+Message-ID: <1c61a9805f5fba8af5b91e4abef5fab5@prstatistics.com>
+
+"Introduction to R and statistics for biologists"
+
+Delivered by Dr. Luc Bussiere and Dr. Ane Timenes Laugen
+
+http://www.prstatistics.com/course/introduction-to-statistics-and-r-for-biologists-irfb02/
+
+This course will run from 17th ? 21st April 2017 at FAFU University, 
+Fuzhou, China
+
+A more advanced follow on course is scheduled for the week after 
+(Advancing in R) and a discount is available if both courses are booked 
+at the same time.
+
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr06/
+
+The course is aimed at biologists with no experience using the software 
+R and no understanding or exposure to statistics.
+
+The course will consist of a series of 10 modules each lasting roughly 
+half a day, and designed to build required skills for subsequent modules 
+and more advanced courses. At its conclusion, participants will have 
+acquired basic skills in coding with R, and will be able to perform and 
+interpret simple analyses, and critically evaluate similar analyses from 
+the scientific literature and technical reports.
+
+Course content is as follows
+Day 1 Course introduction
+Module 1: Introduction to coding in the R language
+Module 2: Data visualization in the R {graphics} package
+
+Day 2
+Module 3: Probability theory and distributions
+Module 4: Advanced programming features in R
+
+Day 3
+Module 5: Null hypothesis testing and parameter estimation
+Module 6: Replicable and systematic workflows: the ADF method
+Day 4
+Module 7: Introduction to linear models
+Module 8: Multiple predictors & collinearity
+
+Day 5
+Module 9: Interactions & model simplification using partial F-tests
+Module 10: Case study
+
+Please email any inquiries to oliverhooker at prstatistics.com or visit our 
+website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is 
+suitable
+
+Our other upcoming courses
+1.	MODEL BASED MULTIVARIATE ANALYSIS OF ECOLOGICAL DATA USING R (January 
+2017) #MBMV
+http://www.prstatistics.com/course/model-base-multivariate-analysis-of-abundance-data-using-r-mbmv01/
+
+2.	ADVANCED PYTHON FOR BIOLOGISTS (February 2017) #APYB
+http://www.prstatistics.com/course/advanced-python-biologists-apyb01/
+
+3.	STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR USING R 
+(February 2017) #SIMM
+http://www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm03/
+
+4.	NETWORK ANAYLSIS FOR ECOLOGISTS USING R (March 2017) #NTWA
+http://www.prstatistics.com/course/network-analysis-ecologists-ntwa01/
+
+5.	ADVANCES IN MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA (April 
+2017) #MVSP
+http://www.prstatistics.com/course/advances-in-spatial-analysis-of-multivariate-ecological-data-theory-and-practice-mvsp02/
+
+6.	INTRODUCTION TO STATISTICS AND R FOR BIOLOGISTS (April 2017) #IRFB
+http://www.prstatistics.com/course/introduction-to-statistics-and-r-for-biologists-irfb02/
+
+7.	ADVANCING IN STATISTICAL MODELLING USING R (April 2017) #ADVR
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr05/
+
+8.	ECOLOGICAL AND EVOLUTIONARY BIOGEOGRAPHY USING R (May 2017) #EEBR
+
+9.	GEOMETRIC MORPHOMETRICS USING R (June 2017) #GMMR
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr01/
+
+10.	MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA (June 2017) #MASE
+http://www.prstatistics.com/course/multivariate-analysis-of-spatial-ecological-data-using-r-mase01/
+
+11.	TIME SERIES MODELS FOR ECOLOGISTS USING R (JUNE 2017 (#TSME)
+
+12.	BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS (July 2017) #BIGB
+http://www.prstatistics.com/course/bioinformatics-for-geneticists-and-biologists-bigb02/
+
+13.	SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R (August 2017) #SPAE
+http://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/
+
+14.	STRUCTURAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY 
+BIOLOGISTS (July 2017 TBC) #SEMR
+
+15.	ECOLOGICAL NICHE MODELLING (October 2017) #ENMR
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr01/
+
+16.	INTRODUCTION TO BIOINFORMATICS USING LINUX (October 2017) #IBUL
+
+
+17.	GENETIC DATA ANALYSIS USING R (October 2017 TBC) #GDAR
+
+18.	LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R (November 2017 
+TBC) #LNDG
+
+19.	APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS 
+(November 2017) #ABME
+http://www.prstatistics.com/course/applied-bayesian-modelling-ecologists-epidemiologists-abme03/
+20.	INTRODUCTION TO METHODS FOR REMOTE SENSING (November 2017) #IRMS
+
+21.	INTRODUCTION TO PYTHON FOR BIOLOGISTS (November 2017) #IPYB
+
+22.	DATA VISUALISATION AND MANIPULATION USING PYTHON (December 2017) 
+#DVMP
+http://www.prstatistics.com/course/data-visualisation-and-manipulation-using-python-dvmp01/
+
+
+23.	ADVANCING IN STATISTICAL MODELLING USING R (December 2017) #ADVR
+
+24.	INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING (January 2018) #IBHM
+http://www.prstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm02/
+
+25.	PHYLOGENETIC DATA ANALYSIS USING R (TBC) #PHYL
+
+Oliver Hooker PhD.
+www.prstatistics.com
+www.prstatistics.com/organiser/oliver-hooker/Oliver Hooker
+
+PR statistics
+3/1
+128 Brunswick Street
+Glasgow
+G1 1TF
++44 (0) 7966500340
+
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+3/1
+128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+www.prstatistics.com
+www.prstatistics.com/organiser/oliver-hooker/
+
+
+From oliverhooker at prstatistics.com  Tue Jan 10 15:23:15 2017
+From: oliverhooker at prstatistics.com (Oliver Hooker)
+Date: Tue, 10 Jan 2017 14:23:15 +0000
+Subject: [R-sig-genetics] Advancing In R.China.24-28April
+Message-ID: <f40869c3b40d10f8c2222361a44ed713@prstatistics.com>
+
+"Advancing in Statistical Modelling using R"
+
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr06/
+
+Delivered by Dr. Luc Bussiere and Dr. Ane Timenes Laugen
+
+This course will run from 24th ? 28th April 2017 at FAFU University, 
+Fuzhou, China
+
+This is an introduction to model selection and simplification, 
+generalised linear models, mixed effects models and non-linear models.
+
+]A more introductory will run the week before (Introduction to R and 
+statistics for biologists) and a discount is available if both courses 
+are booked at the same time.
+http://www.prstatistics.com/course/introduction-to-statistics-and-r-for-biologists-irfb02/
+The course is aimed at biologists with a basic to moderate knowledge in 
+R. The course content is designed to bridge the gap between basic R 
+coding and more advanced statistical modelling. This five day course 
+will consist of series of modules, each lasting roughly half a day and 
+comprised of lectures and practicals designed to either build required 
+skills for future modules or to perform a family of analyses that is 
+frequently encountered in the biological literature.
+
+Course content is as follows
+
+Day 1 Course introduction
+?	Techniques for data manipulation, aggregation, and visualisation; 
+introduction to linear regression. Packages: {tidyr}, {dplyr}, {ggplot2}
+
+Day 2 Linear models
+?	Diagnostics, collinearity, scaling, plotting fitted values); fitting 
+and interpreting interaction terms; model selection and simplification; 
+general linear models and ANCOVA.
+?	Packages: {stats}, {car}
+
+Day 3 Generalized linear models
+?	Logistic and Poisson regression; predicting using model objects and 
+visualizing model fits.
+?	Packages: {broom}, {visreg}, {ggplot2}
+
+Day 4 Mixed effects models
+?	Theory and practice of mixed effect models; visualising fixed and 
+random effects.
+?	Packages: {lme4}, {broom}, {ggplot2}, {sjPlot}
+
+Day 5 Fitting nonlinear functions
+?	Polynomial & Mechanistic models; brief introduction to more advanced 
+topics & combining methods (e.g., generalised linear mixed effects, 
+nonlinear mixed effects, and zero-inflated and zero-altered models).
+?	Packages: {nlsTools}.
+?	Afternoon to discuss own data if time permits
+
+Please email any inquiries to oliverhooker at prstatistics.com or visit our 
+website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is 
+suitable
+
+Our other upcoming courses
+1.	MODEL BASED MULTIVARIATE ANALYSIS OF ECOLOGICAL DATA USING R (January 
+2017) #MBMV
+http://www.prstatistics.com/course/model-base-multivariate-analysis-of-abundance-data-using-r-mbmv01/
+
+2.	ADVANCED PYTHON FOR BIOLOGISTS (February 2017) #APYB
+http://www.prstatistics.com/course/advanced-python-biologists-apyb01/
+
+3.	STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR USING R 
+(February 2017) #SIMM
+http://www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm03/
+
+4.	NETWORK ANAYLSIS FOR ECOLOGISTS USING R (March 2017) #NTWA
+http://www.prstatistics.com/course/network-analysis-ecologists-ntwa01/
+
+5.	ADVANCES IN MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA (April 
+2017) #MVSP
+http://www.prstatistics.com/course/advances-in-spatial-analysis-of-multivariate-ecological-data-theory-and-practice-mvsp02/
+
+6.	INTRODUCTION TO STATISTICS AND R FOR BIOLOGISTS (April 2017) #IRFB
+http://www.prstatistics.com/course/introduction-to-statistics-and-r-for-biologists-irfb02/
+
+7.	ADVANCING IN STATISTICAL MODELLING USING R (April 2017) #ADVR
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr05/
+
+8.	ECOLOGICAL AND EVOLUTIONARY BIOGEOGRAPHY USING R (May 2017) #EEBR
+
+9.	GEOMETRIC MORPHOMETRICS USING R (June 2017) #GMMR
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr01/
+
+10.	MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA (June 2017) #MASE
+http://www.prstatistics.com/course/multivariate-analysis-of-spatial-ecological-data-using-r-mase01/
+
+11.	TIME SERIES MODELS FOR ECOLOGISTS USING R (JUNE 2017 (#TSME)
+
+12.	BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS (July 2017) #BIGB
+http://www.prstatistics.com/course/bioinformatics-for-geneticists-and-biologists-bigb02/
+
+13.	SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R (August 2017) #SPAE
+http://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/
+
+14.	STRUCTURAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY 
+BIOLOGISTS (July 2017 TBC) #SEMR
+
+15.	ECOLOGICAL NICHE MODELLING (October 2017) #ENMR
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr01/
+
+16.	INTRODUCTION TO BIOINFORMATICS USING LINUX (October 2017) #IBUL
+
+
+17.	GENETIC DATA ANALYSIS USING R (October 2017 TBC) #GDAR
+
+18.	LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R (November 2017 
+TBC) #LNDG
+
+19.	APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS 
+(November 2017) #ABME
+http://www.prstatistics.com/course/applied-bayesian-modelling-ecologists-epidemiologists-abme03/
+
+20.	INTRODUCTION TO METHODS FOR REMOTE SENSING (November 2017) #IRMS
+
+21.	INTRODUCTION TO PYTHON FOR BIOLOGISTS (November 2017) #IPYB
+
+22.	DATA VISUALISATION AND MANIPULATION USING PYTHON (December 2017) 
+#DVMP
+http://www.prstatistics.com/course/data-visualisation-and-manipulation-using-python-dvmp01/
+
+23.	ADVANCING IN STATISTICAL MODELLING USING R (December 2017) #ADVR
+
+24.	INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING (January 2018) #IBHM
+http://www.prstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm02/
+
+25.	PHYLOGENETIC DATA ANALYSIS USING R (TBC) #PHYL
+
+Oliver Hooker PhD.
+www.prstatistics.com
+www.prstatistics.com/organiser/oliver-hooker/Oliver Hooker
+
+PR statistics
+3/1
+128 Brunswick Street
+Glasgow
+G1 1TF
++44 (0) 7966500340
+
+
+From ravneet.bhuller13 at imperial.ac.uk  Thu Jan 12 14:19:05 2017
+From: ravneet.bhuller13 at imperial.ac.uk (Bhuller, Ravneet)
+Date: Thu, 12 Jan 2017 13:19:05 +0000
+Subject: [R-sig-genetics] R Package to compute observed heterozygosity
+	within a population
+Message-ID: <A1677BC1-28CB-44EB-9BF5-3E1ED7AEC82C@ic.ac.uk>
+
+Dear Members,
+
+Is there any suitable package to compute observed heterozygosity within a population?
+
+I am interested to compute observed heterozygosity for a population using genind object, rather than at a locus.
+
+Many thanks for all your time.
+
+Kind regards,
+
+Rav
+
+
+From katharine.walter at yale.edu  Fri Jan 13 15:27:47 2017
+From: katharine.walter at yale.edu (Katharine Walter)
+Date: Fri, 13 Jan 2017 09:27:47 -0500
+Subject: [R-sig-genetics] Defining populations for Arlequin input
+Message-ID: <CACAXSaW1PtALesWgO5EY=+tdRYhxzBbF3O7rnvMwgNBO-5zXPg@mail.gmail.com>
+
+Hi all,
+
+I would like to use Arlequin to infer some pop gen statistics. I have an
+input FASTA of sequence data and can convert to Arlequin format with
+PGDSpider. I'm wondering if there is a script available or if anyone has
+suggestions on how to define populations in the Arlequin input file (i.e.
+from a matrix of sample names and population assignments). I know you can
+do this manually in DNAsp but I'm hoping there is a way to do this without
+the GUI.
+
+Thank you for your help!
+Best,
+
+	[[alternative HTML version deleted]]
+
+
+From eric.archer at noaa.gov  Sat Jan 14 20:27:09 2017
+From: eric.archer at noaa.gov (Eric Archer - NOAA Federal)
+Date: Sat, 14 Jan 2017 11:27:09 -0800
+Subject: [R-sig-genetics] Defining populations for Arlequin input
+Message-ID: <CAGrYeXhakPHs_K7paTAXj6rVPyPJV=VYAV2JP9niuFSBZkBhFw@mail.gmail.com>
+
+There is a 'write.arlequin' function in the strataG package that will
+create an arlequin input file from a strataG gtypes object. You can create
+a gtypes object with sequence data read in from a FASTA file and
+stratifications described in a data.frame (see 'df2gtypes' or
+'sequence2gtypes').
+
+Cheers,
+eric
+
+----
+
+*Eric Archer, Ph.D.*
+
+Southwest Fisheries Science Center (NMFS/NOAA)
+8901 La Jolla Shores Drive
+La Jolla, CA 92037 USA
+858-546-7121 (work)
+858-546-7003 (FAX)
+
+Marine Mammal Genetics Group: swfsc.noaa.gov/mmtd-mmgenetics
+GitHub: github/ericarcher
+
+&
+
+Adjunct Professor, Marine Biology
+Scripps Institution of Oceanography
+University of California, San Diego
+http://profiles.ucsd.edu/frederick.archer
+
+
+"
+
+
+*The universe doesn't care what you believe. The wonderful thing about
+science is that it   doesn't ask for your faith, it just asks   for your
+eyes.*"  - Randall Munroe
+
+"*Lighthouses are more helpful than churches.*"
+   - Benjamin Franklin
+
+   "*...but I'll take a GPS over either one.*"
+       - John C. "Craig" George
+
+
+Date: Fri, 13 Jan 2017 09:27:47 -0500
+> From: Katharine Walter <katharine.walter at yale.edu>
+> To: r-sig-genetics at r-project.org
+> Subject: [R-sig-genetics] Defining populations for Arlequin input
+> Message-ID:
+>         <CACAXSaW1PtALesWgO5EY=+tdRYhxzBbF3O7rnvMwgNBO-5zXPg at mail.
+> gmail.com>
+> Content-Type: text/plain; charset="UTF-8"
+>
+> Hi all,
+>
+> I would like to use Arlequin to infer some pop gen statistics. I have an
+> input FASTA of sequence data and can convert to Arlequin format with
+> PGDSpider. I'm wondering if there is a script available or if anyone has
+> suggestions on how to define populations in the Arlequin input file (i.e.
+> from a matrix of sample names and population assignments). I know you can
+> do this manually in DNAsp but I'm hoping there is a way to do this without
+> the GUI.
+>
+> Thank you for your help!
+> Best,
+>
+
+	[[alternative HTML version deleted]]
+
+
+From katharine.walter at yale.edu  Thu Jan 12 14:59:46 2017
+From: katharine.walter at yale.edu (Katharine Walter)
+Date: Thu, 12 Jan 2017 08:59:46 -0500
+Subject: [R-sig-genetics] Defining populations for Arlequin input
+Message-ID: <CA+wKXrNCrVC0_1rG5jFLDS8dV6872aeLGs8LtQ2ZTak0UXPkLg@mail.gmail.com>
+
+Hi all,
+
+I would like to use Arlequin to infer some pop gen statistics. I have an
+input FASTA of sequence data and can convert to Arlequin format with
+PGDSpider. I'm wondering if there is a script available or if anyone has
+suggestions on how to define populations in the Arlequin input file (i.e.
+from a matrix of sample names and population assignments). I know you can
+do this manually in DNAsp but I'm hoping there is a way to do this without
+the GUI.
+
+Thank you for your help!
+Best,
+
+	[[alternative HTML version deleted]]
+
+
+From thibautjombart at gmail.com  Mon Jan 16 12:12:51 2017
+From: thibautjombart at gmail.com (Thibaut Jombart)
+Date: Mon, 16 Jan 2017 11:12:51 +0000
+Subject: [R-sig-genetics] Defining populations for Arlequin input
+In-Reply-To: <CA+wKXrNCrVC0_1rG5jFLDS8dV6872aeLGs8LtQ2ZTak0UXPkLg@mail.gmail.com>
+References: <CA+wKXrNCrVC0_1rG5jFLDS8dV6872aeLGs8LtQ2ZTak0UXPkLg@mail.gmail.com>
+Message-ID: <CANPRA+opRn-8nc=euK9OByGtO0q4S14Y6onKKT00vbD5ozvyjw@mail.gmail.com>
+
+Hello,
+
+you can do this easily in adegenet, though there is no direct conversion
+from the Arlequin format. Workflow would be something like:
+
+1. read sequences using fasta2DNAbin
+2. extract SNPs into a genind using DNAbin2genind
+3. read your population assignment data from a text file using read.table
+or read.csv
+4. assign the populations to you genind using 'pop', e.g.
+pop(x) <- the_new_pop
+
+where 'x' is you genind and 'the_new_pop' is a vector of group assignments,
+matching against 'indNames(x)'.
+
+Check the 'basics' tutorial for more info:
+https://github.com/thibautjombart/adegenet/wiki/Tutorials
+
+Best
+Thibaut
+
+
+--
+Dr Thibaut Jombart
+Lecturer, Department of Infectious Disease Epidemiology, Imperial College
+London
+Head of RECON: repidemicsconsortium.org
+sites.google.com/site/thibautjombart/
+github.com/thibautjombart
+Twitter: @TeebzR <http://twitter.com/TeebzR>
++44(0)20 7594 3658
+
+On 12 January 2017 at 13:59, Katharine Walter <katharine.walter at yale.edu>
+wrote:
+
+> Hi all,
+>
+> I would like to use Arlequin to infer some pop gen statistics. I have an
+> input FASTA of sequence data and can convert to Arlequin format with
+> PGDSpider. I'm wondering if there is a script available or if anyone has
+> suggestions on how to define populations in the Arlequin input file (i.e.
+> from a matrix of sample names and population assignments). I know you can
+> do this manually in DNAsp but I'm hoping there is a way to do this without
+> the GUI.
+>
+> Thank you for your help!
+> Best,
+>
+>         [[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>
+
+	[[alternative HTML version deleted]]
+
+
+From thibautjombart at gmail.com  Mon Jan 16 12:14:58 2017
+From: thibautjombart at gmail.com (Thibaut Jombart)
+Date: Mon, 16 Jan 2017 11:14:58 +0000
+Subject: [R-sig-genetics] Defining populations for Arlequin input
+In-Reply-To: <CAGrYeXhakPHs_K7paTAXj6rVPyPJV=VYAV2JP9niuFSBZkBhFw@mail.gmail.com>
+References: <CAGrYeXhakPHs_K7paTAXj6rVPyPJV=VYAV2JP9niuFSBZkBhFw@mail.gmail.com>
+Message-ID: <CANPRA+ox+jqqBQxxt9d2YBCo0Oc6xd7LJFoutbcYZMz_aydw8Q@mail.gmail.com>
+
+Haha, sorry, I just realized I replied to the opposite problem, and missed
+Eric's reply.
+My bad.
+I need coffee.
+
+Best
+Thibaut
+
+
+--
+Dr Thibaut Jombart
+Lecturer, Department of Infectious Disease Epidemiology, Imperial College
+London
+Head of RECON: repidemicsconsortium.org
+sites.google.com/site/thibautjombart/
+github.com/thibautjombart
+Twitter: @TeebzR <http://twitter.com/TeebzR>
++44(0)20 7594 3658
+
+On 14 January 2017 at 19:27, Eric Archer - NOAA Federal <
+eric.archer at noaa.gov> wrote:
+
+> There is a 'write.arlequin' function in the strataG package that will
+> create an arlequin input file from a strataG gtypes object. You can create
+> a gtypes object with sequence data read in from a FASTA file and
+> stratifications described in a data.frame (see 'df2gtypes' or
+> 'sequence2gtypes').
+>
+> Cheers,
+> eric
+>
+> ----
+>
+> *Eric Archer, Ph.D.*
+>
+> Southwest Fisheries Science Center (NMFS/NOAA)
+> 8901 La Jolla Shores Drive
+> La Jolla, CA 92037 USA
+> 858-546-7121 (work)
+> 858-546-7003 (FAX)
+>
+> Marine Mammal Genetics Group: swfsc.noaa.gov/mmtd-mmgenetics
+> GitHub: github/ericarcher
+>
+> &
+>
+> Adjunct Professor, Marine Biology
+> Scripps Institution of Oceanography
+> University of California, San Diego
+> http://profiles.ucsd.edu/frederick.archer
+>
+>
+> "
+>
+>
+> *The universe doesn't care what you believe. The wonderful thing about
+> science is that it   doesn't ask for your faith, it just asks   for your
+> eyes.*"  - Randall Munroe
+>
+> "*Lighthouses are more helpful than churches.*"
+>    - Benjamin Franklin
+>
+>    "*...but I'll take a GPS over either one.*"
+>        - John C. "Craig" George
+>
+>
+> Date: Fri, 13 Jan 2017 09:27:47 -0500
+> > From: Katharine Walter <katharine.walter at yale.edu>
+> > To: r-sig-genetics at r-project.org
+> > Subject: [R-sig-genetics] Defining populations for Arlequin input
+> > Message-ID:
+> >         <CACAXSaW1PtALesWgO5EY=+tdRYhxzBbF3O7rnvMwgNBO-5zXPg at mail.
+> > gmail.com>
+> > Content-Type: text/plain; charset="UTF-8"
+> >
+> > Hi all,
+> >
+> > I would like to use Arlequin to infer some pop gen statistics. I have an
+> > input FASTA of sequence data and can convert to Arlequin format with
+> > PGDSpider. I'm wondering if there is a script available or if anyone has
+> > suggestions on how to define populations in the Arlequin input file (i.e.
+> > from a matrix of sample names and population assignments). I know you can
+> > do this manually in DNAsp but I'm hoping there is a way to do this
+> without
+> > the GUI.
+> >
+> > Thank you for your help!
+> > Best,
+> >
+>
+>         [[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>
+
+	[[alternative HTML version deleted]]
+
+
+From thibautjombart at gmail.com  Mon Jan 16 13:03:14 2017
+From: thibautjombart at gmail.com (Thibaut Jombart)
+Date: Mon, 16 Jan 2017 12:03:14 +0000
+Subject: [R-sig-genetics] R Package to compute observed heterozygosity
+ within a population
+In-Reply-To: <A1677BC1-28CB-44EB-9BF5-3E1ED7AEC82C@ic.ac.uk>
+References: <A1677BC1-28CB-44EB-9BF5-3E1ED7AEC82C@ic.ac.uk>
+Message-ID: <CANPRA+oLPetO7cs4-+wmuLW=wQBr6Sbc7nq8krqg-e3cDyo+AA@mail.gmail.com>
+
+Hello,
+
+Hs(x) in adegenet will do this for the expected heterozygosity. You can use
+'summary' combined with seppop to get the average Hobs per population;
+example with sim2pop:
+
+> lapply(seppop(sim2pop), function(e) mean(summary(e)$Hobs, na.rm = TRUE))
+$P01
+[1] 0.755
+
+$P02
+[1] 0.77
+
+
+Cheers
+Thibaut
+
+
+--
+Dr Thibaut Jombart
+Lecturer, Department of Infectious Disease Epidemiology, Imperial College
+London
+Head of RECON: repidemicsconsortium.org
+sites.google.com/site/thibautjombart/
+github.com/thibautjombart
+Twitter: @TeebzR <http://twitter.com/TeebzR>
++44(0)20 7594 3658
+
+On 12 January 2017 at 13:19, Bhuller, Ravneet <
+ravneet.bhuller13 at imperial.ac.uk> wrote:
+
+> Dear Members,
+>
+> Is there any suitable package to compute observed heterozygosity within a
+> population?
+>
+> I am interested to compute observed heterozygosity for a population using
+> genind object, rather than at a locus.
+>
+> Many thanks for all your time.
+>
+> Kind regards,
+>
+> Rav
+>
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>
+
+	[[alternative HTML version deleted]]
+
+
+From ravneet.bhuller13 at imperial.ac.uk  Mon Jan 16 13:42:16 2017
+From: ravneet.bhuller13 at imperial.ac.uk (Bhuller, Ravneet)
+Date: Mon, 16 Jan 2017 12:42:16 +0000
+Subject: [R-sig-genetics] R Package to compute observed heterozygosity
+ within a population
+In-Reply-To: <CANPRA+oLPetO7cs4-+wmuLW=wQBr6Sbc7nq8krqg-e3cDyo+AA@mail.gmail.com>
+References: <A1677BC1-28CB-44EB-9BF5-3E1ED7AEC82C@ic.ac.uk>
+	<CANPRA+oLPetO7cs4-+wmuLW=wQBr6Sbc7nq8krqg-e3cDyo+AA@mail.gmail.com>
+Message-ID: <C228AB28-D2C5-4979-92CE-4C30E175C6B6@ic.ac.uk>
+
+Many thanks, Thibaut.
+
+I will try the way you have suggested.
+
+Kind regards,
+
+Rav
+
+On 16 Jan 2017, at 12:03, Thibaut Jombart <thibautjombart at gmail.com<mailto:thibautjombart at gmail.com>> wrote:
+
+Hello,
+
+Hs(x) in adegenet will do this for the expected heterozygosity. You can use 'summary' combined with seppop to get the average Hobs per population; example with sim2pop:
+
+> lapply(seppop(sim2pop), function(e) mean(summary(e)$Hobs, na.rm = TRUE))
+$P01
+[1] 0.755
+
+$P02
+[1] 0.77
+
+
+Cheers
+Thibaut
+
+
+--
+Dr Thibaut Jombart
+Lecturer, Department of Infectious Disease Epidemiology, Imperial College London
+Head of RECON: repidemicsconsortium.org<http://repidemicsconsortium.org/>
+sites.google.com/site/thibautjombart/<http://sites.google.com/site/thibautjombart/>
+github.com/thibautjombart<http://github.com/thibautjombart>
+Twitter: @TeebzR<http://twitter.com/TeebzR>
++44(0)20 7594 3658
+
+On 12 January 2017 at 13:19, Bhuller, Ravneet <ravneet.bhuller13 at imperial.ac.uk<mailto:ravneet.bhuller13 at imperial.ac.uk>> wrote:
+Dear Members,
+
+Is there any suitable package to compute observed heterozygosity within a population?
+
+I am interested to compute observed heterozygosity for a population using genind object, rather than at a locus.
+
+Many thanks for all your time.
+
+Kind regards,
+
+Rav
+
+_______________________________________________
+R-sig-genetics mailing list
+R-sig-genetics at r-project.org<mailto:R-sig-genetics at r-project.org>
+https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From ravneet.bhuller13 at imperial.ac.uk  Wed Jan 18 14:24:57 2017
+From: ravneet.bhuller13 at imperial.ac.uk (Bhuller, Ravneet)
+Date: Wed, 18 Jan 2017 13:24:57 +0000
+Subject: [R-sig-genetics] Problem: sampling with replacement in R
+Message-ID: <D338FD2B-B553-4FD6-944C-EA794DF8E569@ic.ac.uk>
+
+Dear All,
+
+My microsatellite dataset has 38 populations with population sizes varying from 7 to 76 individuals.
+
+
+To sample one individual randomly per population and estimate mean genetic diversity (mean allelic richness),  I have done the following:
+
+obj<- seppop(niger.data.genind)
+
+mySamp <- lapply(obj, function(x) x[sample(1:nrow(x$tab), 1)])
+
+x1<- repool(mySamp)
+
+mean(allel.rich(x1)$mean.richness, na.rm = TRUE)
+
+This method works fine.
+
+
+
+However, when I sample 2 or more individuals randomly with replacement per population, I get the following error:
+
+mySamp <- lapply(obj, function(x) x[sample(1:nrow(x$tab), 7, replace= TRUE)])
+
+## Warning: non-unique value when setting 'row.names': '0905'
+
+
+## Error in `row.names<-.data.frame`(`*tmp*`, value = value): duplicate 'row.names' are not allowed
+
+My goals are:
+
+To sample one individual randomly per population with replacement and estimate mean genetic diversity (mean allelic richness)
+
+Then sample two individuals randomly per population and estimate mean genetic diversity (mean allelic richness)
+
+And repeat this until I sample 76 individuals randomly per population and estimate mean genetic diversity (mean allelic richness).
+
+Please if anyone can guide me where I am doing wrong or how can I fix it?
+
+
+Many thanks for your time,
+
+Rav
+
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From ravneet.bhuller13 at imperial.ac.uk  Thu Jan 19 14:50:49 2017
+From: ravneet.bhuller13 at imperial.ac.uk (Bhuller, Ravneet)
+Date: Thu, 19 Jan 2017 13:50:49 +0000
+Subject: [R-sig-genetics] Genuine object repooling issue
+Message-ID: <08CAA131-76C8-4C3A-A1B1-A577165248ED@ic.ac.uk>
+
+Dear Members,
+
+I am working with a genind object which is subset into populations. I want to sample 8 individuals randomly with replacement per population and repool them in a way that each population has unique individual names.
+
+I am doing the following steps:
+
+obj<- seppop(niger.data.genind)
+
+MySamp8 <- lapply(obj, function(x) x[sample(1:nrow(x$tab), 8, replace= TRUE)])
+
+new_samp8<- lapply(MySamp8, function(x) repool(MySamp8[make.unique(row.names(x$tab))]))
+
+But I am getting the following error:
+
+Error in repool(MySamp8[make.unique(row.names(x$tab))]): x is does not contain only valid genind objects.
+
+Please if any one can guide me how can I get valid genind objects to repool them in a way that each population has unique individual names.
+
+Many thanks for your time,
+
+Rav
+
+	[[alternative HTML version deleted]]
+
+
+From zkamvar at gmail.com  Sun Jan 22 16:09:38 2017
+From: zkamvar at gmail.com (Zhian Kamvar)
+Date: Sun, 22 Jan 2017 09:09:38 -0600
+Subject: [R-sig-genetics] Genuine object repooling issue
+In-Reply-To: <08CAA131-76C8-4C3A-A1B1-A577165248ED@ic.ac.uk>
+References: <08CAA131-76C8-4C3A-A1B1-A577165248ED@ic.ac.uk>
+Message-ID: <783E10D7-9C3A-4ECF-93A9-DF5DA35E99AD@gmail.com>
+
+Hi,
+
+You've got the right idea with make.unique, but you're trying to use repool on only one population at a time. 
+
+First and foremost: don't use row.names(x$tab) or nrow(x$tab), use indNames(x) and nInd(x), respectively.
+
+
+Your procedure needs to be done in three steps:
+
+1. sample the individuals
+2. rename the individuals
+3. repool the populations
+
+Taking the example you gave, this should work:
+
+MySamp8 <- lapply(obj, function(x) x[sample(nInd(x), 8, replace= TRUE)])
+MySamp8 <- lapply(MySamp8, function(x){ indNames(x) <- make.unique(indNames(x)); return(x)})
+repool(MySamp8)
+
+
+Here it is using a custom function:
+
+sample_genind_with_replacement <- function(x, n = 8){
+  y <- x[sample(nInd(x), n, replace = TRUE)]
+  indNames(y) <- make.unique(indNames(y))
+  return(y)
+}
+MySamp8 <- lapply(obj, sample_genind_with_replacement, n = 8)
+repool(MySamp8)
+
+
+Best,
+Zhian
+
+> On Jan 19, 2017, at 07:50 , Bhuller, Ravneet <ravneet.bhuller13 at imperial.ac.uk> wrote:
+> 
+> Dear Members,
+> 
+> I am working with a genind object which is subset into populations. I want to sample 8 individuals randomly with replacement per population and repool them in a way that each population has unique individual names.
+> 
+> I am doing the following steps:
+> 
+> obj<- seppop(niger.data.genind)
+> 
+> MySamp8 <- lapply(obj, function(x) x[sample(1:nrow(x$tab), 8, replace= TRUE)])
+> 
+> new_samp8<- lapply(MySamp8, function(x) repool(MySamp8[make.unique(row.names(x$tab))]))
+> 
+> But I am getting the following error:
+> 
+> Error in repool(MySamp8[make.unique(row.names(x$tab))]): x is does not contain only valid genind objects.
+> 
+> Please if any one can guide me how can I get valid genind objects to repool them in a way that each population has unique individual names.
+> 
+> Many thanks for your time,
+> 
+> Rav
+> 
+> 	[[alternative HTML version deleted]]
+> 
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+
+From ravneet.bhuller13 at imperial.ac.uk  Mon Jan 23 10:08:22 2017
+From: ravneet.bhuller13 at imperial.ac.uk (Bhuller, Ravneet)
+Date: Mon, 23 Jan 2017 09:08:22 +0000
+Subject: [R-sig-genetics] Genuine object repooling issue
+In-Reply-To: <783E10D7-9C3A-4ECF-93A9-DF5DA35E99AD@gmail.com>
+References: <08CAA131-76C8-4C3A-A1B1-A577165248ED@ic.ac.uk>
+	<783E10D7-9C3A-4ECF-93A9-DF5DA35E99AD@gmail.com>
+Message-ID: <40FCD22D-305B-4052-A89E-8DEE6B704478@ic.ac.uk>
+
+Dear Zhian,
+
+Many thanks for all the help.
+
+You helped me earlier also in another problem.
+
+Really appreciate your help and support.
+
+Best wishes,
+
+Rav
+
+
+> On 22 Jan 2017, at 15:09, Zhian Kamvar <zkamvar at gmail.com> wrote:
+> 
+> Hi,
+> 
+> You've got the right idea with make.unique, but you're trying to use repool on only one population at a time. 
+> 
+> First and foremost: don't use row.names(x$tab) or nrow(x$tab), use indNames(x) and nInd(x), respectively.
+> 
+> 
+> Your procedure needs to be done in three steps:
+> 
+> 1. sample the individuals
+> 2. rename the individuals
+> 3. repool the populations
+> 
+> Taking the example you gave, this should work:
+> 
+> MySamp8 <- lapply(obj, function(x) x[sample(nInd(x), 8, replace= TRUE)])
+> MySamp8 <- lapply(MySamp8, function(x){ indNames(x) <- make.unique(indNames(x)); return(x)})
+> repool(MySamp8)
+> 
+> 
+> Here it is using a custom function:
+> 
+> sample_genind_with_replacement <- function(x, n = 8){
+>  y <- x[sample(nInd(x), n, replace = TRUE)]
+>  indNames(y) <- make.unique(indNames(y))
+>  return(y)
+> }
+> MySamp8 <- lapply(obj, sample_genind_with_replacement, n = 8)
+> repool(MySamp8)
+> 
+> 
+> Best,
+> Zhian
+> 
+>> On Jan 19, 2017, at 07:50 , Bhuller, Ravneet <ravneet.bhuller13 at imperial.ac.uk> wrote:
+>> 
+>> Dear Members,
+>> 
+>> I am working with a genind object which is subset into populations. I want to sample 8 individuals randomly with replacement per population and repool them in a way that each population has unique individual names.
+>> 
+>> I am doing the following steps:
+>> 
+>> obj<- seppop(niger.data.genind)
+>> 
+>> MySamp8 <- lapply(obj, function(x) x[sample(1:nrow(x$tab), 8, replace= TRUE)])
+>> 
+>> new_samp8<- lapply(MySamp8, function(x) repool(MySamp8[make.unique(row.names(x$tab))]))
+>> 
+>> But I am getting the following error:
+>> 
+>> Error in repool(MySamp8[make.unique(row.names(x$tab))]): x is does not contain only valid genind objects.
+>> 
+>> Please if any one can guide me how can I get valid genind objects to repool them in a way that each population has unique individual names.
+>> 
+>> Many thanks for your time,
+>> 
+>> Rav
+>> 
+>> 	[[alternative HTML version deleted]]
+>> 
+>> _______________________________________________
+>> R-sig-genetics mailing list
+>> R-sig-genetics at r-project.org
+>> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+> 
+
+
+From ravneet.bhuller13 at imperial.ac.uk  Thu Jan 26 17:58:35 2017
+From: ravneet.bhuller13 at imperial.ac.uk (Bhuller, Ravneet)
+Date: Thu, 26 Jan 2017 16:58:35 +0000
+Subject: [R-sig-genetics] Bootstrapping of genind objects
+Message-ID: <7A4610BF-195A-4E92-8B53-54A4DB7BABA8@ic.ac.uk>
+
+Dear Members,
+
+I have done the following to estimate mean allelic richness for each of the sampled genind objects:
+
+
+# Subset the genind object by population
+
+obj<- seppop(niger.data.genind)
+
+
+# Sample and repool the populations to create a list of genind objects
+
+repooled <- lapply(seq(2, nPop(niger.data.genind), by=1), function(n) repool(obj[sample(nPop(niger.data.genind), n, replace= FALSE)]))
+
+
+# Calculate mean(allel.rich(e)$mean.richness for each genind object 
+
+lapply(repooled, function(e) mean(allel.rich(e)$mean.richness, na.rm = TRUE))
+
+
+But, I also want to estimate variances and confidence intervals by bootstrapping the above samples with 10,000 repetitions. I have tried my best to solve it with chao_bootstrap() and replicate() but it is not working. Please if someone can guide me how to bootstrap the above samples with 10,000 repetitions.
+
+Many thanks for your help.
+
+Kind regards,
+
+Rav
+

@@ -1,0 +1,144 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2024-09",
+  "messages": [
+    {
+      "id": "msg-6f4c9b0fde7d",
+      "message_id": "<1725786553.998730387@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-09-08T11:09:13+02:00",
+      "subject": "[R-sig-genetics] Online course: Seascape Genomics in R (October 28 - November 1)",
+      "subject_clean": "Online course: Seascape Genomics in R (October 28 - November 1)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are pleased to inform you about our upcoming online course, Seascape Genomics in R, taking place from October 28 - November 1. This course offers a unique opportunity to explore how the underwater environment influences the genomic diversity of marine organisms through a combination of environmental data and genomic analyses.\n \n \nCourse Highlights:\nLearn to extract and analyse environmental data (e.g., sea temperature, water movements)\nExplore methods to assess genetic structures and connectivity in marine populations\nDiscover techniques for studying local adaptation and interpreting results for conservation\nTarget Audience:\n\nThis course is ideal for biologists, ecologists, geneticists, veterinarians, and conservationists interested in applying seascape genomics in their research. Basic knowledge of evolutionary biology, population genetics, R, and statistics is recommended.\n \n \nBest regards,\n \nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are pleased to inform you about our upcoming online course, Seascape Genomics in R, taking place from October 28 - November 1. This course offers a unique opportunity to explore how the u",
+      "thread_id": "thread-6f4c9b0fde7d",
+      "thread_depth": 0,
+      "month": "2024-09"
+    },
+    {
+      "id": "msg-44b4e725e488",
+      "message_id": "<g6UFZKTeQfOBSCnU0igofw@geopod-ismtpd-4>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2024-09-11T06:27:35Z",
+      "subject": "[R-sig-genetics] Online Courses: ML for Computational Biology and DNA Methylation",
+      "subject_clean": "Online Courses: ML for Computational Biology and DNA Methylation",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20240911/3e121f3c/attachment.html>",
+      "body_snippet": "An HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20240911/3e121f3c/attachment.html>",
+      "thread_id": "thread-44b4e725e488",
+      "thread_depth": 0,
+      "month": "2024-09"
+    },
+    {
+      "id": "msg-93d2c12782b9",
+      "message_id": "<CAEsSYzwd0RX1zr_iQVU06bPycRu-sGtBqDi0gFQBxjR6OGXxmA@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2024-09-12T18:33:57+01:00",
+      "subject": "[R-sig-genetics] ONLINE COURSE – Introduction to R using Tidyverse (TIDY01)",
+      "subject_clean": "ONLINE COURSE – Introduction to R using Tidyverse (TIDY01)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Introduction to R using Tidyverse (TIDY01)\n\nhttps://www.prstats.org/course/introduction-to-r-using-tidyverse-tidy01/\n\n24th - 26th September\n\nPlease feel free to share!\n\nR is a popular open-source programming language used by data scientists,\nstatisticians,\nsocial &amp; health researchers, and many more across a wide range of\ndisciplines. R is\nparticularly appealing to researchers as it is free to access, designed to\nencourage\ncollaborative and reproducible data analysis, and is constantly evolving to\ninclude the latest research developments.\n\nThis course is designed to equip PhD students, academics, and professional\nresearchers\nacross various disciplines with the essential skills to leverage the power\nof R and Tidyverse for their academic research. The workshop begins with a\ngentle introduction to the user-friendly RStudio interface and the basics\nof the R coding language, or syntax. This makes it ideal for anyone with\nlittle or no prior coding experience, or those looking for a refresher of\nthe basics.\n\nAttendees will learn how to manipulate, transform, and clean data\nefficiently, and how to\ncreate compelling visualisations to communicate their findings effectively.\nThroughout the\ncourse, we will discuss best practices for reproducible coding. The\nworkshop is designed to be highly interactive with a focus on practical\napplications, ensuring that you can\nimmediately apply what you learn to your research.\n\nBy the end of the course, participants will:\n? Understand the RStudio interface and be confident using R syntax\n? Be able to load, tidy, and manipulate their data using Tidyverse packages\n? Generate clear summary tables that can be customised and exported\n? Create compelling, informative data visualisations using ggplot2, and\nunderstand\nwhat makes a good visualisation\n? Understand what is meant by reproducible coding, and ensure their scripts\nare clear,\ntidy and reproducible.\nPlease email oliverhooker at prstatistics.com with any questions\n\nAll our live course and recorded courses can be found using the links below\nhttps://www.prstats.org/live-courses/\nhttps://www.prstats.org/recorded-courses/\n\n-- \nBest wishes,\n\nOliver\n\nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? Introduction to R using Tidyverse (TIDY01)\n\nhttps://www.prstats.org/course/introduction-to-r-using-tidyverse-tidy01/\n\n24th - 26th September\n\nPlease feel free to share!\n\nR is a popular ",
+      "thread_id": "thread-93d2c12782b9",
+      "thread_depth": 0,
+      "month": "2024-09"
+    },
+    {
+      "id": "msg-08fc6b9f0b6b",
+      "message_id": "<ELCZXQjuTpSEgnuuucGoHA@geopod-ismtpd-8>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2024-09-17T22:25:00Z",
+      "subject": "[R-sig-genetics] Online Course: Statistics and Data Science using Tidyverse in R",
+      "subject_clean": "Online Course: Statistics and Data Science using Tidyverse in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20240917/7d8f654d/attachment.html>",
+      "body_snippet": "An HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20240917/7d8f654d/attachment.html>",
+      "thread_id": "thread-08fc6b9f0b6b",
+      "thread_depth": 0,
+      "month": "2024-09"
+    },
+    {
+      "id": "msg-3daa5515364f",
+      "message_id": "<1727422976.85611447@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-09-27T09:42:56+02:00",
+      "subject": "[R-sig-genetics] Landscape Genomics course in Poland - January 20-24",
+      "subject_clean": "Landscape Genomics course in Poland - January 20-24",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nwe are extremely happy to inform you that we will run our Landscape Genomics course in Poland (University of Lodz) in January (20-24 January 2025).\n \n \nLocation: Faculty of Biology and Environmental Protection, University of Lodz, Poland\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course17/ ]( https://www.physalia-courses.org/courses-workshops/course17/ )\n \n \nThis hands-on course on Landscape Genomics explores how genetic diversity is distributed across environments and how local adaptations shape these patterns. You will learn state-of-the-art methods to integrate genetic and environmental data, with training in both Geographic Information Systems (GIS) and advanced R-based statistical tools.\n \nKey Topics Covered:\nHow to source and process environmental data using GIS\nAnalysis of genetic variation and population structure across landscapes\nPractical training in key tools like Sambada and LFMM for studying local adaptation\nBest practices for experimental design in landscape genomics\n \nFor the full list of our courses and workshops: [ https://www.physalia-courses.org/courses-workshops ]( https://www.physalia-courses.org/courses-workshops )[  ]( https://www.physalia-courses.org/courses-workshops )\n \nBest regards,\nCarlo\n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nwe are extremely happy to inform you that we will run our Landscape Genomics course in Poland (University of Lodz) in January (20-24 January 2025).\n \n \nLocation: Faculty of Biology and Env",
+      "thread_id": "thread-3daa5515364f",
+      "thread_depth": 0,
+      "month": "2024-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-6f4c9b0fde7d",
+      "subject": "Online course: Seascape Genomics in R (October 28 - November 1)",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-09-08T11:09:13+02:00",
+      "last_reply": "2024-09-08T11:09:13+02:00",
+      "root_message_id": "msg-6f4c9b0fde7d"
+    },
+    {
+      "id": "thread-44b4e725e488",
+      "subject": "Online Courses: ML for Computational Biology and DNA Methylation",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2024-09-11T06:27:35+00:00",
+      "last_reply": "2024-09-11T06:27:35+00:00",
+      "root_message_id": "msg-44b4e725e488"
+    },
+    {
+      "id": "thread-93d2c12782b9",
+      "subject": "ONLINE COURSE – Introduction to R using Tidyverse (TIDY01)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2024-09-12T18:33:57+01:00",
+      "last_reply": "2024-09-12T18:33:57+01:00",
+      "root_message_id": "msg-93d2c12782b9"
+    },
+    {
+      "id": "thread-08fc6b9f0b6b",
+      "subject": "Online Course: Statistics and Data Science using Tidyverse in R",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2024-09-17T22:25:00+00:00",
+      "last_reply": "2024-09-17T22:25:00+00:00",
+      "root_message_id": "msg-08fc6b9f0b6b"
+    },
+    {
+      "id": "thread-3daa5515364f",
+      "subject": "Landscape Genomics course in Poland - January 20-24",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-09-27T09:42:56+02:00",
+      "last_reply": "2024-09-27T09:42:56+02:00",
+      "root_message_id": "msg-3daa5515364f"
+    }
+  ]
+}

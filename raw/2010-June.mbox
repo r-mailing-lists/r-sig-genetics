@@ -1,0 +1,381 @@
+From nevil.amos at monash.edu  Sun Jun 27 19:50:06 2010
+From: nevil.amos at monash.edu (Nevil Amos (Sci))
+Date: Mon, 28 Jun 2010 03:50:06 +1000
+Subject: [R-sig-genetics] Calcualtion of pairwise relatedness in R: package?
+Message-ID: <AANLkTilSVYW5HM9WhqFVOe3s41uHNdd1dijT6lWafLF7@mail.gmail.com>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100628/8d08e3b9/attachment.pl>
+
+From ross.lazarus at gmail.com  Mon Jun 28 12:12:36 2010
+From: ross.lazarus at gmail.com (Ross)
+Date: Mon, 28 Jun 2010 20:12:36 +1000
+Subject: [R-sig-genetics] R-sig-genetics Digest, Vol 7, Issue 1
+In-Reply-To: <mailman.15.1277719204.4800.r-sig-genetics@r-project.org>
+References: <mailman.15.1277719204.4800.r-sig-genetics@r-project.org>
+Message-ID: <AANLkTimlFHbY6gBEqVwYduqDPUJl3XMAo3lwr6nEpP0G@mail.gmail.com>
+
+No, but I have a tool in Galaxy based on Abecasis' GRR - his software
+still available but only as 32bit windows app so very limited in terms
+of sample and genotype sizes.
+My app reimplements his algorithm - It estimates mean/sd allele
+sharing for all pairs, then normalizes those for each pedigree
+relationship group (parent-child/sibs/unrelated/etc..) and does a nice
+interactive plot.
+You'll need at least 5k or 10k ld independent SNPs for reasonable results.
+It's in the rgenetics tools at http://usegalaxy.org - happy to help if
+you have any questions on using it.
+
+On Mon, Jun 28, 2010 at 8:00 PM,  <r-sig-genetics-request at r-project.org> wrote:
+> Send R-sig-genetics mailing list submissions to
+> ? ? ? ?r-sig-genetics at r-project.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+> ? ? ? ?https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+> or, via email, send a message with subject or body 'help' to
+> ? ? ? ?r-sig-genetics-request at r-project.org
+>
+> You can reach the person managing the list at
+> ? ? ? ?r-sig-genetics-owner at r-project.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of R-sig-genetics digest..."
+>
+>
+> Today's Topics:
+>
+> ? 1. Calcualtion of pairwise relatedness in R: package?
+> ? ? ?(Nevil Amos (Sci))
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Mon, 28 Jun 2010 03:50:06 +1000
+> From: "Nevil Amos (Sci)" <nevil.amos at monash.edu>
+> To: R-sig-genetics at r-project.org
+> Subject: [R-sig-genetics] Calcualtion of pairwise relatedness in R:
+> ? ? ? ?package?
+> Message-ID:
+> ? ? ? ?<AANLkTilSVYW5HM9WhqFVOe3s41uHNdd1dijT6lWafLF7 at mail.gmail.com>
+> Content-Type: text/plain
+>
+> Is the calculation of pairwise relateness
+> eg. Queller and Goodnight 1989 avaiable in any R: package?
+>
+> cheers
+>
+>
+>
+> --
+> Nevil Amos
+> Molecular Ecology Research Group
+> Australian Centre for Biodiversity
+> Monash University
+> CLAYTON VIC 3800
+> Australia
+>
+> ? ? ? ?[[alternative HTML version deleted]]
+>
+>
+>
+> ------------------------------
+>
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>
+>
+> End of R-sig-genetics Digest, Vol 7, Issue 1
+> ********************************************
+>
+
+
+
+-- 
+Ross Lazarus MBBS MPH
+Associate Professor, Harvard Medical School
+Director of Bioinformatics, Channing Laboratory
+181 Longwood Ave., Boston MA 02115, USA.
+Tel: +1 617 505 4850
+
+
+From nevil.amos at gmail.com  Mon Jun 28 14:04:40 2010
+From: nevil.amos at gmail.com (Nevil Amos)
+Date: Mon, 28 Jun 2010 22:04:40 +1000
+Subject: [R-sig-genetics] R-sig-genetics Digest, Vol 7, Issue 1
+In-Reply-To: <AANLkTimlFHbY6gBEqVwYduqDPUJl3XMAo3lwr6nEpP0G@mail.gmail.com>
+References: <mailman.15.1277719204.4800.r-sig-genetics@r-project.org>
+	<AANLkTimlFHbY6gBEqVwYduqDPUJl3XMAo3lwr6nEpP0G@mail.gmail.com>
+Message-ID: <4C288FD8.4090601@gmail.com>
+
+Thanks for the offer Ross,
+
+I'm looking at 8-18 locus microsat data.  I can undertake the 
+calculations easily enough elsewhere,.  However if there was a function 
+out there already I would have used it since most of my data 
+manipulation and calculations are being handled in R: and it would have 
+made things neater.
+
+Ross wrote:
+> No, but I have a tool in Galaxy based on Abecasis' GRR - his software
+> still available but only as 32bit windows app so very limited in terms
+> of sample and genotype sizes.
+> My app reimplements his algorithm - It estimates mean/sd allele
+> sharing for all pairs, then normalizes those for each pedigree
+> relationship group (parent-child/sibs/unrelated/etc..) and does a nice
+> interactive plot.
+> You'll need at least 5k or 10k ld independent SNPs for reasonable results.
+> It's in the rgenetics tools at http://usegalaxy.org - happy to help if
+> you have any questions on using it.
+>
+> On Mon, Jun 28, 2010 at 8:00 PM,  <r-sig-genetics-request at r-project.org> wrote:
+>   
+>> Send R-sig-genetics mailing list submissions to
+>>        r-sig-genetics at r-project.org
+>>
+>> To subscribe or unsubscribe via the World Wide Web, visit
+>>        https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>> or, via email, send a message with subject or body 'help' to
+>>        r-sig-genetics-request at r-project.org
+>>
+>> You can reach the person managing the list at
+>>        r-sig-genetics-owner at r-project.org
+>>
+>> When replying, please edit your Subject line so it is more specific
+>> than "Re: Contents of R-sig-genetics digest..."
+>>
+>>
+>> Today's Topics:
+>>
+>>   1. Calcualtion of pairwise relatedness in R: package?
+>>      (Nevil Amos (Sci))
+>>
+>>
+>> ----------------------------------------------------------------------
+>>
+>> Message: 1
+>> Date: Mon, 28 Jun 2010 03:50:06 +1000
+>> From: "Nevil Amos (Sci)" <nevil.amos at monash.edu>
+>> To: R-sig-genetics at r-project.org
+>> Subject: [R-sig-genetics] Calcualtion of pairwise relatedness in R:
+>>        package?
+>> Message-ID:
+>>        <AANLkTilSVYW5HM9WhqFVOe3s41uHNdd1dijT6lWafLF7 at mail.gmail.com>
+>> Content-Type: text/plain
+>>
+>> Is the calculation of pairwise relateness
+>> eg. Queller and Goodnight 1989 avaiable in any R: package?
+>>
+>> cheers
+>>
+>>
+>>
+>> --
+>> Nevil Amos
+>> Molecular Ecology Research Group
+>> Australian Centre for Biodiversity
+>> Monash University
+>> CLAYTON VIC 3800
+>> Australia
+>>
+>>        [[alternative HTML version deleted]]
+>>
+>>
+>>
+>> ------------------------------
+>>
+>> _______________________________________________
+>> R-sig-genetics mailing list
+>> R-sig-genetics at r-project.org
+>> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>>
+>>
+>> End of R-sig-genetics Digest, Vol 7, Issue 1
+>> ********************************************
+>>
+>>     
+>
+>
+>
+>
+
+
+From nshephard at gmail.com  Mon Jun 28 15:00:16 2010
+From: nshephard at gmail.com (Neil Shephard)
+Date: Mon, 28 Jun 2010 13:00:16 +0000
+Subject: [R-sig-genetics] Re : Calcualtion of pairwise relatedness in R: >
+	package?
+Message-ID: <AANLkTil_ZjSCZHQanKqRy0D2svwAhiKawBnNOGFGGGII@mail.gmail.com>
+
+On Mon, Jun 28, 2010 at 12:04 PM, Nevil Amos <nevil.amos at gmail.com> wrote:
+> Thanks for the offer Ross,
+>
+> I'm looking at 8-18 locus microsat data. ?I can undertake the calculations
+> easily enough elsewhere,. ?However if there was a function out there already
+> I would have used it since most of my data manipulation and calculations are
+> being handled in R: and it would have made things neater.
+
+You could format and prepare your data within R, output to a text file
+and then make a system call to your external program(s) from within R
+to perform the calculations before reading them back into R for
+summarising and presenting.
+
+A bit of work I'd imagine, but I'd guess it has the potential of being
+developed into a package for subsequent use by yourself and others.
+
+Also whilst typing that I remembered that Shaun Purcell's Plink (see
+http://pngu.mgh.harvard.edu/~purcell/plink/) has some integration with
+R, although its mainly geared towards analysis of SNPs and CNVs (but
+given that it can handle multi-marker haplotypes it should be capable
+of handling multi-allelic microsatellites).
+
+Regards
+
+Neil
+-- 
+"... no scientific worker has a fixed level of significance at which
+from year to year, and in all circumstances, he rejects hypotheses; he
+rather gives his mind to each particular case in the light of his
+evidence and his ideas." - Sir Ronald A. Fisher (1956)
+
+Email - nshephard at gmail.com
+Website - http://slack.ser.man.ac.uk/
+Photos - http://www.flickr.com/photos/slackline/
+
+
+From nevil.amos at gmail.com  Sat Jun 26 19:48:33 2010
+From: nevil.amos at gmail.com (Nevil Amos)
+Date: Sun, 27 Jun 2010 03:48:33 +1000
+Subject: [R-sig-genetics] Calculation of Queller and Goodnight relatedness
+	in R:
+Message-ID: <4C263D71.8060305@monash.edu.au>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100627/9f828d86/attachment.pl>
+
+From ross.lazarus at gmail.com  Tue Jun 29 01:22:20 2010
+From: ross.lazarus at gmail.com (Ross)
+Date: Tue, 29 Jun 2010 09:22:20 +1000
+Subject: [R-sig-genetics] R-sig-genetics Digest, Vol 7, Issue 1
+In-Reply-To: <4C288FD8.4090601@gmail.com>
+References: <mailman.15.1277719204.4800.r-sig-genetics@r-project.org>
+	<AANLkTimlFHbY6gBEqVwYduqDPUJl3XMAo3lwr6nEpP0G@mail.gmail.com>
+	<4C288FD8.4090601@gmail.com>
+Message-ID: <AANLkTil-tsmfxsC3k2-oAMv7xTwVZpZmQHJwE6X1CkCJ@mail.gmail.com>
+
+ah - the rgGRR Galaxy code uses python/weave C code and is limited to
+biallelics so easy to estimate alleles shared as 0,1 or 2 -
+interesting to see how that will work for microsatellites. Probably
+not too hard to write R code to do the calculations but I don't know
+of any existing routines..
+
+On Mon, Jun 28, 2010 at 10:04 PM, Nevil Amos <nevil.amos at gmail.com> wrote:
+> Thanks for the offer Ross,
+>
+> I'm looking at 8-18 locus microsat data. ?I can undertake the calculations
+> easily enough elsewhere,. ?However if there was a function out there already
+> I would have used it since most of my data manipulation and calculations are
+> being handled in R: and it would have made things neater.
+>
+> Ross wrote:
+>>
+>> No, but I have a tool in Galaxy based on Abecasis' GRR - his software
+>> still available but only as 32bit windows app so very limited in terms
+>> of sample and genotype sizes.
+>> My app reimplements his algorithm - It estimates mean/sd allele
+>> sharing for all pairs, then normalizes those for each pedigree
+>> relationship group (parent-child/sibs/unrelated/etc..) and does a nice
+>> interactive plot.
+>> You'll need at least 5k or 10k ld independent SNPs for reasonable results.
+>> It's in the rgenetics tools at http://usegalaxy.org - happy to help if
+>> you have any questions on using it.
+>>
+>> On Mon, Jun 28, 2010 at 8:00 PM, ?<r-sig-genetics-request at r-project.org>
+>> wrote:
+>>
+>>>
+>>> Send R-sig-genetics mailing list submissions to
+>>> ? ? ? r-sig-genetics at r-project.org
+>>>
+>>> To subscribe or unsubscribe via the World Wide Web, visit
+>>> ? ? ? https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>>> or, via email, send a message with subject or body 'help' to
+>>> ? ? ? r-sig-genetics-request at r-project.org
+>>>
+>>> You can reach the person managing the list at
+>>> ? ? ? r-sig-genetics-owner at r-project.org
+>>>
+>>> When replying, please edit your Subject line so it is more specific
+>>> than "Re: Contents of R-sig-genetics digest..."
+>>>
+>>>
+>>> Today's Topics:
+>>>
+>>> ?1. Calcualtion of pairwise relatedness in R: package?
+>>> ? ? (Nevil Amos (Sci))
+>>>
+>>>
+>>> ----------------------------------------------------------------------
+>>>
+>>> Message: 1
+>>> Date: Mon, 28 Jun 2010 03:50:06 +1000
+>>> From: "Nevil Amos (Sci)" <nevil.amos at monash.edu>
+>>> To: R-sig-genetics at r-project.org
+>>> Subject: [R-sig-genetics] Calcualtion of pairwise relatedness in R:
+>>> ? ? ? package?
+>>> Message-ID:
+>>> ? ? ? <AANLkTilSVYW5HM9WhqFVOe3s41uHNdd1dijT6lWafLF7 at mail.gmail.com>
+>>> Content-Type: text/plain
+>>>
+>>> Is the calculation of pairwise relateness
+>>> eg. Queller and Goodnight 1989 avaiable in any R: package?
+>>>
+>>> cheers
+>>>
+>>>
+>>>
+>>> --
+>>> Nevil Amos
+>>> Molecular Ecology Research Group
+>>> Australian Centre for Biodiversity
+>>> Monash University
+>>> CLAYTON VIC 3800
+>>> Australia
+>>>
+>>> ? ? ? [[alternative HTML version deleted]]
+>>>
+>>>
+>>>
+>>> ------------------------------
+>>>
+>>> _______________________________________________
+>>> R-sig-genetics mailing list
+>>> R-sig-genetics at r-project.org
+>>> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>>>
+>>>
+>>> End of R-sig-genetics Digest, Vol 7, Issue 1
+>>> ********************************************
+>>>
+>>>
+>>
+>>
+>>
+>>
+>
+>
+
+
+
+-- 
+Ross Lazarus MBBS MPH
+Associate Professor, Harvard Medical School
+Director of Bioinformatics, Channing Laboratory
+181 Longwood Ave., Boston MA 02115, USA.
+Tel: +1 617 505 4850
+
+

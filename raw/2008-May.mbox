@@ -1,0 +1,55 @@
+From jombart at biomserv.univ-lyon1.fr  Tue May 20 15:12:14 2008
+From: jombart at biomserv.univ-lyon1.fr (Thibaut Jombart)
+Date: Tue, 20 May 2008 15:12:14 +0200
+Subject: [R-sig-genetics] Announcement: R-sig-genetics
+Message-ID: <4832CE2E.4030702@biomserv.univ-lyon1.fr>
+
+Welcome on R-sig-genetics.
+
+
+The *R-sig-genetics* mailing list is devoted to discussions about the
+analysis of genetic markers using the R software.
+
+*Covered topics are:*
+- population genetics
+- linkage disequilibrium
+- spatial genetics
+- multivariate methods
+- Bayesian clustering
+- data simulation
+- import/export among R packages, or between R packages and other
+softwares.
+- data manipulation
+Announcement of new implementations of methods for genetic data analysis
+are also welcome.
+
+Posts about genomics should be sent to appropriate mailing list on
+Bioconductor (see http://www.bioconductor.org/docs/mailList.html).
+Posts about phylogeny and comparative methods should be sent to
+R-sig-phylo (see https://stat.ethz.ch/mailman/listinfo/r-sig-phylo).
+
+Posting to this list is open to non-members, but messages will be held
+for moderation (spam prevention).
+Please send *plain text* emails instead of html.
+
+To see the collection of prior postings to the list, visit the
+R-sig-genetics Archives (https://stat.ethz.ch/pipermail/r-sig-genetics/).
+
+Best regards,
+
+Thibaut Jombart.
+
+-- 
+######################################
+Thibaut JOMBART
+CNRS UMR 5558 - Laboratoire de Biom?trie et Biologie Evolutive
+Universite Lyon 1
+43 bd du 11 novembre 1918
+69622 Villeurbanne Cedex
+T?l. : 04.72.43.29.35
+Fax : 04.72.43.13.88
+jombart at biomserv.univ-lyon1.fr
+http://biomserv.univ-lyon1.fr/%7Ejombart/
+http://adegenet.r-forge.r-project.org/
+
+

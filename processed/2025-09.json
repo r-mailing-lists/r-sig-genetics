@@ -1,0 +1,308 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2025-09",
+  "messages": [
+    {
+      "id": "msg-4057d8d915de",
+      "message_id": "<i72pDtJ9T0SlkLDf891psw@geopod-ismtpd-6>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2025-09-09T07:50:00Z",
+      "subject": "[R-sig-genetics] Applied Bayesian Modeling in Python - livestream seminar",
+      "subject_clean": "Applied Bayesian Modeling in Python - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats and the American Statistical Association are offering a 2-day seminar, Applied Bayesian Modeling in Python <https://instats.org/seminar/applied-bayesian-modeling-in-python>, livestreaming September 18?19 and led by Dr Chris Fonnesbeck of PyMC Labs and Vanderbilt University Medical Center. Bayesian methods have become indispensable for researchers who need flexible models that naturally incorporate prior information and yield intuitive uncertainty estimates. This intensive workshop demystifies modern Bayesian inference through hands-on exercises in PyMC (v5.25+), taking you from foundational concepts?priors, likelihoods, and posteriors?to advanced topics like hierarchical modeling, MCMC diagnostics, and the full Bayesian workflow. Whether you?re a data scientist, applied statistician, or academic researcher, you?ll leave with practical experience translating research questions into PyMC code, fitting and validating models with ArviZ, and interpreting results for publication-ready insights. No previous PyMC or Bayesian background is required, though familiarity with basic statistics and Python tools such as NumPy and pandas will help you hit the ground running.\n\nSign up today <https://instats.org/seminar/applied-bayesian-modeling-in-python> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats and the American Statistical Association are offering a 2-day seminar, Applied Bayesian Modeling in Python <https://instats.org/seminar/applied-bayesian-modeling-in-python>, lives",
+      "thread_id": "thread-4057d8d915de",
+      "thread_depth": 0,
+      "month": "2025-09"
+    },
+    {
+      "id": "msg-c4450af852d0",
+      "message_id": "<D1ndhc9mQ96fqKFaEMWsUg@geopod-ismtpd-4>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2025-09-10T08:50:00Z",
+      "subject": "[R-sig-genetics] Bayesian Phylogenetics with BEAST2 - livestream seminar",
+      "subject_clean": "Bayesian Phylogenetics with BEAST2 - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 2-day seminar, Bayesian Phylogenetics with BEAST2 <https://instats.org/seminar/bayesian-phylogenetics-with-beast2>, running Livestreaming Sep 18th ? 19th and led by Dr Jo?lle Barido-Sottani from the Institute of Biology, ENS-PSL, CNRS. This intensive workshop will guide you through the full Bayesian workflow in BEAST2, showing how to specify informative priors, run MCMC analyses that average over tree space, and interpret posterior distributions for divergence times, substitution rates, and other evolutionary parameters. By combining clear theoretical explanations with hands-on practice, Dr Barido-Sottani will equip you with the skills to handle sequence and trait data, customize BEAST2 via its modular plugin system, and confidently incorporate phylogenetic uncertainty into your research.\n\nSign up today <https://instats.org/seminar/bayesian-phylogenetics-with-beast2> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 2-day seminar, Bayesian Phylogenetics with BEAST2 <https://instats.org/seminar/bayesian-phylogenetics-with-beast2>, running Livestreaming Sep 18th ? 19th and",
+      "thread_id": "thread-c4450af852d0",
+      "thread_depth": 0,
+      "month": "2025-09"
+    },
+    {
+      "id": "msg-04462767853e",
+      "message_id": "<t3yNh9p_Tr-Vp398eQcixg@geopod-ismtpd-10>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2025-09-15T11:26:20Z",
+      "subject": "[R-sig-genetics] AI-Powered multiOmics Data Analysis - livestream seminar",
+      "subject_clean": "AI-Powered multiOmics Data Analysis - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, AI-Powered multiOmics Data Analysis <https://instats.org/seminar/ai-powered-multiomics-data-analysis>, livestreaming on 25 September and led by Dr Nikolay Oskolkov, Group Leader (PI) at LIOS. Multi-omics datasets?combining genomics, transcriptomics, proteomics, metabolomics and single-cell measurements?promise transformative insight into complex biological systems, yet their high dimensionality, noise and heterogeneity demand sophisticated analytical approaches. This intensive workshop delivers an end-to-end roadmap: rigorous preprocessing, imputation and batch correction; unsupervised integration with factor analysis, PLS and MOFA; supervised multimodal prediction and objective evaluation on independent cohorts; and hands-on deep learning workflows in TensorFlow. Through concise lectures, case studies and coding sessions in Python and RStudio?supported by advanced LLMs for streamlined scripting?you?ll build reproducible notebooks and flexible pipelines for bulk, single-cell and longitudinal datasets. By the end of the day, participants will be able to design robust analysis strategies, train interpretable models and confidently translate multi-omics data into testable biological hypotheses.\n\nSign up today <https://instats.org/seminar/ai-powered-multiomics-data-analysis> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, AI-Powered multiOmics Data Analysis <https://instats.org/seminar/ai-powered-multiomics-data-analysis>, livestreaming on 25 September and led b",
+      "thread_id": "thread-04462767853e",
+      "thread_depth": 0,
+      "month": "2025-09"
+    },
+    {
+      "id": "msg-6cca5be5e2d2",
+      "message_id": "<G5QVD_ZgSsGvOsbYR_LOwQ@geopod-ismtpd-canary-0>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2025-09-16T08:20:00Z",
+      "subject": "[R-sig-genetics] Deep Learning in R and Python with ChatGPT - livestream seminar",
+      "subject_clean": "Deep Learning in R and Python with ChatGPT - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Deep Learning for Complex Datasets with ChatGPT <https://instats.org/seminar/deep-learning-for-complex-datasets-with-2>, livestreaming on September 26th and led by Group Leader (PI) Nikolay Oskolkov from LIOS. As data grow ever larger and more intricate, deep learning has become indispensable for modeling complex patterns, uncovering hidden structures, and driving breakthroughs across statistics, bioinformatics, computational biology, and the social and health sciences more generally. In this intensive workshop, Professor Oskolkov will guide participants through the fundamentals of neural networks and the latest advances in large language models, showing how tools such as R, Python, TensorFlow, Keras, and ChatGPT can be combined to build, train, and evaluate powerful models tailored to life-science datasets. You will code gradient descent and a vanilla neural network from scratch, explore convolutional and recurrent architectures for genomic and time-series data, apply autoencoders for dimensionality reduction, and learn best practices for hyperparameter tuning and model assessment?all while leveraging ChatGPT as an on-demand coding consultant. By the end of the day, attendees will have gained hands-on experience applying deep learning techniques to real biological data, developed transferable skills for integrating LLMs into their research workflows, and acquired a forward-looking perspective on emerging AI technologies in computational biology. \n\nSign up today <https://instats.org/seminar/deep-learning-for-complex-datasets-with-2> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Deep Learning for Complex Datasets with ChatGPT <https://instats.org/seminar/deep-learning-for-complex-datasets-with-2>, livestreaming on Sept",
+      "thread_id": "thread-6cca5be5e2d2",
+      "thread_depth": 0,
+      "month": "2025-09"
+    },
+    {
+      "id": "msg-3e414a03e837",
+      "message_id": "<1758014682.040222243@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-09-16T11:24:42+02:00",
+      "subject": "[R-sig-genetics] Only 3 Seats Left – Population Genomics Using Ancient DNA Data (Online, 22–26 Sept)",
+      "subject_clean": "Only 3 Seats Left – Population Genomics Using Ancient DNA Data (Online, 22–26 Sept)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe would like to inform you that only 3 seats remain for our upcoming course: Population Genomics Using Ancient DNA Data\nDates: 22?26 September \n\nThis course provides both theoretical and hands-on training on the analysis of ancient DNA (aDNA) in population genomics, covering data processing, authentication, demographic inference, population structure, and key statistical methods.\n \n \nCourse details & registration:  https://www.physalia-courses.org/courses-workshops/adna-popgen/\n \n \nBest regards,\nCarlo\n \n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe would like to inform you that only 3 seats remain for our upcoming course: Population Genomics Using Ancient DNA Data\nDates: 22?26 September \n\nThis course provides both theoretical and ha",
+      "thread_id": "thread-3e414a03e837",
+      "thread_depth": 0,
+      "month": "2025-09"
+    },
+    {
+      "id": "msg-7be84fdfb29d",
+      "message_id": "<ALVJmHfSTDOvMZ98qTklPA@geopod-ismtpd-4>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2025-09-16T16:50:00Z",
+      "subject": "[R-sig-genetics] Predicting Network Structure with Hypergraphs - livestream seminar",
+      "subject_clean": "Predicting Network Structure with Hypergraphs - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 4-day seminar, Predicting Network Structure with Hypergraphs <https://instats.org/seminar/predicting-network-structure-with-hyperg>, livestreaming September 22?25 and led by Professor Moses Boudourides from Northwestern University?s Data Science Graduate Program. Hypergraphs extend traditional network analysis by allowing edges to link any number of nodes, capturing team-level, co-exposure, and other group interactions in a single structure. Across four days, participants will explore core concepts and state-of-the-art methods for hyperlink prediction, including similarity-based heuristics, word-embedding techniques, deep learning models such as Hypergraph Neural Networks, and spectral approaches like CHESHIRE. The workshop is entirely non-coding and designed for PhD students, academics, and researchers eager to forecast collective processes such as contagion, collaboration, and community formation in fields ranging from social networks and digital humanities to bioinformatics, finance, and transportation. By the end, attendees will be equipped to reconstruct hypergraphs, reveal hidden hyperedges, and perform temporal forecasts, gaining a powerful new toolkit for tackling complex, multi-node phenomena in their own research.\n\nSign up today <https://instats.org/seminar/predicting-network-structure-with-hyperg> to secure your spot, and share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 4-day seminar, Predicting Network Structure with Hypergraphs <https://instats.org/seminar/predicting-network-structure-with-hyperg>, livestreaming September ",
+      "thread_id": "thread-7be84fdfb29d",
+      "thread_depth": 0,
+      "month": "2025-09"
+    },
+    {
+      "id": "msg-547fa9eae540",
+      "message_id": "<1758191464.736528950@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-09-18T12:31:04+02:00",
+      "subject": "[R-sig-genetics] online course: Sex Chromosome Evolution - 6–10 October",
+      "subject_clean": "online course: Sex Chromosome Evolution - 6–10 October",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nregistration is still open for our upcoming online course: Sex Chromosome Evolution.\n \n \nDates: 6?10 October - Time: 2?8 pm Berlin time\n\nThis 5-day course will guide participants through the use of genomic and transcriptomic data to detect sex chromosomes and study their evolution. Through a combination of lectures and hands-on exercises, you will learn to:\n\nIdentify sex chromosomes from genomic data\n\nExplore recombination suppression and gene expression differentiation\n\nAnalyse genome divergence and dosage compensation\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/sexchr/ ]( https://www.physalia-courses.org/courses-workshops/sexchr/ )\n \nBest regards,\nCarlo\n \n \n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nregistration is still open for our upcoming online course: Sex Chromosome Evolution.\n \n \nDates: 6?10 October - Time: 2?8 pm Berlin time\n\nThis 5-day course will guide participants through the",
+      "thread_id": "thread-547fa9eae540",
+      "thread_depth": 0,
+      "month": "2025-09"
+    },
+    {
+      "id": "msg-66d847b0789a",
+      "message_id": "<1758208256.656222232@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-09-18T17:10:56+02:00",
+      "subject": "[R-sig-genetics] online course RAD-Seq Data Analysis (27–31 October)",
+      "subject_clean": "online course RAD-Seq Data Analysis (27–31 October)",
+      "in_reply_to": "<1758208220.631430289@webmail.jimdo.com>",
+      "references": [
+        "<1758208220.631430289@webmail.jimdo.com>"
+      ],
+      "body_plain": "Dear all,\n\n \nRegistration is still open for our upcoming online course RAD-Seq Data Analysis (27?31 October).\n \nThis 5-day training will guide participants through the complete workflow of reduced representation genome sequencing (RAD-seq, ddRAD, 2bRAD, GBS), with a strong focus on data analysis using Stacks. Through a mix of lectures and hands-on sessions, you will learn how to:\n \n\nAssess and preprocess high-throughput sequencing data\n\nAssemble loci (de novo and reference-based)\n\nSelect informative markers\n\nApply RAD-seq data to population genetics, phylogenetics, and association studies\n \nFormat: Daily online sessions, 1?7 pm (Berlin time)\n \n \nThis course is ideal for researchers working with non-model organisms who want to master RAD-seq data analysis.\n \n \nMore info and registration: [ https://www.physalia-courses.org/courses-workshops/course16/ ]( https://www.physalia-courses.org/courses-workshops/course16/ )\n \nBest regards,\nCarlo\n \n \n \n \n--------------------Carlo Pecoraro, Ph.DPhysalia-courses DIRECTORinfo at physalia-courses.orgmobile: +49 17645230846[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\n \nRegistration is still open for our upcoming online course RAD-Seq Data Analysis (27?31 October).\n \nThis 5-day training will guide participants through the complete workflow of reduced rep",
+      "thread_id": "thread-66d847b0789a",
+      "thread_depth": 0,
+      "month": "2025-09"
+    },
+    {
+      "id": "msg-d4943773aa38",
+      "message_id": "<qHV5vpQmSU-aIXfhLpC-QQ@geopod-ismtpd-11>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2025-09-19T00:49:13Z",
+      "subject": "[R-sig-genetics] Genomics for Ecological and Evolutionary Studies - livestream seminar",
+      "subject_clean": "Genomics for Ecological and Evolutionary Studies - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 5-day seminar, Genomics for Ecological and Evolutionary Studies <https://instats.org/seminar/genomics-for-ecological-and-evolutionary>, running livestreaming Oct 13 ? 17 and led by Prof. Giulio Formenti from the Vertebrate Genome Lab at The Rockefeller University and Dr. Guido Gallo from the Department of Biosciences at the University of Milan. Designed for PhD students, academics, and professional researchers, this hands-on workshop using Python and R blends foundational theory with practical bioinformatics, guiding you through the evolution of DNA sequencing from Sanger to next-generation and third-generation technologies. You?ll learn to process and analyze real sequencing data using command-line tools such as Bowtie 2, Samtools, Minimap2, Freebayes, and IGV, and you?ll gain experience assembling draft genomes, evaluating assembly statistics, and integrating genomic insights into ecological and evolutionary research questions.\n\nSign up today <https://instats.org/seminar/genomics-for-ecological-and-evolutionary> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 5-day seminar, Genomics for Ecological and Evolutionary Studies <https://instats.org/seminar/genomics-for-ecological-and-evolutionary>, running livestreaming",
+      "thread_id": "thread-d4943773aa38",
+      "thread_depth": 0,
+      "month": "2025-09"
+    },
+    {
+      "id": "msg-2f961eed288a",
+      "message_id": "<1758641375.513720698@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-09-23T17:29:35+02:00",
+      "subject": "[R-sig-genetics] Physalia online course Adaptation Genomics (8–12 December).",
+      "subject_clean": "Physalia online course Adaptation Genomics (8–12 December).",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nregistration are open for the Physalia online course Adaptation Genomics (8?12 December).\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/courseadaptationgenomics/ ]( https://www.physalia-courses.org/courses-workshops/courseadaptationgenomics/ ) \n \nThis intensive 5-day training introduces participants to the genomic basis of adaptation using both population genomicsand comparative genomics approaches. Through a mix of lectures and hands-on sessions, participants will learn how to:\n\nProcess whole-genome and long-read sequencing data\n\nCompute population genomics statistics and investigate population structure\n\nDetect genomic regions under selection and link genotypes to phenotypes and environments\n\nAnnotate genome features and study the role of structural variants and transposable elements in adaptation\n \n \nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )\n \nBest regards,Carlo\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nregistration are open for the Physalia online course Adaptation Genomics (8?12 December).\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/courseadaptationgenomics/ ]( ",
+      "thread_id": "thread-2f961eed288a",
+      "thread_depth": 0,
+      "month": "2025-09"
+    },
+    {
+      "id": "msg-5abae1603646",
+      "message_id": "<PzRL-OyVSyKi_5ag2jbmcQ@geopod-ismtpd-2>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2025-09-30T17:50:00Z",
+      "subject": "[R-sig-genetics] AI for Systematic Reviews & Meta-Analysis - livestream seminar",
+      "subject_clean": "AI for Systematic Reviews & Meta-Analysis - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, AI for Systematic Reviews & Meta-Analysis <https://instats.org/seminar/ai-for-systematic-reviews-and-meta-analy>, livestreaming on October 17 and led by professors Piers Steel from the University of Calgary and Hadi Fariborzi from Mount Royal University. Systematic reviews and meta-analyses are the gold standard for cumulative science, yet traditional workflows are slow and labor-intensive. This hands-on workshop shows you how to pair rigorous review methodology with cutting-edge AI?including LLMs, computer vision for PDFs, and API-driven metadata retrieval?to expand projects from hundreds to thousands of studies without sacrificing transparency or reproducibility. Working through the 4P Framework (Pull ? Pick ? Prep ? Push), you will learn to craft high-recall search strategies, automate deduplication and screening, extract and compute effect sizes with AI assistance, run advanced meta-analytic models, diagnose heterogeneity and publication bias, and generate fully reproducible outputs. Deliverables include a 4P workbook, an AI prompt library, effect-size cheatsheets, and ready-to-adapt scripts.\n\nSign up today <https://instats.org/seminar/ai-for-systematic-reviews-and-meta-analy> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, AI for Systematic Reviews & Meta-Analysis <https://instats.org/seminar/ai-for-systematic-reviews-and-meta-analy>, livestreaming on October 17 ",
+      "thread_id": "thread-5abae1603646",
+      "thread_depth": 0,
+      "month": "2025-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-4057d8d915de",
+      "subject": "Applied Bayesian Modeling in Python - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2025-09-09T07:50:00+00:00",
+      "last_reply": "2025-09-09T07:50:00+00:00",
+      "root_message_id": "msg-4057d8d915de"
+    },
+    {
+      "id": "thread-c4450af852d0",
+      "subject": "Bayesian Phylogenetics with BEAST2 - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2025-09-10T08:50:00+00:00",
+      "last_reply": "2025-09-10T08:50:00+00:00",
+      "root_message_id": "msg-c4450af852d0"
+    },
+    {
+      "id": "thread-04462767853e",
+      "subject": "AI-Powered multiOmics Data Analysis - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2025-09-15T11:26:20+00:00",
+      "last_reply": "2025-09-15T11:26:20+00:00",
+      "root_message_id": "msg-04462767853e"
+    },
+    {
+      "id": "thread-6cca5be5e2d2",
+      "subject": "Deep Learning in R and Python with ChatGPT - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2025-09-16T08:20:00+00:00",
+      "last_reply": "2025-09-16T08:20:00+00:00",
+      "root_message_id": "msg-6cca5be5e2d2"
+    },
+    {
+      "id": "thread-3e414a03e837",
+      "subject": "Only 3 Seats Left – Population Genomics Using Ancient DNA Data (Online, 22–26 Sept)",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-09-16T11:24:42+02:00",
+      "last_reply": "2025-09-16T11:24:42+02:00",
+      "root_message_id": "msg-3e414a03e837"
+    },
+    {
+      "id": "thread-7be84fdfb29d",
+      "subject": "Predicting Network Structure with Hypergraphs - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2025-09-16T16:50:00+00:00",
+      "last_reply": "2025-09-16T16:50:00+00:00",
+      "root_message_id": "msg-7be84fdfb29d"
+    },
+    {
+      "id": "thread-547fa9eae540",
+      "subject": "online course: Sex Chromosome Evolution - 6–10 October",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-09-18T12:31:04+02:00",
+      "last_reply": "2025-09-18T12:31:04+02:00",
+      "root_message_id": "msg-547fa9eae540"
+    },
+    {
+      "id": "thread-66d847b0789a",
+      "subject": "online course RAD-Seq Data Analysis (27–31 October)",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-09-18T17:10:56+02:00",
+      "last_reply": "2025-09-18T17:10:56+02:00",
+      "root_message_id": "msg-66d847b0789a"
+    },
+    {
+      "id": "thread-d4943773aa38",
+      "subject": "Genomics for Ecological and Evolutionary Studies - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2025-09-19T00:49:13+00:00",
+      "last_reply": "2025-09-19T00:49:13+00:00",
+      "root_message_id": "msg-d4943773aa38"
+    },
+    {
+      "id": "thread-2f961eed288a",
+      "subject": "Physalia online course Adaptation Genomics (8–12 December).",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-09-23T17:29:35+02:00",
+      "last_reply": "2025-09-23T17:29:35+02:00",
+      "root_message_id": "msg-2f961eed288a"
+    },
+    {
+      "id": "thread-5abae1603646",
+      "subject": "AI for Systematic Reviews & Meta-Analysis - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2025-09-30T17:50:00+00:00",
+      "last_reply": "2025-09-30T17:50:00+00:00",
+      "root_message_id": "msg-5abae1603646"
+    }
+  ]
+}

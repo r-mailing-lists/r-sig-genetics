@@ -1,0 +1,93 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2015-05",
+  "messages": [
+    {
+      "id": "msg-a3681bc36026",
+      "message_id": "<D18E3136.8298%si3@sanger.ac.uk>",
+      "from_name": "Stefano Iantorno",
+      "from_email_hash": "a5d773e338e0d301b57ce5b0eb98a0a4cf97bc7044287bdff47c5cca131544ae",
+      "date": "2015-05-29T14:07:37Z",
+      "subject": "[R-sig-genetics] Reading large VCF into genind",
+      "subject_clean": "Reading large VCF into genind",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello\n\nI have a VCF file containing 306596 biallelic SNP calls from 18 individuals. I was able to read the entire file as a ?loci? object but when I try to convert it into a genind object I run into memory issues.\n\nHow can I circumvent this problem? Should I break the single ?loci? object into smaller subsets with only 50 000 SNPs or so, and convert each one into a genind object separately with loci2genind? How do I combine the resulting genind objects?\n\n- Stefano\n\n\n\n-- \n The Wellcome Trust Sanger Institute is operated by Genome Research \n Limited, a charity registered in England with number 1021457 and a \n company registered in England with number 2742969, whose registered \n office is 215 Euston Road, London, NW1 2BE. \n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello\n\nI have a VCF file containing 306596 biallelic SNP calls from 18 individuals. I was able to read the entire file as a ?loci? object but when I try to convert it into a genind object I run into m",
+      "thread_id": "thread-a3681bc36026",
+      "thread_depth": 0,
+      "month": "2015-05"
+    },
+    {
+      "id": "msg-eab3c4048f55",
+      "message_id": "<2CB2DA8E426F3541AB1907F98ABA6570ABF30230@icexch-m1.ic.ac.uk>",
+      "from_name": "Jombart, Thibaut",
+      "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
+      "date": "2015-05-29T14:30:59Z",
+      "subject": "[R-sig-genetics] Reading large VCF into genind",
+      "subject_clean": "Reading large VCF into genind",
+      "in_reply_to": "<D18E3136.8298%si3@sanger.ac.uk>",
+      "references": [
+        "<D18E3136.8298%si3@sanger.ac.uk>"
+      ],
+      "body_plain": "Dear Stefano, \n\nthe genind class has not been designed for such a large number of SNPs. Substantial improvements have been made in adegenet 2.0: \nhttps://github.com/thibautjombart/adegenet\n\nbut for this number of loci you may want to retain only biallelic SNPs and use genlight objects instead. These are documented in the 'adegenet-genomics' tutorial. We still need to update this one for adegenet 2.0, but most of it should still be relevant (this class has not changed much).\n\nBest\nThibaut\n\n==============================\nDr Thibaut Jombart\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - School of Public Health\nNorfolk Place, London W2 1PG, UK\nTel. : 0044 (0)20 7594 3658\nhttp://sites.google.com/site/thibautjombart/\nhttp://sites.google.com/site/therepiproject/\nhttp://adegenet.r-forge.r-project.org/\nTwitter: @thibautjombart\n\n\n\n________________________________________\nFrom: R-sig-genetics [r-sig-genetics-bounces at r-project.org] on behalf of Stefano Iantorno [si3 at sanger.ac.uk]\nSent: 29 May 2015 15:07\nTo: r-sig-genetics at r-project.org\nSubject: [R-sig-genetics] Reading large VCF into genind\n\nHello\n\nI have a VCF file containing 306596 biallelic SNP calls from 18 individuals. I was able to read the entire file as a ?loci? object but when I try to convert it into a genind object I run into memory issues.\n\nHow can I circumvent this problem? Should I break the single ?loci? object into smaller subsets with only 50 000 SNPs or so, and convert each one into a genind object separately with loci2genind? How do I combine the resulting genind objects?\n\n- Stefano\n\n\n\n--\n The Wellcome Trust Sanger Institute is operated by Genome Research\n Limited, a charity registered in England with number 1021457 and a\n company registered in England with number 2742969, whose registered\n office is 215 Euston Road, London, NW1 2BE.\n\n\n\n        [[alternative HTML version deleted]]",
+      "body_snippet": "Dear Stefano, \n\nthe genind class has not been designed for such a large number of SNPs. Substantial improvements have been made in adegenet 2.0: \nhttps://github.com/thibautjombart/adegenet\n\nbut for th",
+      "thread_id": "thread-a3681bc36026",
+      "thread_depth": 1,
+      "month": "2015-05"
+    },
+    {
+      "id": "msg-462389fe24cd",
+      "message_id": "<CAHuTOvqRp1SyrLS7zpjm2eatbgZrgdyivqw_5Y48B1vr9-d2tw@mail.gmail.com>",
+      "from_name": "Sven E. Templer",
+      "from_email_hash": "39110eb3ad5c123cd52b66aa7e06d92d7bb4d3e6be600860da5cc505b870da83",
+      "date": "2015-05-29T16:31:52+02:00",
+      "subject": "[R-sig-genetics] Reading large VCF into genind",
+      "subject_clean": "Reading large VCF into genind",
+      "in_reply_to": "<D18E3136.8298%si3@sanger.ac.uk>",
+      "references": [
+        "<D18E3136.8298%si3@sanger.ac.uk>"
+      ],
+      "body_plain": "Dear Stefano,\n\ncould you describe which package:::function(s) you used (providing code\nhelps to help!)?\n\nYou could split the vcf file before reading it into the R workspace by\nchromosomes (use GNU grep, for example), then extract data for single files\n(e.g. frequencies, subset of SNPs, etc.). Export this data, and start a new\nsession which loads only the processed information.\n\nBest,\nSven\n\n\n\nOn 29 May 2015 at 16:07, Stefano Iantorno <si3 at sanger.ac.uk> wrote:\n\n> Hello\n>\n> I have a VCF file containing 306596 biallelic SNP calls from 18\n> individuals. I was able to read the entire file as a ?loci? object but when\n> I try to convert it into a genind object I run into memory issues.\n>\n> How can I circumvent this problem? Should I break the single ?loci? object\n> into smaller subsets with only 50 000 SNPs or so, and convert each one into\n> a genind object separately with loci2genind? How do I combine the resulting\n> genind objects?\n>\n> - Stefano\n>\n>\n>\n> --\n>  The Wellcome Trust Sanger Institute is operated by Genome Research\n>  Limited, a charity registered in England with number 1021457 and a\n>  company registered in England with number 2742969, whose registered\n>  office is 215 Euston Road, London, NW1 2BE.\n>\n>\n>\n>         [[alternative HTML version deleted]]\n>\n>\n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n>\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear Stefano,\n\ncould you describe which package:::function(s) you used (providing code\nhelps to help!)?\n\nYou could split the vcf file before reading it into the R workspace by\nchromosomes (use GNU gre",
+      "thread_id": "thread-a3681bc36026",
+      "thread_depth": 1,
+      "month": "2015-05"
+    },
+    {
+      "id": "msg-54c2d860bd98",
+      "message_id": "<CAJZnH0ndam3pwqp_f7YmDW96ipEpP82jzw57Q0VsnS-na22NyA@mail.gmail.com>",
+      "from_name": "Vikram Chhatre",
+      "from_email_hash": "7620f04f8524e3edd5380019064bf2bac61a89fc22ff56629adadd5a00d968a6",
+      "date": "2015-05-29T10:32:52-04:00",
+      "subject": "[R-sig-genetics] Reading large VCF into genind",
+      "subject_clean": "Reading large VCF into genind",
+      "in_reply_to": "<D18E3136.8298%si3@sanger.ac.uk>",
+      "references": [
+        "<D18E3136.8298%si3@sanger.ac.uk>"
+      ],
+      "body_plain": "Hi Stefano,\n\nThat's certainly a large data set, so you are bound to run into memory\nissues.  But I have had luck reading a data set of about 150K SNP calls for\nmore than 500 individuals as a genind object from a structure file.  It\ndoes take long though (close to 18 hours or so).\n\nPGDspider will convert VCF to Structure on any size data set.  It's speed\nis dependent upon how much memory  you allow it.\n\nHow much RAM do you have?\n\nV\n\nOn Fri, May 29, 2015 at 10:07 AM, Stefano Iantorno <si3 at sanger.ac.uk> wrote:\n\n> Hello\n>\n> I have a VCF file containing 306596 biallelic SNP calls from 18\n> individuals. I was able to read the entire file as a ?loci? object but when\n> I try to convert it into a genind object I run into memory issues.\n>\n> How can I circumvent this problem? Should I break the single ?loci? object\n> into smaller subsets with only 50 000 SNPs or so, and convert each one into\n> a genind object separately with loci2genind? How do I combine the resulting\n> genind objects?\n>\n> - Stefano\n>\n>\n>\n> --\n>  The Wellcome Trust Sanger Institute is operated by Genome Research\n>  Limited, a charity registered in England with number 1021457 and a\n>  company registered in England with number 2742969, whose registered\n>  office is 215 Euston Road, London, NW1 2BE.\n>\n>\n>\n>         [[alternative HTML version deleted]]\n>\n>\n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n>\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi Stefano,\n\nThat's certainly a large data set, so you are bound to run into memory\nissues.  But I have had luck reading a data set of about 150K SNP calls for\nmore than 500 individuals as a genind ob",
+      "thread_id": "thread-a3681bc36026",
+      "thread_depth": 1,
+      "month": "2015-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-a3681bc36026",
+      "subject": "Reading large VCF into genind",
+      "message_count": 4,
+      "participants": [
+        "Jombart, Thibaut",
+        "Stefano Iantorno",
+        "Sven E. Templer",
+        "Vikram Chhatre"
+      ],
+      "started": "2015-05-29T14:07:37+00:00",
+      "last_reply": "2015-05-29T10:32:52-04:00",
+      "root_message_id": "msg-a3681bc36026"
+    }
+  ]
+}

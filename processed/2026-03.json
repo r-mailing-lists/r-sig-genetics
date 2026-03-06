@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2026-03",
+  "messages": [
+    {
+      "id": "msg-f156668e9597",
+      "message_id": "<0-sMslhLSQykqIoDtIJzSQ@geopod-ismtpd-13>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-03-02T09:47:11Z",
+      "subject": "[R-sig-genetics] Generative AI for Statistical Science (Free Seminar) – last chance",
+      "subject_clean": "Generative AI for Statistical Science (Free Seminar) – last chance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar Generative AI for Statistical Science (Free Seminar) livestreaming March 3 with Lei Ding (Department of Statistics, University of Manitoba). This seminar introduces modern generative AI paradigms, covering models like VAEs, GANs, and diffusion models, which are powerful tools for approximating high-dimensional probability distributions. Researchers in genetic data analysis can leverage these methods for tasks such as generating synthetic genetic datasets for privacy-preserving research or for advanced imputation of missing genetic markers. Understanding these statistical foundations will enable the R-sig-genetics community to innovate in modeling complex genetic architectures and address critical issues like data privacy and bias in their studies.\n\nSign up today (https://instats.org/seminar/generative-ai-for-statistical-science-fr) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar Generative AI for Statistical Science (Free Seminar) livestreaming March 3 with Lei Ding (Department of Statistics, University of Ma",
+      "thread_id": "thread-f156668e9597",
+      "thread_depth": 0,
+      "month": "2026-03"
+    },
+    {
+      "id": "msg-6fa0b60d0050",
+      "message_id": "<Hfosp6sISM-QxokbWRAtNg@geopod-ismtpd-4>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-03-04T11:12:57Z",
+      "subject": "[R-sig-genetics] Useful Tools for Data Science in R – online seminar",
+      "subject_clean": "Useful Tools for Data Science in R – online seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nUseful Tools for Data Science in R led by SMCS (Universit? Catholique de Louvain) is now available as an on-demand streaming seminar. This seminar explores powerful tools like R, GitHub, Copilot, and Visual Studio Code to enhance data science workflows. Researchers analyzing genetic data can leverage these skills to streamline their R scripting, manage complex analysis pipelines with robust version control, and collaborate more effectively on large-scale genomic projects. Integrating AI-powered coding assistance and efficient development environments will accelerate the development of novel genetic models and ensure the reproducibility and integrity of their research findings.\n\nAccess this seminar (https://instats.org/seminar/useful-tools-for-data-science-in-r-1) at your own pace and please share this with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nUseful Tools for Data Science in R led by SMCS (Universit? Catholique de Louvain) is now available as an on-demand streaming seminar. This seminar explores powerful tools",
+      "thread_id": "thread-6fa0b60d0050",
+      "thread_depth": 0,
+      "month": "2026-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-f156668e9597",
+      "subject": "Generative AI for Statistical Science (Free Seminar) – last chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-03-02T09:47:11+00:00",
+      "last_reply": "2026-03-02T09:47:11+00:00",
+      "root_message_id": "msg-f156668e9597"
+    },
+    {
+      "id": "thread-6fa0b60d0050",
+      "subject": "Useful Tools for Data Science in R – online seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-03-04T11:12:57+00:00",
+      "last_reply": "2026-03-04T11:12:57+00:00",
+      "root_message_id": "msg-6fa0b60d0050"
+    }
+  ]
+}

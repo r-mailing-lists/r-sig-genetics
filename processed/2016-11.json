@@ -1,0 +1,167 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2016-11",
+  "messages": [
+    {
+      "id": "msg-715478aad6bc",
+      "message_id": "<CAOUMpvNQN9y5-VOPhW4C887MOa=WsaobSfBsH1MEHnUdp26aoQ@mail.gmail.com>",
+      "from_name": "Daniel Schmidt",
+      "from_email_hash": "d40329695a3f3fda5304dead991813ced304df464a5ce6308ac83f7bf92e71ce",
+      "date": "2016-11-02T14:25:58+10:00",
+      "subject": "[R-sig-genetics] Hierfstat: g-statistics permutation",
+      "subject_clean": "Hierfstat: g-statistics permutation",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi\nUsing some of the permutation functions in hierfstat (test.g; test.between;\ngstat.randtest), I've encountered the same issue raised in this recent post:\nhttps://stat.ethz.ch/pipermail/r-sig-genetics/2016-August/000099.html\n\nIn my case (6 pops x 8ind; ~8000 loci), testing for significant\ndifferentiation among pops with small numbers of loci (e.g. 20) appears\nnormal, but as number of loci increase >100 the permuted g-statistics\nmostly converge on a single value or 0.\n\nThis appears related to missing data. Demonstrated below on small dataset.\n\nlibrary(hierfstat)\n#Simulate 100 loci\ndat.sim <-\nsim.genot(size=8,nbal=2,nbloc=100,nbpop=6,N=1000,mig=0.001,mut=0.0001,f=0)\n\n#perform permutation test with no missing data\ng <- test.g(dat.sim[,-1], level = dat.sim$Pop, nperm = 100)\n\n#are all 100 permuted g-statistics are unique? yes\nlength(unique(g$g.star))\n\n#add one missing genotype per locus. Total missing data = 1%\ndat.sim[,-1] <- apply(dat.sim[,-1], 2, function(x){x[sample(1:48,1)] <- NA;\nx})\n\n#how many permuted g-statistics are unique? generally less than 20.\nlength(unique(g$g.star))\n\nIs there any way to use these functions to calculate p-values when missing\ndata is present? The functions work fine when I remove loci with missing\ndata, so it's not the end of the world.\nThanks for any advice.\nRegards, Dan\n\n\n-- \nDr. Daniel J. Schmidt\nResearch Fellow, Australian Rivers Institute\nGriffith University 170 Kessels Road, Nathan\nBrisbane QLD 4111 Australia\n\nd.schmidt at griffith.edu.au\nOffice: +61 7 37354165\nhttp://www.rivers.edu.au\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi\nUsing some of the permutation functions in hierfstat (test.g; test.between;\ngstat.randtest), I've encountered the same issue raised in this recent post:\nhttps://stat.ethz.ch/pipermail/r-sig-genetic",
+      "thread_id": "thread-715478aad6bc",
+      "thread_depth": 0,
+      "month": "2016-11"
+    },
+    {
+      "id": "msg-ffceeb12d008",
+      "message_id": "<CAEGfAaMG5rfU6p-cewOmmPS0DKsfc+cLWCk+BE-mmVu2A2jevg@mail.gmail.com>",
+      "from_name": "Felipe Hernández",
+      "from_email_hash": "5fb9eed2b34139cc23d008f174c5fa3b61604fa1b880f60ee150ba10fb63d4c7",
+      "date": "2016-11-21T09:27:19-05:00",
+      "subject": "[R-sig-genetics] Linkage disequilibrium estimation",
+      "subject_clean": "Linkage disequilibrium estimation",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello everyone,\n\nI would like to estimate if some of the alleles of my hog loci dataset (n=\n59 loci) may be in linkage disequilibrium. I tried using the pegas package.\nI used the LD2 function (for unphased genotypes). In general, I got pretty\nlow Delta correlation values for the loci pairwise-comparisons, but\np-values associated with T2 were consistently significant (just trying a\nfew loci comparisons). So, may I just conclude LD based on this p-value\nconfidently? If that's the case, is it possible to compare loci that are\nnot contiguous in the dataset? For example, when I tried comparing loci\nthat are not contiguous (e.g., 50 and 59), I got this warning message:\n\"Error in LD2(hogs, locus = 50:59, details = TRUE) : you must specify two\nloci to compute linkage disequilibrium\"\n\nOn the other hand, I wonder is there is another package to test LD between\nseveral multi-allelic loci at the same time (not only two loci)? Thanks for\nyour feedback!\n\nBest,\nFelipe\n\n-- \nFelipe Hern?ndez\nM?dico Veterinario (DVM), MSc.\nPhD. Candidate\nInterdisciplinary Ecology Program\nSchool of Natural Resources and Environment\nWildlife Ecology and Conservation Department\nUniversity of Florida\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello everyone,\n\nI would like to estimate if some of the alleles of my hog loci dataset (n=\n59 loci) may be in linkage disequilibrium. I tried using the pegas package.\nI used the LD2 function (for unp",
+      "thread_id": "thread-ffceeb12d008",
+      "thread_depth": 0,
+      "month": "2016-11"
+    },
+    {
+      "id": "msg-9e1541f79723",
+      "message_id": "<CAJZnH0ngrxB8EEuQtYsRS3f0-krHS1QqaCivzcV33ndPJwM4Qw@mail.gmail.com>",
+      "from_name": "Vikram Chhatre",
+      "from_email_hash": "7620f04f8524e3edd5380019064bf2bac61a89fc22ff56629adadd5a00d968a6",
+      "date": "2016-11-21T07:52:51-07:00",
+      "subject": "[R-sig-genetics] Linkage disequilibrium estimation",
+      "subject_clean": "Linkage disequilibrium estimation",
+      "in_reply_to": "<CAEGfAaMG5rfU6p-cewOmmPS0DKsfc+cLWCk+BE-mmVu2A2jevg@mail.gmail.com>",
+      "references": [
+        "<CAEGfAaMG5rfU6p-cewOmmPS0DKsfc+cLWCk+BE-mmVu2A2jevg@mail.gmail.com>"
+      ],
+      "body_plain": "You should be able to compute LD between any two loci located anywhere in\nthe genome, including those on different chromosomes (although the latter\nusually indicates other causes than linkage).  By 'contiguous', do you mean\n'sequential' or 'consecutive'?  If so, that is not necessary.  Though I\nwill agree that from the Pegas documentation, it is not clear what numbers\nthe \"locus=x:y\" argument is referring to.  Is it an internal number?  Have\nyou tried computing another combination? locus=20:25, in case Pegas\nstarting the locus count at 0 and then 59 is non-existent?\n\nV\n\nOn Mon, Nov 21, 2016 at 7:27 AM, Felipe Hern?ndez <fhernandeu at uc.cl> wrote:\n\n> Hello everyone,\n>\n> I would like to estimate if some of the alleles of my hog loci dataset (n=\n> 59 loci) may be in linkage disequilibrium. I tried using the pegas package.\n> I used the LD2 function (for unphased genotypes). In general, I got pretty\n> low Delta correlation values for the loci pairwise-comparisons, but\n> p-values associated with T2 were consistently significant (just trying a\n> few loci comparisons). So, may I just conclude LD based on this p-value\n> confidently? If that's the case, is it possible to compare loci that are\n> not contiguous in the dataset? For example, when I tried comparing loci\n> that are not contiguous (e.g., 50 and 59), I got this warning message:\n> \"Error in LD2(hogs, locus = 50:59, details = TRUE) : you must specify two\n> loci to compute linkage disequilibrium\"\n>\n> On the other hand, I wonder is there is another package to test LD between\n> several multi-allelic loci at the same time (not only two loci)? Thanks for\n> your feedback!\n>\n> Best,\n> Felipe\n>\n> --\n> Felipe Hern?ndez\n> M?dico Veterinario (DVM), MSc.\n> PhD. Candidate\n> Interdisciplinary Ecology Program\n> School of Natural Resources and Environment\n> Wildlife Ecology and Conservation Department\n> University of Florida\n>\n>         [[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "You should be able to compute LD between any two loci located anywhere in\nthe genome, including those on different chromosomes (although the latter\nusually indicates other causes than linkage).  By 'c",
+      "thread_id": "thread-ffceeb12d008",
+      "thread_depth": 1,
+      "month": "2016-11"
+    },
+    {
+      "id": "msg-03941323cb9a",
+      "message_id": "<74f15507-f00f-2ef2-1fe2-f5c2b71ac7ee@ird.fr>",
+      "from_name": "Emmanuel Paradis",
+      "from_email_hash": "4c085ad631493003895b8b2c8749a214fe7066719f788b94c2907a97cf0bf96d",
+      "date": "2016-11-21T16:26:34+01:00",
+      "subject": "[R-sig-genetics] Linkage disequilibrium estimation",
+      "subject_clean": "Linkage disequilibrium estimation",
+      "in_reply_to": "<CAJZnH0ngrxB8EEuQtYsRS3f0-krHS1QqaCivzcV33ndPJwM4Qw@mail.gmail.com>",
+      "references": [
+        "<CAEGfAaMG5rfU6p-cewOmmPS0DKsfc+cLWCk+BE-mmVu2A2jevg@mail.gmail.com>",
+        "<CAJZnH0ngrxB8EEuQtYsRS3f0-krHS1QqaCivzcV33ndPJwM4Qw@mail.gmail.com>"
+      ],
+      "body_plain": "Hi Vikram & Felipe,\n\nThe default for both LD() and LD2() is locus = 1:2 but this is meant to \nbe locus = c(1, 2), only two values should be given and these values are \nthe colum numbers of the \"loci\" data. So what Felipe wants is:\n\nLD2(x, locus = c(50, 59))\n\n50:59 is similar to c(50, 51, ....... 59)\n\nI have changed the definitions of these two functions so that they are now:\n\n      LD(x, locus = c(1, 2), details = TRUE)\n      LD2(x, locus = c(1, 2), details = TRUE)\n\nand the help page has been slightly changed to be (hopefully) clearer:\n\n      locus: a vector of two integers giving the loci to analyse.\n\nFor the record, LDscan() can analyse several loci at the same time but \nit works only with phased genotypes and loci must be biallelic.\n\nBest,\n\nEmmanuel\n\nLe 21/11/2016 ? 15:52, Vikram Chhatre a ?crit :\n> You should be able to compute LD between any two loci located anywhere in\n> the genome, including those on different chromosomes (although the latter\n> usually indicates other causes than linkage).  By 'contiguous', do you mean\n> 'sequential' or 'consecutive'?  If so, that is not necessary.  Though I\n> will agree that from the Pegas documentation, it is not clear what numbers\n> the \"locus=x:y\" argument is referring to.  Is it an internal number?  Have\n> you tried computing another combination? locus=20:25, in case Pegas\n> starting the locus count at 0 and then 59 is non-existent?\n>\n> V\n>\n> On Mon, Nov 21, 2016 at 7:27 AM, Felipe Hern?ndez <fhernandeu at uc.cl> wrote:\n>\n>> Hello everyone,\n>>\n>> I would like to estimate if some of the alleles of my hog loci dataset (n=\n>> 59 loci) may be in linkage disequilibrium. I tried using the pegas package.\n>> I used the LD2 function (for unphased genotypes). In general, I got pretty\n>> low Delta correlation values for the loci pairwise-comparisons, but\n>> p-values associated with T2 were consistently significant (just trying a\n>> few loci comparisons). So, may I just conclude LD based on this p-value\n>> confidently? If that's the case, is it possible to compare loci that are\n>> not contiguous in the dataset? For example, when I tried comparing loci\n>> that are not contiguous (e.g., 50 and 59), I got this warning message:\n>> \"Error in LD2(hogs, locus = 50:59, details = TRUE) : you must specify two\n>> loci to compute linkage disequilibrium\"\n>>\n>> On the other hand, I wonder is there is another package to test LD between\n>> several multi-allelic loci at the same time (not only two loci)? Thanks for\n>> your feedback!\n>>\n>> Best,\n>> Felipe\n>>\n>> --\n>> Felipe Hern?ndez\n>> M?dico Veterinario (DVM), MSc.\n>> PhD. Candidate\n>> Interdisciplinary Ecology Program\n>> School of Natural Resources and Environment\n>> Wildlife Ecology and Conservation Department\n>> University of Florida\n>>\n>>         [[alternative HTML version deleted]]\n>>\n>> _______________________________________________\n>> R-sig-genetics mailing list\n>> R-sig-genetics at r-project.org\n>> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n>\n> \t[[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n>",
+      "body_snippet": "Hi Vikram & Felipe,\n\nThe default for both LD() and LD2() is locus = 1:2 but this is meant to \nbe locus = c(1, 2), only two values should be given and these values are \nthe colum numbers of the \"loci\" ",
+      "thread_id": "thread-ffceeb12d008",
+      "thread_depth": 2,
+      "month": "2016-11"
+    },
+    {
+      "id": "msg-9526ad4842db",
+      "message_id": "<71C0BFD5-5315-418E-95B6-E3F586E8CD46@gmail.com>",
+      "from_name": "Zhian Kamvar",
+      "from_email_hash": "7dc521447931bd0edb4bad308c5643b75a875047acda912ef22609dec2e0a749",
+      "date": "2016-11-21T08:22:28-08:00",
+      "subject": "[R-sig-genetics] Linkage disequilibrium estimation",
+      "subject_clean": "Linkage disequilibrium estimation",
+      "in_reply_to": "<CAEGfAaMG5rfU6p-cewOmmPS0DKsfc+cLWCk+BE-mmVu2A2jevg@mail.gmail.com>",
+      "references": [
+        "<CAEGfAaMG5rfU6p-cewOmmPS0DKsfc+cLWCk+BE-mmVu2A2jevg@mail.gmail.com>"
+      ],
+      "body_plain": "> On Nov 21, 2016, at 06:27 , Felipe Hern?ndez <fhernandeu at uc.cl> wrote:\n> \n> On the other hand, I wonder is there is another package to test LD between\n> several multi-allelic loci at the same time (not only two loci)? Thanks for\n> your feedback!\n\nHi Felipe,\n\nThere IS another method that can test LD between several loci. The index of association is a measure of multilocus linkage disequilibrium [0] and is implemented in the poppr R package with the function ia(). You can use it on a genind object, which can be converted from loci with the function loci2genind().\n\nBest,\nZhian\n\n[0]: http://onlinelibrary.wiley.com/doi/10.1046/j.1471-8278.2000.00014.x/abstract",
+      "body_snippet": "> On Nov 21, 2016, at 06:27 , Felipe Hern?ndez <fhernandeu at uc.cl> wrote:\n> \n> On the other hand, I wonder is there is another package to test LD between\n> several multi-allelic loci at the same tim",
+      "thread_id": "thread-ffceeb12d008",
+      "thread_depth": 1,
+      "month": "2016-11"
+    },
+    {
+      "id": "msg-baecb2074f1c",
+      "message_id": "<F3396991-2B77-4A3C-830C-976DCD8EEF50@gmail.com>",
+      "from_name": "Zhian Kamvar",
+      "from_email_hash": "7dc521447931bd0edb4bad308c5643b75a875047acda912ef22609dec2e0a749",
+      "date": "2016-11-21T11:29:15-08:00",
+      "subject": "[R-sig-genetics] Bug in ade4 randtest.amova and solution",
+      "subject_clean": "Bug in ade4 randtest.amova and solution",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello,\n\nI am the maintainer for the poppr package, which depends on adegenet (and thus ade4). One of my users noticed a bug in the output of randtest.amova: https://groups.google.com/forum/#!topic/poppr/D1gpqgQM2F0\n\nBasically, the alternate hypothesis for the randomization tests would be incorrect at every fourth hierarchical level. I contacted the maintainer and this bug has been fixed on the ade4 github page: https://github.com/sdray/ade4/pull/4\n\nIf you do run into this problem, there is a workaround by passing the result to as.krandtest()\n\nn <- 3 # (set this to the number of hierarchical levels)\nwith(randomization_result, as.krandtest(sim, obs, alter = c(\"less\", rep(\"greater\", n)), call = call, names = names)\n\nCheers,\nZhian N. Kamvar",
+      "body_snippet": "Hello,\n\nI am the maintainer for the poppr package, which depends on adegenet (and thus ade4). One of my users noticed a bug in the output of randtest.amova: https://groups.google.com/forum/#!topic/pop",
+      "thread_id": "thread-baecb2074f1c",
+      "thread_depth": 0,
+      "month": "2016-11"
+    },
+    {
+      "id": "msg-9bcb93727bb0",
+      "message_id": "<CANPRA+q8G75wgdKi5CSuBKjY=+8B0qvfUxRe=rdUaU0F7pZuhw@mail.gmail.com>",
+      "from_name": "Thibaut Jombart",
+      "from_email_hash": "a870df9f6e75f3cbcc4043deb7cf0598da9e8598f08b1621deb5537b21fb46f5",
+      "date": "2016-11-22T11:47:40Z",
+      "subject": "[R-sig-genetics] Bug in ade4 randtest.amova and solution",
+      "subject_clean": "Bug in ade4 randtest.amova and solution",
+      "in_reply_to": "<F3396991-2B77-4A3C-830C-976DCD8EEF50@gmail.com>",
+      "references": [
+        "<F3396991-2B77-4A3C-830C-976DCD8EEF50@gmail.com>"
+      ],
+      "body_plain": "Dear Zhian,\n\nthis is great, thanks for letting us know!\n\nBest\nThibaut\n\n\n--\nDr Thibaut Jombart\nLecturer, Department of Infectious Disease Epidemiology, Imperial College\nLondon\nHead of RECON: repidemicsconsortium.org\nsites.google.com/site/thibautjombart/\ngithub.com/thibautjombart\nTwitter: @TeebzR <http://twitter.com/TeebzR>\n\nOn 21 November 2016 at 19:29, Zhian Kamvar <zkamvar at gmail.com> wrote:\n\n> Hello,\n>\n> I am the maintainer for the poppr package, which depends on adegenet (and\n> thus ade4). One of my users noticed a bug in the output of randtest.amova:\n> https://groups.google.com/forum/#!topic/poppr/D1gpqgQM2F0\n>\n> Basically, the alternate hypothesis for the randomization tests would be\n> incorrect at every fourth hierarchical level. I contacted the maintainer\n> and this bug has been fixed on the ade4 github page:\n> https://github.com/sdray/ade4/pull/4\n>\n> If you do run into this problem, there is a workaround by passing the\n> result to as.krandtest()\n>\n> n <- 3 # (set this to the number of hierarchical levels)\n> with(randomization_result, as.krandtest(sim, obs, alter = c(\"less\",\n> rep(\"greater\", n)), call = call, names = names)\n>\n> Cheers,\n> Zhian N. Kamvar\n>\n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear Zhian,\n\nthis is great, thanks for letting us know!\n\nBest\nThibaut\n\n\n--\nDr Thibaut Jombart\nLecturer, Department of Infectious Disease Epidemiology, Imperial College\nLondon\nHead of RECON: repidemics",
+      "thread_id": "thread-baecb2074f1c",
+      "thread_depth": 1,
+      "month": "2016-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-715478aad6bc",
+      "subject": "Hierfstat: g-statistics permutation",
+      "message_count": 1,
+      "participants": [
+        "Daniel Schmidt"
+      ],
+      "started": "2016-11-02T14:25:58+10:00",
+      "last_reply": "2016-11-02T14:25:58+10:00",
+      "root_message_id": "msg-715478aad6bc"
+    },
+    {
+      "id": "thread-ffceeb12d008",
+      "subject": "Linkage disequilibrium estimation",
+      "message_count": 4,
+      "participants": [
+        "Emmanuel Paradis",
+        "Felipe Hernández",
+        "Vikram Chhatre",
+        "Zhian Kamvar"
+      ],
+      "started": "2016-11-21T09:27:19-05:00",
+      "last_reply": "2016-11-21T08:22:28-08:00",
+      "root_message_id": "msg-ffceeb12d008"
+    },
+    {
+      "id": "thread-baecb2074f1c",
+      "subject": "Bug in ade4 randtest.amova and solution",
+      "message_count": 2,
+      "participants": [
+        "Thibaut Jombart",
+        "Zhian Kamvar"
+      ],
+      "started": "2016-11-21T11:29:15-08:00",
+      "last_reply": "2016-11-22T11:47:40+00:00",
+      "root_message_id": "msg-baecb2074f1c"
+    }
+  ]
+}

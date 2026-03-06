@@ -1,0 +1,34 @@
+From toneattof at gmail.com  Tue Sep 22 16:51:11 2009
+From: toneattof at gmail.com (gmail)
+Date: Tue, 22 Sep 2009 16:51:11 +0200
+Subject: [R-sig-genetics] Nei-Li distance
+Message-ID: <4AB8E45F.2060502@gmail.com>
+
+Hi all,
+here is the function to calculate Nei-Li (1979) distance (or 
+dissimilarity) for a binary matrix where columns are species and rows 
+are alleles.
+It is a modification of "jaccard" function in package prabclus by 
+Christian Hennig and Bernhard Hausdorf.
+
+########################################
+neidist<-function (regmat)
+{
+    nart <- ncol(regmat)
+    jdist <- rep(0, nart * nart)
+    dim(jdist) <- c(nart, nart)
+    reg.col.sum <- apply(regmat, 2, sum)
+    reg.aggrement <- t(regmat) %*% regmat
+    nedist <- 1 - (reg.aggrement+reg.aggrement)/((reg.col.sum - 
+t(t(reg.aggrement) -
+        reg.col.sum))+reg.aggrement)
+    nedist
+}
+###############################################
+
+
+Useful in AFLP or other dominant (0-1 response) markers analysis
+
+Fiorello Toneatto
+
+

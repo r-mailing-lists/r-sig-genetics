@@ -1,0 +1,65 @@
+From magherdegen at gmail.com  Tue Sep  3 09:47:34 2013
+From: magherdegen at gmail.com (Magdalena Herdegen)
+Date: Tue, 3 Sep 2013 09:47:34 +0200
+Subject: [R-sig-genetics] morphometric traits in dapc
+Message-ID: <CADT7xGoqf2OT+8RtvhTVu32Rmkck75uv=BeBQUu1o0v_xCvn+g@mail.gmail.com>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130903/4c03a1e5/attachment.pl>
+
+From t.jombart at imperial.ac.uk  Wed Sep 11 18:00:38 2013
+From: t.jombart at imperial.ac.uk (Jombart, Thibaut)
+Date: Wed, 11 Sep 2013 16:00:38 +0000
+Subject: [R-sig-genetics] morphometric traits in dapc
+In-Reply-To: <CADT7xGoqf2OT+8RtvhTVu32Rmkck75uv=BeBQUu1o0v_xCvn+g@mail.gmail.com>
+References: <CADT7xGoqf2OT+8RtvhTVu32Rmkck75uv=BeBQUu1o0v_xCvn+g@mail.gmail.com>
+Message-ID: <2CB2DA8E426F3541AB1907F98ABA6570638DF343@icexch-m1.ic.ac.uk>
+
+Hello, 
+
+this post would be better suited on the adegenet forum. 
+
+If you check ?dapc, you'll see that there is a method for data.frames and matrices, which you can use a input. Any numeric / binary data can be analysed by DAPC this way.
+
+Cheers
+
+Thibaut
+
+--
+######################################
+Dr Thibaut JOMBART
+MRC Centre for Outbreak Analysis and Modelling
+Department of Infectious Disease Epidemiology
+Imperial College - School of Public Health
+St Mary?s Campus
+Norfolk Place
+London W2 1PG
+United Kingdom
+Tel. : 0044 (0)20 7594 3658
+t.jombart at imperial.ac.uk
+http://sites.google.com/site/thibautjombart/
+http://adegenet.r-forge.r-project.org/
+________________________________________
+From: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] on behalf of Magdalena Herdegen [magherdegen at gmail.com]
+Sent: 03 September 2013 08:47
+To: r-sig-genetics at r-project.org
+Subject: [R-sig-genetics] morphometric traits in dapc
+
+Hello,
+I have a question reguarding the format of morphometric data I want to
+analyse using the find.clusters and dapc functions. From articles I know it
+is possible to analyse this kind of date with dapc, but could not find any
+instruction about the correct data format.
+I would be greateful for suggestions.
+
+MH
+
+        [[alternative HTML version deleted]]
+
+_______________________________________________
+R-sig-genetics mailing list
+R-sig-genetics at r-project.org
+https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+

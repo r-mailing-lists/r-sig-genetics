@@ -1,0 +1,103 @@
+From benjamin.alric at imbe.fr  Tue Jun 18 10:00:42 2013
+From: benjamin.alric at imbe.fr (Benjamin Alric)
+Date: Tue, 18 Jun 2013 10:00:42 +0200
+Subject: [R-sig-genetics] Computation of bootstrap support values for UPGMA
+Message-ID: <51C013AA.5070808@imbe.fr>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130618/7c370e00/attachment.pl>
+
+From t.jombart at imperial.ac.uk  Tue Jun 18 12:19:50 2013
+From: t.jombart at imperial.ac.uk (Jombart, Thibaut)
+Date: Tue, 18 Jun 2013 10:19:50 +0000
+Subject: [R-sig-genetics] Computation of bootstrap support values for
+ UPGMA
+In-Reply-To: <51C013AA.5070808@imbe.fr>
+References: <51C013AA.5070808@imbe.fr>
+Message-ID: <2CB2DA8E426F3541AB1907F98ABA6570638784DE@icexch-m1.ic.ac.uk>
+
+Hello, 
+
+this is clearly an adegenet-related question. Please repost on the adegenet forum.
+
+Cheers
+Thibaut
+________________________________________
+From: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] on behalf of Benjamin Alric [benjamin.alric at imbe.fr]
+Sent: 18 June 2013 09:00
+To: r-sig-genetics at r-project.org
+Subject: [R-sig-genetics] Computation of bootstrap support values for UPGMA
+
+Dear Dr. Jombart and adegenet/adephylo users,
+
+Sorry for the duplication between adegenet and adephylo list but not
+knowing which could help my problem, I send this message in both.
+
+I have microsatellite data set (8 locis in column and 24 population in
+row) on the hybridizing populations of Daphnia in the three lakes.
+
+I assigned parental species and hyrids cluster by DAPC.
+
+Then, I made UPGMA from Nei's genetic distance according to the script
+below.
+
+#library (ade4)
+
+#library (adegenet)
+
+genetDaph<-import2genind("UPGMA_Genetix_adegenet.gtx",package="adegenet")
+
+genetDaph2<-genind2genpop(genetDaph)
+
+dist1<-dist.genpop(genetDaph2,method=1)
+
+clust<-hclust(dist1,method="average")
+
+plot(clust)
+
+Currently, I would like determined the bootstrap support values of this
+tree.
+
+However, I do not found such a function in 'adegenet' package.
+
+Can we made a bootstrap on tree from 'adegenet' package ?
+
+Besides, I seek in 'adephylo' package without success.
+
+Then, I found 'ape' package.
+
+In this one, we can work from dist.gene, but I do not find how convert
+'genetDaph2' in dist.gene.
+
+Somebody have an idea or have already computed bootstrap support values
+of tree with R?
+
+Thank you in advance for your help.
+
+Best regards,
+
+Benjamin ALRIC
+
+--
+Benjamin Alric,PhD
+UMR 7263-CNRS / 237-IRD - Institut M?diterran?en de Biodiversit? et d'Ecologie (IMBE)
+Equipe "Ecologie des Eaux Continentales"
+Aix-Marseille Universit?, Facult? des Sciences, site de St J?r?me
+52 Avenue Escadrille Normandie Ni?men
+13397 Marseille cedex 20 - France
+
+
+        [[alternative HTML version deleted]]
+
+
+From benjamin.alric at imbe.fr  Tue Jun 18 12:24:23 2013
+From: benjamin.alric at imbe.fr (Benjamin Alric)
+Date: Tue, 18 Jun 2013 12:24:23 +0200
+Subject: [R-sig-genetics] Computation of bootstrap suuport values for UPGMA
+Message-ID: <51C03557.8010506@imbe.fr>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130618/2bdc124e/attachment.pl>
+

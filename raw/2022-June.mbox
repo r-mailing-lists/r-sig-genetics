@@ -1,0 +1,72 @@
+From i@io m@iii@g oii phys@ii@-courses@org  Wed Jun 29 18:43:14 2022
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Wed, 29 Jun 2022 18:43:14 +0200 (CEST)
+Subject: [R-sig-genetics] Introduction to Statistics in R for biologists and
+ ecologists
+Message-ID: <1656520994.795632527@webmail.jimdo.com>
+
+
+Dear all,
+ 
+there are still a few seats available for the course "Introduction to Statistics in R for biologists and ecologists", which will be held online in September (19th-22nd).
+ 
+This course will introduce scientists and practitioners interested in applying statistical approaches in their daily routine using R as a working environment. Participants will be introduced into the mysteries of R and R Studio while learning how to perform common statistical analyses. After a short introduction on R and its principles, the focus will be on questions that could be addressed using common statistical analyses, both for descriptive statistics and for statistical inference.
+ 
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/course13/ ]( https://www.physalia-courses.org/courses-workshops/course13/ )
+ 
+ 
+Should you have any questions, please do not hesitate to contact us.
+ 
+Best regards,
+Angela
+ 
+
+
+Angela Balistreri
+
+info at physalia-courses.org
+[ http://www.physalia-courses.org/ ]( http://www.physalia-courses.org/ ) 
+mobile: +49 17645230846
+Follow us on [ Twitter ]( https://twitter.com/Physacourses )
+
+
+	[[alternative HTML version deleted]]
+
+
+From @wknud@en @end|ng |rom @nm@ku@dk  Thu Jun  2 09:07:18 2022
+From: @wknud@en @end|ng |rom @nm@ku@dk (Steen Wilhelm Knudsen)
+Date: Thu, 02 Jun 2022 07:07:18 -0000
+Subject: [R-sig-genetics] How to avoid overlapping pies when plotting
+ haplotype networks when using the packages 'pegas' and 'ape' in R
+Message-ID: <db93d0cadfe240d0a370cbcdc4526164@snm.ku.dk>
+
+
+Dear All subscribers of the R-sig-genetics Archives,
+
+I have a question to plotting haplotype networks using the packages 'pegas' and 'ape' in R.
+I often end up with overlapping pies for haplotypes, and appear unable to work around it by adjusting the 'scale.ratio' when making the plot.
+I could abstain from using the frequency of the haplotypes as determining the size of the pies. But I would prefer to keep this setting, so that the diagram ends up having circles that reflects the sample size. Instead I would like to know if I can adjust the length of the lines between the pies, and perhaps determine where the pies are to be positioned in the plot.
+My understanding of the lines between the pies is that these lines are adjusted in length to reflect the number of differences between the haplotypes. This is fine, but seems to prevent me from avoiding the pies being overlaid. I am happy to have incorrect lengths for the connecting lines, and can instead just use the option that adds a number on such a connecting line, a number that  informs how many differences there are between the haplotypes being connected by the line.
+I have had a go with the 'replot' function, but for some reason I can only select the same pie over and over again. Also, I would prefer to do the entire plotting by code alone. One of my motivations from switching away from 'Network', 'popart' and 'TCS' was to avoid all the clicking and moving around with pies.
+
+I have placed my input file here
+https://github.com/monis4567/Mnemiopsis_leidyi_in_NE_Atlantic/blob/main/suppmat01_inp_files/algn_Mnelei_18s_10.aligned.fasta.fas
+
+My R code for making a haplotype network with this input file can be found here
+https://github.com/monis4567/Mnemiopsis_leidyi_in_NE_Atlantic/blob/main/suppmat03_Rcodes/Rcode_example02_make_haplonet_v01.R
+
+
+
+Can anyone suggest me how I can adjust this code to get haplotype networks where pies do not overlap, or how I can adjust the length of the connecting lines, to avoid the pies overlapping. Or suggest me a different solution that can sort out my problem, but preferably let me solve the issue of presenting a diagram that is possible to read while performing all the coding in R, and not having to adjust the plot manually afterwards?
+
+Thanks in advance for your time and help,
+
+Steen Knudsen
+Natural History Museum of Denmark
+
+
+
+	[[alternative HTML version deleted]]
+
+

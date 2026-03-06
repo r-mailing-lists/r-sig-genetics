@@ -1,0 +1,200 @@
+From oliverhooker @ending from pr@t@ti@tic@@com  Thu Nov 29 17:49:51 2018
+From: oliverhooker @ending from pr@t@ti@tic@@com (Oliver Hooker)
+Date: Thu, 29 Nov 2018 16:49:51 +0000
+Subject: [R-sig-genetics] Advancing in R
+Message-ID: <CAEsSYzyFtPiXYYP4grBmRZ-i2-ZjvuBfBLcM-knGG9x9TT9dVA@mail.gmail.com>
+
+Advancing in statistical modelling for evolutionary biologists and
+ecologists using R (ADVR08)
+
+https://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr08/
+
+This course will be delivered by Dr. Luc Bussiere from the 21st 25th
+January 2019 in Glasgow City Centre
+Course Overview:
+This course will provide an introduction to working with real-life data
+typical of those encountered in the field of evolutionary biology and
+ecology. The course will be delivered by Dr. Luc Bussiere, Dr. Tom Houslay
+and Dr. Ane Timenes Laugen who are all practicing academics in the field of
+evolutionary biology.  This five day course will consist of series of
+modules (each lasting roughly half a day) covering model selection and
+simplification, generalised linear models, mixed effects models,  and
+non-linear models. Along the way you will gain in depth experience in data
+?wrangling?, data and model visualisation and plotting, as well as
+exploring and understanding model diagnostics.
+Classes will comprises of a mixture of lectures and practicals designed to
+either build required skills for future modules or to perform a family of
+analyses that is frequently encountered in the biological literature.
+Course programme
+Monday 21st ? Classes from 09:30 to 17:30
+Course introduction; techniques for data manipulation, aggregation, and
+visualisation; introduction to linear regression. Packages: {tidyr},
+{dplyr}, {ggplot2}
+Tuesday 22nd ? Classes from 09:30 to 17:30
+Linear models (diagnostics, collinearity, scaling, plotting fitted values);
+fitting and interpreting interaction terms; model selection and
+simplification; general linear models and ANCOVA.
+Packages: {stats}, {car}
+Wednesday 23rd ? Classes from 09:30 to 17:30
+Generalized linear models (logistic and Poisson regression); predicting
+using model objects and visualizing model fits. Packages: {broom},
+{visreg}, {ggplot2}
+Thursday 24th ? Classes from 09:30 to 17:30
+Mixed effects models in theory and practice; visualising fixed and random
+effects.
+Packages: {lme4}, {broom}, {ggplot2}, {sjPlot}
+Friday 25th ? Classes from 09:30 to 16:00
+Fitting nonlinear functions (polynomial & mechanistic models); brief
+introduction to more advanced topics & combining methods (e.g., generalised
+linear mixed effects, nonlinear mixed effects, and zero-inflated and
+zero-altered models). Packages: {nlsTools}
+Email oliverhooker at prstatistics.com
+Check out our sister sites,www.PRstatistics.com
+<http://www.prstatistics.com/> (Ecology and Life Sciences)
+www.PRinformatics.com <http://www.prinformatics.com/> (Bioinformatics and
+data science)www.PSstatistics.com <http://www.psstatistics.com/> (Behaviour
+and cognition)
+ 1.       November 26th ? 30th 2018FUNCTIONAL ECOLOGY FROM ORGANISM TO
+ECOSYSTEM: THEORY AND COMPUTATION (FEER01)Glasgow, Scotland, Dr. Francesco
+de Bello, Dr. Lars G?tzenberger, Dr. Carlos Carmona
+http://www.prstatistics.com/course/functional-ecology-from-organism-to-ecosystem-theory-and-computation-feer01/
+ 2.       December 3rd ? 7th 2018INTRODUCTION TO BAYESIAN DATA ANALYSIS FOR
+SOCIAL AND BEHAVIOURAL SCIENCES USING R AND STAN (BDRS01)Glasgow, Dr. Mark
+Andrews
+https://www.psstatistics.com/course/introduction-to-bayesian-data-analysis-for-social-and-behavioural-sciences-using-r-and-stan-bdrs01/
+ 3.       January 21st ? 25th 2019STATISTICAL MODELLING OF TIME-TO-EVENT
+DATA USING SURVIVAL ANALYSIS: AN INTRODUCTION FOR ANIMAL BEHAVIOURISTS,
+ECOLOGISTS AND EVOLUTIONARY BIOLOGISTS (TTED01)Glasgow, Scotland, Dr. Will
+Hoppitt
+https://www.psstatistics.com/course/statistical-modelling-of-time-to-event-data-using-survival-analysis-tted01/
+ 4.       January 21st ? 25th 2019ADVANCING IN STATISTICAL MODELLING USING
+R (ADVR08)Glasgow, Scotland, Dr. Luc Bussiere, Dr. Tom Houslay
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr08/
+ 5.       January 28th?  February 1st 2019AQUATIC ACOUSTIC TELEMETRY DATA
+ANALYSIS AND SURVEY DESIGNGlasgow, Scotland, VEMCO staff and affiliates
+https://www.prstatistics.com/course/aquatic-acoustic-telemetry-data-analysis-atda01/
+ 6.       February 4th ? 8th 2019DESIGNING RELIABLE AND EFFICIENT
+EXPERIMENTS FOR SOCIAL SCIENCES (DRES01) Glasgow, Scotland, Dr. Daniel
+Lakens
+https://www.psstatistics.com/course/designing-reliable-and-effecient-experiments-for-social-sciences-dres01/
+ 7.       February 11th ? 15th 2019REPRODUCIBLE DATA SCIENCE FOR POPULATION
+GENETICSGlasgow, Scotland, Dr. Thibaut Jombart, Dr. Zhain Kamvar
+https://www.prstatistics.com/course/reproducible-data-science-for-population-genetics-rdpg02/
+ 8.       25th February ? 1st March 2019MOVEMENT ECOLOGY (MOVE02)Margam
+Discovery Centre, Wales, Dr. Luca Borger, Prof. Ronny Wilson, Dr Jonathan
+Pottshttps://www.prstatistics.com/course/movement-ecology-move02/ 9.
+March 4th ? 8th 2019BIOACOUSTICS FOR ECOLOGISTS: HARDWARE, SURVEY DESIGN
+AND DATA ANALYSIS (BIAC01)Glasgow, Scotland, Dr. Paul Howden-Leach
+https://www.prstatistics.com/course/bioacoustics-for-ecologists-hardware-survey-design-and-data-analysis-biac01/
+ 10.    March 11th ? 15th  2019ECOLOGICAL NICHE MODELLING USING R
+(ENMR03)Glasgow,
+Scotland, Dr. Neftali Sillero
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr03/
+ 11.    March 18th ? 22nd 2019INTRODUCTION TO STATISTICS AND R FOR EVERYONE
+(IRFE01)Crete, GREECE, Dr Aristides (Aris) Moustakas
+https://www.prstatistics.com/course/introduction-to-statistics-and-r-for-anyone-irfe01/
+ 12.    March 25th ? 29th 2019LANDSCAPE GENETIC DATA ANALYSIS USING R
+(LNDG03)Glasgow, Scotland, Prof. Rodney Dyer
+http://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg03/
+ 13.   April 1st ? 5th 2019INTRODUCTION TO STATISTICAL MODELLING FOR
+PSYCHOLOGISTS USING R (IPSY01)Glasgow, Scotland, Dr. Dale Barr, Dr Luc
+Bussierre
+http://www.psstatistics.com/course/introduction-to-statistics-using-r-for-psychologists-ipsy02/
+ 14.   April 1st ? 5th 2019INDIVIDUAL BASED MODELS FOR ECOLOGSITS
+(IBME01)Glasgow,
+Scotland, Dr Aristides (Aris) Moustakas
+https://www.prstatistics.com/course/individual-based-models-using-r-and-netlogo-ibms01/
+ 15.   April 8th ? 12th 2019MACHINE LEARNING (MLUR01)Glasgow, Scotland, Dr
+Aristides (Aris) Moustakas
+https://www.prstatistics.com/course/machine-learning-using-r-mlur01/ 16.
+April 15th ? 19th 2019INTRODUCTION TO Q GIS FOR ECOLOGISTS (QGSE01)Glasgow,
+Scotland, Dr Luca Nelli
+https://www.prstatistics.com/course/introduction-to-qgis-for-ecologists-qgse01/
+ 17.   April 22nd ? 26th 2019GIS USING R (GISR)Glasgow, Scotland, Dr Luca
+Nellihttps://www.prstatistics.com/course/gis-using-r-gisr01/ 18.   April
+29th ? May 3rd 2019COMPARATIVE GENOMICS (CMGN01)Glasgow, Scotland, Dr.
+Fritz Sedlazeck, Dr. Matthias Weissensteiner
+https://www.prinformatics.com/course/comparative-genomics-cmgn01/ 19.   May
+6th ? 10th 2019 INTRODUCTION TO MULTILEVEL MODELS (MIXED/HIERARCHICAL) FOR
+PSYCHOLOGISTSMyuna Bay, AUSTRALIA,  Dr. Sean MurphyLink to follow 20.   May
+16th ? 18th 2019 (please note this a 3-day course from Thursday to
+Saturday)AQUATIC
+MOVEMENT ECOLOGY USING R (AMER01) Myuna Bay, AUSTRALIA, Dr. Ross Dwyer, Dr.
+Vinay UdyawerLink to follow 21.   May 16th ? 19th 2019 (please note this a
+4-day course from Thursday to Monday)INTRODUCTION TO R FOR EVERYONE
+(IRFE02)Myuna
+Bay, AUSTRALIA, Dr Aristides (Aris) Moustakas
+https://www.prstatistics.com/course/introduction-to-statistics-and-r-for-anyone-irfe02/
+ 22.   May 20th ? 24th 2019MODEL BASE MULTIVARIATE ANALYSIS OF ABUNDANCE
+DATA USING R (MBMV03)Myuna Bay, AUSTRALIA, Prof. David Warton
+https://www.prstatistics.com/course/model-based-multivariate-analysis-of-abundance-data-using-r-mbmv03/
+ 23.   May 21st ? 24th 2019STATISTICAL TOOL BOX FOR ECOLOGISTS (STKE01)Myuna
+Bay, AUSTRALIA, Dr Aristides (Aris) Moustakas
+https://www.prstatistics.com/course/statistical-toolkit-for-ecologists-stke01/
+ 24.   June 10th ? 14th 2019STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER
+AND MIXSIAR (SIMM04)Glasgow, Scotland, Dr. Andrew Parnell, Dr. Andrew
+Jackson
+www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm04/ 25.
+June 17th ? 21st 2019SPATIAL MODELLING AND ANALYSIS OF ADAPTIVE GENOMIC
+VARIATION (SPGN01)Glasgow, Dr. Matt Fitzpatrick
+https://www.prstatistics.com/course/spatial-modelling-and-analysis-of-adaptive-genomic-variation-spgn01/
+ 26.   June 17th ? 21st 2019INTRODUCTION TO PYTHON FOR BIOLOGISTS
+(IPYB06)Glasgow,
+Scotland, Dr. Martin Jones
+http://www.prinformatics.com/course/introduction-to-python-for-biologists-ipyb06/
+ 27.   June 24th ? 28th 2019ADVANCED PYTHON FOR BIOLOGISTS (APYB03)Glasgow,
+Scotland, Dr. Martin Jones
+www.prinformatics.com/course/advanced-python-biologists-apyb03/ 28.    July
+1st ? 5th 2019DATA VISUALISATION AND MANIPULATION USING PYTHON (DVMP01)Glasgow,
+Scotland, Dr. Martin Jones
+http://www.prinformatics.com/course/data-visualisation-and-manipulation-using-python-dvmp01/
+ 29.    July 29th ? August 2nd 2019INTRODUCTION TO SPATIAL ANALYSIS OF
+ECOLOGICAL DATA USING R (ISPE01)Glasgow, Scotland, Dr. Jakub Nowosad
+https://www.prstatistics.com/course/introduction-to-spatial-analysis-of-ecological-data-using-r-ispe01/
+ 30.    September 16th ? 20th 2019R PACKAGE DESIGN AND DEVELOPMENT AND
+REPRODUCIBLE DATA SCIENCE FOR BIOLOGISTS (RPKG01)Glasgow, Scotland, Dr.
+Cory Merow, Dr. Andy Rominger
+https://www.prstatistics.com/course/r-package-design-and-development-and-reproducible-data-science-for-biologists-rpkg01/
+ 31.   September 30th ? October 4th 2019GEOMETRIC MORPHOMETRICS USING R
+(GMMR02)Glasgow, Scotland, Prof. Dean Adams, Prof. Michael Collyer, Dr.
+Antigoni Kaliontzopoulou
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr02/
+32.
+October 7th ? 11th 2019CONSERVATION PLANNING USING PRIORITIZR : FROM THEORY
+TO PRACTICE (PRTZ01)Crete, GREECE, Dr Richard Schuster and Nina Morell
+https://www.prstatistics.com/course/conservation-planning-using-prioritizr-from-theory-to-practice-prtz01/
+ 33.   October 21st ? 25th 2019A COMPLETE GUIDE TO MIXED MODELS (INCLUDING
+TEMPORAL AND SPATIAL AUTOCORRELATION) (MMTS01) Crete, GREECE, Dr Aristides
+(Aris) Moustakas
+https://www.prstatistics.com/course/a-complete-guide-to-mixed-models-including-temporal-and-spatial-autocorrelation-mmts01/
+
+<
+...
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+2018 publications -
+Alternative routes to piscivory: Contrasting growth trajectories in brown
+trout (Salmo trutta) ecotypes exhibiting contrasting life history
+strategies. Ecology of Freshwater Fish.
+
+Phenotypic and resource use partitioning amongst sympatric lacustrine brown
+trout, Salmo trutta. Biological Journal of the Linnean Society. DOI
+10.1093/biolinnean/bly032
+
+prstatistics.com
+facebook.com/prstatistics/
+twitter.com/PRstatistics
+groups.google.com/d/forum/pr-statistics-post-course-forum
+prstatistics.com/organiser/oliver-hooker/
+
+6 Hope Park Crescent
+Edinburgh
+EH8 9NA
++44 (0) 7966500340
+
+	[[alternative HTML version deleted]]
+
+

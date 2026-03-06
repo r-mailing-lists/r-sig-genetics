@@ -1,0 +1,30 @@
+From f.calboli at imperial.ac.uk  Wed Feb 29 15:52:49 2012
+From: f.calboli at imperial.ac.uk (Federico Calboli)
+Date: Wed, 29 Feb 2012 14:52:49 +0000
+Subject: [R-sig-genetics] MultiPhen 0.3 is available on CRAN
+Message-ID: <2E564738-5A6E-428B-9A44-77FEFF9057B7@imperial.ac.uk>
+
+Dear All,
+
+a new version of MultiPhen (0.3) is available on CRAN, and will be available to a mirror near you soon. 
+
+*Please upgrade* because this release is a bug fix release. A new version, with improvements in the output and more useful error messages is basically ready, but I will wait to release it until next week to add other possible improvements.
+
+For all asking for the related paper, Paul should be ready with the final draft 'soon'.
+
+Cheers
+
+Federico
+
+--
+Federico C. F. Calboli
+Neuroepidemiology and Ageing Research
+Imperial College, St. Mary's Campus
+Norfolk Place, London W2 1PG
+
+Tel +44 (0)20 75941602   Fax +44 (0)20 75943193
+
+f.calboli [.a.t] imperial.ac.uk
+f.calboli [.a.t] gmail.com
+
+

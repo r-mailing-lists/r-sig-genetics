@@ -1,0 +1,162 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2024-08",
+  "messages": [
+    {
+      "id": "msg-68b5477c42e6",
+      "message_id": "<CAFEsyOwo9DsRcgWY2EsbU=ouUf65BA+Un9UxWc=GK-gqEFuXPw@mail.gmail.com>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2024-08-06T17:58:24+10:00",
+      "subject": "[R-sig-genetics] Dimension Reduction for Complex Datasets - livestream seminar",
+      "subject_clean": "Dimension Reduction for Complex Datasets - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is offering a new 1-day workshop on Dimension Reduction Methods for\nComplex Datasets\n<https://instats.org/seminar/dimension-reduction-methods-for-life-sciences-2494>\nby professor Nikolay Oskolkov from Lund University, running August 12. This\nseminar provides a comprehensive overview of dimension reduction techniques\nin R (and Python) for high-dimensional biological and other forms of\ndisease related data, focusing on their practical applications.\nParticipants will gain theoretical knowledge and practical experience in\nlinear and nonlinear methods such as tSNE and UMAP -- unlike PCA and factor\nanalysis, these methods allow for nonlinear solutions. By the conclusion of\nthe seminar, participants will understand the theoretical and practical\nfoundations of these methods, with a wealth of examples that can be rapidly\napplied for their own research problems.\n\nSign up today\n<https://instats.org/seminar/dimension-reduction-methods-for-life-sciences-2494>\nto secure your spot in this exciting workshop and learn the intricacies of\ndata reduction for complex datasets using the most popular techniques\navailable today.\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\n*instats.org* <http://instats.org>\n<http://instats.org>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is offering a new 1-day workshop on Dimension Reduction Methods for\nComplex Datasets\n<https://instats.org/seminar/dimension-reduction-methods-for-life-sciences-2494>\nby professor ",
+      "thread_id": "thread-68b5477c42e6",
+      "thread_depth": 0,
+      "month": "2024-08"
+    },
+    {
+      "id": "msg-2a23803adae7",
+      "message_id": "<1723399775.222331652@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-08-11T20:09:35+02:00",
+      "subject": "[R-sig-genetics] Course: Online.PopulationGenomics.25-29 November",
+      "subject_clean": "Course: Online.PopulationGenomics.25-29 November",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are excited to inform you that registrations are now open for our upcoming online course, Introduction to Population Genomics, taking place from November 25-29. Designed to foster international participation, this 5-day course offers a unique opportunity to learn cutting-edge techniques and concepts in population genomics .\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/population-genomics/ ]( https://www.physalia-courses.org/courses-workshops/population-genomics/ ) \n \n Through a combination of lectures and hands-on workshops, you'll gain both theoretical knowledge  and practical skills  in topics such as:\nBasic Bioinformatics: Learn to handle large sequencing data.\nPopulation Structure & Introgression: Explore methods for detecting genetic clusters and introgression.\nDemographic Modeling: Reconstruct past population changes using advanced modeling techniques.\nGenome Scanning: Conduct Genome-Wide Association Studies (GWAS) and detect selective sweeps.\nLandscape Genomics: Understand gene flow in relation to geographical and environmental barriers.\nYou?ll actively engage with practical exercises and have the opportunity to discuss any challenges with our expert instructors. The course is structured to provide you with a global overview of population genomics methods and their real-world applications.\n \nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/population-genomics/ )\n \nBest regards,\nCarlo\n \n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are excited to inform you that registrations are now open for our upcoming online course, Introduction to Population Genomics, taking place from November 25-29. Designed to foster interna",
+      "thread_id": "thread-2a23803adae7",
+      "thread_depth": 0,
+      "month": "2024-08"
+    },
+    {
+      "id": "msg-c459fc59bc8d",
+      "message_id": "<CAFEsyOyyPM82ryS2kbUgerZahPkZTZWg9YpgXiZXYCKY1ykcTw@mail.gmail.com>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2024-08-13T22:26:39+10:00",
+      "subject": "[R-sig-genetics] Analysis of DNA Methylation - livestream seminar",
+      "subject_clean": "Analysis of DNA Methylation - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is offering a new 3-day seminar on the Analysis of DNA Methylation\nby professor Aline Muyle, running September 18 - 20. This three-day\nworkshop provides comprehensive training in the analysis of DNA\nmethylation, a key epigenetic modification influencing gene expression and\ncontrolling the spread of transposable elements in genomes. Participants\nwill gain theoretical knowledge and practical skills in data preprocessing,\nstatistical analysis, and visualization using RStudio and various\nbioinformatic software using Bash scripts. The workshop is suited for\nresearchers across a broad range of fields, including Biostatistics,\nBiology, Genetics, Ecology, Evolution, Bioinformatics, Molecular Biology,\nand Medical Research.\n\nSign up today <http://Analysis of DNA Methylation> to reserve your spot and\nplease feel free to tell your friends and colleagues. We hope to see you\nthere!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\n*instats.org* <http://instats.org>\n<http://instats.org>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is offering a new 3-day seminar on the Analysis of DNA Methylation\nby professor Aline Muyle, running September 18 - 20. This three-day\nworkshop provides comprehensive training in ",
+      "thread_id": "thread-c459fc59bc8d",
+      "thread_depth": 0,
+      "month": "2024-08"
+    },
+    {
+      "id": "msg-bab17d7e65dc",
+      "message_id": "<CAFEsyOyFc=4B-ZD_vsDUphb=0hqauZ_EMJUXxCikA6-wU09oFw@mail.gmail.com>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2024-08-13T22:46:20+10:00",
+      "subject": "[R-sig-genetics]  Analysis of DNA Methylation - livestream seminar",
+      "subject_clean": "Analysis of DNA Methylation - livestream seminar",
+      "in_reply_to": "<CAFEsyOyyPM82ryS2kbUgerZahPkZTZWg9YpgXiZXYCKY1ykcTw@mail.gmail.com>",
+      "references": [
+        "<CAFEsyOyyPM82ryS2kbUgerZahPkZTZWg9YpgXiZXYCKY1ykcTw@mail.gmail.com>"
+      ],
+      "body_plain": "Hi everyone\n\nApologies, the link in my previous email was incorrect, the correct link is\nas follows:\n\nhttps://instats.org/seminar/analysis-of-dna-methylation2\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\n*instats.org* <http://instats.org>\n<http://instats.org>\n\n\nOn Tue, 13 Aug 2024 at 22:26, Michael Zyphur <mzyphur at instats.org> wrote:\n\n> Hi everyone\n>\n> Instats is offering a new 3-day seminar on the Analysis of DNA Methylation\n> <http://Analysis%20of%20DNA%20Methylation> by professor Aline Muyle,\n> running September 18 - 20. This three-day workshop provides comprehensive\n> training in the analysis of DNA methylation, a key epigenetic modification\n> influencing gene expression and controlling the spread of transposable\n> elements in genomes. Participants will gain theoretical knowledge and\n> practical skills in data preprocessing, statistical analysis, and\n> visualization using RStudio and various bioinformatic software using Bash\n> scripts. The workshop is suited for researchers across a broad range of\n> fields, including Biostatistics, Biology, Genetics, Ecology, Evolution,\n> Bioinformatics, Molecular Biology, and Medical Research.\n>\n> Sign up today <http://Analysis%20of%20DNA%20Methylation> to reserve your\n> spot and please feel free to tell your friends and colleagues. We hope to\n> see you there!\n>\n>\n> Best wishes\n>\n> Michael Zyphur\n> Director\n> Institute for Statistical and Data Science\n> *instats.org* <http://instats.org>\n> <http://instats.org>\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nApologies, the link in my previous email was incorrect, the correct link is\nas follows:\n\nhttps://instats.org/seminar/analysis-of-dna-methylation2\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nIn",
+      "thread_id": "thread-c459fc59bc8d",
+      "thread_depth": 1,
+      "month": "2024-08"
+    },
+    {
+      "id": "msg-ba252607f9e4",
+      "message_id": "<CAEsSYzw==Y6=djBLx1QoQk2mKGMfL+eCobZCXdF3Dz7QudM4Dw@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2024-08-14T22:22:08+01:00",
+      "subject": "[R-sig-genetics] ONLINE COURSE – Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR06)",
+      "subject_clean": "ONLINE COURSE – Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR06)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR06)\n\nWe only have 4 places left on our next edition on Multivariate Analysis Of\nEcological Communities Using R With The VEGAN package.\n\nhttps://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr06/\n\n18-22 September 2024\n\nPlease feel free to share!\n\nThis 5-day course will cover R concepts, methods, and tools that can be\nused to analyze community ecology data. The course will review data\nprocessing techniques relevant to multivariate data sets. We will cover\ndiversity indices, distance measures and distance-based multivariate\nmethods, clustering, classification and ordination techniques using the R\npackage VEGAN. We will use real-world empirical data sets to motivate\nanalyses, such as describing patterns along gradients of environ-mental or\nanthropogenic disturbances, quantifying the effects of continuous and\ndiscrete predictors. We will emphasise visualisation and reproducible\nworkflows as well as good programming practices. The modules will consist\nof introductory lectures, guided computer coding, and participant\nexercises. The course is intended for intermediate users of R who are\ninterested in community ecology, particularly in the areas of terrestrial\nand wetland ecology, microbial ecology, and natural resource management.\nYou are strongly encouraged to use your own data sets (they should be clean\nand already structured, see the document: ?recommendation if you\nparticipate with your data?.\n\nPlease email oliverhooker at prstatistics.com with any questions\n\nUpcoming courses\nONLINE COURSE ? Reproducible and collaborative data analysis with R\n(RACR03) This course will be delivered live\n<https://www.prstats.org/course/reproducible-and-collaborative-data-analysis-with-r-racr03/>\nONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR06) This course will be delivered live\n<https://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the-vegan-package-vgnr06/>\nONLINE COURSE ? Hidden Markov Models for movement, acceleration and other\necological data ? an introduction using moveHMM and momentuHMM in R\n(HMMM01) This course will be delivered live\n<https://www.prstats.org/course/hidden-markov-models-for-movement-acceleration-and-other-ecological-data-hmmm01/>\nONLINE COURSE ? Time Series Analysis and Forecasting using R and Rstudio\n(TSAF01) This course will be delivered live\n<https://www.prstats.org/course/time-series-analysis-and-forecasting-using-r-and-rstudio-tsaf01/>\nONLINE COURSE ? Remote sensing data analysis and coding in R for ecology\n(RSDA01) This course will be delivered live\n<https://www.prstats.org/course/remote-sensing-data-analysis-and-coding-in-r-for-ecology-rsda01/>\nONLINE COURSE ? Introduction to Metabarcoding and Metagenomics Analysis\n(IMAM01) This course will be delivered live\n<https://www.prstats.org/course/introduction-to-metabarcoding-and-metagenomics-analysis-imam01/>\nONLINE COURSE ? Bioacoustics Data Analysis using R and Studio (BIAC04) This\ncourse will be delivered live\n<https://www.prstats.org/course/bioacoustics-data-analysis-biac04/>\nONLINE COURSE ? Metabarcoding Pipelines for Eukariotic Communities (MPEC01)\nThis course will be delivered live\n<https://www.prstats.org/course/metabarcoding-pipelines-for-eukariotic-communities-mpec01/>\nONLINE COURSE ? Genome Assembly and Annotation (GAAA01) This course will be\ndelivered live\n<https://www.prstats.org/course/genome-assembly-and-annotation-gaaa01/>\nIN PERSON COURSE ? Hierarchical modelling in ecology (HMIE01) (Universit?\nde Sherbrooke, Canada)\n<https://www.prstats.org/course/hierarchical-modelling-in-ecology-hmie01/>\nONLINE COURSE ? Introduction to Machine Learning using R and Rstudio\n(IMLR02) This course will be delivered live\n<https://www.prstats.org/course/introduction-to-machine-learning-using-r-and-rstudio-imlr02/>\nONLINE COURSE ? Introduction to Single Cell Analysis (ISCA01) This course\nwill be delivered live\n<https://www.prstats.org/course/introduction-to-single-cell-analysis-isca01/>ONLINE\nCOURSE ? Using Google Earth Engine in Ecological Studies (GEEE01) This\ncourse will be delivered live\n<https://www.prstats.org/course/using-google-earth-engine-in-ecological-studies-geee01/>\nONLINE COURSE ? Species Distribution Modelling With Bayesian Statistics\nUsing R (SDMB06) This course will be delivered live\n<https://www.prstats.org/course/online-course-species-distribution-modelling-with-bayesian-statistics-using-r-sdmb06/>\n\n-- \nBest wishes,\n\nOliver\n\nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR06)\n\nWe only have 4 places left on our next edition on Multivariate Analysis Of\nEcological Communiti",
+      "thread_id": "thread-ba252607f9e4",
+      "thread_depth": 0,
+      "month": "2024-08"
+    },
+    {
+      "id": "msg-9f2de5717280",
+      "message_id": "<6DUT7oiCSjWlYlodtuxpEg@geopod-ismtpd-8>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2024-08-21T08:20:00Z",
+      "subject": "[R-sig-genetics] Machine Learning for Computational Biology - livestream seminar",
+      "subject_clean": "Machine Learning for Computational Biology - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20240821/7c60287c/attachment.html>",
+      "body_snippet": "An HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20240821/7c60287c/attachment.html>",
+      "thread_id": "thread-9f2de5717280",
+      "thread_depth": 0,
+      "month": "2024-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-68b5477c42e6",
+      "subject": "Dimension Reduction for Complex Datasets - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2024-08-06T17:58:24+10:00",
+      "last_reply": "2024-08-06T17:58:24+10:00",
+      "root_message_id": "msg-68b5477c42e6"
+    },
+    {
+      "id": "thread-2a23803adae7",
+      "subject": "Course: Online.PopulationGenomics.25-29 November",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-08-11T20:09:35+02:00",
+      "last_reply": "2024-08-11T20:09:35+02:00",
+      "root_message_id": "msg-2a23803adae7"
+    },
+    {
+      "id": "thread-c459fc59bc8d",
+      "subject": "Analysis of DNA Methylation - livestream seminar",
+      "message_count": 2,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2024-08-13T22:26:39+10:00",
+      "last_reply": "2024-08-13T22:46:20+10:00",
+      "root_message_id": "msg-c459fc59bc8d"
+    },
+    {
+      "id": "thread-ba252607f9e4",
+      "subject": "ONLINE COURSE – Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR06)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2024-08-14T22:22:08+01:00",
+      "last_reply": "2024-08-14T22:22:08+01:00",
+      "root_message_id": "msg-ba252607f9e4"
+    },
+    {
+      "id": "thread-9f2de5717280",
+      "subject": "Machine Learning for Computational Biology - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2024-08-21T08:20:00+00:00",
+      "last_reply": "2024-08-21T08:20:00+00:00",
+      "root_message_id": "msg-9f2de5717280"
+    }
+  ]
+}

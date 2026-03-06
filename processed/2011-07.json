@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2011-07",
+  "messages": [
+    {
+      "id": "msg-414a3fcc162f",
+      "message_id": "<889CF5E5-4BF8-47E2-A827-F618A14F8631@imperial.ac.uk>",
+      "from_name": "Federico Calboli",
+      "from_email_hash": "a8bbf369f348bd87d0af37612627264a6c22cc2852a56c36e1457f3a5c80f6d6",
+      "date": "2011-07-12T17:45:45+01:00",
+      "subject": "[R-sig-genetics] package MultiPhen",
+      "subject_clean": "package MultiPhen",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear All,\n\nthe new package MultiPhen is up. The latest version is 0.2, which should be available in a couple of days from a CRAN mirror near to you. MultiPhen performs genetic association tests between SNPs (one-at-a-time) and multiple phenotypes (separately or in joint model). So far it deals with SNPs, called or imputed, CNV and raw calls will be added in future releases.\n\nbw\n\nFederico\n\n--\nFederico C. F. Calboli\nDepartment of Epidemiology and Biostatistics\nImperial College, St. Mary's Campus\nNorfolk Place, London W2 1PG\n\nTel +44 (0)20 75941602   Fax +44 (0)20 75943193\n\nf.calboli [.a.t] imperial.ac.uk\nf.calboli [.a.t] gmail.com",
+      "body_snippet": "Dear All,\n\nthe new package MultiPhen is up. The latest version is 0.2, which should be available in a couple of days from a CRAN mirror near to you. MultiPhen performs genetic association tests betwee",
+      "thread_id": "thread-414a3fcc162f",
+      "thread_depth": 0,
+      "month": "2011-07"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-414a3fcc162f",
+      "subject": "package MultiPhen",
+      "message_count": 1,
+      "participants": [
+        "Federico Calboli"
+      ],
+      "started": "2011-07-12T17:45:45+01:00",
+      "last_reply": "2011-07-12T17:45:45+01:00",
+      "root_message_id": "msg-414a3fcc162f"
+    }
+  ]
+}

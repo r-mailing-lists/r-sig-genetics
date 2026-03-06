@@ -1,0 +1,288 @@
+From emm@nue|@p@r@d|@ @end|ng |rom |rd@|r  Thu Feb 27 04:46:29 2020
+From: emm@nue|@p@r@d|@ @end|ng |rom |rd@|r (Emmanuel Paradis)
+Date: Thu, 27 Feb 2020 04:46:29 +0100 (CET)
+Subject: [R-sig-genetics] 
+ [R-sig-phylo] PEGAS: assignment to haplotype when
+ missing information
+In-Reply-To: <1357300703.1381289.1582709715439.JavaMail.zimbra@ird.fr>
+References: <030BFC7D5695EC46B95C02408B5B24AD01B0A9C5BE@MBXP06.ds.man.ac.uk>
+ <1357300703.1381289.1582709715439.JavaMail.zimbra@ird.fr>
+Message-ID: <754605724.54117.1582775189904.JavaMail.zimbra@ird.fr>
+
+(Cc. to r-sig-genetics)
+
+I'm going to modify the algorithm in haplotype.DNAbin() as follows:
+
+1. Find the sequences that are exactly identical, so that, eg, the 3 sequences:
+
+A-
+AR
+AA
+
+would be treated as different at this step.
+
+2. Substitute the leading and trailing "-" for N (thus keeping the alignment gaps only in the 'middle' of sequences).
+
+3. Compute the Hamming distances among haplotypes using 5 states (A, G, C, T, and "-") and ambiguities so that, eg, d(A,R)=0, d(G,R)=0, d(A,G)=1, and so on.
+
+4. If all these distances > 0 then exit.
+
+5. Examine each haplotype and its distances to the others:
+
+5a. If there is only one distance = 0, then pool them in a single haplotype and give a warning.
+
+5b. If two or more distances are equal to zero, then keep them separate and give a message (possibly attached to the returned object).
+
+
+There could be options to control this algorithm:
+- exit after step 1.
+- ignore step 2.
+
+At step 5, it seems to make sense to start with the "shortest" sequences and pool them with the "longer" ones, ie, "A-" would be pooled with "AA".
+
+Comments and suggestions are welcome.
+
+Best,
+
+Emmanuel
+
+----- Le 26 F?v 20, ? 16:35, Emmanuel Paradis emmanuel.paradis at ird.fr a ?crit :
+
+> Hi Hirra,
+> 
+> The assignment is not random, it follows the order of the sequences in the data:
+> 
+> - Seqs. A and B are compared and found to be identical so they are both assigned
+> to haplotype I.
+> - Seq. C is compared to haplotype I (effectively seq. A) and found to be
+> different so it is assigned to haplotype II.
+> - Seq. D is compared to haplotype I and found to be similar and so assigned to
+> haplotype I.
+> 
+> If you reorder your data and put Seq. C first, you'd obtain that C and D are
+> assigned to the same haplotype. The same issue occurs with ambiguous bases.
+> 
+> These situations certainly deserve to have an option to haplotype() to handle
+> them properly.
+> 
+> Best,
+> 
+> Emmanuel
+> 
+> ----- Le 25 F?v 20, ? 19:31, Hirra Farooq hirra.farooq at postgrad.manchester.ac.uk
+> a ?crit :
+> 
+>> Hello,
+>> 
+>> I am using the pegas R package to assign sequences into haplotypes.
+>> 
+>> I recently tried out a test examples with 4 sequences. 2 of the sequences (A and
+>> B) are identical, 1 sequence (Seq C) differs from these at only one position
+>> (pos 648).
+>> The 4th sequence (Seq D) is identical to all but shorter so has no residues at
+>> the determinant position 648. (See image below)
+>> 
+>> So correctly pegas assigns A and B to haplotype I and C to haplotype II. However
+>> it also assigns D to I, despite there being no information at which residue is
+>> at the determinant position.
+>> 
+>> I just wanted to know in such cases as D when there is missing information, does
+>> pegas just randomly assign to a haplotype?
+>> 
+>> 
+>> 
+>> 
+>>    aln (633..663)                  names
+>> [A] CCCGATTTTATATCAACATTTATTT------
+>> [D] CCCGATTTT----------------------
+>> [B] CCCGATTTTATATCAACATTTATTT------
+>> [C] CCCGATTTTATATCACCATTTATTTTGATTT
+>> 
+>> 
+>> Thanks and best wishes,
+>> Hirra
+>> University of Manchester Student.
+>> 
+>>	[[alternative HTML version deleted]]
+>> 
+>> _______________________________________________
+>> R-sig-phylo mailing list - R-sig-phylo at r-project.org
+>> https://stat.ethz.ch/mailman/listinfo/r-sig-phylo
+>> Searchable archive at http://www.mail-archive.com/r-sig-phylo at r-project.org/
+> 
+> _______________________________________________
+> R-sig-phylo mailing list - R-sig-phylo at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-phylo
+> Searchable archive at http://www.mail-archive.com/r-sig-phylo at r-project.org/
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Fri Feb 28 14:41:06 2020
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Fri, 28 Feb 2020 13:41:06 +0000
+Subject: [R-sig-genetics] Introduction to Bayesian hierarchical modelling
+ using R (IBHM04)
+Message-ID: <CAEsSYzzTOBfOZvhV+Z_7C-GJ8TJpywYWZq6pwTTu-APDrYPwgw@mail.gmail.com>
+
+Introduction to Bayesian hierarchical modelling using R (IBHM04)
+
+https://www.psstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm04/
+
+Please feel free to share!
+
+This course will be delivered by Dr Andrew Parnell form the 23rd -
+27th March in Glasgow City Centre.
+
+Course Overview:
+This course will cover introductory hierarchical modelling for
+real-world data sets from a Bayesian perspective. These methods lie at
+the forefront of statistics research and are a vital tool in the
+scientist?s toolbox. The course focuses on introducing concepts and
+demonstrating good practice in hierarchical models. All methods are
+demonstrated with data sets which participants can run themselves.
+Participants will be taught how to fit hierarchical models using the
+Bayesian modelling software Jags and Stan through the R software
+interface. The course covers the full gamut from simple regression
+models through to full generalised multivariate hierarchical
+structures. A Bayesian approach is taken throughout, meaning that
+participants can include all available information in their models and
+estimates all unknown quantities with uncertainty. Participants are
+encouraged to bring their own data sets for discussion with the course
+tutors.
+
+Monday 8th ? Classes from 09:00 to 17:00
+
+Module 1: Introduction to Bayesian Statistics
+Module 2: Linear and generalised linear models (GLMs)
+Practical: Using R, Jags and Stan for fitting GLMs
+Round table discussion: Understanding Bayesian models
+
+Tuesday 9th ? Classes from 09:00 to 17:00
+
+Module 3: Simple hierarchical regression models
+Module 4: Hierarchical models for non-Gaussian data
+Practical: Fitting hierarchical models
+Round table discussion: Interpreting hierarchical model output
+
+Wednesday 10th ? Classes from 09:00 to 17:00
+
+Module 5: Hierarchical models vs mixed effects models
+Module 6:  Multivariate and multi-layer hierarchical models
+Practical: Advanced examples of hierarchical models
+Round table discussion: Issues of continuous vs discrete time
+
+Thursday 11th ? Classes from 09:00 to 16:00
+
+Module 7: Shrinkage and variable selection
+Module 8: Hierarchical models and partial pooling
+Practical: Shrinkage modelling
+Round table discussion Bring your own data set
+
+Friday 12th ? Classes from 09:00 to 16:00
+
+Final day for recap session, catch up time and bring your own data set
+
+
+Email oliverhooker at PSstatistics.com
+
+Check out our sister sites,
+www.PRstatistics.com (Ecology and Life Sciences)
+www.PRstatistics.com/consultancy (Statistical and bioinformatics
+consultancy in all fields)
+www.PRinformatics.com (Bioinformatics and data science)
+www.PSstatistics.com (Behaviour and cognition)
+
+
+1. March 23rd ? 27th
+INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING USING R (IBHM04)
+Glasgow, Scotland, Dr Andrew Parnell
+https://www.psstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm04/
+
+2. March 30th ? April 3rd
+INTRODUCTION TO STATISTICAL MODELLING FOR PSYCHOLOGISTS IN R (IPSY03)
+Glasgow, Scotland, Dr Dale Barr
+https://www.psstatistics.com/course/introduction-to-statistics-using-r-for-psychologists-ipsy03/
+
+3. May 4th ? May 8th
+PYTHON FOR DATA SCIENCE, MACHINE LEARNING, AND SCIENTIFIC COMPUTING (PDMS02)
+Glasgow, Scotland, Dr. Mark Andrews
+https://www.prinformatics.com/course/python-for-data-science-machine-learning-and-scientific-computing-pdms02/
+
+4. May 11th ? 15th
+BIOINFORMATICS WITH LINUX WITH PYTHON (BILP01)
+Glasgow, Scotland, Dr. Martin Jones
+https://www.prinformatics.com/course/introduction-to-linux-workflows-for-biologists-ibul04/
+
+5. May 11th ? 15th
+FORMALIZING UNCERTAINTY: FUZZY LOGIC IN SPECIES DISTRIBUTION AND
+DIVERSITY PATTERNS (FLDM01)
+Glasgow, Scotland, Dr. Marcia Barbosa
+https://www.prstatistics.com/course/formalizing-uncertainty-fuzzy-logic-in-species-distribution-and-diversity-patterns-fldm01/
+
+6. May 18th ? 22nd
+STRUCTUAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY BIOLOGISTS (SEMR02)
+Glasgow, Scotland, Dr. Jonathan Lefcheck, Dr. Jim (ames) Grace
+https://www.prstatistics.com/course/structural-equation-modelling-for-ecologists-and-evolutionary-biologists-semr02/
+
+7. May 25th ? 29th
+GENERALISED LINEAR (MIXED) (GLMM), NONLINEAR (NLGLM) AND GENERAL
+ADDITIVE MODELS (MIXED) (GAMM) (GNAM01)
+Glasgow, Scotland, Dr Mark Andrews
+https://www.psstatistics.com/course/generalised-linear-glm-nonlinear-nlglm-and-general-additive-models-gam-gnam02/
+
+8. June 1st ? 5th
+LANDSCAPE GENETIC DATA ANALYSIS USING R (LNDG03)
+Glasgow, Scotland, Prof. Rodney Dyer
+http://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg04/
+
+9. June 8th ? 12th
+STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR (SIMM06)
+Glasgow, Scotland, Dr. Andrew Parnell, Dr. Andrew Jackson
+www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm06/
+
+10. June 17th ? 21st
+ADVANCED PYTHON FOR BIOLOGISTS (APYB04)
+Glasgow, Scotland, Dr. Martin Jones
+www.prinformatics.com/course/advanced-python-biologists-apyb04/
+
+11. July 20th ? 24th
+APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS (ABME06)
+Glasgow, Scotland, Dr Matt Denwood
+https://www.prstatistics.com/course/applied-bayesian-modelling-for-ecologists-and-epidemiologists-abme06/
+
+12. July 27th ? 31st
+SPECIES DISTRIBUTION MODELLING (DBMR01)
+Glasgow, Scotland, Dr Matt Fitzpatrick
+www.prstatistics.com/course/species-distribution-models-using-r-sdmr01/
+
+13. October 5th ? 9th
+ECOLOGICAL NICHE MODELLING USING R (ENMR04)
+Glasgow, Scotland, Dr. Neftali Sillero
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr04/
+
+14. October 11th ? 16th
+ADVANCED ECOLOGICAL NICHE MODELLING USING R (ABNMR01)
+Glasgow, Scotland, Dr. Neftali Sillero
+http://www.prstatistics.com/course/advanced-ecological-niche-modelling-using-r-anmr01/
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+2019 publications;
+
+A way forward with eco evo devo: an extended theory of resource
+polymorphism with postglacial fishes as model systems. Biological
+Reviews (2019).
+
+prstatistics.com
+facebook.com/prstatistics/
+twitter.com/PRstatistics
+groups.google.com/d/forum/pr-statistics-post-course-forum
+prstatistics.com/organiser/oliver-hooker/
+
+53 Morrison Street
+Glasgow
+G5 8LB
++44 (0) 7966500340
+
+

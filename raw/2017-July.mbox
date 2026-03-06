@@ -1,0 +1,595 @@
+From oliverhooker at prstatistics.com  Wed Jul 19 14:13:24 2017
+From: oliverhooker at prstatistics.com (Oliver Hooker)
+Date: Wed, 19 Jul 2017 13:13:24 +0100
+Subject: [R-sig-genetics] Course on Bayesian modelling
+Message-ID: <bd9b6bc796ba64c7e323efd24b096136@prstatistics.com>
+
+This course may be of interest to list members - apologies for cross 
+posting.
+
+Applied Bayesian modelling for ecologists and epidemiologists (ABME03)
+
+Delivered by Dr. Matt Denwood and Prof. Jason Matthiopoulos
+
+http://www.prstatistics.com/course/applied-bayesian-modelling-ecologists-epidemiologists-abme03/
+
+This 6 day course will run from 20th ? 25th November 2017 at SCENE 
+field station, Loch Lomond national park, Scotland.
+
+This application-driven course will provide a founding in the basic 
+theory & practice of Bayesian statistics, with a focus on MCMC modelling 
+for ecological & epidemiological problems.
+
+Starting from a refresher on probability & likelihood, the course will 
+take students all the way to cutting-edge applications such as 
+state-space population modelling & spatial point-process modelling. By 
+the end of the week, you should have a basic understanding of how common 
+MCMC samplers work and how to program them, and have practical 
+experience with the BUGS language for common ecological and 
+epidemiological models.  The experience gained will be a sufficient 
+foundation enabling you to understand current papers using Bayesian 
+methods, carry out simple Bayesian analyses on your own data and 
+springboard into more elaborate applications such as dynamical, spatial 
+and hierarchical modelling.
+
+Course content is as follows
+
+Day 1
+?	Revision of likelihoods using full likelihood profiles and an 
+introduction to the theory of Bayesian statistics.
+o	Probability and likelihood
+o	Conditional, joint and total probability, independence, Baye?s law
+o	Probability distributions
+o	Uniform, Bernoulli, Binomial, Poisson, Gamma, Beta and Normal 
+distributions ? their range, parameters and common usesoLikelihood and 
+parameter estimation by maximum likelihood
+o	Numerical likelihood profiles and maximum likelihood
+?	Introduction to Bayesian statistics
+o	Relationship between prior, likelihood & posterior distributions
+o	Summarising a posterior distribution; The philosophical differences 
+between frequentist & Bayesian statistics, & the practical implications 
+of these
+o	Applying Bayes? theorem to discrete & continuous data for common 
+data types given different priors
+o	Building a posterior profile for a given dataset, & compare the effect 
+of different priors for the same data
+
+Day 2
+?	An introduction to the workings of mcmc, and the potential dangers 
+of mcmc inference.  Participants will program their own (basic) mcmc 
+sampler to illustrate the concepts and fully understand the strengths 
+and weaknesses of the general approach.  The day will end with an 
+introduction to the bugs language.
+o	Introduction to MCMC.
+o	The curse of dimensionality & the advantages of MCMC sampling to 
+determine a posterior distribution.
+o	Monte Carlo integration, standard error, & summarising samples from 
+posterior distributions in R .
+o	Writing a Metropolis algorithm & generating a posterior distribution 
+for a simple problem using MCMC.
+o	Markov chains, autocorrelation & convergence.
+o	Definition of a Markov chain.
+o	Autocorrelation, effective sample size and Monte Carlo error.
+o	The concept of a stationary distribution and burning.
+o	Requirement for convergence diagnostics, and common statistics for 
+assessing convergence.
+o	Adapting an existing Metropolis algorithm to use two chains, & 
+assessing the effect of the sampling distribution on the 
+autocorrelation.
+o	Introduction to BUGS & running simple models in JAGS.
+o	Introduction to the BUGS language & how a BUGS model is translated to 
+an MCMC sampler during compilation.
+o	The difference between deterministic & stochastic nodes, & the 
+contribution of priors & the likelihood.
+o	Running, extending & interpreting the output of simple JAGS models 
+from within R using the runjags interface.
+
+Day 3
+?	This day will focus on the common models for which jags/bugs would 
+be used in practice, with examples given for different types of model 
+code.  All aspects of writing, running, assessing and interpreting these 
+models will be extensively discussed so that participants are able and 
+confident to run similar models on their own.  There will be a 
+particularly heavy focus on practical sessions during this day.  The day 
+will finish with a discussion of how to assess the fit of mcmc models 
+using the deviance information criterion (dic) and other methods.
+o	Using JAGS for common problems in biology.
+o	Understanding and generating code for basic generalised linear mixed 
+models in JAGS.
+o	Syntax for quadratic terms and interaction terms in JAGS.
+o	Essential fitting tips and model selection.
+o	The need for minimal cross-correlation and independence between 
+parameters and how to design a model with these properties.
+o	The practical methods and implications of minimizing Monte Carlo error 
+and autocorrelation, including thinning.
+o	Interpreting the DIC for nested models, and understanding the 
+limitations of how this is calculated.
+o	Other methods of model selection and where these might be more useful 
+than DIC.
+o	Most commonly used methods Rationale and use for fixed threshold, 
+ABGD, K/theta, PTP, GMYC with computer practicals.
+o	Other methods, Haplowebs, bGMYC, etc. with computer practicals
+
+Day 4
+?	Day 4 will focus on the flexibility of mcmc, and precautions 
+required for using mcmc to model commonly encountered datasets.  An 
+introduction to conjugate priors and the potential benefits of 
+exploiting gibbs sampling will be given. More complex types of models 
+such as hierarchical models, latent class models, mixture models and 
+state space models will be introduced and discussed.  The practical 
+sessions will follow on from day 3.
+o	General guidance for model specification.
+o	The flexibility of the BUGS language and MCMC methods.
+o	The difference between informative and diffuse priors.
+o	Conjugate priors and how they can be used.
+o	Gibbs sampling.
+o	State space models.
+o	Hierarchical and state space models.
+o	Latent class and mixture models.
+o	Conceptual application to animal movement.
+o	Hands-on application to population biology.
+o	Conceptual application to epidemiology
+
+Day 5
+?	Day 5 will give some additional practical guidance for the use of 
+Bayesian methods in practice, and finish with a brief overview of more 
+advanced Bayesian tools such as inla and stan.
+o	Additional Bayesian methods.
+o	Understand the usefulness of conjugate priors for robust analysis of 
+proportions (Binomial and Multinomial data).
+o	Be aware of some methods of prior elicitation.
+o	Advanced Bayesian tools.
+o	Strengths and weaknesses of Integrated Nested Laplace Approximation 
+(INLA) compared to BUGS.
+o	Strengths and weaknesses of Stan compared to BUGS
+
+Day 6
+?	Round table discussions and problem solving with final Q and A round 
+table discussion and problem solving with final Q and A.
+o	The final day will consist of round table discussions, the class will 
+be split in to smaller groups to discuss set topics/problems. This will 
+include participants own data where possible. After an early lunch there 
+will be a general question and answer time until approx. 2pm as a whole 
+group before transport to Balloch train station.
+
+There will be a 15 minute morning coffee break, an hour for lunch, and a 
+15 minute afternoon coffee break. We keep the timing of these flexible 
+depending how the course advances. Breakfast is from 08:00-08:45 and 
+dinner is at 18:00 each day.
+
+Please email any inquiries to oliverhooker at prstatistics.com or visit our 
+website www.prstatistics.com
+
+Please feel free to distribute this material anywhere you feel is 
+suitable
+
+PRstatistics upcoming courses - email for details 
+oliverhooker at prstatistics.com for details
+
+1.	META-ANALYSIS IN ECOLOGY, EVOLUTION AND ENVIRONMENTAL SCIENCES 
+#METR01
+24th ? 28th July, Scotland, Prof. Julia Koricheva, Prof. Elena 
+Kulinskaya
+http://www.prstatistics.com/course/meta-analysis-in-ecology-evolution-and-environmental-sciences-metr01/
+
+2.	SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R #SPAE
+7th ? 12th August 2017, Scotland, Prof. Jason Matthiopoulos, Dr. James 
+Grecian
+http://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/
+
+3.	ECOLOGICAL NICHE MODELLING USING R #ENMR
+16th ? 20th October 2017, Scotland, Dr. Neftali Sillero
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr01/
+
+4.	GENETIC DATA ANALYSIS AND EXPLORATION USING R #GDAR
+23rd ? 27th October, Wales, Dr. Thibaut Jombart, Zhian Kavar
+http://www.prstatistics.com/course/genetic-data-analysis-exploration-using-r-gdar03/
+
+5.	STRUCTURAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY 
+BIOLOGISTS USING R #SEMR
+23rd ? 27th October, Wales, Prof Jarrett Byrnes, Dr. Jon Lefcheck
+http://www.prstatistics.com/course/structural-equation-modelling-for-ecologists-and-evolutionary-biologists-semr01/
+
+6.	LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R #LNDG
+6th ? 10th November, Wales, Prof. Rodney Dyer
+http://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg02/
+
+7.	APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS #ABME
+20th - 25th November 2017, Scotland, Prof. Jason Matthiopoulos, Dr. Matt 
+Denwood
+http://www.prstatistics.com/course/applied-bayesian-modelling-ecologists-epidemiologists-abme03/
+
+8.	ADVANCING IN STATISTICAL MODELLING USING R #ADVR
+11th ? 15th December 2017, Wales, Dr. Luc Bussiere, Dr. Tom Houslay, 
+Dr. Ane Timenes Laugen,
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr07/
+
+9.	INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING #IBHM
+29th Jan ? 2nd Feb 2018, Scotland, Dr. Andrew Parnell
+http://www.prstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm02/
+
+10.	PHYLOGENETIC DATA ANALYSIS USING R #PHYL
+28th Jan ? Feb 2nd, Scotland,  Dr. Emmanuel Paradis
+https://www.prstatistics.com/course/introduction-to-phylogenetic-analysis-with-r-phyg-phyl02/
+
+11.	ANIMAL MOVEMENT ECOLOGY (February 2018) #ANME
+19th ? 23rd February 2018, Wales, Dr Luca Borger, Dr. John Fieberg
+
+12.	GEOMETRIC MORPHOMETRICS USING R #GMMR
+5th ? 9th June 2017, Scotland, Prof. Dean Adams, Prof. Michael 
+Collyer, Dr. Antigoni Kaliontzopoulou
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr01/
+
+13.	FUNCTIONAL ECOLOGY FROM ORGANISM TO ECOSYSTEM: THEORY AND 
+COMPUTATION #FEER
+5th ? 9th March 2018, Scotland, Dr. Francesco de Bello, Dr. Lars 
+G?tzenberger, Dr. Carlos Carmona
+http://www.prstatistics.com/course/functional-ecology-from-organism-to-ecosystem-theory-and-computation-feer01/
+
+14.	MODEL BASE MULTIVARIATE ANALYSIS OF ABUNDANCE DATA USING R #MBMV0
+8th ? 12th July 2018,  Scotland, Prof David Warton
+
+15.	ADVANCES IN MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA USING R 
+#MVSP
+Prof. Pierre Legendre, Dr. Olivier Gauthier - Date and location to be 
+confirmed
+
+16.	STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR #SIMM
+Dr. Andrew Parnell, Dr. Andrew Jackson ? Date and location to be 
+confirmed
+
+17.	NETWORK ANAYLSIS FOR ECOLOGISTS USING R #NTWA
+Dr. Marco Scotti - Date and location to be confirmed
+
+18.	MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA #MASE
+Prof. Subhash Lele, Dr. Peter Solymos - Date and location to be 
+confirmed
+
+19.	TIME SERIES MODELS FOR ECOLOGISTS USING R (JUNE 2017 #TSME
+Dr. Andrew Parnell - Date and location to be confirmed
+
+------------------------------------------------------------------------------------------
+
+PRinformatics upcoming courses - email for details 
+oliverhooker at prinformaticss.com for details
+
+1.	INTRODUCTION TO BIOINFORMATICS USING LINUX #IBUL
+16th ? 20th October, Scotland, Dr. Martin Jones
+http://www.prstatistics.com/course/introduction-to-bioinformatics-using-linux-ibul02/
+
+2.	INTRODUCTION TO PYTHON FOR BIOLOGISTS #IPYB
+27th Nov ? 1st Dec, Wales, Dr. Martin Jones
+http://www.prinformatics.com/course/introduction-to-python-for-biologists-ipyb04/
+
+3.	INTRODUCTION REMOTE SENSING AND GIS APPLICATIONS FOR ECOLOGISTS #IRMS
+27th Nov ? 1st Dec, Wales, Dr Duccio Rocchini, Dr. Luca Delucchi
+http://www.prstatistics.com/course/introduction-to-remote-sensing-and-gis-for-ecological-applications-irms01/
+
+4.	DATA VISUALISATION AND MANIPULATION USING PYTHON #DVMP
+11th ? 15th December 2017, Wales, Dr. Martin Jones
+http://www.prinformatics.com/course/data-visualisation-and-manipulation-using-python-dvmp01/
+
+5.	EUKARYOTIC METABARCODING
+23rd ? 27th July 2018, Scotland, Dr. Owen Wangensteen
+http://www.prinformatics.com/course/eukaryotic-metabarcoding-eukb01/
+
+6.	CODING, DATA MANAGEMENT AND SHINY APPLICATIONS USING RSTUDIO FOR 
+EVOLUTIONARY BIOLOGISTS AND ECOLOGISTS #CDSR
+Dr. Aline Quadros Date and location to be confirmed
+
+7.	BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS #BIGB
+Dr. Nic Blouin, Dr. Ian Misner Date and location to be confirmed
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+2017 publications -
+
+Ecosystem size predicts eco-morphological variability in post-glacial 
+diversification. Ecology and Evolution. In press.
+
+The physiological costs of prey switching reinforce foraging 
+specialization. Journal of animal ecology.
+
+prstatistics.com
+facebook.com/prstatistics/
+twitter.com/PRstatistics
+groups.google.com/d/forum/pr-statistics-post-course-forum
+prstatistics.com/organiser/oliver-hooker/
+
+3/1, 128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+
+From oliverhooker at prstatistics.com  Mon Jul 31 15:49:39 2017
+From: oliverhooker at prstatistics.com (Oliver Hooker)
+Date: Mon, 31 Jul 2017 14:49:39 +0100
+Subject: [R-sig-genetics] Fwd:
+ UK.ReproducibleDataScienceForPopulationGeneticsUsingR.ThibautJombart.23-27Oct.
+Message-ID: <d51b6ed3cfa2bf292693bb933e552631@prstatistics.com>
+
+Course on "Reproducible data science for population genetics" (RDPG01)
+
+This course will be delivered by Dr. Thibaut Jombart who authors 
+theadegenet package and Dr. Zhian Kamvar.
+
+www.prstatistics.com/course/reproducible-data-science-for-population-genetics-rdpg01/
+
+This course will run from the 23rd - 27th October at Margam discovery 
+centre in Wales, United Kingdom.
+
+Course Overview:
+With the increasing availability of various types of genetic and genomic 
+data, population genetics and molecular ecology are becoming largely 
+data driven sciences. Understanding the evolutionary, demographic, and 
+ecological underpinning the genetic makeup of natural populations now 
+relies on a combination of exploratory approaches and models. This 
+course will provide an in-depth introduction to these techniques, with a 
+strong emphasis on reproducibility though the use of modern analytic 
+practices and tools. After an introduction to phylogenetic 
+reconstruction, the course will cover a number of multivariate 
+approaches for the analysis of genetic patterns, including supervised 
+and unsupervised factorial methods, clustering approaches, and advanced 
+methods for describing population diversity and revealing spatial 
+genetic patterns. The approaches introduced will be applicable to most 
+genetic data, including markers such as microsatellites, SNPs, or AFLP, 
+as well as nucleotide and amino-acid sequence data. Every day will start 
+with a lecture dedicated to a type of problem and methods, followed by 
+an introduction to a specific technique for reproducible data analysis; 
+afternoon will be devoted to hands on praticals. The last day will be 
+devoted to open problems, where participants will be able to analyse 
+their own data.
+
+Monday 23rd ? Classes from 09:00 to 17:00
+Intro to phylogenetic reconstruction
+Module 1a: reconstructing phylogenies from genetic sequence data. Three 
+main approaches covered: distance-based phylogenies; maximum parsimony; 
+and likelihood-based approaches.
+Module 1b: reproducible data science using R: an introduction
+Practical 1: phylogenetic reconstruction using R. Three main approaches 
+plus rooting a tree; assessing/testing for a molecular clock; and 
+bootstrapping.
+Main packages: knitr, ape, phangorn.
+
+Tuesday 24th ? Classes from 09:00 to 17:00
+Introduction to multivariate analysis of genetic data
+Module 2a: key concepts in multivariate analysis. Focus on using 
+factorial methods for genetic data analysis.
+Module 2b: using R to generate high-quality pdf or word documents.
+Practical 2: multivariate analysis of genetic data in R. Topics include: 
+data handling, Hardy-Weinberg tests, measures of diversity, tests of 
+population structure, principal component analysis (PCA), 
+multidimensional scaling (MDS).
+Main packages: knitr, rmarkdown, adegenet, ade4, pegasa, hierfstat, ape.
+
+Wednesday 25th ? Classes from 09:00 to 17:00
+Exploring group diversity
+Module 3a: approaches for identifying and describing genetic clusters. 
+Topics include: hierarchical clustering, K-means, genetic distances 
+between populations, supervised factorial methods including 
+between-group PCA and the Discriminant Analysis of Principal Components 
+(DAPC).
+Module 3b: using R to generate beamer and html5 slides.
+Practical 3: applying the approaches covered in morning lecture and 
+emphasising their strengths and weaknesses.
+Main packages: rmarkdown, adegenet, ade4, hierfstat.
+
+Thursday 26th ? Classes from 09:00 to 17:00
+Spatial genetic structures
+Module 4a: on the origins of spatial genetic patterns, how to test for 
+them, and how to reveal and visualise them.
+Module 4b: asking questions the right way with reproducible code.
+Practical 4: visualising and analysing spatial genetic data. Topics: 
+spatial density estimates, univariate and multivariate tests of spatial 
+structure (Moran and Mantel tests), mapping principal components from 
+unsupervised methods (PCA), spatial PCA.
+Main packages: reprex, adegenet, spdep, ade4.
+
+Friday 27th ? Classes from 09:00 to 16:00
+Reproducible data science for population genetics in practice Open 
+problem day ? analyse your own data using R
+Main packages: knitr, rmarkdown, adegenet, ade4, ape, pegas, phangorn, 
+hierfstat, poppr, ggplot2, etc.
+
+
+If you have any questions please email oliverhooker at prstatistics.com or 
+visit www.prstatistics.com
+
+www.prstatistics.com/course/reproducible-data-science-for-population-genetics-rdpg01/
+
+Other up-coming courses are as follows
+
+1.	SPATIAL ANALYSIS OF ECOLOGICAL DATA USING R #SPAE
+7th ? 12th August 2017, Scotland, Prof. Jason Matthiopoulos, Dr. James 
+Grecian
+http://www.prstatistics.com/course/spatial-analysis-ecological-data-using-r-spae05/
+
+2.	ECOLOGICAL NICHE MODELLING USING R #ENMR
+16th ? 20th October 2017, Scotland, Dr. Neftali Sillero
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr01/
+
+3.	REPRODUCIBLE DATA SCIENCE FOR POPULATION GENETICS
+23rd ? 27th October, Wales, Dr. Thibaut Jombart, Zhian Kavar
+http://www.prstatistics.com/course/genetic-data-analysis-exploration-using-r-gdar03/
+
+4.	STRUCTURAL EQUATION MODELLING FOR ECOLOGISTS AND EVOLUTIONARY 
+BIOLOGISTS USING R #SEMR
+23rd ? 27th October, Wales, Prof Jarrett Byrnes, Dr. Jon Lefcheck
+http://www.prstatistics.com/course/structural-equation-modelling-for-ecologists-and-evolutionary-biologists-semr01/
+
+5.	LANDSCAPE (POPULATION) GENETIC DATA ANALYSIS USING R #LNDG
+6th ? 10th November, Wales, Prof. Rodney Dyer
+http://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg02/
+
+6.	APPLIED BAYESIAN MODELLING FOR ECOLOGISTS AND EPIDEMIOLOGISTS #ABME
+20th - 25th November 2017, Scotland, Prof. Jason Matthiopoulos, Dr. Matt 
+Denwood
+http://www.prstatistics.com/course/applied-bayesian-modelling-ecologists-epidemiologists-abme03/
+
+7.	ADVANCING IN STATISTICAL MODELLING USING R #ADVR
+11th ? 15th December 2017, Wales, Dr. Luc Bussiere, Dr. Tom Houslay, 
+Dr. Ane Timenes Laugen,
+http://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr07/
+
+8.	INTRODUCTION TO BAYESIAN HIERARCHICAL MODELLING #IBHM
+29th Jan ? 2nd Feb 2018, Scotland, Dr. Andrew Parnell
+http://www.prstatistics.com/course/introduction-to-bayesian-hierarchical-modelling-using-r-ibhm02/
+
+9.	PHYLOGENETIC DATA ANALYSIS USING R (TBC) #PHYL
+28th Jan ? Feb 2nd Dr. Emmanuel Paradis ? Date and location to be 
+confirmed
+https://www.prstatistics.com/course/introduction-to-phylogenetic-analysis-with-r-phyg-phyl02/
+
+10.	ANIMAL MOVEMENT ECOLOGY (ACOUSTIC TELELEMTRY DATA ANALYSIS  
+(February 2018) #ANME
+19th ? 23rd February 2018, Wales, Dr Luca Borger, Dr. John Fieberg
+
+11.	GEOMETRIC MORPHOMETRICS USING R #GMMR
+5th ? 9th June 2017, Scotland, Prof. Dean Adams, Prof. Michael 
+Collyer, Dr. Antigoni Kaliontzopoulou
+http://www.prstatistics.com/course/geometric-morphometrics-using-r-gmmr01/
+
+12.	FUNCTIONAL ECOLOGY FROM ORGANISM TO ECOSYSTEM: THEORY AND 
+COMPUTATION #FEER
+5th ? 9th March 2018, Scotland, Dr. Francesco de Bello, Dr. Lars 
+G?tzenberger, Dr. Carlos Carmona
+http://www.prstatistics.com/course/functional-ecology-from-organism-to-ecosystem-theory-and-computation-feer01/
+
+13.	INTRODUCTION TO MARXAN FOR PLANNING MPA?S #MRXN
+12TH ? 16TH March 2018, Wales, Jennifer McGowan
+https://www.prstatistics.com/course/introduction-to-marxan-mrxn01/
+
+14.	ECOLOGICAL NICHE MODELLING USING R #ENMR
+26th ? 30th March 2018, Wales, Dr. Neftali Sillero
+http://www.prstatistics.com/course/ecological-niche-modelling-using-r-enmr02/
+
+15.	NETWORK ANAYLSIS FOR ECOLOGISTS USING R #NTWA
+9th ? 13th April 2018, Scotland, Dr. Marco Scotti
+
+16.	MULTIVARIATE ANALYSIS OF ECOLOGICAL COMMUNITIES IN R WITH THE VEGAN 
+PACKAGE #VGNR
+23rd ? 27th April 2018, Scotland, Prof. Peter Solymos, Dr Guillaume 
+Blnachet
+
+17.	ECOLOGICAL AND EVOLUTIONARY BIOGEOGRAPHY #EEBR
+30TH April ? 4th May 2018, Scotland, Dan Warren, Matt Fitzpatrick
+
+18.	ADVANCES IN MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA USING R 
+#MVSP
+14th ? 18th May 20128, Canada, Prof. Pierre Legendre, Dr. Guillaume 
+Blanchet (TBC)
+
+19.	INTRODUCTIO9N TO MIXED MODELS FOR ECOLOGISTS USING R #IMMR
+28TH May ? 1st June 2018, Canada, Subhash Lele
+
+20.	MODEL BASE MULTIVARIATE ANALYSIS OF ABUNDANCE DATA USING R #MBMV0
+8th ? 12th July 2018, Scotland, Prof David Warton
+https://www.prstatistics.com/course/model-base-multivariate-analysis-of-abundance-data-using-r-mbmv02/
+
+21.	STABLE ISOTOPE MIXING MODELS USING SIAR, SIBER AND MIXSIAR #SIMM
+Dr. Andrew Parnell, Dr. Andrew Jackson ? Date and location to be 
+confirmed
+https://www.prstatistics.com/course/stable-isotope-mixing-models-using-r-simm03/#
+
+22.	MULTIVARIATE ANALYSIS OF SPATIAL ECOLOGICAL DATA #MASE
+Prof. Subhash Lele, Dr. Peter Solymos - Date and location to be 
+confirmed
+https://www.prstatistics.com/course/multivariate-analysis-of-spatial-ecological-data-using-r-mase01/
+
+23.	INTRODUCTION TO R AND STATISTICS FOR BIOLOGISTS #IRFB
+Dr. Luc Bussiere, Dr Ane Laugen - Date and location to be confirmed
+https://www.prstatistics.com/course/introduction-to-statistics-and-r-for-biologists-irfb/
+
+24.	TIME SERIES MODELS FOR ECOLOGISTS USING R (JUNE 2017 #TSME
+Dr. Andrew Parnell ? Date and location to be confirmed
+https://www.prstatistics.com/course/time-series-models-foe-ecologists-tsme01/
+
+
+25.	META-ANALYSIS IN ECOLOGY, EVOLUTION AND ENVIRONMENTAL SCIENCES 
+#METR01
+Prof. Julia Koricheva, Prof. Elena Kulinskaya - Date and location to be 
+confirmed
+https://www.prstatistics.com/course/meta-analysis-in-ecology-evolution-and-environmental-sciences-metr01/
+
+------------------------------------------------------------------------------------------
+
+1.	INTRODUCTION TO BIOINFORMATICS USING LINUX #IBUL
+16th ? 20th October, Scotland, Dr. Martin Jones
+http://www.prstatistics.com/course/introduction-to-bioinformatics-using-linux-ibul02/
+
+2.	INTRODUCTION TO PYTHON FOR BIOLOGISTS #IPYB
+27th Nov ? 1st Dec, Wales, Dr. Martin Jones
+http://www.prinformatics.com/course/introduction-to-python-for-biologists-ipyb04/
+
+3.	INTRODUCTION REMOTE SENSING AND GIS APPLICATIONS FOR ECOLOGISTS #IRMS
+27th Nov ? 1st Dec, Wales, Dr Duccio Rocchini, Dr. Luca Delucchi
+http://www.prstatistics.com/course/introduction-to-remote-sensing-and-gis-for-ecological-applications-irms01/
+
+4.	DATA VISUALISATION AND MANIPULATION USING PYTHON #DVMP
+11th ? 15th December 2017, Wales, Dr. Martin Jones
+http://www.prinformatics.com/course/data-visualisation-and-manipulation-using-python-dvmp01/
+
+5.	EUKARYOTIC METABARCODING
+23rd ? 27th July 2018, Scotland, Dr. Owen Wangensteen
+http://www.prinformatics.com/course/eukaryotic-metabarcoding-eukb01/
+
+6.	CODING, DATA MANAGEMENT AND SHINY APPLICATIONS USING RSTUDIO FOR 
+EVOLUTIONARY BIOLOGISTS AND ECOLOGISTS #CDSR
+Dr. Aline Quadros
+
+7.	BIOINFORMATICS FOR GENETICISTS AND BIOLOGISTS #BIGB
+Scotland, Dr. Nic Blouin, Dr. Ian Misner
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+2017 publications -
+
+Ecosystem size predicts eco-morphological variability in post-glacial 
+diversification. Ecology and Evolution. In press.
+
+The physiological costs of prey switching reinforce foraging 
+specialization. Journal of animal ecology.
+
+prstatistics.com
+facebook.com/prstatistics/
+twitter.com/PRstatistics
+groups.google.com/d/forum/pr-statistics-post-course-forum
+prstatistics.com/organiser/oliver-hooker/
+
+3/1, 128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+2017 publications -
+
+Ecosystem size predicts eco-morphological variability in post-glacial 
+diversification. Ecology and Evolution. In press.
+
+The physiological costs of prey switching reinforce foraging 
+specialization. Journal of animal ecology.
+
+prstatistics.com
+facebook.com/prstatistics/
+twitter.com/PRstatistics
+groups.google.com/d/forum/pr-statistics-post-course-forum
+prstatistics.com/organiser/oliver-hooker/
+
+3/1, 128 Brunswick Street
+Glasgow
+G1 1TF
+
++44 (0) 7966500340
+
+

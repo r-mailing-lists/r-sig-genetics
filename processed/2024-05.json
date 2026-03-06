@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2024-05",
+  "messages": [
+    {
+      "id": "msg-14d86a404804",
+      "message_id": "<1715276822.015317881@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-05-09T19:47:02+02:00",
+      "subject": "[R-sig-genetics] FW: Landscape Genomics course",
+      "subject_clean": "Landscape Genomics course",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \n\nthere are still a few places available for our upcoming Landscape Genomics course, scheduled for June 17-21, 2024, at EPFL in Lausanne, Switzerland.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course17/ ]( https://www.physalia-courses.org/courses-workshops/course17/ ) \n\n Our course will provide a comprehensive overview of this approach, covering everything from obtaining environmental data and processing it with GIS to studying genetic variation and population structure using state-of-the-art methods in the R environment.\n\nThis course  is designed to be accessible to all levels of expertise.\n\nDon't miss out on this opportunity to expand your skills and knowledge in landscape genomics! \n\nBest regards,\nCarlo\n \n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \n\nthere are still a few places available for our upcoming Landscape Genomics course, scheduled for June 17-21, 2024, at EPFL in Lausanne, Switzerland.\n \nCourse website: [ https://www.physal",
+      "thread_id": "thread-14d86a404804",
+      "thread_depth": 0,
+      "month": "2024-05"
+    },
+    {
+      "id": "msg-d9df762f6005",
+      "message_id": "<1715959928.78731932@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-05-17T17:32:08+02:00",
+      "subject": "[R-sig-genetics] Online course: Multivariate data analysis with R - only 2 seats left",
+      "subject_clean": "Online course: Multivariate data analysis with R - only 2 seats left",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nwe only have 2 remaining seats for the online course on Multivariate data analysis with R and vegan.\n \nDates: May, 27th-31st\n \nIf interested, please check it out: [ https://www.physalia-courses.org/courses-workshops/vegan/ ]( https://www.physalia-courses.org/courses-workshops/vegan/ )\n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nwe only have 2 remaining seats for the online course on Multivariate data analysis with R and vegan.\n \nDates: May, 27th-31st\n \nIf interested, please check it out: [ https://www.physalia-co",
+      "thread_id": "thread-d9df762f6005",
+      "thread_depth": 0,
+      "month": "2024-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-14d86a404804",
+      "subject": "Landscape Genomics course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-05-09T19:47:02+02:00",
+      "last_reply": "2024-05-09T19:47:02+02:00",
+      "root_message_id": "msg-14d86a404804"
+    },
+    {
+      "id": "thread-d9df762f6005",
+      "subject": "Online course: Multivariate data analysis with R - only 2 seats left",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-05-17T17:32:08+02:00",
+      "last_reply": "2024-05-17T17:32:08+02:00",
+      "root_message_id": "msg-d9df762f6005"
+    }
+  ]
+}

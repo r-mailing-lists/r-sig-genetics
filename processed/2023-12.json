@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2023-12",
+  "messages": [
+    {
+      "id": "msg-08953f0e3491",
+      "message_id": "<1701956759.841226104@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2023-12-07T14:45:59+01:00",
+      "subject": "[R-sig-genetics] Course -Gene Set Enrichment Analysis in R/Bioconductor",
+      "subject_clean": "Course -Gene Set Enrichment Analysis in R/Bioconductor",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nthere are still 5 seats for the next edition of the online course on \"Gene Set Enrichment Analysis in R/Bioconductor\" taking place from January 22nd to January 25th, 2024.\n \n \nThis course will cover popular GSEA tools, both online-based and R packages, providing a detailed introduction to various GSEA methods, including overrepresentation analysis, univariate and multivariate methods, network-based GSEA, single-sample GSEA, and more. Additionally, you will learn how to efficiently process GSEA results, visualize them, and implement GSEA methods from scratch in R.\n \n \nLearning Outcomes:\n \nPerform GSEA analysis using popular tools.\nUnderstand various GSEA analysis methods.\nEfficiently visualize GSEA results.\n \n \nProgram Details:\n \nSessions from 14:00 to 20:00 (Berlin time) from Monday to Thursday, with 10-minute breaks after every 50 minutes.\nSessions will follow a learn-by-practice approach, including discussions, Q&A, and hands-on practice.\nParticipants are encouraged to bring their data for practical exercises.\n \nCourse Schedule:\n \nMonday: Introduction to GSEA analysis, basic methods, and tool demonstrations.\n \nTuesday: Theoretical foundations, including univariate and multivariate methods, and implementing new GSEA methods from scratch in R.\n \nWednesday: Extensions of GSEA analysis, including network-based GSEA, genomic region-based GSEA, GOseq, and single-sample GSEA.\n \nThursday: Downstream processing of GSEA results, efficient visualization, and simplifying interpretation.\n \nFor more details and registration, please visit the course page: [ https://www.physalia-courses.org/courses-workshops/course53/ ]( https://www.physalia-courses.org/courses-workshops/course53/ )\n \nFor the full list of our courses and Workshops, please check it out: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )\n \n \n \nBest regards,\n \nCarlo\n \n \n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\n\n \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nthere are still 5 seats for the next edition of the online course on \"Gene Set Enrichment Analysis in R/Bioconductor\" taking place from January 22nd to January 25th, 2024.\n \n \nThis course ",
+      "thread_id": "thread-08953f0e3491",
+      "thread_depth": 0,
+      "month": "2023-12"
+    },
+    {
+      "id": "msg-fe8e939df22d",
+      "message_id": "<1702405648.878217973@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2023-12-12T19:27:28+01:00",
+      "subject": "[R-sig-genetics] Course on Landscape Genomics - June 17-21 in Lausanne, Switzerland",
+      "subject_clean": "Course on Landscape Genomics - June 17-21 in Lausanne, Switzerland",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nregistrations are now open for our upcoming workshop on \"Landscape Genomics\"\n\n**When:** June 17-21, 2024\n**Where:** EPFL, Lausanne, Switzerland\n\nJoin us to learn the fundamentals of this approach and hone your skills with cutting-edge methods. From obtaining environmental data using GIS to analysing genetic variation in R, this workshop covers it all. Discover statistical approaches for studying local adaptation and gain hands-on experience with tools like Sambada and LFMM. Cap it off with insights on result interpretation and experiment planning.\n\nIdeal for those people eager to apply landscape genomics in evolutionary biology and conservation studies. \n\nCourse website: [ https://www.physalia-courses.org/courses-workshops/course17/ ]( https://www.physalia-courses.org/courses-workshops/course17/ ) \n\nBest regards,\n \nCarlo\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\nFollow us on [ Twitter ]( https://twitter.com/Physacourses ) & [ Mastodon ]( https://mas.to/@PhysaliaCourses )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nregistrations are now open for our upcoming workshop on \"Landscape Genomics\"\n\n**When:** June 17-21, 2024\n**Where:** EPFL, Lausanne, Switzerland\n\nJoin us to learn the fundamentals of this a",
+      "thread_id": "thread-fe8e939df22d",
+      "thread_depth": 0,
+      "month": "2023-12"
+    },
+    {
+      "id": "msg-51226f52f06f",
+      "message_id": "<1702823108.180822323@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2023-12-17T15:25:08+01:00",
+      "subject": "[R-sig-genetics] Gene Set Enrichment Analysis (GSEA) in R/Bioconductor course",
+      "subject_clean": "Gene Set Enrichment Analysis (GSEA) in R/Bioconductor course",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nthere are only 5 seats left for upcoming online course on Gene Set Enrichment Analysis (GSEA) in R/Bioconductor!\nDates: 22-25 January 2024\nCourse Overview:\n- Dive into GSEA basics and tools\n- Explore overrepresentation analysis and gene set analysis\n- Learn various GSEA methods, including multivariate and network-based approaches\n- Understand downstream processing for efficient result interpretation\nTarget Audience: Perfect for students and researchers with basic R programming skills (data structures: vectors, data frames, lists) and limited statistical knowledge.\nLearning Outcomes:\n- Perform GSEA analysis using popular R/Bioconductor packages\n- Grasp various GSEA methods\n- Efficiently visualize and interpret GSEA results\nProgram:\nSessions: 14:00 to 20:00 (Berlin time) from Monday to Thursday\nLearn-by-practice mode with breaks and Q&A after each topic\nBring your data for hands-on practice!\nMonday: Get hands-on with GSEA basics and online tools.\nTuesday: Dive deep into GSEA theories, frameworks, and implementing new methods.\nWednesday: Explore GSEA extensions: network-based GSEA, genomic region-based GSEA, GOseq, and single-sample GSEA.\nThursday: Master downstream processing: visualize results, cluster data, and simplify GSEA interpretations.\nLimited Slots Available! Secure your spot now: [ https://www.physalia-courses.org/courses-workshops/gse-in-r/ ]( https://www.physalia-courses.org/courses-workshops/gse-in-r/ )\n \nFor the full list of our courses and workshops, have a look at: [ https://www.physalia-courses.org/courses-workshops ]( https://www.physalia-courses.org/courses-workshops )\n \nBest regards,\nCarlo\n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nthere are only 5 seats left for upcoming online course on Gene Set Enrichment Analysis (GSEA) in R/Bioconductor!\nDates: 22-25 January 2024\nCourse Overview:\n- Dive into GSEA basics and tools\n",
+      "thread_id": "thread-51226f52f06f",
+      "thread_depth": 0,
+      "month": "2023-12"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-08953f0e3491",
+      "subject": "Course -Gene Set Enrichment Analysis in R/Bioconductor",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2023-12-07T14:45:59+01:00",
+      "last_reply": "2023-12-07T14:45:59+01:00",
+      "root_message_id": "msg-08953f0e3491"
+    },
+    {
+      "id": "thread-fe8e939df22d",
+      "subject": "Course on Landscape Genomics - June 17-21 in Lausanne, Switzerland",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2023-12-12T19:27:28+01:00",
+      "last_reply": "2023-12-12T19:27:28+01:00",
+      "root_message_id": "msg-fe8e939df22d"
+    },
+    {
+      "id": "thread-51226f52f06f",
+      "subject": "Gene Set Enrichment Analysis (GSEA) in R/Bioconductor course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2023-12-17T15:25:08+01:00",
+      "last_reply": "2023-12-17T15:25:08+01:00",
+      "root_message_id": "msg-51226f52f06f"
+    }
+  ]
+}

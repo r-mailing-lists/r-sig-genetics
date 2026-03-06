@@ -1,0 +1,153 @@
+From dr.hgrajkumar at botany.uni-mysore.ac.in  Sun Aug  9 06:06:50 2015
+From: dr.hgrajkumar at botany.uni-mysore.ac.in (Rajkumar H. Garampalli)
+Date: Sun, 9 Aug 2015 09:36:50 +0530
+Subject: [R-sig-genetics] Mailing list
+Message-ID: <CANAOVE4R-SVm1O0iboMdBVTg-G4_2PZFSa8-jVO6gdpy8m0aNA@mail.gmail.com>
+
+Hi,
+Add me to the mailing list.
+
+Rajkumar
+
+-- 
+Dr. Rajkumar H. Garampalli
+Visiting Scholar
+Department of Plant Pathology
+University of Georgia
+Athens, GA 30602, USA
+Phone No. +1-706-715-1926
+&
+Assistant Professor (Senior)
+Department of Studies in Botany
+University of Mysore, Manasagangotri
+Mysore- 570 006, Karnataka, INDIA
+Ph. NO. 91-821-2419757
+91-9980736894
+
+	[[alternative HTML version deleted]]
+
+
+From t.jombart at imperial.ac.uk  Thu Aug 13 11:58:37 2015
+From: t.jombart at imperial.ac.uk (Jombart, Thibaut)
+Date: Thu, 13 Aug 2015 09:58:37 +0000
+Subject: [R-sig-genetics] R-sig-genetics hacked
+Message-ID: <2CB2DA8E426F3541AB1907F98ABA6570B127E1C1@icexch-m1.ic.ac.uk>
+
+
+Dear all,
+
+it seems that R-sig-genetics got hacked overnight, and a large number of people got unsubscribed at exactly the same time early this morning.
+
+On a reassuring note, no confidential information is stored on the server - your passwords are safe. Admin passwords have been changed, and I will investigate the source of the hack. Meanwhile, please email me directly if you received anything weird relating to R-sig-genetics over the past couple of weeks.
+
+Best
+Thibaut (R-sig-genetics admin)
+
+
+==============================
+Dr Thibaut Jombart
+MRC Centre for Outbreak Analysis and Modelling
+Department of Infectious Disease Epidemiology
+Imperial College - School of Public Health
+Norfolk Place, London W2 1PG, UK
+Tel. : 0044 (0)20 7594 3658
+http://sites.google.com/site/thibautjombart/
+http://sites.google.com/site/therepiproject/
+http://adegenet.r-forge.r-project.org/
+Twitter: @thibautjombart
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From karine.bounan at florimond-desprez.fr  Wed Aug 26 12:27:07 2015
+From: karine.bounan at florimond-desprez.fr (karine henry)
+Date: Wed, 26 Aug 2015 10:27:07 +0000
+Subject: [R-sig-genetics] genetic analysis SNP
+Message-ID: <4DE9ABC5E00F7544A4E8A6758C0217E4F216567E@srv-exchange.florimond-desprez.fr>
+
+Dear all,
+
+
+I'm trying to use adegenet to analyse a set of 25 lines with 540.000 markers. For the moment, I tried to use genind object as I found file format for SNP genlight object a bit difficult to create.
+
+Everything is going well except when running
+grp=find.clusters(obj, max.n.clust=40)
+I get graph with cumulative variance and number of retained PC's, but whatever the number of PC I chose I get same error:
+number of cluster centers must lie between 1 and nrow(x)
+
+Any idea? Shall it be due to number of markers?
+
+Thanks for your help
+
+regards
+
+Karine
+
+	[[alternative HTML version deleted]]
+
+
+From t.jombart at imperial.ac.uk  Wed Aug 26 12:46:11 2015
+From: t.jombart at imperial.ac.uk (Jombart, Thibaut)
+Date: Wed, 26 Aug 2015 10:46:11 +0000
+Subject: [R-sig-genetics] genetic analysis SNP
+In-Reply-To: <4DE9ABC5E00F7544A4E8A6758C0217E4F216567E@srv-exchange.florimond-desprez.fr>
+References: <4DE9ABC5E00F7544A4E8A6758C0217E4F216567E@srv-exchange.florimond-desprez.fr>
+Message-ID: <2CB2DA8E426F3541AB1907F98ABA6570B128F729@icexch-m1.ic.ac.uk>
+
+Hi there, 
+
+this question belongs more to the adegenet forum. 
+
+Here, the error is that you are asking the function to cluster 25 individuals into 40 groups.
+
+Cheers
+Thibaut
+
+==============================
+Dr Thibaut Jombart
+MRC Centre for Outbreak Analysis and Modelling
+Department of Infectious Disease Epidemiology
+Imperial College - School of Public Health
+Norfolk Place, London W2 1PG, UK
+Tel. : 0044 (0)20 7594 3658
+http://sites.google.com/site/thibautjombart/
+http://sites.google.com/site/therepiproject/
+http://adegenet.r-forge.r-project.org/
+Twitter: @thibautjombart
+
+
+
+________________________________________
+From: R-sig-genetics [r-sig-genetics-bounces at r-project.org] on behalf of karine henry [karine.bounan at florimond-desprez.fr]
+Sent: 26 August 2015 11:27
+To: r-sig-genetics at r-project.org
+Subject: [R-sig-genetics] genetic analysis SNP
+
+Dear all,
+
+
+I'm trying to use adegenet to analyse a set of 25 lines with 540.000 markers. For the moment, I tried to use genind object as I found file format for SNP genlight object a bit difficult to create.
+
+Everything is going well except when running
+grp=find.clusters(obj, max.n.clust=40)
+I get graph with cumulative variance and number of retained PC's, but whatever the number of PC I chose I get same error:
+number of cluster centers must lie between 1 and nrow(x)
+
+Any idea? Shall it be due to number of markers?
+
+Thanks for your help
+
+regards
+
+Karine
+
+        [[alternative HTML version deleted]]
+
+_______________________________________________
+R-sig-genetics mailing list
+R-sig-genetics at r-project.org
+https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+

@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2012-02",
+  "messages": [
+    {
+      "id": "msg-7274eaefe95a",
+      "message_id": "<2E564738-5A6E-428B-9A44-77FEFF9057B7@imperial.ac.uk>",
+      "from_name": "Federico Calboli",
+      "from_email_hash": "a8bbf369f348bd87d0af37612627264a6c22cc2852a56c36e1457f3a5c80f6d6",
+      "date": "2012-02-29T14:52:49Z",
+      "subject": "[R-sig-genetics] MultiPhen 0.3 is available on CRAN",
+      "subject_clean": "MultiPhen 0.3 is available on CRAN",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear All,\n\na new version of MultiPhen (0.3) is available on CRAN, and will be available to a mirror near you soon. \n\n*Please upgrade* because this release is a bug fix release. A new version, with improvements in the output and more useful error messages is basically ready, but I will wait to release it until next week to add other possible improvements.\n\nFor all asking for the related paper, Paul should be ready with the final draft 'soon'.\n\nCheers\n\nFederico\n\n--\nFederico C. F. Calboli\nNeuroepidemiology and Ageing Research\nImperial College, St. Mary's Campus\nNorfolk Place, London W2 1PG\n\nTel +44 (0)20 75941602   Fax +44 (0)20 75943193\n\nf.calboli [.a.t] imperial.ac.uk\nf.calboli [.a.t] gmail.com",
+      "body_snippet": "Dear All,\n\na new version of MultiPhen (0.3) is available on CRAN, and will be available to a mirror near you soon. \n\n*Please upgrade* because this release is a bug fix release. A new version, with imp",
+      "thread_id": "thread-7274eaefe95a",
+      "thread_depth": 0,
+      "month": "2012-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-7274eaefe95a",
+      "subject": "MultiPhen 0.3 is available on CRAN",
+      "message_count": 1,
+      "participants": [
+        "Federico Calboli"
+      ],
+      "started": "2012-02-29T14:52:49+00:00",
+      "last_reply": "2012-02-29T14:52:49+00:00",
+      "root_message_id": "msg-7274eaefe95a"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2025-11",
+  "messages": [
+    {
+      "id": "msg-02281c039ace",
+      "message_id": "<1762108088.363521539@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-11-02T19:28:08+01:00",
+      "subject": "[R-sig-genetics] Genome Assembly course",
+      "subject_clean": "Genome Assembly course",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nAre you interested in learning how to assemble eukaryotic genomes using long-reads data? This is your last chance to join the upcoming Physalia online course: EUKARYOTIC GENOME ASSEMBLY USING PACBIO AND HI-C\n \nDates: 10?14 November\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/pacbio/ ]( https://www.physalia-courses.org/courses-workshops/pacbio/ )\n\n\nThis hands-on course will guide participants through a complete genome assembly workflow ? from raw PacBio and Hi-C reads to chromosome-level assemblies. Participants will gain both theoretical insight and practical experience using state-of-the-art tools for assembly, scaffolding, and quality assessment.\nIf you work with genomic data and want to learn how to build high-quality eukaryotic genomes, don?t miss this opportunity.\n \nFor the full list of our courses and workshops, please visit our website: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/pacbio/ )\n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nAre you interested in learning how to assemble eukaryotic genomes using long-reads data? This is your last chance to join the upcoming Physalia online course: EUKARYOTIC GENOME ASSEMBLY USIN",
+      "thread_id": "thread-02281c039ace",
+      "thread_depth": 0,
+      "month": "2025-11"
+    },
+    {
+      "id": "msg-38979f1a2fe8",
+      "message_id": "<PCjGyw1zRs63CtelU-lQcQ@geopod-ismtpd-9>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2025-11-04T12:50:00Z",
+      "subject": "[R-sig-genetics] ChatGPT for Advanced Data Analysis 5.0 - livestream seminar",
+      "subject_clean": "ChatGPT for Advanced Data Analysis 5.0 - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 3-day seminar, ChatGPT for Advanced Data Analysis 5.0 <https://instats.org/seminar/using-chatgpt-for-advanced-data-analysis>, livestreaming November 14?18 (for EU/Asia) and December 5?9 (for the Americas), and led by professor Peter Gruber from the Faculty of Economics, USI Universit? della Svizzera Italiana. Imagine importing data, running time-series and regression models, generating tables and figures, and even drafting a full research report?all by conversing in plain English. This is the promise of ChatGPT?s Advanced Data Analytics mode, and professor Gruber, a dual-PhD physicist-economist who coined the phrase ?Colloquial Data Science,? will guide you through every step. Over nine highly interactive sessions you?ll master the P.R.O.P.E.R. prompting framework, explore descriptive and inferential statistics, delve into Python code that ChatGPT generates under the hood, and learn when to push back on the AI?s answers to ensure rigor and reproducibility.\n\nSign up today <https://instats.org//seminar/using-chatgpt-for-advanced-data-analysis> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 3-day seminar, ChatGPT for Advanced Data Analysis 5.0 <https://instats.org/seminar/using-chatgpt-for-advanced-data-analysis>, livestreaming November 14?18 (f",
+      "thread_id": "thread-38979f1a2fe8",
+      "thread_depth": 0,
+      "month": "2025-11"
+    },
+    {
+      "id": "msg-ef78f7b064bf",
+      "message_id": "<QhI_Bwl5Rw-ND_rL3AHKJg@geopod-ismtpd-16>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2025-11-06T12:50:00Z",
+      "subject": "[R-sig-genetics] Single Cell Data Analysis 2.0 - livestream seminar",
+      "subject_clean": "Single Cell Data Analysis 2.0 - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Single Cell Data Analysis 2.0 <https://instats.org/seminar/single-cell-data-analysis-20>, livestreaming on November 24 and led by Nikolay Oskolkov from Molecular Biosciences at Lund University and Group Leader (PI) at LIOS. Single-cell technologies are revolutionizing cancer biology, developmental studies, immunology, and beyond, and this intensive workshop equips you with the computational skills needed to harness their full potential. You will follow the complete scRNA-seq workflow?from raw data preprocessing and rigorous quality control through normalization, dimensionality reduction, clustering, differential expression testing, and multi-dataset integration?while gaining fluency with the flagship toolkits Seurat in R and Scanpy in Python. Along the way, Nikolay will demonstrate best-practice visualization strategies for revealing cellular heterogeneity and guide you through real-world case studies that show how cutting-edge single-cell analytics drive scientific discovery.\n\nSign up today <https://instats.org//seminar/single-cell-data-analysis-20> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Single Cell Data Analysis 2.0 <https://instats.org/seminar/single-cell-data-analysis-20>, livestreaming on November 24 and led by Nikolay Osko",
+      "thread_id": "thread-ef78f7b064bf",
+      "thread_depth": 0,
+      "month": "2025-11"
+    },
+    {
+      "id": "msg-0e0c54e548ec",
+      "message_id": "<ZUk9rPo1QJOAiqewc2R4Fg@geopod-ismtpd-0>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2025-11-11T15:50:00Z",
+      "subject": "[R-sig-genetics] Dimensionality Reduction 2.0 - livestream seminar",
+      "subject_clean": "Dimensionality Reduction 2.0 - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Dimensionality Reduction with UMAP and Beyond 2.0 <https://instats.org/seminar/dimensionality-reduction-with-umap-and-b>, livestreaming on 25 November and led by Dr Nikolay Oskolkov from Lund University and Group Leader (PI) at LIOS. If your work involves large, multivariate or ?big? datasets, mastering dimensionality-reduction techniques is indispensable for extracting actionable insights and preparing data for downstream analysis. In this intensive workshop, Dr Oskolkov will guide you through both classic linear methods such as PCA and cutting-edge nonlinear approaches including t-SNE and, in particular, UMAP. You will learn why and when to reduce dimensionality, how to code and interpret each technique in R and Python, and how to avoid common pitfalls while maximising interpretability. Real?world examples?from single-cell genomics to broader applications in the health, social, and natural sciences?anchor the theory in hands-on practice, giving you the confidence to preprocess high-dimensional data, select the right algorithms, and communicate your findings effectively.\n\nSign up today <https://instats.org//seminar/dimensionality-reduction-with-umap-and-b> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Dimensionality Reduction with UMAP and Beyond 2.0 <https://instats.org/seminar/dimensionality-reduction-with-umap-and-b>, livestreaming on 25 ",
+      "thread_id": "thread-0e0c54e548ec",
+      "thread_depth": 0,
+      "month": "2025-11"
+    },
+    {
+      "id": "msg-5067c59736be",
+      "message_id": "<1763645856.175115295@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-11-20T14:37:36+01:00",
+      "subject": "[R-sig-genetics] Manual Genome Curation using PretextView online course",
+      "subject_clean": "Manual Genome Curation using PretextView online course",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nThere are only a few days left to register for our Manual Genome Curation using PretextView online course, taking place 24?28 November.\n \n \nThis hands-on course will guide participants through the full process of manual genome curation. You?ll learn to interpret Hi-C maps, assess assembly quality, identify contamination, generate curated fasta files, and apply strategies for handling complex genomes such as highly heterozygous, polyploid, or microchromosome-rich assemblies.\n \nBy the end of the week, you will be able to confidently navigate PretextView, correct assembly errors, and deliver high-quality chromosome-level assemblies.\n \nFor more information: [ https://www.physalia-courses.org/courses-workshops/genome-curation/ ]( https://www.physalia-courses.org/courses-workshops/genome-curation/ )\n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nThere are only a few days left to register for our Manual Genome Curation using PretextView online course, taking place 24?28 November.\n \n \nThis hands-on course will guide participants throu",
+      "thread_id": "thread-5067c59736be",
+      "thread_depth": 0,
+      "month": "2025-11"
+    },
+    {
+      "id": "msg-09932424f233",
+      "message_id": "<1764057985.2222474@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-11-25T09:06:25+01:00",
+      "subject": "[R-sig-genetics] GWAS course - online January 2026",
+      "subject_clean": "GWAS course - online January 2026",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are excited to announce our upcoming online course, ?Introduction to Genome-Wide Association Studies (GWAS),? scheduled for 26?30 January 2026.\n \nThis comprehensive five-day course is designed to guide students, researchers, and professionals through the entire GWAS workflow?from study design and data preparation to statistical analysis and result interpretation. Combining lectures with hands-on practical sessions using R and Linux command-line tools, the course will provide you with the essential skills and insights needed to conduct your own GWAS projects.\n \nEach day includes interactive lectures and practical exercises, enabling you to apply new concepts and deepen your understanding through group discussions and real-world case studies. Whether you are a beginner or have some prior exposure to GWAS, this course will equip you with a cohesive and efficient approach to genome-wide association studies.\n \nFor more information, please visit our website: [ https://www.physalia-courses.org/courses-workshops/course49/ ]( https://www.physalia-courses.org/courses-workshops/course49/ )\n \n \nBest regards,Carlo\n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are excited to announce our upcoming online course, ?Introduction to Genome-Wide Association Studies (GWAS),? scheduled for 26?30 January 2026.\n \nThis comprehensive five-day course is des",
+      "thread_id": "thread-09932424f233",
+      "thread_depth": 0,
+      "month": "2025-11"
+    },
+    {
+      "id": "msg-959a524eefc1",
+      "message_id": "<1764404040.511424276@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2025-11-29T09:14:00+01:00",
+      "subject": "[R-sig-genetics] Genomic Data Visualisation with R course",
+      "subject_clean": "Genomic Data Visualisation with R course",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe wanted to let you know that our upcoming course ?Genomic Data Visualisation with R? (15?17 December 2025, online) is almost full, and registrations will close soon. If you are planning to join, we encourage you to secure your place as soon as possible.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/genomic-data-viz/ ]( https://www.physalia-courses.org/courses-workshops/genomic-data-viz/ )\n \n \nThis three-day course introduces participants to the essential plots used in modern genomics. You will learn how to create visualisations for expression analyses, genome-wide studies, metagenomics, phylogenomics, and comparative genomics using R. From volcano plots and PCA to synteny plots, ideograms, and pangenome graphs, the course provides a hands-on tour of the most informative and widely used genomic graphics.\n \n \nBest regards,Carlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe wanted to let you know that our upcoming course ?Genomic Data Visualisation with R? (15?17 December 2025, online) is almost full, and registrations will close soon. If you are planning to",
+      "thread_id": "thread-959a524eefc1",
+      "thread_depth": 0,
+      "month": "2025-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-02281c039ace",
+      "subject": "Genome Assembly course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-11-02T19:28:08+01:00",
+      "last_reply": "2025-11-02T19:28:08+01:00",
+      "root_message_id": "msg-02281c039ace"
+    },
+    {
+      "id": "thread-38979f1a2fe8",
+      "subject": "ChatGPT for Advanced Data Analysis 5.0 - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2025-11-04T12:50:00+00:00",
+      "last_reply": "2025-11-04T12:50:00+00:00",
+      "root_message_id": "msg-38979f1a2fe8"
+    },
+    {
+      "id": "thread-ef78f7b064bf",
+      "subject": "Single Cell Data Analysis 2.0 - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2025-11-06T12:50:00+00:00",
+      "last_reply": "2025-11-06T12:50:00+00:00",
+      "root_message_id": "msg-ef78f7b064bf"
+    },
+    {
+      "id": "thread-0e0c54e548ec",
+      "subject": "Dimensionality Reduction 2.0 - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2025-11-11T15:50:00+00:00",
+      "last_reply": "2025-11-11T15:50:00+00:00",
+      "root_message_id": "msg-0e0c54e548ec"
+    },
+    {
+      "id": "thread-5067c59736be",
+      "subject": "Manual Genome Curation using PretextView online course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-11-20T14:37:36+01:00",
+      "last_reply": "2025-11-20T14:37:36+01:00",
+      "root_message_id": "msg-5067c59736be"
+    },
+    {
+      "id": "thread-09932424f233",
+      "subject": "GWAS course - online January 2026",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-11-25T09:06:25+01:00",
+      "last_reply": "2025-11-25T09:06:25+01:00",
+      "root_message_id": "msg-09932424f233"
+    },
+    {
+      "id": "thread-959a524eefc1",
+      "subject": "Genomic Data Visualisation with R course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2025-11-29T09:14:00+01:00",
+      "last_reply": "2025-11-29T09:14:00+01:00",
+      "root_message_id": "msg-959a524eefc1"
+    }
+  ]
+}

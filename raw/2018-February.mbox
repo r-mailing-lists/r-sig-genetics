@@ -1,0 +1,657 @@
+From thibautjombart at gmail.com  Wed Feb  7 19:57:28 2018
+From: thibautjombart at gmail.com (Thibaut Jombart)
+Date: Wed, 7 Feb 2018 18:57:28 +0000
+Subject: [R-sig-genetics] new release, snapclust, podcast
+Message-ID: <CANPRA+qGkQaoqwFfjWersRD4Sx=gviV5kEEAjUnf+AcMq7F5sg@mail.gmail.com>
+
+Dear all,
+
+a new version of adegenet (2.1.1) has now been released on CRAN. This
+version implements snapclust, a fast maximum-likelihood genetic clustering
+method, recently published in Methods in Ecology and Evolution.
+
+snapclust is presented in the following podcast:
+https://www.youtube.com/watch?v=Vl3cf0XHG7Q
+
+Comments and feedback welcome!
+
+Best
+Thibaut
+
+
+--
+Dr Thibaut Jombart
+Lecturer, Department of Infectious Disease Epidemiology, Imperial College
+London
+Head of RECON: repidemicsconsortium.org
+WHO Consultant - outbreak analysis
+https://thibautjombart.netlify.com
+Twitter: @TeebzR
++44(0)20 7594 3658
+
+	[[alternative HTML version deleted]]
+
+
+From hilmar.lapp at duke.edu  Wed Feb  7 21:01:41 2018
+From: hilmar.lapp at duke.edu (Hilmar Lapp)
+Date: Wed, 7 Feb 2018 15:01:41 -0500
+Subject: [R-sig-genetics] new release, snapclust, podcast
+In-Reply-To: <CANPRA+qGkQaoqwFfjWersRD4Sx=gviV5kEEAjUnf+AcMq7F5sg@mail.gmail.com>
+References: <CANPRA+qGkQaoqwFfjWersRD4Sx=gviV5kEEAjUnf+AcMq7F5sg@mail.gmail.com>
+Message-ID: <7FCEAB6B-FBE2-44FE-80D6-58C6D7062E12@duke.edu>
+
+Congrats on the paper, and nice hairstyle, Thibaut! ??
+
+> On Feb 7, 2018, at 1:57 PM, Thibaut Jombart <thibautjombart at gmail.com> wrote:
+> 
+> Dear all,
+> 
+> a new version of adegenet (2.1.1) has now been released on CRAN. This
+> version implements snapclust, a fast maximum-likelihood genetic clustering
+> method, recently published in Methods in Ecology and Evolution.
+> 
+> snapclust is presented in the following podcast:
+> https://urldefense.proofpoint.com/v2/url?u=https-3A__www.youtube.com_watch-3Fv-3DVl3cf0XHG7Q&d=DwICAg&c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&r=eGWUXrFTNKFQ_7iv2ZZTsTpqF6jBUoOs67dzNTy0W_Y&m=cLjDLQ1vicmFqPVVG3u7YkI6rS75GEiERHOr4aWHGS0&s=s_IHmC9c-W-BV7yofZeME48PLXwPKfUcqgm-cldNtqo&e= 
+> 
+> Comments and feedback welcome!
+> 
+> Best
+> Thibaut
+> 
+> 
+> --
+> Dr Thibaut Jombart
+> Lecturer, Department of Infectious Disease Epidemiology, Imperial College
+> London
+> Head of RECON: repidemicsconsortium.org
+> WHO Consultant - outbreak analysis
+> https://urldefense.proofpoint.com/v2/url?u=https-3A__thibautjombart.netlify.com&d=DwICAg&c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&r=eGWUXrFTNKFQ_7iv2ZZTsTpqF6jBUoOs67dzNTy0W_Y&m=cLjDLQ1vicmFqPVVG3u7YkI6rS75GEiERHOr4aWHGS0&s=1gADmHRtDvJ237xmyRmCyrr2et4bAblxfl6R9PONxKs&e= 
+> Twitter: @TeebzR
+> +44(0)20 7594 3658
+> 
+> 	[[alternative HTML version deleted]]
+> 
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://urldefense.proofpoint.com/v2/url?u=https-3A__stat.ethz.ch_mailman_listinfo_r-2Dsig-2Dgenetics&d=DwICAg&c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&r=eGWUXrFTNKFQ_7iv2ZZTsTpqF6jBUoOs67dzNTy0W_Y&m=cLjDLQ1vicmFqPVVG3u7YkI6rS75GEiERHOr4aWHGS0&s=UhdM6_Cy0inR3UwxVE9g_qvNNua56uGFk5I_7z1yhXU&e= 
+
+-- 
+Hilmar Lapp -:- genome.duke.edu -:- lappland.io
+
+
+From zkamvar at gmail.com  Thu Feb 15 16:34:46 2018
+From: zkamvar at gmail.com (Zhian Kamvar)
+Date: Thu, 15 Feb 2018 09:34:46 -0600
+Subject: [R-sig-genetics] 
+ [poppr] Is there a way to calculate Fst or other
+ metrics alike for snpclone object in poppr?
+In-Reply-To: <0d0f8a6f-807f-47c2-ab72-ef43457da330@googlegroups.com>
+References: <56affc46-45a0-49ab-9511-f38f29b908f3@googlegroups.com>
+ <979CF8FB-AD45-408E-9ABA-DC4B0ABDF358@gmail.com>
+ <5767fa85-38f0-4c0d-9587-64a4c6a6f91c@googlegroups.com>
+ <135db219-5a16-45ed-b32f-487adf73ed41@googlegroups.com>
+ <98BEA0FA-706A-4FB9-9B63-491FDCD36A8C@gmail.com>
+ <0d0f8a6f-807f-47c2-ab72-ef43457da330@googlegroups.com>
+Message-ID: <4F21BEA6-635A-442C-808C-27D06D9970BE@gmail.com>
+
+Hi,
+This is more of a question for the R-SIG-GENETICS group as it no longer deals with poppr any more, so I'm continuing it here. More knowledgable folk, feel free to correct me.
+> (1) Could I estimate the relative contribution of variances using SSD? e.g. 40434.10/77188.44=52.38%, It's the contribution of between groups variances?
+sigma2 represents the variance, so you should use that to estimate relative contribution. The next version of pegas will present the phi values for you.
+> 
+> (2) What is the meaning of "sigma2" and "a"?
+See above.
+> 
+> (3) Is P<0.05 conventionally enough to conclude significant difference for molecular data ? My result is 0.048 but I doubt it's power according to field observation. Should I set more strict critiria? 0.01 for example
+I personally put very little trust in p-values for deciding on whether or not there is an effect. The choice of 0.05 as the cutoff is well-known to be arbitrary, so I think you should use your judgement of what you know about the natural history of these populations and your sample size to aid your conclusions.
+
+Hope that helps,
+Zhian
+
+-----
+Zhian N. Kamvar, Ph. D.
+Postdoctoral Researcher (Everhart Lab)
+Department of Plant Pathology
+University of Nebraska-Lincoln
+ORCID: 0000-0003-1458-7108
+
+
+
+
+> On Feb 13, 2018, at 23:00 , Yu NING <ningyu_sino at qq.com> wrote:
+> 
+> Hi, I have some difficulties in interpreting the result of AMOVA. The results show:
+> Bly_amova
+> 
+> 	Analysis of Molecular Variance
+> 
+> Call: pegas::amova(formula = Blygl_dis ~ popslot, data = strata(Bly_gl),
+>     is.squared = TRUE)
+> 
+>       SSD     MSD   df
+> popslot 40434.10 3110.316 13
+> Error   36754.33 1470.173 25
+> Total   77188.44 2031.275 38
+> 
+> Variance components:
+>        sigma2  P.value
+> popslot  589.75   0.048
+> Error   1470.17
+> 
+> Variance coefficients:
+>     a
+> 2.781065
+> 
+> I wonder:
+> 
+> (1) Could I estimate the relative contribution of variances using SSD? e.g. 40434.10/77188.44=52.38%, It's the contribution of between groups variances?
+> 
+> (2) What is the meaning of "sigma2" and "a"?
+> 
+> (3) Is P<0.05 conventionally enough to conclude significant difference for molecular data ? My result is 0.048 but I doubt it's power according to field observation. Should I set more strict critiria? 0.01 for example
+> 
+> I've tried to searched for pegas tutorial or forum but failed. Any advice here will be highly appreciated. : )
+> 
+> ? 2018?2?12???? UTC+8??11:31:06?Zhian Kamvar???
+> Hello,
+> 
+> I think I know why you were having this problem:
+> 
+> 1. You didn't have anything defined in your strata [1].
+> 2. You didn't have a variable called "pop" defined in your workspace
+> 3. Pegas saw a variable called "pop", which was a function, and gave a warning ("elements in the rhs of the formula are not all factors")
+> 
+> However, given your code below, I'm not exactly sure why it works because "popslot" is not the same as "popslot_Kob". This tells me that you may run into problems in the future.
+> 
+> You can define your strata with a data frame where each row represents a sample and each column is a different population grouping. A simple way to define it for the population:
+> 
+> strata(Kob_snpclo) <-  data.frame(population = pop(Kob_snpclo))
+> 
+> From there, you would use "population" on the right hand side of the formula in AMOVA.
+> 
+> 
+> Cheers,
+> Zhian
+> 
+> [1]: If you are unfamiliar with strata, check out the strata tutorial: https://github.com/thibautjombart/adegenet/wiki/Tutorials <https://github.com/thibautjombart/adegenet/wiki/Tutorials>
+> 
+> -----
+> Zhian N. Kamvar, Ph. D.
+> Postdoctoral Researcher (Everhart Lab)
+> Department of Plant Pathology
+> University of Nebraska-Lincoln
+> ORCID: 0000-0003-1458-7108
+> 
+> 
+> 
+> 
+>> On Feb 12, 2018, at 04:47 , Yu NING <ningy...@ <>qq.com <http://qq.com/>> wrote:
+>> 
+>> Now I have found one way to work it out:
+>> popslot_Kob<-pop(Kob_snpclo)
+>> Blygl_dis<- bitwise.dist(Bly_gl, percent = FALSE)
+>> Bly_amova<- pegas::amova(Blygl_dis ~ popslot, data = strata(Bly_gl), is.squared = TRUE)
+>> 
+>> Just add one line to extract the pop information. But I still wonder why error showed when I use:
+>> Bly_amova<- pegas::amova(Blygl_dis ~ pop, data = strata(Bly_gl), is.squared = TRUE)
+>> 
+>> It's a little wired....
+>> 
+>> 
+>> 
+>> ? 2018?2?11???? UTC+8??11:26:11?Yu NING???
+>> Hello,
+>> 
+>> Thanks for your help. But other problems showed up:
+>> > Blygl_dis<- bitwise.dist(Bly_gl, percent = FALSE)
+>> > Bly_amova<- pegas::amova(Blygl_dis ~ pop, data = strata(Bly_gl), is.squared = TRUE)
+>> Error in FUN(X[[i]], ...) : 'bin' must be numeric or a factor
+>> In addition: Warning message:
+>> In pegas::amova(Blygl_dis ~ pop, data = strata(Bly_gl), is.squared = TRUE) :
+>>   elements in the rhs of the formula are not all factors
+>> 
+>> Is there something wrong in my data organization? This is the data info:
+>> > Bly_gl
+>>  /// GENLIGHT OBJECT /////////
+>> 
+>>  // 39 genotypes,  7,227 binary SNPs, size: 969.5 Kb
+>>  11255 (3.99 %) missing data
+>> 
+>>  // Basic content
+>>    @gen: list of 39 SNPbin
+>>    @ploidy: ploidy of each individual  (range: 2-2)
+>> 
+>>  // Optional content
+>>    @ind.names:  39 individual labels
+>>    @loc.names:  7227 locus labels
+>>    @chromosome: factor storing chromosomes of the SNPs
+>>    @position: integer storing positions of the SNPs
+>>    @pop: population of each individual (group size range: 2-3)
+>>    @other: a list containing: elements without names
+>> 
+>> 
+>> 
+>> 
+>> 
+>> ? 2018?1?23???? UTC+8??11:38:39?Zhian Kamvar???
+>> Hello,
+>> 
+>>> I have browsed the manual but I couldn't find how to calculate metrics of differentiation in poppr , and poppr.amova() is also not applicable for snpclone object. Is there a way to solve it ?
+>> 
+>> 
+>> Unfortunately, calculating AMOVA on genlight objects is not currently possible in poppr [1]. I would recommend to use the pegas implementation like so:
+>> 
+>> library("pegas")
+>> myDist <- bitwise.dist(myGenlight, percent = FALSE)
+>> res <- pegas::amova(myDist ~ pop/subpop, data = strata(myGenlight), is.squared = TRUE)
+>> 
+>> Replace "myGenlight" with the name of your data and "pop/subpop" with the hierarchy present in your strata slot.
+>> 
+>> 
+>>> Moreover, If I want to export my snpclone object which is MLG filtered, how should I code?
+>> 
+>> If you want to export the object for use in another Rscript, I would recommend using saveRDS() to save the object to a file and then readRDS() to read that file in a new session*. If you only need the MLG assignments, then he underlying genetic data does not change when you filter MLGs, so you can export the assignments as a CSV file along with your individual names and population data.
+>> 
+>> I hope that helps.
+>> 
+>> Zhian
+>> 
+>> [1]: https://github.com/grunwaldlab/poppr/issues/72 <https://github.com/grunwaldlab/poppr/issues/72>. This is not a simple problem and may still take a bit longer to implement as I am now only working on poppr in my spare time.
+>> * If you defined your MLGs using a matrix, then you must also save that matrix and reload it with the same name.
+>> 
+>> 
+>> -----
+>> Zhian N. Kamvar, Ph. D.
+>> Postdoctoral Researcher (Everhart Lab)
+>> Department of Plant Pathology
+>> University of Nebraska-Lincoln
+>> ORCID: 0000-0003-1458-7108
+>> 
+>> 
+>> 
+>> 
+>>> On Jan 23, 2018, at 08:51 , Yu NING <ningy...@ <>qq.com <http://qq.com/>> wrote:
+>>> 
+>>> Hi~
+>>> 
+>>> I have browsed the manual but I couldn't find how to calculate metrics of differentiation in poppr , and poppr.amova() is also not applicable for snpclone object. Is there a way to solve it ?  Moreover, If I want to export my snpclone object which is MLG filtered, how should I code? Thanks very much
+>>> 
+>>> 
+>>> 
+>>> --
+>>> You received this message because you are subscribed to the Google Groups "poppr" group.
+>>> To unsubscribe from this group and stop receiving emails from it, send an email to poppr+un...@ <>googlegroups. <http://googlegroups.com/>com <http://googlegroups.com/>.
+>>> To post to this group, send email to po...@ <>googlegroups.com <http://googlegroups.com/>.
+>>> To view this discussion on the web visit https://groups.google.com/d/msgid/poppr/56affc46-45a0-49ab-9511-f38f29b908f3%40googlegroups.com <https://groups.google.com/d/msgid/poppr/56affc46-45a0-49ab-9511-f38f29b908f3%40googlegroups.com?utm_medium=email&utm_source=footer>.
+>>> For more options, visit https://groups.google.com/d/optout <https://groups.google.com/d/optout>.
+>> 
+>> 
+>> --
+>> You received this message because you are subscribed to the Google Groups "poppr" group.
+>> To unsubscribe from this group and stop receiving emails from it, send an email to poppr+un...@ <>googlegroups.com <http://googlegroups.com/>.
+>> To post to this group, send email to po...@ <>googlegroups.com <http://googlegroups.com/>.
+>> To view this discussion on the web visit https://groups.google.com/d/msgid/poppr/135db219-5a16-45ed-b32f-487adf73ed41%40googlegroups.com <https://groups.google.com/d/msgid/poppr/135db219-5a16-45ed-b32f-487adf73ed41%40googlegroups.com?utm_medium=email&utm_source=footer>.
+>> For more options, visit https://groups.google.com/d/optout <https://groups.google.com/d/optout>.
+> 
+> 
+> --
+> You received this message because you are subscribed to the Google Groups "poppr" group.
+> To unsubscribe from this group and stop receiving emails from it, send an email to poppr+unsubscribe at googlegroups.com <mailto:poppr+unsubscribe at googlegroups.com>.
+> To post to this group, send email to poppr at googlegroups.com <mailto:poppr at googlegroups.com>.
+> To view this discussion on the web visit https://groups.google.com/d/msgid/poppr/0d0f8a6f-807f-47c2-ab72-ef43457da330%40googlegroups.com <https://groups.google.com/d/msgid/poppr/0d0f8a6f-807f-47c2-ab72-ef43457da330%40googlegroups.com?utm_medium=email&utm_source=footer>.
+> For more options, visit https://groups.google.com/d/optout <https://groups.google.com/d/optout>.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20180215/a169ec20/attachment-0001.html>
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 833 bytes
+Desc: Message signed with OpenPGP
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20180215/a169ec20/attachment-0001.sig>
+
+From Emmanuel.Paradis at ird.fr  Mon Feb 19 12:11:52 2018
+From: Emmanuel.Paradis at ird.fr (Emmanuel Paradis)
+Date: Mon, 19 Feb 2018 12:11:52 +0100
+Subject: [R-sig-genetics] 
+ [poppr] Is there a way to calculate Fst or other
+ metrics alike for snpclone object in poppr?
+In-Reply-To: <4F21BEA6-635A-442C-808C-27D06D9970BE@gmail.com>
+References: <56affc46-45a0-49ab-9511-f38f29b908f3@googlegroups.com>
+ <979CF8FB-AD45-408E-9ABA-DC4B0ABDF358@gmail.com>
+ <5767fa85-38f0-4c0d-9587-64a4c6a6f91c@googlegroups.com>
+ <135db219-5a16-45ed-b32f-487adf73ed41@googlegroups.com>
+ <98BEA0FA-706A-4FB9-9B63-491FDCD36A8C@gmail.com>
+ <0d0f8a6f-807f-47c2-ab72-ef43457da330@googlegroups.com>
+ <4F21BEA6-635A-442C-808C-27D06D9970BE@gmail.com>
+Message-ID: <90378dd1-77b6-bc4a-8300-813bbf7fb0fa@ird.fr>
+
+Hi,
+
+The improvement mentioned by Zhian is available in the version of pegas 
+that is currently on GitHub (which will be the next version on CRAN).
+
+Best,
+
+Emmanuel
+
+Le 15/02/2018 ? 16:34, Zhian Kamvar a ?crit?:
+> Hi,
+> 
+> This is more of a question for the R-SIG-GENETICS group as it no longer 
+> deals with poppr any more, so I'm continuing it here. More knowledgable 
+> folk, feel free to correct me.
+> 
+>> (1) Could I estimate the relative contribution of variances using SSD? 
+>> e.g.?40434.10/77188.44=52.38%, It's the contribution of between groups 
+>> variances?
+> sigma2 represents the variance, so you should use that to estimate 
+> relative contribution. The next version of pegas will present the phi 
+> values for you.
+>>
+>> (2) What is the meaning of "sigma2" and "a"?
+> See above.
+>>
+>> (3) Is P<0.05 conventionally enough to conclude significant difference 
+>> for molecular data ? My result is 0.048 but I doubt it's power 
+>> according to field observation. Should I set more strict critiria? 
+>> 0.01 for example 
+> 
+> I personally put very little trust in p-values for deciding on whether 
+> or not there is an effect. The choice of 0.05 as the cutoff is 
+> well-known to be arbitrary, so I think you should use your judgement of 
+> what you know about the natural history of these populations and your 
+> sample size to aid your conclusions.
+> 
+> Hope that helps,
+> Zhian
+> 
+> -----
+> Zhian N. Kamvar, Ph. D.
+> Postdoctoral Researcher (Everhart Lab)
+> Department of Plant Pathology
+> University of Nebraska-Lincoln
+> ORCID:?0000-0003-1458-7108
+> 
+> 
+> 
+> 
+>> On Feb 13, 2018, at 23:00 , Yu NING <ningyu_sino at qq.com 
+>> <mailto:ningyu_sino at qq.com>> wrote:
+>>
+>> Hi, I have some difficulties in interpreting the result of AMOVA. The 
+>> results show:
+>> |
+>> Bly_amova
+>>
+>> Analysis of Molecular Variance
+>>
+>> Call: pegas::amova(formula = Blygl_dis ~ popslot, data = strata(Bly_gl),
+>> ? ? is.squared = TRUE)
+>>
+>> ? ? ? SSD ? ? MSD ? df
+>> popslot 40434.10 3110.316 13
+>> Error ? 36754.33 1470.173 25
+>> Total ? 77188.44 2031.275 38
+>>
+>> Variance components:
+>> ? ? ? ?sigma2 ?P.value
+>> popslot ?589.75 ? 0.048
+>> Error ? 1470.17
+>>
+>> Variance coefficients:
+>> ? ? a
+>> 2.781065
+>> |
+>>
+>> I wonder:
+>>
+>> (1) Could I estimate the relative contribution of variances using SSD? 
+>> e.g.?40434.10/77188.44=52.38%, It's the contribution of between groups 
+>> variances?
+>>
+>> (2) What is the meaning of "sigma2" and "a"?
+>>
+>> (3) Is P<0.05 conventionally enough to conclude significant difference 
+>> for molecular data ? My result is 0.048 but I doubt it's power 
+>> according to field observation. Should I set more strict critiria? 
+>> 0.01 for example
+>>
+>> I've tried to searched for pegas tutorial or forum but failed. Any 
+>> advice here will be highly appreciated. : )
+>>
+>> ? 2018?2?12???? UTC+8??11:31:06?Zhian Kamvar???
+>>
+>>     Hello,
+>>
+>>     I think I know why you were having this problem:
+>>
+>>     1. You didn't have anything defined in your strata [1].
+>>     2. You didn't have a variable called "pop" defined in your workspace
+>>     3. Pegas saw a variable called "pop", which was a function, and
+>>     gave a warning ("elements in the rhs of the formula are not all
+>>     factors")
+>>
+>>     However, given your code below, I'm not exactly sure why it works
+>>     because "popslot" is not the same as "popslot_Kob". This tells me
+>>     that you may run into problems in the future.
+>>
+>>     You can define your strata with a data frame where each row
+>>     represents a sample and each column is a different population
+>>     grouping. A simple way to define it for the population:
+>>
+>>     strata(Kob_snpclo) <- ?data.frame(population = pop(Kob_snpclo))
+>>
+>>     From there, you would use "population" on the right hand side of
+>>     the formula in AMOVA.
+>>
+>>
+>>     Cheers,
+>>     Zhian
+>>
+>>     [1]: If you are unfamiliar with strata, check out the strata
+>>     tutorial:
+>>     https://github.com/thibautjombart/adegenet/wiki/Tutorials
+>>     <https://github.com/thibautjombart/adegenet/wiki/Tutorials>
+>>
+>>     -----
+>>     Zhian N. Kamvar, Ph. D.
+>>     Postdoctoral Researcher (Everhart Lab)
+>>     Department of Plant Pathology
+>>     University of Nebraska-Lincoln
+>>     ORCID:?0000-0003-1458-7108
+>>
+>>
+>>
+>>
+>>>     On Feb 12, 2018, at 04:47 , Yu NING <ningy... at qq.com
+>>>     <http://qq.com/>> wrote:
+>>>
+>>>     Now I have found one way to work it out:
+>>>     |
+>>>     popslot_Kob<-pop(Kob_snpclo)
+>>>     Blygl_dis<-bitwise.dist(Bly_gl,percent=FALSE)
+>>>     Bly_amova<-pegas::amova(Blygl_dis~popslot,data=strata(Bly_gl),is.squared=TRUE)
+>>>     |
+>>>
+>>>     Just add one line to extract the pop information. But I still
+>>>     wonder why error showed when I use:
+>>>     |
+>>>     Bly_amova<-pegas::amova(Blygl_dis~pop,data=strata(Bly_gl),is.squared=TRUE)
+>>>     |
+>>>
+>>>     It's a little wired....
+>>>
+>>>
+>>>
+>>>     ? 2018?2?11???? UTC+8??11:26:11?Yu NING???
+>>>
+>>>         Hello,
+>>>
+>>>         Thanks for your help. But other problems showed up:
+>>>         |
+>>>         > Blygl_dis<- bitwise.dist(Bly_gl, percent = FALSE)
+>>>         > Bly_amova<- pegas::amova(Blygl_dis ~ pop, data =
+>>>         strata(Bly_gl), is.squared = TRUE)
+>>>         Error in FUN(X[[i]], ...) : 'bin' must be numeric or a factor
+>>>         In addition: Warning message:
+>>>         In pegas::amova(Blygl_dis ~ pop, data = strata(Bly_gl),
+>>>         is.squared = TRUE) :
+>>>         elements in the rhs of the formula are not all factors
+>>>         |
+>>>
+>>>         Is there something wrong in my data organization? This is the
+>>>         data info:
+>>>         |
+>>>         > Bly_gl
+>>>         ?/// GENLIGHT OBJECT /////////
+>>>
+>>>         ?// 39 genotypes, ?7,227 binary SNPs, size: 969.5 Kb
+>>>         ?11255 (3.99 %) missing data
+>>>
+>>>         ?// Basic content
+>>>         ? ?@gen: list of 39 SNPbin
+>>>         ? ?@ploidy: ploidy of each individual ?(range: 2-2)
+>>>
+>>>         ?// Optional content
+>>>         ? ?@ind.names: ?39 individual labels
+>>>         ? ?@loc.names: ?7227 locus labels
+>>>         ? ?@chromosome: factor storing chromosomes of the SNPs
+>>>         ? ?@position: integer storing positions of the SNPs
+>>>         ? ?@pop: population of each individual (group size range: 2-3)
+>>>         ? ?@other: a list containing: elements without names
+>>>         |
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>         ? 2018?1?23???? UTC+8??11:38:39?Zhian Kamvar???
+>>>
+>>>             Hello,
+>>>
+>>>>             I have browsed the manual but I couldn't find how to
+>>>>             calculate metrics of differentiation in/?poppr/?, and
+>>>>             /poppr.amova()/?is also not applicable for snpclone
+>>>>             object. Is there a way to solve it ?
+>>>
+>>>             Unfortunately, calculating AMOVA on genlight objects is
+>>>             not currently possible in poppr [1]. I would recommend to
+>>>             use the pegas implementation like so:
+>>>
+>>>             library("pegas")
+>>>             myDist <- bitwise.dist(myGenlight, percent = FALSE)
+>>>             res <- pegas::amova(myDist ~ pop/subpop, data =
+>>>             strata(myGenlight), is.squared = TRUE)
+>>>
+>>>             Replace "myGenlight" with the name of your data and
+>>>             "pop/subpop" with the hierarchy present in your strata slot.
+>>>
+>>>
+>>>>             Moreover, If I want to export my snpclone object which
+>>>>             is MLG filtered, how should I code? 
+>>>
+>>>             If you want to export the object for use in another
+>>>             Rscript, I would recommend using saveRDS() to save the
+>>>             object to a file and then readRDS() to read that file in
+>>>             a new session*. If you only need the MLG assignments,
+>>>             then he underlying genetic data does not change when you
+>>>             filter MLGs, so you can export the assignments as a CSV
+>>>             file along with your individual names and population data.
+>>>
+>>>             I hope that helps.
+>>>
+>>>             Zhian
+>>>
+>>>             [1]: https://github.com/grunwaldlab/poppr/issues/72
+>>>             <https://github.com/grunwaldlab/poppr/issues/72>. This is
+>>>             not a simple problem and may still take a bit longer to
+>>>             implement as I am now only working on poppr in my spare time.
+>>>             * If you defined your MLGs using a matrix, then you must
+>>>             also save that matrix and reload it with the same name.
+>>>
+>>>
+>>>             -----
+>>>             Zhian N. Kamvar, Ph. D.
+>>>             Postdoctoral Researcher (Everhart Lab)
+>>>             Department of Plant Pathology
+>>>             University of Nebraska-Lincoln
+>>>             ORCID:?0000-0003-1458-7108
+>>>
+>>>
+>>>
+>>>
+>>>>             On Jan 23, 2018, at 08:51 , Yu NING <ningy... at qq.com
+>>>>             <http://qq.com/>> wrote:
+>>>>
+>>>>             Hi~
+>>>>
+>>>>             I have browsed the manual but I couldn't find how to
+>>>>             calculate metrics of differentiation in/poppr/?,
+>>>>             and/poppr.amova()/is also not applicable for snpclone
+>>>>             object. Is there a way to solve it ? ?Moreover, If I
+>>>>             want to export my snpclone object which is MLG filtered,
+>>>>             how should I code? Thanks very much
+>>>>
+>>>>
+>>>>
+>>>>             --
+>>>>             You received this message because you are subscribed to
+>>>>             the Google Groups "poppr" group.
+>>>>             To unsubscribe from this group and stop receiving emails
+>>>>             from it, send an email topoppr+un... at googlegroups.
+>>>>             <http://googlegroups.com/>com <http://googlegroups.com/>.
+>>>>             To post to this group, send email
+>>>>             topo... at googlegroups.com <http://googlegroups.com/>.
+>>>>             To view this discussion on the web
+>>>>             visithttps://groups.google.com/d/msgid/poppr/56affc46-45a0-49ab-9511-f38f29b908f3%40googlegroups.com
+>>>>             <https://groups.google.com/d/msgid/poppr/56affc46-45a0-49ab-9511-f38f29b908f3%40googlegroups.com?utm_medium=email&utm_source=footer>.
+>>>>             For more options,
+>>>>             visithttps://groups.google.com/d/optout
+>>>>             <https://groups.google.com/d/optout>.
+>>>
+>>>
+>>>     --
+>>>     You received this message because you are subscribed to the
+>>>     Google Groups "poppr" group.
+>>>     To unsubscribe from this group and stop receiving emails from it,
+>>>     send an email topoppr+un... at googlegroups.com
+>>>     <http://googlegroups.com/>.
+>>>     To post to this group, send email topo... at googlegroups.com
+>>>     <http://googlegroups.com/>.
+>>>     To view this discussion on the web
+>>>     visithttps://groups.google.com/d/msgid/poppr/135db219-5a16-45ed-b32f-487adf73ed41%40googlegroups.com
+>>>     <https://groups.google.com/d/msgid/poppr/135db219-5a16-45ed-b32f-487adf73ed41%40googlegroups.com?utm_medium=email&utm_source=footer>.
+>>>     For more options, visithttps://groups.google.com/d/optout
+>>>     <https://groups.google.com/d/optout>.
+>>
+>>
+>> --
+>> You received this message because you are subscribed to the Google 
+>> Groups "poppr" group.
+>> To unsubscribe from this group and stop receiving emails from it, send 
+>> an email topoppr+unsubscribe at googlegroups.com 
+>> <mailto:poppr+unsubscribe at googlegroups.com>.
+>> To post to this group, send email topoppr at googlegroups.com 
+>> <mailto:poppr at googlegroups.com>.
+>> To view this discussion on the web 
+>> visithttps://groups.google.com/d/msgid/poppr/0d0f8a6f-807f-47c2-ab72-ef43457da330%40googlegroups.com 
+>> <https://groups.google.com/d/msgid/poppr/0d0f8a6f-807f-47c2-ab72-ef43457da330%40googlegroups.com?utm_medium=email&utm_source=footer>.
+>> For more options, visithttps://groups.google.com/d/optout.
+> 
+> 
+> 
+> 
+> 
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>
+
+

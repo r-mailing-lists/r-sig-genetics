@@ -1,0 +1,38 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2020-03",
+  "messages": [
+    {
+      "id": "msg-b36775acb83e",
+      "message_id": "<1268654516.2098638.1583337960930.JavaMail.zimbra@ird.fr>",
+      "from_name": "Emmanuel Paradis",
+      "from_email_hash": "f68b887be78643fdd0937b17160582e9b94b62931130f7b421e7c5e339bd9035",
+      "date": "2020-03-04T17:06:00+01:00",
+      "subject": "[R-sig-genetics] [R-sig-phylo] PEGAS: why did pegas not assign separate haplotype",
+      "subject_clean": "PEGAS: why did pegas not assign separate haplotype",
+      "in_reply_to": "<030BFC7D5695EC46B95C02408B5B24AD01B0A9D8E0@MBXP06.ds.man.ac.uk>",
+      "references": [
+        "<030BFC7D5695EC46B95C02408B5B24AD01B0A9D8E0@MBXP06.ds.man.ac.uk>"
+      ],
+      "body_plain": "Hi Hirra,\n\nI've tried with the data you pisted below using pegas 0.12 and I was not able to repeat your results: I found that seqs. 1 and 3 are grouped in the same haplotype (not 1 and 2). Anyway, this is the same issue that you pointed out a few days ago: seq. 3 could be grouped with seq. 1 or seq. 2. I have now implemented the changes I described in my previous message, and have just pushed pegas 0.12-999 on GitHub. This also include changes to make pegas work with R 4.0.0 (see the results of R CMD check on CRAN for details). This new version will be submitted to CRAN in a few days as pegas 0.13. In the meantime, don't hesitate to try this new version!\n\nBest,\n\nEmmanuel\n\n----- Le 3 Mar 20, ? 21:00, Hirra Farooq hirra.farooq at postgrad.manchester.ac.uk a ?crit :\n\n> Hello,\n> \n> I have a question about the pegas haplotype algorithm and would be grateful if\n> someone could explain.\n> \n> I used pegas haplotype() on a set of sequences. I then manually aligned and\n> looked at the sequences within each haplotype. For one haplotype I noticed\n> something odd (see image below)\n> \n> Although there was a single bp difference at the highlighted position ,these\n> sequences had all been assigned as one haplotype. I understand that for the 3rd\n> sequence because there are gaps at this highlighted position this can lead it\n> to be pooled with others, but I do not understand how sequence 1 and 2 can be\n> in the same haplotype?\n> \n> I would be grateful for any guidance,\n> \n> \n> \n> \n> \n> \n> GBSP11539-19|Ophlitaspon[1]\n> AATACTGCATTTTTTGACCCTGCAGGGGGAGGAGACCCCATTTTATATCAACATTTATTT   660\n> GBSP11518-19|Ophlitaspon[2]\n> AATACTGCATTTTTTGACCCTGCGGGGGGAGGAGACCCCATTTTA---------------   645\n> GBSP11504-19|Ophlitaspon[3]\n> AATACTGCAT--------------------------------------------------   580\n> GBSP11512-19|Ophlitaspon[4]\n> AATACTGCATTTTTTGACCCTGCAGGGGGAGGAGACCCATTTATATCACTTTATTTGTT-   659\n>                                 **********\n> \n> Best wishes\n> Hirra\n> University of Manchester Student.\n> \n>\t[[alternative HTML version deleted]]\n> \n> _______________________________________________\n> R-sig-phylo mailing list - R-sig-phylo at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-phylo\n> Searchable archive at http://www.mail-archive.com/r-sig-phylo at r-project.org/",
+      "body_snippet": "Hi Hirra,\n\nI've tried with the data you pisted below using pegas 0.12 and I was not able to repeat your results: I found that seqs. 1 and 3 are grouped in the same haplotype (not 1 and 2). Anyway, thi",
+      "thread_id": "thread-b36775acb83e",
+      "thread_depth": 0,
+      "month": "2020-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-b36775acb83e",
+      "subject": "PEGAS: why did pegas not assign separate haplotype",
+      "message_count": 1,
+      "participants": [
+        "Emmanuel Paradis"
+      ],
+      "started": "2020-03-04T17:06:00+01:00",
+      "last_reply": "2020-03-04T17:06:00+01:00",
+      "root_message_id": "msg-b36775acb83e"
+    }
+  ]
+}

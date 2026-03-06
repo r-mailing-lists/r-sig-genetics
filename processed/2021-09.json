@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2021-09",
+  "messages": [
+    {
+      "id": "msg-4bba3c7d886a",
+      "message_id": "<CAEsSYzyA6keRaWyePGqCeze9eiDXZPSdPdA3QASv=6Y2rNP8gg@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2021-09-30T14:36:09+01:00",
+      "subject": "[R-sig-genetics] ONLINE COURSE – Introduction to Data Wrangling and Data Visualization using R (DWDV01)",
+      "subject_clean": "ONLINE COURSE – Introduction to Data Wrangling and Data Visualization using R (DWDV01)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? Introduction to Data Wrangling and Data Visualization using\nR (DWDV01)\n\nhttps://www.prstatistics.com/course/introduction-to-data-wrangling-and-data-visualization-using-r-dwdv01/\n\nThis course will be delivered live but will also have all sessions recorded\nallowing you to take the course in your own time should you choose.\nCourse Overview:In this course, we provide a comprehensive practical\nintroduction to data wrangling and data visualization using R. In the\ncoverage of data wrangling, we will cover tools provided by R?s tidyverse,\nincluding dplyr, tidyr, purrr, etc. We will cover how to read data of\ndifferent types into R using readr and related packages, and then cover in\ndetail all the dplyr tools such as select, filter, mutate, summarize, etc.\nWe will also cover the pipe operator (%>%) to create data wrangling\npipelines that take raw messy data on the one end and return cleaned tidy\ndata on the other. We will also how to reshape data using pivots, and how\nto merge data sets using merge operations. For the topic of visualization,\nwe provide a comprehensive introduction to data visualization in R using\nggplot. We begin by covering the major types of plots for visualizing\ndistributions of univariate data: histograms, density plots, barplots, and\nTukey boxplots. In all of these cases, we will consider how to visualize\nmultiple distributions simultaneously on the same plot using different\ncolours and ?facet? plots. We then turn to the visualization of bivariate\ndata using scatterplots. Here, we will explore how to apply linear and\nnonlinear smoothing functions to the data, how to add marginal histograms\nto the scatterplot, add labels to points, and scale each point by the value\nof a third variable.\n\nEmail oliverhooker at prstatistics.com with any questions\n\n-- \nOliver Hooker PhD.\nPR statistics\n\nSpecies Distribution Modeling using R\n\n21 September 2021 - 30 September\n\n\nIntroduction to eco-phylogenetics and comparative analyses using R 22\nSeptember 2021 - 28 September 2021\n\n\n\nMultivariate analysis of ecological communities in R with the VEGAN package\n\n4 October 2021 - 8 October\n\n\n\nIntroduction to Data Wrangling and Data Visualization using R\n\n4 October 2021 - 8 October 2021\n\nIntroduction to Bayesian modelling with INLA\n\n4 October 2021 - 8 October 2021\n\n Landscape genetic data analysis using R\n\n18 October 2021 - 27 October 2021\n\nFREE 1 DAY INTRO TO R AND R STUDIO\n\n20 October 2021\n\n\n Introduction to generalised linear models using R and Rstudio\n\n3 November 2021 - 4 November 2021\n\n Introduction to mixed models using R and Rstudio\n\n10 November 2021 - 11 November 2021\n\n Introduction to Machine Learning and Deep Learning using R\n\n17 November 2021 - 18 November 2021\n\nModel selection and model simplification\n\n24 November 2021 - 25 November 2021\n\n\n Species distribution modelling with Bayesian statistics in R\n\n6 December 2021 - 10 December 2021\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? Introduction to Data Wrangling and Data Visualization using\nR (DWDV01)\n\nhttps://www.prstatistics.com/course/introduction-to-data-wrangling-and-data-visualization-using-r-dwdv01/\n\nThis ",
+      "thread_id": "thread-4bba3c7d886a",
+      "thread_depth": 0,
+      "month": "2021-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-4bba3c7d886a",
+      "subject": "ONLINE COURSE – Introduction to Data Wrangling and Data Visualization using R (DWDV01)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2021-09-30T14:36:09+01:00",
+      "last_reply": "2021-09-30T14:36:09+01:00",
+      "root_message_id": "msg-4bba3c7d886a"
+    }
+  ]
+}

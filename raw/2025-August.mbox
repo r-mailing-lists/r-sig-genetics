@@ -1,0 +1,599 @@
+From mzyphur @end|ng |rom |n@t@t@@org  Tue Aug  5 10:35:00 2025
+From: mzyphur @end|ng |rom |n@t@t@@org (Michael Zyphur)
+Date: Tue, 05 Aug 2025 08:35:00 +0000 (UTC)
+Subject: [R-sig-genetics] Single-Cell Analysis with Bioconductor -
+ livestream seminar
+Message-ID: <BYDEz3bKTPG7UrmVho1FAw@geopod-ismtpd-5>
+
+Hi everyone
+
+Instats is excited to offer a 2-day seminar, Single-Cell Analysis with Bioconductor <https://instats.org/seminar/single-cell-analysis-with-bioconductor>, running livestreaming September 5 ? 19 and led by Director of Computational Biology from Harvard Medical School, professor Ludwig Geistlinger. Single-cell analysis has transformed molecular and computational biology by revealing cellular heterogeneity at unprecedented resolution, and this intensive workshop equips PhD students, postdocs, academics, and industry researchers with the analytical toolkit to harness that power. You?ll take a deep dive into the entire scRNA-seq workflow in R and Bioconductor, mastering data preprocessing, quality control, dimensionality reduction, clustering, cell-type identification, differential expression for multi-sample designs, visualization, and best practices for working with large datasets. Hands-on sessions, guided by Dr Geistlinger?s expertise, will also cover seamless interoperability with Seurat and Scanpy/scverse and integration of public reference data such as the Human Cell Atlas?ensuring you leave ready to design, analyze, and interpret your own single-cell experiments and uncover novel biological insights.
+
+Sign up today <https://instats.org/seminar/single-cell-analysis-with-bioconductor> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Institute for Statistical and Data Science
+https://instats.org
+	[[alternative HTML version deleted]]
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Tue Aug  5 14:42:44 2025
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Tue, 5 Aug 2025 13:42:44 +0100
+Subject: [R-sig-genetics] Introduction to Machine Learning (IMLR04)
+Message-ID: <CAEsSYzzAzaxDPsLxP0R34YQ97cGOAL9nooXhiMNR3JzDbfcw5w@mail.gmail.com>
+
+Introduction to Machine Learning (IMLR04)Master Machine Learning with
+hands?on training in *R and RStudio*
+https://www.prstats.org/course/introduction-to-machine-learning-imlr04/
+
+Unlock your analytical potential in a *five?day live online course*,
+tailored for data?savvy researchers, analysts, and scientists. Learn how to
+build, evaluate, and interpret both supervised and unsupervised machine
+learning models using R.
+
+-
+
+Join live online sessions from wherever you are (UK time zone schedule).
+The course will be recorded and the sessions will be made available the
+same day to allow people from different time zones to follow.
+------------------------------
+Course Dates & Format
+
+   -
+
+   *Next Session*: *October?6?10,?2025* (Monday to Friday)
+   -
+
+   *Schedule*: 8 hours per day ? *live online*, scheduled in UK (Western
+   European) time zone
+   -
+
+   *Location*: Delivered remotely across the United Kingdom, accessible
+   worldwide through a live online platform.
+
+------------------------------
+Target Audience & Outcomes
+
+Designed for applied researchers, ecologists, statisticians, analysts, and
+anyone comfortable with R and basic statistics. By course end you will be
+able to:
+
+   -
+
+   Implement *classification*, *regression*, and *clustering* algorithms
+   -
+
+   Tune models effectively and evaluate performance metrics
+   -
+
+   Apply techniques for *model interpretation*, including variable
+   importance and diagnostics
+   -
+
+   Confidently choose and customise ML workflows using R tools?perfect for
+   research or real?world decision?making
+
+------------------------------
+Fees & Registration
+
+   -
+
+   *Early-bird rate*: *?400* (first 10 spots)
+   -
+
+   *Standard rate*: *?450*
+
+------------------------------
+Course Logistics Breakdown
+Component Details
+*Daily schedule* 8 hours/day live sessions ? full interactive learning
+*Platform* Real-time virtual classroom; lectures, coding, Q&A
+*Software needed* R and RStudio (instructions provided in advance)
+*Materials* Lecture slides, sample datasets, exercises & code snippets
+*Format* Hands-on practice with real-world datasets
+
+Participants should have a working knowledge of R and basic statistics
+(linear algebra and probability). All materials are provided, but you?ll
+need to install R/RStudio ahead of time.
+------------------------------
+Why Choose IMLR04?
+
+   -
+
+   *Balanced theory + practice*: Skip long lectures?focus on building real
+   models immediately
+   -
+
+   *Expert instruction*: Learn from experienced tutors with deep knowledge
+   of ML in applied settings
+   -
+
+   *Collaborative learning*: Join a cohort of peers, with live Q&A and
+   group engagement
+   -
+
+   *Practical relevance*: Covering model tuning, evaluation, ensemble
+   methods, unsupervised learning, and interpretability?all in R
+
+------------------------------
+How to Register
+
+   1.
+
+   Visit the PR?Stats course page for IMLR04
+   2.
+
+   Choose early-bird (?400) or standard (?450) registration
+   3.
+
+   Receive joining instructions, schedule, and software setup guide
+   4.
+
+   Join live online sessions from wherever you are (UK time zone schedule).
+   The course will be recorded and the sessions will be made available the
+   same day to allow people from different time zones to follow.
+
+
+Ready to build predictive models, interpret them effectively, and elevate
+your data-driven decision-making?
+
+*Email oliver at prstat.org <oliver at prstat.org> with any questions*
+
+-- 
+Oliver Hooker PhD.
+PR stats
+
+	[[alternative HTML version deleted]]
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Tue Aug  5 14:56:20 2025
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Tue, 5 Aug 2025 13:56:20 +0100
+Subject: [R-sig-genetics] =?utf-8?q?Bayesian_Multilevel_Modelling_using?=
+	=?utf-8?q?=C2=A0brms=C2=A0for_Ecologists_=28BMME01=29?=
+Message-ID: <CAEsSYzy8ij+a-+rT6LC11fNWdKcBPwXMA_wizqjA-jZhVSspDA@mail.gmail.com>
+
+Bayesian Multilevel Modelling using *brms* for Ecologists (BMME01) ?
+PR?StatsFrame ecological questions rigorously using *Bayesian multilevel
+models in R*
+https://www.prstats.org/course/bayesian-multilevel-modelling-using-brms-for-ecologists-bmme01/
+
+Explore model building, uncertainty quantification, spatial and temporal
+autocorrelation, and species distribution modelling through a *ten?session
+live online course*, designed for ecologists using R.
+------------------------------
+ Course Details & Format
+
+   -
+
+   *Next Session*: October?20?24 & October?27?31,?2025 (Monday?Friday)
+   -
+
+   *Duration*: 10 days ? ~4 hours/day = 40 hours total
+   -
+
+   *Schedule*: Live sessions conducted in UK time (GMT+1); all sessions
+   recorded and available for later viewing, accommodating global participants
+   -
+
+   *Format*: Interactive learning via remote online classroom; lectures and
+   Q&A, plus applied coding exercises
+
+------------------------------
+Who It?s For & What You?ll Gain
+
+Designed for ecologists, postgraduate researchers, analysts, and
+early-career scientists with basic R/RStudio experience and fundamental
+statistics knowledge.
+
+By the end of the course, you?ll be able to:
+
+   -
+
+   Frame and implement *Bayesian inference*, including priors, posteriors,
+   and credible intervals
+   -
+
+   Fit GLMs and hierarchical multilevel models using *brms*
+   -
+
+   Choose and interpret meaningful priors for ecological parameters
+   -
+
+   Diagnose and critique model fit with posterior predictive checks, WAIC,
+   LOO-CV
+   -
+
+   Model non-Gaussian ecological data (counts, proportions, zero-inflation)
+   -
+
+   Account for *spatial and temporal autocorrelation* in hierarchical models
+   -
+
+   Build multivariate/joint species distribution models for community
+   analysis
+   -
+
+   Visualize and clearly communicate uncertainty in model results
+
+------------------------------
+? Fees & Registration
+
+   -
+
+   *Early bird (first 10 places)*: *?400*
+   -
+
+   *Standard fee*: *?450*
+
+
+Ideal participants should be comfortable installing and using R and
+RStudio, and have basic familiarity with functions, plotting (e.g.
+ggplot2), and statistics like regression.
+------------------------------
+Why Choose BMME01?
+
+   -
+
+   *Comprehensive curriculum*: From Bayesian fundamentals to advanced
+   ecological modelling
+   -
+
+   *Focus on applied use*: Ecologically-relevant examples including
+   spatial, temporal, count, and joint species modelling
+   -
+
+   *Expert-led sessions*: Topic-by-topic deep dives with practical exercises
+   -
+
+   *Flexible structure*: Live sessions with recordings ? rewind, revisit,
+   and learn at your pace
+   -
+
+   *Learning continuity*: Bring and work with your data, and get feedback
+   via guided exercises and peer interaction
+
+------------------------------
+
+Build multilevel models with *confidence*, interpret ecological data with
+*nuance*, and communicate results with *clarity*.
+
+Email oliver at prstats.org with any questions
+
+-- 
+Oliver Hooker PhD.
+PR stats
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Wed Aug  6 13:10:14 2025
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Wed, 6 Aug 2025 13:10:14 +0200 (CEST)
+Subject: [R-sig-genetics] Course: Biodiversity Data Analysis in R - online,
+ 18-22 August
+Message-ID: <1754478614.67414600@webmail.jimdo.com>
+
+
+Dear all,
+
+Just a quick note to let you know that a few seats are still available for our upcoming online course:
+Analysing Biodiversity through Time and Space Using R
+Dates: 18?22 August (15:00?18:00 Berlin time)
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/biodiversity-in-r/ ]( https://www.physalia-courses.org/courses-workshops/biodiversity-in-r/ ) 
+ 
+This course is designed for researchers working with fossil or modern biodiversity data, and will guide you through building reproducible R workflows for data acquisition, cleaning, visualisation, and analysis?across both space and geological time.
+ 
+ 
+What attendees will learn:
+
+How to quantify biodiversity across space and time
+
+Addressing the gap between observed and true diversity
+
+Tools and techniques for cleaning, analysing, and visualising biodiversity data
+
+Handling sampling biases and estimating diversification rates
+
+Working with occurrence data, GIS, chronostratigraphy, and palaeogeographic models in R
+ 
+For the full list of our courses and workshops, please visit:  [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/biodiversity-in-r/ )
+ 
+ 
+ 
+Best regards,
+Carlo
+ 
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )
+
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Thu Aug  7 12:06:19 2025
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Thu, 7 Aug 2025 12:06:19 +0200 (CEST)
+Subject: [R-sig-genetics] =?utf-8?q?Online_Course=3A_Single-cell_RNA-seq_?=
+ =?utf-8?q?Analysis_with_R/Bioconductor_=E2=80=93_Nov_17=E2=80=9321?=
+Message-ID: <1754561179.18582353@webmail.jimdo.com>
+
+
+Dear all,
+We?re excited to announce the upcoming Physalia online course: Single-cell RNA-seq Analysis with R/Bioconductor, which is organised in collaboration with the Bioconductor Teaching Committee
+ 
+ 
+ 
+ Dates: 17?21 November
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/course18/ ]( https://www.physalia-courses.org/courses-workshops/course18/ ) 
+ 
+This hands-on course is designed for biologists and bioinformaticians interested in learning how to process, analyse, and interpret single-cell RNA-seq data using R/Bioconductor tools.
+Over five days, participants will be guided through all major steps ? from quality control and normalization to clustering, differential expression, and pseudo-time analysis ? using real datasets and reproducible workflows.
+ 
+ 
+Please feel free to share with colleagues who may be interested!
+Best regards,Carlo
+ 
+ 
+ 
+ 
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Mon Aug 11 18:24:05 2025
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Mon, 11 Aug 2025 18:24:05 +0200 (CEST)
+Subject: [R-sig-genetics] online course Invasion Genomics in R - 8th, 10th,
+ and 11th September
+Message-ID: <1754929445.70052699@webmail.jimdo.com>
+
+
+Dear all,
+We want to inform you that only 4 seats remain for our online course Invasion Genomics in R, held on 8th, 10th, and 11th September.
+ 
+This course offers a comprehensive introduction to key concepts and practical analyses in invasion genomics, ideal for graduate students, researchers, and professionals with a basic background in genetics/genomics, evolutionary biology, and R.
+ 
+If you?re interested, please check it out: [ https://www.physalia-courses.org/courses-workshops/invasion-genomics/ ]( https://www.physalia-courses.org/courses-workshops/invasion-genomics/ )
+ 
+Best regards,
+Carlo
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )
+
+
+	[[alternative HTML version deleted]]
+
+
+From mzyphur @end|ng |rom |n@t@t@@org  Mon Aug 11 19:50:00 2025
+From: mzyphur @end|ng |rom |n@t@t@@org (Michael Zyphur)
+Date: Mon, 11 Aug 2025 17:50:00 +0000 (UTC)
+Subject: [R-sig-genetics] Clustering Complex Data with ChatGPT - livestream
+ seminar
+Message-ID: <gWuEvv7vTf-fVMg9-ey9ww@geopod-ismtpd-7>
+
+Hi everyone
+
+Instats is excited to offer a 1-day seminar, Clustering Complex Data with ChatGPT <https://instats.org/seminar/clustering-complex-data-with-chatgpt>, livestreaming August 21 and led by professor Nikolay Oskolkov, Group Leader (PI) at LIOS, Lund University. In the era of ever-expanding, high-dimensional datasets, this workshop equips researchers with the theoretical foundations and hands-on skills to uncover hidden structure using state-of-the-art clustering techniques in R and Python?supercharged by ChatGPT?s Advanced Data Analysis tool. You?ll explore strategies for overcoming the curse of dimensionality, apply dimensionality-reduction methods such as PCA, t-SNE, and UMAP, and implement both classic (K-means, GMM, hierarchical) and advanced (SNN-based, HDBSCAN, Louvain, Leiden) clustering algorithms from scratch. Throughout the day, Dr Oskolkov will demonstrate how ChatGPT can write and debug code, guide interpretation of results, and streamline your analytic workflow, ensuring you leave with a robust, reproducible toolkit for tackling complex biological and other multi-dimensional data challenges.
+
+Sign up today <https://instats.org/seminar/clustering-complex-data-with-chatgpt> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Institute for Statistical and Data Science
+https://instats.org
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Tue Aug 12 15:45:37 2025
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Tue, 12 Aug 2025 15:45:37 +0200 (CEST)
+Subject: [R-sig-genetics] AI + Genomics, online course in September
+Message-ID: <1755006337.829115491@webmail.jimdo.com>
+
+
+Dear all,
+Only three seats remain for our upcoming course on AI for Genomic Data Analysis!
+ 
+In this hands-on training, you?ll learn to apply modern AI architectures?including Convolutional Neural Networks (CNNs), Long Short-Term Memory networks (LSTMs), and Transformers?to genomic and metagenomic datasets. Through coding labs and interactive notebooks, you?ll gain practical skills in:
+
+Modelling sequence data and extracting biologically meaningful features
+
+Predicting genomic functional elements and performing sequence classification
+
+Source tracking and biological sequence generation
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/ai-for-genomics/ ]( https://www.physalia-courses.org/courses-workshops/ai-for-genomics/ )
+ 
+Best regards,
+Carlo
+ 
+ 
+ 
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From mzyphur @end|ng |rom |n@t@t@@org  Thu Aug 14 05:35:00 2025
+From: mzyphur @end|ng |rom |n@t@t@@org (Michael Zyphur)
+Date: Thu, 14 Aug 2025 03:35:00 +0000 (UTC)
+Subject: [R-sig-genetics] Machine Learning with ChatGPT - livestream seminar
+Message-ID: <tKT2Cas0TKKy18kinpeTjg@geopod-ismtpd-2>
+
+Hi everyone
+
+Instats is excited to offer a 1-day seminar, Machine Learning for Complex Data with ChatGPT <https://instats.org/seminar/machine-learning-for-complex-data-with-c>, livestreaming August 22 and led by Nikolay Oskolkov, Group Leader (PI) at LIOS. As data sets grow in size and complexity, knowing how to pair machine learning techniques with AI-driven tools like ChatGPT has become indispensable for researchers across the biological, environmental, health, and social sciences?along with statistics and engineering. In this intensive workshop, you?ll learn to code core algorithms such as neural networks, random forests, k-means clustering, Gaussian Mixture Models, and MCMC from scratch in both R and Python, while using ChatGPT to streamline coding, interpretation, and troubleshooting. Dr. Oskolkov?s hands-on approach blends clear theoretical foundations with live coding demonstrations, enabling you to choose the right algorithm for tabular, image, text, and time-series data, optimize models through hyperparameter tuning, and navigate ethical considerations in machine learning research. Whether you?re a PhD student aiming to sharpen your analytical toolkit or an experienced researcher looking to incorporate state-of-the-art AI assistance into your workflow, this seminar will equip you with practical skills you can apply immediately to your own projects.
+
+Sign up today <https://instats.org/seminar/machine-learning-for-complex-data-with-c> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Institute for Statistical and Data Science
+https://instats.org
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Thu Aug 14 10:49:27 2025
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Thu, 14 Aug 2025 10:49:27 +0200 (CEST)
+Subject: [R-sig-genetics] RNAseq with R and Bioconductor- online course,
+ 3-14 November
+Message-ID: <1755161367.11826512@webmail.jimdo.com>
+
+
+Dear all,
+
+registration is open for the online course "RNA Sequencing Data with R/Bioconductor" (3?14 November), organized in partnership with the Bioconductor Training team.
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/course19/ ]( https://www.physalia-courses.org/courses-workshops/course19/ )
+ 
+This hands-on course will equip biologists and bioinformaticians with the statistical and computational skills needed to rigorously analyze RNA-seq and other high-throughput genomic data. Topics include:
+
+Hypothesis testing and statistical concepts for genomics
+
+Data visualization in R
+
+Genomic region analysis with GenomicRanges
+
+RNA-seq data handling with SummarizedExperiment
+
+Differential expression analysis with DESeq2
+
+Gene set and pathway analysis (GO, KEGG)
+Prerequisites: Basic familiarity with R and genomics (no advanced statistics required).
+ 
+More information & registration for all our courses: [ https://www.physalia-courses.org/courses/ ]( https://www.physalia-courses.org/courses/ )
+ 
+Best regards,Carlo
+ 
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )
+
+
+	[[alternative HTML version deleted]]
+
+
+From mzyphur @end|ng |rom |n@t@t@@org  Tue Aug 26 10:50:00 2025
+From: mzyphur @end|ng |rom |n@t@t@@org (Michael Zyphur)
+Date: Tue, 26 Aug 2025 08:50:00 +0000 (UTC)
+Subject: [R-sig-genetics] Network Structures and Hypergraphs - free seminar
+Message-ID: <KFUmVLpsSh2lCEmJGbuwHQ@geopod-ismtpd-7>
+
+Hi everyone
+
+Instats is excited to offer a free seminar on Network Structures and Hypergraphs <https://instats.org/seminar/network-structures-and-hypergraphs-free>, running Livestreaming Sep 4th and led by professor Moses Boudourides from the Data Science Graduate Program, School of Professional Studies, Northwestern University. As recent advances in network science push beyond the limits of traditional graph theory, hypergraphs have emerged as a powerful framework for capturing the multi-node relationships that characterize social interaction, digital communication, biophysical systems, and complex dynamic systems more broadly. This introductory seminar equips PhD students, faculty, and professional researchers with the conceptual foundations of hypergraph theory while providing hands-on demonstrations in Python to analyze real-world data. Serving as a primer for professor Boudourides?s forthcoming four-day workshop ?Predicting Network Structure with Hypergraphs,? the session explores the distinctions between graphs and hypergraphs, showcases cutting-edge Python libraries, and illustrates how hypergraph models better represent group-level dynamics such as community formation, contagion, and collective decision-making. Participants will leave with a solid grasp of hypergraph basics and the practical skills to begin applying these methods in their own research, setting the stage for deeper exploration of hyperlink prediction and network reconstruction in future study.
+
+Sign up today <https://instats.org/seminar/network-structures-and-hypergraphs-free> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Institute for Statistical and Data Science
+https://instats.org
+	[[alternative HTML version deleted]]
+
+
+From mzyphur @end|ng |rom |n@t@t@@org  Thu Aug 28 10:20:00 2025
+From: mzyphur @end|ng |rom |n@t@t@@org (Michael Zyphur)
+Date: Thu, 28 Aug 2025 08:20:00 +0000 (UTC)
+Subject: [R-sig-genetics] Introduction to Bayesian Statistical Modeling -
+ livestream seminar
+Message-ID: <-nFn0R0RQbWBvaGGhM0Dvg@geopod-ismtpd-10>
+
+Hi everyone
+
+Instats is excited to offer a 5-day seminar, Introduction to Bayesian Statistical Modelling <https://instats.org/seminar/introduction-to-bayesian-statistical-mod-1>, livestreaming over 5 weeks from Sep 8th ? Oct 6th and led by Dr. Rosina Savisaar. Designed for both newcomers to regression and seasoned frequentist analysts eager for a fresh perspective, this workshop provides a gentle yet comprehensive gateway into Bayesian reasoning. You will learn how priors, likelihoods, and posteriors work together to deliver intuitive answers to research questions, bypassing the limitations of p-values and enabling the estimation of complex models that classical methods often cannot handle. Through hands-on coding in R with the brms package and weekly real-data assignments, participants will master matching variable types to probability distributions, building and interpreting Bayesian regression models, checking model adequacy, visualising results, and predicting future observations. No extensive background in statistics is required?only a basic grasp of R and descriptive statistics?making the seminar broadly accessible to students and researchers from any field.
+
+Sign up today <https://instats.org/seminar/introduction-to-bayesian-statistical-mod-1> to secure your spot and feel free to share this opportunity with colleagues and students who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Institute for Statistical and Data Science
+https://instats.org
+	[[alternative HTML version deleted]]
+
+

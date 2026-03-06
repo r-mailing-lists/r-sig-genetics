@@ -1,0 +1,63 @@
+From emm@nue|@p@r@d|@ @end|ng |rom |rd@|r  Wed Mar  4 17:06:00 2020
+From: emm@nue|@p@r@d|@ @end|ng |rom |rd@|r (Emmanuel Paradis)
+Date: Wed, 4 Mar 2020 17:06:00 +0100 (CET)
+Subject: [R-sig-genetics] [R-sig-phylo] PEGAS: why did pegas not assign
+ separate haplotype
+In-Reply-To: <030BFC7D5695EC46B95C02408B5B24AD01B0A9D8E0@MBXP06.ds.man.ac.uk>
+References: <030BFC7D5695EC46B95C02408B5B24AD01B0A9D8E0@MBXP06.ds.man.ac.uk>
+Message-ID: <1268654516.2098638.1583337960930.JavaMail.zimbra@ird.fr>
+
+Hi Hirra,
+
+I've tried with the data you pisted below using pegas 0.12 and I was not able to repeat your results: I found that seqs. 1 and 3 are grouped in the same haplotype (not 1 and 2). Anyway, this is the same issue that you pointed out a few days ago: seq. 3 could be grouped with seq. 1 or seq. 2. I have now implemented the changes I described in my previous message, and have just pushed pegas 0.12-999 on GitHub. This also include changes to make pegas work with R 4.0.0 (see the results of R CMD check on CRAN for details). This new version will be submitted to CRAN in a few days as pegas 0.13. In the meantime, don't hesitate to try this new version!
+
+Best,
+
+Emmanuel
+
+----- Le 3 Mar 20, ? 21:00, Hirra Farooq hirra.farooq at postgrad.manchester.ac.uk a ?crit :
+
+> Hello,
+> 
+> I have a question about the pegas haplotype algorithm and would be grateful if
+> someone could explain.
+> 
+> I used pegas haplotype() on a set of sequences. I then manually aligned and
+> looked at the sequences within each haplotype. For one haplotype I noticed
+> something odd (see image below)
+> 
+> Although there was a single bp difference at the highlighted position ,these
+> sequences had all been assigned as one haplotype. I understand that for the 3rd
+> sequence because there are gaps at this highlighted position this can lead it
+> to be pooled with others, but I do not understand how sequence 1 and 2 can be
+> in the same haplotype?
+> 
+> I would be grateful for any guidance,
+> 
+> 
+> 
+> 
+> 
+> 
+> GBSP11539-19|Ophlitaspon[1]
+> AATACTGCATTTTTTGACCCTGCAGGGGGAGGAGACCCCATTTTATATCAACATTTATTT   660
+> GBSP11518-19|Ophlitaspon[2]
+> AATACTGCATTTTTTGACCCTGCGGGGGGAGGAGACCCCATTTTA---------------   645
+> GBSP11504-19|Ophlitaspon[3]
+> AATACTGCAT--------------------------------------------------   580
+> GBSP11512-19|Ophlitaspon[4]
+> AATACTGCATTTTTTGACCCTGCAGGGGGAGGAGACCCATTTATATCACTTTATTTGTT-   659
+>                                 **********
+> 
+> Best wishes
+> Hirra
+> University of Manchester Student.
+> 
+>	[[alternative HTML version deleted]]
+> 
+> _______________________________________________
+> R-sig-phylo mailing list - R-sig-phylo at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-phylo
+> Searchable archive at http://www.mail-archive.com/r-sig-phylo at r-project.org/
+
+

@@ -1,0 +1,117 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2023-11",
+  "messages": [
+    {
+      "id": "msg-d60f0580d5ba",
+      "message_id": "<CAEsSYzyvHu-CkT2rjCQKo=2vDmBpVDFXFdPyr3KfR4=Ov2f_cg@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2023-11-01T16:22:20Z",
+      "subject": "[R-sig-genetics] ONLINE COURSE – Machine Learning with R (Intermediate – Advanced) (MLIA01)",
+      "subject_clean": "ONLINE COURSE – Machine Learning with R (Intermediate – Advanced) (MLIA01)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I hope this is ok here\n\nONLINE COURSE ? Machine Learning with R (Intermediate ? Advanced) (MLIA01)\n\nhttps://www.prstatistics.com/course/machine-learning-with-r-intermediate-advanced-mlia01/\n\n4th - 8th December 2023\n\nPLEASE FEEL FREE TO SHARE!\n\nCOURSE DETAILS - This intensive 4-day course provides an in-depth\nexploration of machine learning using the popular open-source statistical\nsoftware, R. Participants are assumed to have a basic working knowledge of\nregression and supervised learning techniques and so will gain a further\nunderstanding of various intermediate and advanced machine learning\nalgorithms, how they work, and how to implement them using R?s ecosystem of\npackages. Real-world data sets will be used to offer hands-on experience\nand help participants understand the practical applications of the covered\nconcepts.\n\nBy the end of this course, students should be able to:\n\nUnderstand and implement advanced supervised learning techniques such as\nCNNs, RNNs, Transformer Models, and Bayesian Machine Learning methods.\nUnderstand and implement advanced unsupervised learning techniques\nincluding various clustering, dimension reduction, and anomaly detection\nmethods.\nApply these techniques to real-world datasets and interpret the results.\nUnderstand the underlying methods and assumptions/drawbacks of these\ntechniques.\n\nDay 1: Classes from 09:30 to 17:30 - Deep Dive into Supervised Learning\nWe begin with an introduction to Deep Learning in which we cover the basic\nconcepts and its difference from traditional machine learning. We then\nextend to Convolutional Neural Networks (CNNs), exploring their\narchitecture, their use in image and video processing, and their role in\nobject detection and recognition. Finally we cover time series models\nthrough Recurrent Neural Networks (RNNs) and their application in\nsequential data analysis and natural language processing.\nIn the afternoon sessions we implement CNNs and RNNs using real data sets\nR Packages used: keras, tensorflow\n\n\nDay 2: Classes from 09:30 to 17:30 - Advanced Supervised Learning Techniques\nOn day 2 we cover Transformer models and Bayesian machine learning\ntechniques. We start by understanding the transformer architecture, its\nself-attention mechanism, and its use in natural language processing tasks.\nWe then cover the basics of Bayesian inference and explore its use in\nclassification and regression tasks, and compare it to traditional machine\nlearning methods.\nIn the afternoon sessions the students can choose whether they explore\neither the Transformer or Bayesian methods further by following and\nextending some example R scripts.\nR Packages: keras, tensorflow, rstan, brms, BART\n\nDay 3: Classes from 09:30 to 17:30 - Unsupervised Learning ? Clustering and\nDimension Reduction\nThe third day will focus on advanced clustering techniques and dimension\nreduction. We start by exploring clustering techniques including\nhierarchical clustering, DBSCAN, and their use in segmentation. We then\ncover dimension reduction techniques; starting with PCA and extending to\nt-SNE and UMAP. We explain how these techniques work and explore their use\nin visualisation of data sets with high dimensions.\nIn the afternoon session students will explore the use of these techniques\nthrough real-world data sets.\nR Packages: cluster, dbscan, factoextra, Rtsne, umap\n\nDay 4: Classes from 09:30 to 17:30\nUnsupervised Learning ? Anomaly Detection and Course Wrap-up\nOn the final day we will focus on anomaly detection techniques and bringing\ntogether the topics covered throughout the course. We start with various\nanomaly detection techniques and demonstrate their use in e.g. fraud\ndetection, network security, and health monitoring. We then provide a\ndiscussion session where we review the content of the course and talk about\nfuture steps in Machine Learning.\nIn the afternoon students have the opportunity to work on their own data\nsets and ask questions of the course instructor.\nR Packages: anomalize, forecast, e1071\n\nPlease email oliverhooker at prstatistics.com with any questions\n\n\n-- \n\nOliver Hooker PhD.\nPR statistics\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "I hope this is ok here\n\nONLINE COURSE ? Machine Learning with R (Intermediate ? Advanced) (MLIA01)\n\nhttps://www.prstatistics.com/course/machine-learning-with-r-intermediate-advanced-mlia01/\n\n4th - 8th",
+      "thread_id": "thread-d60f0580d5ba",
+      "thread_depth": 0,
+      "month": "2023-11"
+    },
+    {
+      "id": "msg-259b490eb8dc",
+      "message_id": "<1698919282.618516236@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2023-11-02T11:01:22+01:00",
+      "subject": "[R-sig-genetics] Seascape Genomics in R course - 1 seat available",
+      "subject_clean": "Seascape Genomics in R course - 1 seat available",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \none seat is now available for the Seascape Genomics in R course (next week) due to one last minute cancellation.\n \nIf interested, check it out: [ https://www.physalia-courses.org/courses-workshops/course70/ ]( https://www.physalia-courses.org/courses-workshops/course70/ )\n \nBest regards\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\nFollow us on [ Twitter ]( https://twitter.com/Physacourses ) & [ Mastodon ]( https://mas.to/@PhysaliaCourses )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \none seat is now available for the Seascape Genomics in R course (next week) due to one last minute cancellation.\n \nIf interested, check it out: [ https://www.physalia-courses.org/courses-w",
+      "thread_id": "thread-259b490eb8dc",
+      "thread_depth": 0,
+      "month": "2023-11"
+    },
+    {
+      "id": "msg-e4321d4b1030",
+      "message_id": "<1700752152.61144155@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2023-11-23T16:09:12+01:00",
+      "subject": "[R-sig-genetics] GWAS course",
+      "subject_clean": "GWAS course",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi all,\n \nwe have one seat available for  next week?s course on GWAS: [ https://www.physalia-courses.org/courses-workshops/course49/ ]( https://www.physalia-courses.org/courses-workshops/course49/ )\n \nBest regards,\nCarlo\n \n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\nFollow us on [ Twitter ]( https://twitter.com/Physacourses ) & [ Mastodon ]( https://mas.to/@PhysaliaCourses )\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi all,\n \nwe have one seat available for  next week?s course on GWAS: [ https://www.physalia-courses.org/courses-workshops/course49/ ]( https://www.physalia-courses.org/courses-workshops/course49/ )\n ",
+      "thread_id": "thread-e4321d4b1030",
+      "thread_depth": 0,
+      "month": "2023-11"
+    },
+    {
+      "id": "msg-baddff4701f8",
+      "message_id": "<CAEsSYzymd78ZVbergkt6Jb2kYKW+3nudbw=ECoNxj1DyTOX-bg@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2023-11-29T20:02:11Z",
+      "subject": "[R-sig-genetics] An Introduction to Spatial Eco-Phylogenetics and Comparative Methods (SECM01)",
+      "subject_clean": "An Introduction to Spatial Eco-Phylogenetics and Comparative Methods (SECM01)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? An Introduction to Spatial Eco-Phylogenetics and\nComparative Methods (SECM01)\n\nhttps://www.prstats.org/course/an-introduction-to-spatial-eco-phylogenetics-and-comparative-methods-secm01/\n\n19th - 22nd March 2024\n\nPlease feel free to share!\n\nCOURSE OVERVIEW - In this course we introduce phylogenetic analyses in a\nspatial context. Phylogenetic analyses often imply a high number of species\nfor which phylogenetic information is unavailable, hence we begin by\nproviding an overview on modern techniques to incorporate phylogenetic\nuncertainty in the analyses (day 1). We then cover the most popular\nanalyses in the spatial phylogenetics discipline (day 2), with particular\nfocus on the canonical analysis of neo- and paleo-endemism (CANAPE). The\nsecond part of the course will be devoted to integrating phylogenetic\ninformation into models of geographic distribution of species (day 3),\nfollowed by an overview of recent advances to improve ecological forecasts\nusing phylogenetic mixed models in a Bayesian framework (day 4).\n\nBy the end of the course, participants should:\n\n   - Know how to expand incomplete phylogenies based on taxonomic\n   information and customizing simulation parameters for optimal expansion.\n   - Understand the metrics and concepts used in spatial phylogenetics\n   (i.e. phylogenetic alpha and beta diversity, phylogenetic endemism),\n   interpret them critically, and assess pros and cons of analytical\n   techniques.\n   - Calculate phylogenetic predictors that can be included as covariates\n   in Species Distribution or Niche Models.\n   - Understand and implement the phylogenetic mixed model (PMM) and\n   translate its predictions into a spatial context.\n\n*Day 1  ? Expansion of molecular trees using taxonomic information and\nfundamental metrics of phylogenetic structure*\n\n   - Software for tree expansion exercises; randtip, PhyloMaker\n   - An overview of the fundamental metrics of phylogenetic structure. Null\n   models.\n\n*Day 2 ? Spatial Phylogenetics*\n\n   - Canonical analysis of neo- and paleo- endemism. Metrics, rationale,\n   workflow, and implementation.\n\n*Day 3 ? Phylogenetic Species Distribution Models*\n\n   - Putting phylogenies in the geography: the imprints of evolutionary\n   relationships in distribution models.\n   - Combining phylogenies with co-occurrence to infer spatial phylogenetic\n   predictors.\n   - Fitting, evaluating and interpreting Phylogenetic-SDMs.\n\n*Day 4 ? Beyond PGLS ? Bayes and more*\n\n   - Most common phylogenetic modelling approaches: PGLS\n   - PGLMM\n   - The phylogenetic mixed model (PMM) in a Bayesian framework\n\nPlease email oliverhooker at prstatistics.com with any questions.\n\n-- \n\nOliver Hooker PhD.\nPR statistics\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? An Introduction to Spatial Eco-Phylogenetics and\nComparative Methods (SECM01)\n\nhttps://www.prstats.org/course/an-introduction-to-spatial-eco-phylogenetics-and-comparative-methods-secm0",
+      "thread_id": "thread-baddff4701f8",
+      "thread_depth": 0,
+      "month": "2023-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d60f0580d5ba",
+      "subject": "ONLINE COURSE – Machine Learning with R (Intermediate – Advanced) (MLIA01)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2023-11-01T16:22:20+00:00",
+      "last_reply": "2023-11-01T16:22:20+00:00",
+      "root_message_id": "msg-d60f0580d5ba"
+    },
+    {
+      "id": "thread-259b490eb8dc",
+      "subject": "Seascape Genomics in R course - 1 seat available",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2023-11-02T11:01:22+01:00",
+      "last_reply": "2023-11-02T11:01:22+01:00",
+      "root_message_id": "msg-259b490eb8dc"
+    },
+    {
+      "id": "thread-e4321d4b1030",
+      "subject": "GWAS course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2023-11-23T16:09:12+01:00",
+      "last_reply": "2023-11-23T16:09:12+01:00",
+      "root_message_id": "msg-e4321d4b1030"
+    },
+    {
+      "id": "thread-baddff4701f8",
+      "subject": "An Introduction to Spatial Eco-Phylogenetics and Comparative Methods (SECM01)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2023-11-29T20:02:11+00:00",
+      "last_reply": "2023-11-29T20:02:11+00:00",
+      "root_message_id": "msg-baddff4701f8"
+    }
+  ]
+}

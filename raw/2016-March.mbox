@@ -1,0 +1,168 @@
+From dfulop.ucd at gmail.com  Sat Mar 12 09:32:41 2016
+From: dfulop.ucd at gmail.com (Daniel Fulop)
+Date: Sat, 12 Mar 2016 00:32:41 -0800
+Subject: [R-sig-genetics] genlight to treemix conversion
+Message-ID: <9148538B-FAC5-4A6B-B01A-23D2E3B0065F@gmail.com>
+
+Dear all,
+
+I?m wondering if someone has code for converting data from genlight to treemix format. If you do and wouldn?t mind sharing it I would be most grateful.
+
+I think one could do as.matrix(genlight-object) and then sum the alleles for each population, but then I?m not sure how to deal with NAs.
+
+Thanks!
+Dan.
+	[[alternative HTML version deleted]]
+
+
+From zkamvar at gmail.com  Mon Mar 14 21:54:19 2016
+From: zkamvar at gmail.com (Zhian Kamvar)
+Date: Mon, 14 Mar 2016 13:54:19 -0700
+Subject: [R-sig-genetics] genlight to treemix conversion
+In-Reply-To: <9148538B-FAC5-4A6B-B01A-23D2E3B0065F@gmail.com>
+References: <9148538B-FAC5-4A6B-B01A-23D2E3B0065F@gmail.com>
+Message-ID: <7AD7BEF5-F4F6-4575-8A2D-1074316FF15B@gmail.com>
+
+Hi Daniel,
+
+I'm not exactly sure this will work, but this might help:
+
+# Setting up fake data
+library('adegenet')
+x       <- glSim(100, 1e3, ploid=2)
+pop(x)  <- rep(letters[1:5], each = 20)
+
+# conversion 
+altlist <- lapply(seppop(x), as.matrix)
+get_pop_counts <- function(altmatrix){
+  alt <- apply(altmatrix, 2, sum, na.rm = TRUE)
+  ref <- apply(2 - altmatrix, 2, sum, na.rm = TRUE)
+  paste(alt, ref, sep = ",")
+}
+
+dat <- data.frame(lapply(altlist, get_pop_counts))
+write.table(dat, file = "mydata.treemix", sep = "\t", row.names = FALSE, col.names = TRUE)
+
+Zhian
+> On Mar 12, 2016, at 00:32 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:
+> 
+> Dear all,
+> 
+> I?m wondering if someone has code for converting data from genlight to treemix format. If you do and wouldn?t mind sharing it I would be most grateful.
+> 
+> I think one could do as.matrix(genlight-object) and then sum the alleles for each population, but then I?m not sure how to deal with NAs.
+> 
+> Thanks!
+> Dan.
+> 	[[alternative HTML version deleted]]
+> 
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+
+From Emmanuel.Paradis at ird.fr  Wed Mar 16 12:13:41 2016
+From: Emmanuel.Paradis at ird.fr (Emmanuel Paradis)
+Date: Wed, 16 Mar 2016 12:13:41 +0100
+Subject: [R-sig-genetics] new version of pegas
+Message-ID: <56E93FE5.9050004@ird.fr>
+
+Dear all,
+
+A new version of pegas is under preparation. It includes several new 
+functions for LD mapping, a new na.omit function to check for missing 
+alleles, improved code for VCF files and for extracting haplotypes from 
+"loci" objects. The list of these new features can be found on GitHub:
+
+https://github.com/emmanuelparadis/pegas/blob/master/pegas/NEWS
+
+A testing version is available (0.8-2.7) from GitHub and from ape's site 
+where a Windows version is also available:
+
+http://ape-package.ird.fr/ape_installation.html#versions
+
+
+From Emmanuel.Paradis at ird.fr  Wed Mar 16 12:14:40 2016
+From: Emmanuel.Paradis at ird.fr (Emmanuel Paradis)
+Date: Wed, 16 Mar 2016 12:14:40 +0100
+Subject: [R-sig-genetics] new version of pegas
+Message-ID: <56E94020.4030301@ird.fr>
+
+Dear all,
+
+A new version of pegas is under preparation. It includes several new 
+functions for LD mapping, a new na.omit function to check for missing 
+alleles, improved code for VCF files and for extracting haplotypes from 
+"loci" objects. The list of these new features can be found on GitHub:
+
+https://github.com/emmanuelparadis/pegas/blob/master/pegas/NEWS
+
+A testing version is available (0.8-2.7) from GitHub and from ape's site 
+where a Windows version is also available:
+
+http://ape-package.ird.fr/ape_installation.html#versions
+
+Tests and feedback wecome!
+
+Best,
+
+Emmanuel
+
+
+From thibautjombart at gmail.com  Wed Mar 16 12:28:49 2016
+From: thibautjombart at gmail.com (Thibaut Jombart)
+Date: Wed, 16 Mar 2016 11:28:49 +0000
+Subject: [R-sig-genetics] new version of pegas
+In-Reply-To: <56E94020.4030301@ird.fr>
+References: <56E94020.4030301@ird.fr>
+Message-ID: <CANPRA+pYvbcLgtjCMzYLNZB8v4EFWmiR5us6Y=S1ZyZ44TyTRg@mail.gmail.com>
+
+Hi Emmanuel,
+
+new version looks great!
+
+Best
+Thibaut
+
+
+--
+Dr Thibaut Jombart
+Lecturer, Department of Infectious Disease Epidemiology
+Imperial College London
+https://sites.google.com/site/thibautjombart/
+https://github.com/thibautjombart
+Twitter: @TeebzR <https://twitter.com/TeebzR>
+
+On 16 March 2016 at 11:14, Emmanuel Paradis <Emmanuel.Paradis at ird.fr> wrote:
+
+> Dear all,
+>
+> A new version of pegas is under preparation. It includes several new
+> functions for LD mapping, a new na.omit function to check for missing
+> alleles, improved code for VCF files and for extracting haplotypes from
+> "loci" objects. The list of these new features can be found on GitHub:
+>
+> https://github.com/emmanuelparadis/pegas/blob/master/pegas/NEWS
+>
+> A testing version is available (0.8-2.7) from GitHub and from ape's site
+> where a Windows version is also available:
+>
+> http://ape-package.ird.fr/ape_installation.html#versions
+>
+> Tests and feedback wecome!
+>
+> Best,
+>
+> Emmanuel
+>
+>
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>
+
+	[[alternative HTML version deleted]]
+
+

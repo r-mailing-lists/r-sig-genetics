@@ -1,0 +1,526 @@
+From ravneet.bhuller13 at imperial.ac.uk  Fri Dec  9 12:33:21 2016
+From: ravneet.bhuller13 at imperial.ac.uk (Bhuller, Ravneet)
+Date: Fri, 9 Dec 2016 11:33:21 +0000
+Subject: [R-sig-genetics] Microsatellite data query: Data frame to genind
+ conversion using adegent in R
+Message-ID: <705C0BFA-ABD0-4708-9D7D-F76738113797@ic.ac.uk>
+
+Hello R-sig-genetics community members,
+
+I am using microsatellite data for the first time. It is in csv format. Individual ids (1314 in total) are in the first column of the file (a snapshot attached below) and the allelic information of each loci (17 loci)  is in duplicate columns.
+[cid:F92F6AA3-0C16-4642-843F-476A5B1D6839 at nhm.ac.uk]
+
+When I convert this data.frame into genind object using adegent, it is considering first column as a locus and calculates number of loci as 35 (see below):
+[cid:423CE768-65F3-4B01-9E38-63CA0FD5ABF1 at nhm.ac.uk]
+
+Please if anyone can guide me what is going wrong here. The actual number of loci is 17 and first column is not a locus.
+
+
+Many thanks for your time.
+
+Kind regards,
+
+Rav
+PhD student
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20161209/ed37dfe5/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: microsatellite data.png
+Type: image/png
+Size: 219990 bytes
+Desc: microsatellite data.png
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20161209/ed37dfe5/attachment-0002.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: genind object.png
+Type: image/png
+Size: 72971 bytes
+Desc: genind object.png
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20161209/ed37dfe5/attachment-0003.png>
+
+From thibautjombart at gmail.com  Fri Dec  9 12:36:16 2016
+From: thibautjombart at gmail.com (Thibaut Jombart)
+Date: Fri, 9 Dec 2016 11:36:16 +0000
+Subject: [R-sig-genetics] Microsatellite data query: Data frame to
+ genind conversion using adegent in R
+In-Reply-To: <705C0BFA-ABD0-4708-9D7D-F76738113797@ic.ac.uk>
+References: <705C0BFA-ABD0-4708-9D7D-F76738113797@ic.ac.uk>
+Message-ID: <CANPRA+pnJmT7xVKt9kmkkerCrf7o-r-Fb3Torde0v0oyCYEEGQ@mail.gmail.com>
+
+Hi,
+
+you need to have one column per locus. You can use something along the
+lines of paste(a,b, sep = "/") to concatenate two columns.
+
+I think this has been documented on the adegenet forum. It may be useful to
+search the archives.
+
+Best
+Thibaut
+
+
+--
+Dr Thibaut Jombart
+Lecturer, Department of Infectious Disease Epidemiology, Imperial College
+London
+Head of RECON: repidemicsconsortium.org
+sites.google.com/site/thibautjombart/
+github.com/thibautjombart
+Twitter: @TeebzR <http://twitter.com/TeebzR>
++44(0)20 7594 3658
+
+On 9 December 2016 at 11:33, Bhuller, Ravneet <
+ravneet.bhuller13 at imperial.ac.uk> wrote:
+
+> Hello R-sig-genetics community members,
+>
+> I am using microsatellite data for the first time. It is in csv format.
+> Individual ids (1314 in total) are in the first column of the file (a
+> snapshot attached below) and the allelic information of each loci (17 loci)
+>  is in duplicate columns.
+>
+> When I convert this data.frame into genind object using adegent, it is
+> considering first column as a locus and calculates number of loci as 35
+> (see below):
+>
+> Please if anyone can guide me what is going wrong here. The actual number
+> of loci is 17 and first column is not a locus.
+>
+>
+> Many thanks for your time.
+>
+> Kind regards,
+>
+> Rav
+> PhD student
+>
+>
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20161209/7fac2679/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: microsatellite data.png
+Type: image/png
+Size: 219990 bytes
+Desc: not available
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20161209/7fac2679/attachment-0002.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: genind object.png
+Type: image/png
+Size: 72971 bytes
+Desc: not available
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20161209/7fac2679/attachment-0003.png>
+
+From ravneet.bhuller13 at imperial.ac.uk  Fri Dec  9 12:49:06 2016
+From: ravneet.bhuller13 at imperial.ac.uk (Bhuller, Ravneet)
+Date: Fri, 9 Dec 2016 11:49:06 +0000
+Subject: [R-sig-genetics] Microsatellite data query: Data frame to
+ genind conversion using adegent in R
+In-Reply-To: <CANPRA+pnJmT7xVKt9kmkkerCrf7o-r-Fb3Torde0v0oyCYEEGQ@mail.gmail.com>
+References: <705C0BFA-ABD0-4708-9D7D-F76738113797@ic.ac.uk>
+	<CANPRA+pnJmT7xVKt9kmkkerCrf7o-r-Fb3Torde0v0oyCYEEGQ@mail.gmail.com>
+Message-ID: <ED342D93-9A60-48FD-A14E-41E9CE48CFC9@ic.ac.uk>
+
+Many thanks, Thibaut.
+
+I will try that.
+
+Kind regards,
+
+Rav
+
+
+On 9 Dec 2016, at 11:36, Thibaut Jombart <thibautjombart at gmail.com<mailto:thibautjombart at gmail.com>> wrote:
+
+Hi,
+
+you need to have one column per locus. You can use something along the lines of paste(a,b, sep = "/") to concatenate two columns.
+
+I think this has been documented on the adegenet forum. It may be useful to search the archives.
+
+Best
+Thibaut
+
+
+--
+Dr Thibaut Jombart
+Lecturer, Department of Infectious Disease Epidemiology, Imperial College London
+Head of RECON: repidemicsconsortium.org<http://repidemicsconsortium.org/>
+sites.google.com/site/thibautjombart/<http://sites.google.com/site/thibautjombart/>
+github.com/thibautjombart<http://github.com/thibautjombart>
+Twitter: @TeebzR<http://twitter.com/TeebzR>
++44(0)20 7594 3658
+
+On 9 December 2016 at 11:33, Bhuller, Ravneet <ravneet.bhuller13 at imperial.ac.uk<mailto:ravneet.bhuller13 at imperial.ac.uk>> wrote:
+Hello R-sig-genetics community members,
+
+I am using microsatellite data for the first time. It is in csv format. Individual ids (1314 in total) are in the first column of the file (a snapshot attached below) and the allelic information of each loci (17 loci)  is in duplicate columns.
+<microsatellite data.png>
+
+When I convert this data.frame into genind object using adegent, it is considering first column as a locus and calculates number of loci as 35 (see below):
+<genind object.png>
+
+Please if anyone can guide me what is going wrong here. The actual number of loci is 17 and first column is not a locus.
+
+
+Many thanks for your time.
+
+Kind regards,
+
+Rav
+PhD student
+
+
+_______________________________________________
+R-sig-genetics mailing list
+R-sig-genetics at r-project.org<mailto:R-sig-genetics at r-project.org>
+https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From vojta at trapa.cz  Fri Dec  9 12:50:52 2016
+From: vojta at trapa.cz (=?utf-8?B?Vm9qdMSbY2g=?= Zeisek)
+Date: Fri, 09 Dec 2016 12:50:52 +0100
+Subject: [R-sig-genetics] Microsatellite data query: Data frame to
+	genind conversion using adegent in R
+In-Reply-To: <705C0BFA-ABD0-4708-9D7D-F76738113797@ic.ac.uk>
+References: <705C0BFA-ABD0-4708-9D7D-F76738113797@ic.ac.uk>
+Message-ID: <1580471.D2phreNtIz@veles.site>
+
+Dne p?tek 9. prosince 2016 11:33:21 CET, Bhuller, Ravneet napsal(a):
+> Hello R-sig-genetics community members,
+> 
+> I am using microsatellite data for the first time. It is in csv format.
+> Individual ids (1314 in total) are in the first column of the file (a
+> snapshot attached below) and the allelic information of each loci (17 loci)
+>  is in duplicate columns.
+> [cid:F92F6AA3-0C16-4642-843F-476A5B1D6839 at nhm.ac.uk]
+> 
+> When I convert this data.frame into genind object using adegent, it is
+> considering first column as a locus and calculates number of loci as 35
+> (see below): [cid:423CE768-65F3-4B01-9E38-63CA0FD5ABF1 at nhm.ac.uk]
+> 
+> Please if anyone can guide me what is going wrong here. The actual number of
+> loci is 17 and first column is not a locus.
+
+Hi,
+it is well documented in the Adegent basics tutorial. Mine shortened version 
+is in https://trapa.cz/en/course-molecular-data-r-2016 (see PDF attachment 
+down the page from slide 42).
+HTH,
+V.
+
+-- 
+Vojt?ch Zeisek
+https://trapa.cz/en/
+
+Department of Botany
+Faculty of Science, Charles University
+Ben?tsk? 433/2, Prague, 12801, CZ
+https://www.natur.cuni.cz/biology/botany/
+
+Institute of Botany, Academy of Sciences
+Z?mek 1, Pr?honice, 25243, CZ
+http://www.ibot.cas.cz/en/
+
+Czech Republic
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 833 bytes
+Desc: This is a digitally signed message part.
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20161209/4515d4f6/attachment.bin>
+
+From ravneet.bhuller13 at imperial.ac.uk  Fri Dec  9 13:01:09 2016
+From: ravneet.bhuller13 at imperial.ac.uk (Bhuller, Ravneet)
+Date: Fri, 9 Dec 2016 12:01:09 +0000
+Subject: [R-sig-genetics] Microsatellite data query: Data frame
+ to	genind conversion using adegent in R
+In-Reply-To: <1580471.D2phreNtIz@veles.site>
+References: <705C0BFA-ABD0-4708-9D7D-F76738113797@ic.ac.uk>
+	<1580471.D2phreNtIz@veles.site>
+Message-ID: <711162D1-DF8E-4761-BD99-DD8D5B2C97D0@ic.ac.uk>
+
+Many thanks, Vojtech.
+
+I will look at that.
+
+Kind regards,
+
+Rav
+
+
+
+> On 9 Dec 2016, at 11:50, Vojt?ch Zeisek <vojta at trapa.cz> wrote:
+> 
+> Dne p?tek 9. prosince 2016 11:33:21 CET, Bhuller, Ravneet napsal(a):
+>> Hello R-sig-genetics community members,
+>> 
+>> I am using microsatellite data for the first time. It is in csv format.
+>> Individual ids (1314 in total) are in the first column of the file (a
+>> snapshot attached below) and the allelic information of each loci (17 loci)
+>> is in duplicate columns.
+>> [cid:F92F6AA3-0C16-4642-843F-476A5B1D6839 at nhm.ac.uk]
+>> 
+>> When I convert this data.frame into genind object using adegent, it is
+>> considering first column as a locus and calculates number of loci as 35
+>> (see below): [cid:423CE768-65F3-4B01-9E38-63CA0FD5ABF1 at nhm.ac.uk]
+>> 
+>> Please if anyone can guide me what is going wrong here. The actual number of
+>> loci is 17 and first column is not a locus.
+> 
+> Hi,
+> it is well documented in the Adegent basics tutorial. Mine shortened version 
+> is in https://trapa.cz/en/course-molecular-data-r-2016 (see PDF attachment 
+> down the page from slide 42).
+> HTH,
+> V.
+> 
+> -- 
+> Vojt?ch Zeisek
+> https://trapa.cz/en/
+> 
+> Department of Botany
+> Faculty of Science, Charles University
+> Ben?tsk? 433/2, Prague, 12801, CZ
+> https://www.natur.cuni.cz/biology/botany/
+> 
+> Institute of Botany, Academy of Sciences
+> Z?mek 1, Pr?honice, 25243, CZ
+> http://www.ibot.cas.cz/en/
+> 
+> Czech Republic
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+
+From Emmanuel.Paradis at ird.fr  Fri Dec  9 14:36:40 2016
+From: Emmanuel.Paradis at ird.fr (Emmanuel Paradis)
+Date: Fri, 9 Dec 2016 14:36:40 +0100
+Subject: [R-sig-genetics] Microsatellite data query: Data frame to
+ genind conversion using adegent in R
+In-Reply-To: <1580471.D2phreNtIz@veles.site>
+References: <705C0BFA-ABD0-4708-9D7D-F76738113797@ic.ac.uk>
+	<1580471.D2phreNtIz@veles.site>
+Message-ID: <d1fb9d35-0edd-c055-bee0-078af4695fe3@ird.fr>
+
+Hi Vojt?ch,
+
+Great slides! The function alleles2loci in pegas can be helpful here: it 
+does the operation suggested by Thibaut for all columns at once and you 
+can specify the ploidy level. There is a small example in the help page 
+and a worked example (with some complications) in the vignette:
+
+vignette("ReadingFiles")
+
+If there are no complication in the file (i.e., only the alleles are 
+stores in the tabular file), then alleles2loci could be applied directly 
+to the output of read.csv or read.delim.
+
+HTH
+
+Best,
+
+Emmanuel
+
+Le 09/12/2016 ? 12:50, Vojt?ch Zeisek a ?crit :
+> Dne p?tek 9. prosince 2016 11:33:21 CET, Bhuller, Ravneet napsal(a):
+>> Hello R-sig-genetics community members,
+>>
+>> I am using microsatellite data for the first time. It is in csv format.
+>> Individual ids (1314 in total) are in the first column of the file (a
+>> snapshot attached below) and the allelic information of each loci (17 loci)
+>>  is in duplicate columns.
+>> [cid:F92F6AA3-0C16-4642-843F-476A5B1D6839 at nhm.ac.uk]
+>>
+>> When I convert this data.frame into genind object using adegent, it is
+>> considering first column as a locus and calculates number of loci as 35
+>> (see below): [cid:423CE768-65F3-4B01-9E38-63CA0FD5ABF1 at nhm.ac.uk]
+>>
+>> Please if anyone can guide me what is going wrong here. The actual number of
+>> loci is 17 and first column is not a locus.
+>
+> Hi,
+> it is well documented in the Adegent basics tutorial. Mine shortened version
+> is in https://trapa.cz/en/course-molecular-data-r-2016 (see PDF attachment
+> down the page from slide 42).
+> HTH,
+> V.
+>
+>
+>
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+>
+
+
+From vojta at trapa.cz  Fri Dec  9 14:54:49 2016
+From: vojta at trapa.cz (=?utf-8?B?Vm9qdMSbY2g=?= Zeisek)
+Date: Fri, 09 Dec 2016 14:54:49 +0100
+Subject: [R-sig-genetics] Microsatellite data query: Data frame to
+	genind conversion using adegent in R
+In-Reply-To: <d1fb9d35-0edd-c055-bee0-078af4695fe3@ird.fr>
+References: <705C0BFA-ABD0-4708-9D7D-F76738113797@ic.ac.uk>
+	<1580471.D2phreNtIz@veles.site>
+	<d1fb9d35-0edd-c055-bee0-078af4695fe3@ird.fr>
+Message-ID: <2782117.INN871vY8o@veles.site>
+
+Hi,
+thank You. :-) alleles2loci looks good, I could incorporate it into next 
+version of the slides (they are still far from being perfect).
+Yours,
+V.
+
+Dne p?tek 9. prosince 2016 14:36:40 CET, Emmanuel Paradis napsal(a):
+> Hi Vojt?ch,
+> 
+> Great slides! The function alleles2loci in pegas can be helpful here: it
+> does the operation suggested by Thibaut for all columns at once and you
+> can specify the ploidy level. There is a small example in the help page
+> and a worked example (with some complications) in the vignette:
+> 
+> vignette("ReadingFiles")
+> 
+> If there are no complication in the file (i.e., only the alleles are
+> stores in the tabular file), then alleles2loci could be applied directly
+> to the output of read.csv or read.delim.
+> 
+> HTH
+> 
+> Best,
+> 
+> Emmanuel
+> 
+> Le 09/12/2016 ? 12:50, Vojt?ch Zeisek a ?crit :
+> > Dne p?tek 9. prosince 2016 11:33:21 CET, Bhuller, Ravneet napsal(a):
+> >> Hello R-sig-genetics community members,
+> >> 
+> >> I am using microsatellite data for the first time. It is in csv format.
+> >> Individual ids (1314 in total) are in the first column of the file (a
+> >> snapshot attached below) and the allelic information of each loci (17
+> >> loci)
+> >> 
+> >>  is in duplicate columns.
+> >> 
+> >> [cid:F92F6AA3-0C16-4642-843F-476A5B1D6839 at nhm.ac.uk]
+> >> 
+> >> When I convert this data.frame into genind object using adegent, it is
+> >> considering first column as a locus and calculates number of loci as 35
+> >> (see below): [cid:423CE768-65F3-4B01-9E38-63CA0FD5ABF1 at nhm.ac.uk]
+> >> 
+> >> Please if anyone can guide me what is going wrong here. The actual number
+> >> of loci is 17 and first column is not a locus.
+> > 
+> > Hi,
+> > it is well documented in the Adegent basics tutorial. Mine shortened
+> > version is in https://trapa.cz/en/course-molecular-data-r-2016 (see PDF
+> > attachment down the page from slide 42).
+> > HTH,
+> > V.
+-- 
+Vojt?ch Zeisek
+https://trapa.cz/en/
+
+Department of Botany
+Faculty of Science, Charles University
+Ben?tsk? 433/2, Prague, 12801, CZ
+https://www.natur.cuni.cz/biology/botany/
+
+Institute of Botany, Academy of Sciences
+Z?mek 1, Pr?honice, 25243, CZ
+http://www.ibot.cas.cz/en/
+
+Czech Republic
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 833 bytes
+Desc: This is a digitally signed message part.
+URL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20161209/f109c9b4/attachment-0001.bin>
+
+From ravneet.bhuller13 at imperial.ac.uk  Fri Dec  9 15:12:42 2016
+From: ravneet.bhuller13 at imperial.ac.uk (Bhuller, Ravneet)
+Date: Fri, 9 Dec 2016 14:12:42 +0000
+Subject: [R-sig-genetics] Microsatellite data query: Data frame
+ to	genind conversion using adegent in R
+In-Reply-To: <1580471.D2phreNtIz@veles.site>
+References: <705C0BFA-ABD0-4708-9D7D-F76738113797@ic.ac.uk>
+	<1580471.D2phreNtIz@veles.site>
+Message-ID: <EB025E96-3024-41A3-943F-C1DB053383E0@ic.ac.uk>
+
+Dear Thibaut and Vojtec,
+
+Everything is working fine now.
+
+Many thanks for the great guidance.
+
+Rav
+
+
+
+
+
+> On 9 Dec 2016, at 11:50, Vojt?ch Zeisek <vojta at trapa.cz> wrote:
+> 
+> Dne p?tek 9. prosince 2016 11:33:21 CET, Bhuller, Ravneet napsal(a):
+>> Hello R-sig-genetics community members,
+>> 
+>> I am using microsatellite data for the first time. It is in csv format.
+>> Individual ids (1314 in total) are in the first column of the file (a
+>> snapshot attached below) and the allelic information of each loci (17 loci)
+>> is in duplicate columns.
+>> [cid:F92F6AA3-0C16-4642-843F-476A5B1D6839 at nhm.ac.uk]
+>> 
+>> When I convert this data.frame into genind object using adegent, it is
+>> considering first column as a locus and calculates number of loci as 35
+>> (see below): [cid:423CE768-65F3-4B01-9E38-63CA0FD5ABF1 at nhm.ac.uk]
+>> 
+>> Please if anyone can guide me what is going wrong here. The actual number of
+>> loci is 17 and first column is not a locus.
+> 
+> Hi,
+> it is well documented in the Adegent basics tutorial. Mine shortened version 
+> is in https://trapa.cz/en/course-molecular-data-r-2016 (see PDF attachment 
+> down the page from slide 42).
+> HTH,
+> V.
+> 
+> -- 
+> Vojt?ch Zeisek
+> https://trapa.cz/en/
+> 
+> Department of Botany
+> Faculty of Science, Charles University
+> Ben?tsk? 433/2, Prague, 12801, CZ
+> https://www.natur.cuni.cz/biology/botany/
+> 
+> Institute of Botany, Academy of Sciences
+> Z?mek 1, Pr?honice, 25243, CZ
+> http://www.ibot.cas.cz/en/
+> 
+> Czech Republic
+> _______________________________________________
+> R-sig-genetics mailing list
+> R-sig-genetics at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics
+
+

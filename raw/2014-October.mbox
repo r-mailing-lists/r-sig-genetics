@@ -1,0 +1,25 @@
+From culinovic.domagoj at gmail.com  Fri Oct  3 12:42:33 2014
+From: culinovic.domagoj at gmail.com (=?utf-8?q?Domagoj=20=c4=8culinovi=c4=87?=)
+Date: Fri, 03 Oct 2014 10:42:33 +0000
+Subject: [R-sig-genetics] Genetic algorithm help
+Message-ID: <emfa21cead-2c47-415e-b0ff-ed7c362e63d4@acer>
+
+I am new in R, and i need more information and help for problem i am try 
+to solve.
+My idea is to use genetic algorithm to analyze my datasets.
+Data are stored in series for last 15 years, and there are 12 criteria 
+which i must include. Each of this criteria have also time variable 
+(last 15 years, for each year one database record).
+All data are in MS SQL database.
+
+Also i have a polygons geometry stored in MS SQL Spatial database.
+Results from genetic algorithm must be shown with polygons stored in MS 
+SQL.
+Where to start?
+Who can give me some advice?
+
+Regards,
+Domagoj
+	[[alternative HTML version deleted]]
+
+

@@ -1,0 +1,112 @@
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Tue Jan 11 00:16:29 2022
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Mon, 10 Jan 2022 23:16:29 +0000
+Subject: [R-sig-genetics] Introduction to eco-phylogenetics and comparative
+ analyses using R (ECPH01)
+Message-ID: <CAEsSYzzBFZS_RWH8LohLKBb=DPjcUMneZ=ePVVZ4YF3Z4aEF0g@mail.gmail.com>
+
+Introduction to eco-phylogenetics and comparative analyses using R (ECPH01)
+
+
+
+https://www.prstatistics.com/course/introduction-to-eco-phylogenetics-and-comparative-analyses-using-r-ecph01/
+
+
+
+Please feel free to share!
+
+
+
+7th - 11th February 2022
+
+
+
+Course overview:
+
+In this five day course, we provide an introduction to eco-phylogenetics
+and comparative analyses using R. We begin by providing an  overview on the
+use of phylogenies as a tool for evolutionary biologists and modern
+techniques to deal with large phylogenies and to incorporate phylogenetic
+uncertainty in the analyses (day 1). We then cover some of the most
+relevant eco-phylogenetic analyses and provide examples from the community
+to the macro-ecological scale (day 2-3). Finally, we introduce a diversity
+of classic and modern phylogenetic comparative methods to consider the
+historical relationship of lineages in eco-evolutionary research, including
+models of trait evolution, analysis of clade diversification and the use of
+phylogenies in spatial distribution models among others (day 4-5).
+
+email oliverhooker at prstatistics.com with any questions
+
+
+
+Course program
+
+Monday 7th ? Classes from 08:00 to 16:30
+
+? Introduction and a brief phylogenetic primer. Basic terminology for non-
+phylogeneticists, phylogenetic inference (quick overview), phylogenies
+aevolutionary hypotheses.
+
+? Working with phylogenies. Newick format and structure of the R phylo
+object. Elementary operations on phylogenies (pruning, resolving
+polytomies, sticking species). Visualizing large phylogenies.
+
+? Building purpose-specific mega-trees from extant trees and incorporating
+phylogenetic uncertainty. Software phylocom, V.PhyloMaker, SUNPLIN and
+randtip R package.
+
+Tuesday 8th ? Classes from 08:00 to 16:30
+
+? Introduction to the eco-phylogenetic framework, classical conception and
+posterior modifications.
+
+? Phylogenetic alpha diversity (how much? how different? how regular?).
+Community data matrices, null models, applications to biodiversity
+conservation.
+
+? Phylogenetic beta diversity. The turnover and nestedness component of
+beta diversity.
+
+Wednesday 9th ? Classes from 08:00 to 16:30
+
+? Incorporating the exact branching pattern of phylogenies into
+eco-phylogenetic analyses.
+
+? Spatial phylogenetics. RPD, RPE and CANEPE analysis.
+
+? Overview of functional trait ecology. Functional richness, evenness and
+divergence.Community weighted means.
+
+? Phylogenetic imputation of trait datasets. Bounding prediction
+uncertainty using evolutionary models. Phylogenies as a null model in
+ecology.
+
+Thursday 10th from 08:00 to 16:30
+
+? The phylogenetic comparative method, from independent contrasts to
+sophisticated modelling.
+
+? Analyses of phylogenetic signal and models of evolution: rationale,
+common- practice, and new trends.
+
+? Correlated evolution and ancestral trait reconstruction.
+
+? Analyses of diversification, speciation and extinction rates in a
+geographic context.
+
+Friday 11th ? Classes from 08:00 to 16:30
+
+? The need to account for phylogenetic relationships in models.
+
+? Most common phylogenetic modelling approaches: PGLS, PGLMM, BayesianPMM.
+
+? Putting phylogenies in the geography: how to combine phylogenies with
+species distribution models.
+
+-- 
+Oliver Hooker PhD.
+PR statistics
+
+	[[alternative HTML version deleted]]
+
+

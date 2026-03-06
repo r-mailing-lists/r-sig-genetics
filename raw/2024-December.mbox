@@ -1,0 +1,300 @@
+From mzyphur m@iii@g oii i@st@ts@org  Mon Dec  2 21:57:24 2024
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Mon, 02 Dec 2024 20:57:24 +0000 (UTC)
+Subject: [R-sig-genetics] Online Seminar: Introduction to Git
+Message-ID: <eEJfoPFGTF2u6YnG8P_BFg@geopod-ismtpd-12>
+
+Hi everyone
+
+Instats is pleased to be co-hosting a free seminar Introduction to Git <https://instats.org/seminar/introduction-to-git-free-seminar2>, running Dec 10th. Git is the quintessential version control software used by developers to collaborate and manage projects. Discover some fundamental concepts, explore its practical applications, and learn how to efficiently use both the command line and the Visual Studio Code graphical user interface (GUI). Whether you're a seasoned developer or just starting your coding journey, this webinar will equip you with essential skills to use Git for software / package development in your field of research.
+
+
+Best wishes
+
+Michael Zyphur
+Director
+Institute for Statistical and Data Science
+instats.org <http://instats.org>
+	[[alternative HTML version deleted]]
+
+
+From mzyphur m@iii@g oii i@st@ts@org  Mon Dec  9 12:35:00 2024
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Mon, 09 Dec 2024 11:35:00 +0000 (UTC)
+Subject: [R-sig-genetics] Online course: Spatial and Spatio-Temporal Health
+ Modeling
+Message-ID: <zUUGF0HWRQatNOA8Ciwa-A@geopod-ismtpd-0>
+
+Hi everyone
+
+Instats is offering a new 4-day workshop on Bayesian Spatial and Spatio-Temporal Health Modeling in R <https://instats.org/seminar/bayesian-spatial-and-spatio-temporal-mod2>, running Jan 7 - 10 with professor Andrew Lawson. This workshop provides a comprehensive introduction to techniques for analyzing spatial and spatio-temporal data. While the examples used will be primarily from the health sciences, this hands-on workshop is designed to equip PhD students, academics, and professional researchers with the skills to conduct cutting-edge research across a broad range of health and social science fields using spatial data. Leveraging the power of R and OpenBugs software, the examples used will come from health research, including professor Lawson's extensive work in the field, but the methods and code are applicable to problems encountered in the health sciences and beyond. 
+
+Sign up today <https://instats.org/seminar/bayesian-spatial-and-spatio-temporal-mod2> to secure your spot in this exciting 4-day event, and please feel free to tell your colleagues and students.
+
+
+Best wishes
+
+Michael Zyphur
+Director
+Institute for Statistical and Data Science
+instats.org <http://instats.org>
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Mon Dec  9 18:43:57 2024
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Mon, 9 Dec 2024 18:43:57 +0100 (CET)
+Subject: [R-sig-genetics] =?utf-8?q?Landscape_Genomics_course_in_Poland_?=
+ =?utf-8?q?=2820-24_January=29?=
+Message-ID: <1733766237.35826670@webmail.jimdo.com>
+
+
+Dear all,
+We?re thrilled to announce that our Landscape Genomics course is almost fully booked?but a few seats are still available! Don?t miss this unique opportunity to explore the cutting-edge intersection of genetics, ecology, and environmental science in an engaging, hands-on learning environment.
+Course Details
+Dates: 20-24 January 2025
+Location: Faculty of Biology and Environmental Protection, University of Lodz, Poland
+Course website: [ https://www.physalia-courses.org/courses-workshops/course17/ ]( https://www.physalia-courses.org/courses-workshops/course17/ )
+This course offers an in-depth introduction to the field, guiding participants through:
+Obtaining and processing environmental data with Geographic Information Systems (GIS).
+Studying genetic variation and population structure using R.
+Identifying local adaptation signals with state-of-the-art tools like sam?ada.
+Planning robust landscape genomics experiments, including sampling design.
+Interpreting and validating results for evolutionary biology and conservation studies.
+For the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/course17/ )
+ 
+Best regards,
+Carlo
+ 
+ 
+ 
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Tue Dec 10 19:33:41 2024
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Tue, 10 Dec 2024 19:33:41 +0100 (CET)
+Subject: [R-sig-genetics] =?utf-8?q?online_course_-_UNIX_and_Shell_Script?=
+ =?utf-8?q?ing_for_Bioinformatics_-_January_27=E2=80=9331?=
+Message-ID: <1733855621.696226009@webmail.jimdo.com>
+
+
+Dear all,
+We are excited to announce our upcoming online UNIX and Shell Scripting for Bioinformatics course, designed to provide biologists with essential programming skills to analyse their data effectively.
+ 
+Dates: January 27?31, 2025 
+website: [ https://www.physalia-courses.org/courses-workshops/unix/ ]( https://www.physalia-courses.org/courses-workshops/unix/ )
+Why Attend?
+With biology becoming increasingly data-driven, understanding how to use Unix systems and shell scripting is critical for processing and analyzing large-scale datasets like next-generation sequencing (NGS) data.
+This hands-on course will introduce you to:
+Core Unix commands to streamline data management.
+Connecting to servers and installing bioinformatics tools.
+Bash scripting to automate and reproduce analyses.
+Processing large files efficiently using the command line.
+What You?ll Learn:
+Navigate and manage Unix systems confidently.
+Create, edit, and process files using the command line.
+Write and execute shell scripts to automate tasks.
+Manage system tasks and optimize resource usage.
+ 
+Best regards,
+Carlo
+ 
+ 
+ 
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Fri Dec 13 11:43:19 2024
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Fri, 13 Dec 2024 11:43:19 +0100 (CET)
+Subject: [R-sig-genetics] online course - Multivariate Data Analysis with R
+ and vegan
+Message-ID: <1734086599.702428491@webmail.jimdo.com>
+
+
+Dear all,
+We are excited to announce our upcoming online course, Multivariate Data Analysis with R and vegan, scheduled for 10-13 February 2025.
+This course is designed for PhD students, researchers, and professionals working with multivariate data sets in ecology, biology, and related fields. It offers a hands-on introduction to multivariate analysis methods, focusing on the powerful R package vegan.
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/vegan/ ]( https://www.physalia-courses.org/courses-workshops/vegan/ )
+ 
+Best regards,
+Carlo
+ 
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Tue Dec 17 11:06:11 2024
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Tue, 17 Dec 2024 11:06:11 +0100 (CET)
+Subject: [R-sig-genetics] =?utf-8?q?Generalised_Linear_Models_in_R_?=
+ =?utf-8?q?=E2=80=93_Online_Course_=2824-28_February_2025=29?=
+Message-ID: <1734429971.47996029@webmail.jimdo.com>
+
+
+Dear all,
+
+We are pleased to announce our upcoming online course: Generalised Linear Models in R, taking place from 24-28 February 2025.
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/glm-in-r-1/ ]( https://www.physalia-courses.org/courses-workshops/glm-in-r-1/ ) 
+
+Participants will gain hands-on experience applying GLMs to a variety of data types, including normal, binary, and count data, using R.
+
+Course Highlights:
+
+  - Specification and fitting of GLMs with appropriate distributions and link functions
+  - Interpretation of model outputs, including categorical predictors and predictions
+  - Model selection principles to answer research questions effectively
+  - Visualization and validation of models to communicate results clearly
+  - Foundations for advancing to GLMMs, GAMs, and other complex regression models
+
+Target Audience:
+
+Graduate students and researchers with basic statistical knowledge and prior experience in R programming (e.g., data import, manipulation, and visualization).
+
+
+By the end of this course, participants will be equipped to confidently analyse experimental and observational data using GLMs, ensuring a robust and coherent approach to statistical analysis.
+ 
+Best regards,
+Carlo
+ 
+ 
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Thu Dec 19 14:43:10 2024
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Thu, 19 Dec 2024 14:43:10 +0100 (CET)
+Subject: [R-sig-genetics] Join us in Poland for the Landscape Genomics
+ course in January 2025!
+Message-ID: <1734615790.5789785@webmail.jimdo.com>
+
+
+Dear all,
+
+there are only a few remaining seats for our upcoming course, Landscape Genomics, taking place from 20-24 January 2025 at the Faculty of Biology and Environmental Protection, University of Lodz, Poland.
+ 
+Website: [ https://www.physalia-courses.org/courses-workshops/course17/ ]( https://www.physalia-courses.org/courses-workshops/course17/ )
+Workshop Overview
+Landscape genomics explores how genetic diversity varies across space and how environmental features shape this diversity through local adaptation. This hands-on course will provide:
+An introduction to landscape genomics and its applications.
+Training in Geographic Information Systems (GIS) to process environmental data.
+Guidance on analyzing genetic variation, population structure, and local adaptation using R and Sambada.
+Insights into designing and interpreting landscape genomics experiments.
+Who Should Attend?
+This course is ideal for biologists, ecologists, geneticists, and veterinarians interested in applying landscape genomics to studies in evolutionary biology and conservation.
+Teaching Format
+The course includes 10 sessions combining theoretical insights with practical exercises, guiding participants through a complete landscape genomics experiment.
+ 
+ 
+We look forward to seeing you in Poland!
+Best regards,
+Carlo
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+
+
+
+	[[alternative HTML version deleted]]
+
+
+From o||verhooker @end|ng |rom pr@t@t|@t|c@@com  Tue Dec 31 21:18:02 2024
+From: o||verhooker @end|ng |rom pr@t@t|@t|c@@com (Oliver Hooker)
+Date: Tue, 31 Dec 2024 20:18:02 +0000
+Subject: [R-sig-genetics] PR stats have a January sale!
+Message-ID: <CAEsSYzw-SDOakhLn+N__H=st_kzLivrpRryORDLGUUOL6EKG2w@mail.gmail.com>
+
+PR stats have a January sale!
+
+Any bookings made during January on live courses
+https://www.prstats.org/live-courses/
+or recorded courses
+https://www.prstats.org/recorded-courses/
+qualify for a 20% discount, use discount code JAN25.
+
+Happy new year!!
+
+
+
+Oliver Hooker PhD.
+PR stats
+
+	[[alternative HTML version deleted]]
+
+

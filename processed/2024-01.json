@@ -1,0 +1,144 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2024-01",
+  "messages": [
+    {
+      "id": "msg-c695b94d1336",
+      "message_id": "<1704900265.43445540@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-01-10T16:24:25+01:00",
+      "subject": "[R-sig-genetics] Online Course: Machine Learning - a hands-on introduction in R",
+      "subject_clean": "Online Course: Machine Learning - a hands-on introduction in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \n \n \nthere are still a few seats available for our course \"Machine Learning - a hands-on introduction in R\".\n \n \n \nDates: February 19-23, 2024\n \n \n \nFormat: Online\n \n \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course43/ ]( https://www.physalia-courses.org/courses-workshops/course43/ ) \n \n \n \n \n \n \n \nThis course is perfect for those with zero or basic machine learning knowledge. If you're familiar with the R programming language, you're ready to dive in!\n \n \n \n \n \n \n \nOur attendees will gain hands-on experience in using multivariate methods and machine learning for 'omics data analysis.\n \n \n \n \n \n \n \nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops ]( https://www.physalia-courses.org/courses-workshops/course43/ )\n \n \n \n \n \n \n \nBest regards,\n \n \n \nCarlo\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \n \n \nthere are still a few seats available for our course \"Machine Learning - a hands-on introduction in R\".\n \n \n \nDates: February 19-23, 2024\n \n \n \nFormat: Online\n \n \n \nCourse website: [ h",
+      "thread_id": "thread-c695b94d1336",
+      "thread_depth": 0,
+      "month": "2024-01"
+    },
+    {
+      "id": "msg-386c39342f04",
+      "message_id": "<1704986576.829829124@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-01-11T16:22:56+01:00",
+      "subject": "[R-sig-genetics] Course - Landscape Genomics in Lausanne, Switzerland -  June 17-21",
+      "subject_clean": "Course - Landscape Genomics in Lausanne, Switzerland -  June 17-21",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello everyone,\n \n \n We are thrilled to announce that registrations are now open for our upcoming \"in-person\" workshop on \"Landscape Genomics\"\n \nWhen: June 17-21, 2024\nWhere: EPFL, Lausanne, Switzerland\n \n \nImmerse yourself in a transformative learning experience as we delve into the fundamental intricacies of landscape genomics and sharpen your skills with cutting-edge methods. From harnessing environmental data using GIS to dissecting genetic variation in R, this workshop is a comprehensive journey through the essentials. Explore statistical approaches for unraveling local adaptation mysteries and gain hands-on expertise with tools like Sambada and LFMM. Cap off the experience with valuable insights into result interpretation and experiment planning.\n \nThis workshop is tailor-made for those passionate individuals ready to apply landscape genomics in the realms of evolutionary biology and conservation studies.\n \nDon't miss out on this extraordinary opportunity! Secure your spot and explore more details on our course website: [ https://www.physalia-courses.org/courses-workshops/course17/ ]( https://www.physalia-courses.org/courses-workshops/course17/ )\n \n \nBest regards,\nCarlo\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello everyone,\n \n \n We are thrilled to announce that registrations are now open for our upcoming \"in-person\" workshop on \"Landscape Genomics\"\n \nWhen: June 17-21, 2024\nWhere: EPFL, Lausanne, Switzerla",
+      "thread_id": "thread-386c39342f04",
+      "thread_depth": 0,
+      "month": "2024-01"
+    },
+    {
+      "id": "msg-7a35174f861b",
+      "message_id": "<1705600982.689411127@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-01-18T19:03:02+01:00",
+      "subject": "[R-sig-genetics] Last 2 Seats! Enroll Now for R Shiny Course on Jan 29-30",
+      "subject_clean": "Last 2 Seats! Enroll Now for R Shiny Course on Jan 29-30",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nDon't miss out on our \"Introduction to R Shiny\" course on January 29-30, 2024. Only 2 seats left!\n\nCourse website: https://www.physalia-courses.org/courses-workshops/shiny/\n\nOverview:\nLearn to create responsive web applications with Shiny in R, no prior web development knowledge needed.\n\nWho Should Attend:\nIdeal for Data Analysts, Scientists, Researchers, and more.\n\nPrerequisites:\nBasic R proficiency required, familiarity with dplyr, ggplot2, and RStudio preferred. No HTML, CSS, or JavaScript knowledge needed.\n\n\nOutcomes:\n\n    - Understand Shiny app structure\n    - Read and write Shiny code\n    - Master Shiny reactivity concepts\n    - Create and deploy Shiny apps on shinyapps.io\n\n\n\nFor questions, reach out anytime.\n\nBest regards,\nCarlo\n\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846",
+      "body_snippet": "Dear all,\n\nDon't miss out on our \"Introduction to R Shiny\" course on January 29-30, 2024. Only 2 seats left!\n\nCourse website: https://www.physalia-courses.org/courses-workshops/shiny/\n\nOverview:\nLearn",
+      "thread_id": "thread-7a35174f861b",
+      "thread_depth": 0,
+      "month": "2024-01"
+    },
+    {
+      "id": "msg-3fdb78e84adc",
+      "message_id": "<CAEsSYzyKupEFLBLL8_69da9n+2hkqZjMMh6zZSTOFOB9h0ZHSQ@mail.gmail.com>",
+      "from_name": "Oliver Hooker",
+      "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
+      "date": "2024-01-25T14:37:23Z",
+      "subject": "[R-sig-genetics] ONLINE COURSE – An Introduction to Spatial Eco-Phylogenetics and Comparative Methods (SECM01)",
+      "subject_clean": "ONLINE COURSE – An Introduction to Spatial Eco-Phylogenetics and Comparative Methods (SECM01)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ONLINE COURSE ? An Introduction to Spatial Eco-Phylogenetics and\nComparative Methods (SECM01)\n\nhttps://www.prstats.org/course/an-introduction-to-spatial-eco-phylogenetics-and-comparative-methods-secm01/\n\n19th - 22nd March 2024\n\nPlease feel free to share!\n\nCOURSE OVERVIEW - In this course we introduce phylogenetic analyses in a\nspatial context. Phylogenetic analyses often imply a high number of species\nfor which phylogenetic information is unavailable, hence we begin by\nproviding an overview on modern techniques to incorporate phylogenetic\nuncertainty in the analyses (day 1). We then cover the most popular\nanalyses in the spatial phylogenetics discipline (day 2), with particular\nfocus on the canonical analysis of neo- and paleo-endemism (CANAPE). The\nsecond part of the course will be devoted to integrating phylogenetic\ninformation into models of geographic distribution of species (day 3),\nfollowed by an overview of recent advances to improve ecological forecasts\nusing phylogenetic mixed models in a Bayesian framework (day 4).\n\nBy the end of the course, participants should:\n\n   - Know how to expand incomplete phylogenies based on taxonomic\n   information and customizing simulation parameters for optimal expansion.\n   - Understand the metrics and concepts used in spatial phylogenetics\n   (i.e. phylogenetic alpha and beta diversity, phylogenetic endemism),\n   interpret them critically, and assess pros and cons of analytical\n   techniques.\n   - Calculate phylogenetic predictors that can be included as covariates\n   in Species Distribution or Niche Models.\n   - Understand and implement the phylogenetic mixed model (PMM) and\n   translate its predictions into a spatial context.\n\n*Day 1  ? Expansion of molecular trees using taxonomic information and\nfundamental metrics of phylogenetic structure*\n\n   - Software for tree expansion exercises; randtip, PhyloMaker\n   - An overview of the fundamental metrics of phylogenetic structure. Null\n   models.\n\n*Day 2 ? Spatial Phylogenetics*\n\n   - Canonical analysis of neo- and paleo- endemism. Metrics, rationale,\n   workflow, and implementation.\n\n*Day 3 ? Phylogenetic Species Distribution Models*\n\n   - Putting phylogenies in the geography: the imprints of evolutionary\n   relationships in distribution models.\n   - Combining phylogenies with co-occurrence to infer spatial phylogenetic\n   predictors.\n   - Fitting, evaluating and interpreting Phylogenetic-SDMs.\n\n*Day 4 ? Beyond PGLS ? Bayes and more*\n\n   - Most common phylogenetic modelling approaches: PGLS\n   - PGLMM\n   - The phylogenetic mixed model (PMM) in a Bayesian framework\n\nPlease email oliverhooker at prstatiatics.com with any questions.\n\n-- \n\nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ONLINE COURSE ? An Introduction to Spatial Eco-Phylogenetics and\nComparative Methods (SECM01)\n\nhttps://www.prstats.org/course/an-introduction-to-spatial-eco-phylogenetics-and-comparative-methods-secm0",
+      "thread_id": "thread-3fdb78e84adc",
+      "thread_depth": 0,
+      "month": "2024-01"
+    },
+    {
+      "id": "msg-6ba988a9fa72",
+      "message_id": "<1706554440.927235784@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2024-01-29T19:54:00+01:00",
+      "subject": "[R-sig-genetics] Online course - Introduction to Machine Learning in R",
+      "subject_clean": "Online course - Introduction to Machine Learning in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \n \n \nthere are still a few seats available for our course \"Machine Learning - a hands-on introduction in R\".\n \n \n \nDates: February 19-23, 2024\n \nFormat: Online\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course43/ ]( https://www.physalia-courses.org/courses-workshops/course43/ ) \n \n \n \nThis course is perfect for those with zero or basic machine learning knowledge. If you're familiar with the R programming language, you're ready to dive in!\n \n \n \nOur attendees will gain hands-on experience in using multivariate methods and machine learning for 'omics data analysis.\n \n \n \nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops ]( https://www.physalia-courses.org/courses-workshops/course43/ )\n \n \n \nBest regards,\n \nCarlo\n \n \n \n \n \n \n \n \n \n \n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \n \n \nthere are still a few seats available for our course \"Machine Learning - a hands-on introduction in R\".\n \n \n \nDates: February 19-23, 2024\n \nFormat: Online\n \nCourse website: [ https://w",
+      "thread_id": "thread-6ba988a9fa72",
+      "thread_depth": 0,
+      "month": "2024-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-c695b94d1336",
+      "subject": "Online Course: Machine Learning - a hands-on introduction in R",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-01-10T16:24:25+01:00",
+      "last_reply": "2024-01-10T16:24:25+01:00",
+      "root_message_id": "msg-c695b94d1336"
+    },
+    {
+      "id": "thread-386c39342f04",
+      "subject": "Course - Landscape Genomics in Lausanne, Switzerland -  June 17-21",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-01-11T16:22:56+01:00",
+      "last_reply": "2024-01-11T16:22:56+01:00",
+      "root_message_id": "msg-386c39342f04"
+    },
+    {
+      "id": "thread-7a35174f861b",
+      "subject": "Last 2 Seats! Enroll Now for R Shiny Course on Jan 29-30",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-01-18T19:03:02+01:00",
+      "last_reply": "2024-01-18T19:03:02+01:00",
+      "root_message_id": "msg-7a35174f861b"
+    },
+    {
+      "id": "thread-3fdb78e84adc",
+      "subject": "ONLINE COURSE – An Introduction to Spatial Eco-Phylogenetics and Comparative Methods (SECM01)",
+      "message_count": 1,
+      "participants": [
+        "Oliver Hooker"
+      ],
+      "started": "2024-01-25T14:37:23+00:00",
+      "last_reply": "2024-01-25T14:37:23+00:00",
+      "root_message_id": "msg-3fdb78e84adc"
+    },
+    {
+      "id": "thread-6ba988a9fa72",
+      "subject": "Online course - Introduction to Machine Learning in R",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2024-01-29T19:54:00+01:00",
+      "last_reply": "2024-01-29T19:54:00+01:00",
+      "root_message_id": "msg-6ba988a9fa72"
+    }
+  ]
+}
