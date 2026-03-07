@@ -34,6 +34,22 @@
       "thread_id": "thread-6fa0b60d0050",
       "thread_depth": 0,
       "month": "2026-03"
+    },
+    {
+      "id": "msg-5477bed61764",
+      "message_id": "<uV1Na3kNTKqjey-2_gy2KQ@geopod-ismtpd-12>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-03-06T13:55:21Z",
+      "subject": "[R-sig-genetics] Advanced R Spatial Analysis",
+      "subject_clean": "Advanced R Spatial Analysis",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nDiscover advanced methods for analyzing spatial data effectively in your work. Advanced R for Spatial Analysis led by Nick Bearman (University College London and Geospatial Training Solutions) is now available as an on-demand streaming seminar. This seminar focuses on advanced spatial analysis techniques in R, including spatial joins, buffering, and point-in-polygon operations. Researchers in genetics can apply these methods to analyze geographically distributed genetic data, understand population structures in relation to environmental factors, or map disease prevalence. Mastering these skills will enable them to integrate diverse spatial datasets, enhancing the precision and scope of their genetic research and contributing to more robust findings.\n\nAccess this seminar (https://instats.org/seminar/advanced-r-for-spatial-analysis-1) whenever convenient and feel free to circulate this with colleagues and students who may be interested!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nDiscover advanced methods for analyzing spatial data effectively in your work. Advanced R for Spatial Analysis led by Nick Bearman (University College London and Geospati",
+      "thread_id": "thread-5477bed61764",
+      "thread_depth": 0,
+      "month": "2026-03"
     }
   ],
   "threads": [
@@ -58,6 +74,17 @@
       "started": "2026-03-04T11:12:57+00:00",
       "last_reply": "2026-03-04T11:12:57+00:00",
       "root_message_id": "msg-6fa0b60d0050"
+    },
+    {
+      "id": "thread-5477bed61764",
+      "subject": "Advanced R Spatial Analysis",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-03-06T13:55:21+00:00",
+      "last_reply": "2026-03-06T13:55:21+00:00",
+      "root_message_id": "msg-5477bed61764"
     }
   ]
 }
