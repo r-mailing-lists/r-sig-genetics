@@ -50,6 +50,38 @@
       "thread_id": "thread-5477bed61764",
       "thread_depth": 0,
       "month": "2026-03"
+    },
+    {
+      "id": "msg-1f8b7e01b521",
+      "message_id": "<YYnKgi0PQVG_hvT_EqET7A@geopod-ismtpd-canary-0>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-03-09T09:12:06Z",
+      "subject": "[R-sig-genetics] Last Chance: AI for Systematic Reviews",
+      "subject_clean": "Last Chance: AI for Systematic Reviews",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - This seminar offers practical, hands-on training to enhance your research workflow and evidence synthesis capabilities. AI for Systematic Reviews is a 2-day seminar livestreaming March 11?12 with Hadi Fariborzi (Bissett School of Business, Mount Royal University, Calgary). This seminar introduces a rigorous AI-integrated workflow for systematic reviews, demonstrating how to manage the accelerating volume of genetic literature efficiently. Researchers in genetic data analysis can apply these methods to build reproducible searches, conduct AI-assisted screening, and create analysis-ready datasets for their own meta-analyses. The course emphasizes quantitative workflows, including advanced meta-analysis techniques demonstrated in R, which can directly enhance the rigor and scope of genetic research.\n\nSign up today (https://instats.org/seminar/ai-for-systematic-reviews) to join before enrollment closes, and please pass this to colleagues and students who may be interested!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - This seminar offers practical, hands-on training to enhance your research workflow and evidence synthesis capabilities. AI for Systematic Reviews is a 2-day",
+      "thread_id": "thread-1f8b7e01b521",
+      "thread_depth": 0,
+      "month": "2026-03"
+    },
+    {
+      "id": "msg-909f58d9c09b",
+      "message_id": "<1773075776.70216094@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-03-09T18:02:56+01:00",
+      "subject": "[R-sig-genetics] Marine Genomics course - online, 25-29 May",
+      "subject_clean": "Marine Genomics course - online, 25-29 May",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are excited to announce that our Marine Genomics course, originally planned in-person, will now be fully online to foster international participation!\n \nOver five days (25?29 May), this course offers hands-on training in:\n\nGenome assembly assessment and variant calling\n\nPopulation genomics analyses with marine datasets\n\nIntegrating genomic and environmental data for seascape genomics\n\nInterpreting results for ecology, conservation, and fisheries\nThe course combines lectures, discussions, and practical exercises using real marine datasets. It is designed for graduate students, postdocs, and researchers working in marine and population genomics. \n \nYou can find more information about the course here: [ https://www.physalia-courses.org/courses-workshops/marine-genomics/ ]( https://www.physalia-courses.org/courses-workshops/marine-genomics/ )\n \n \n \nBest regards, Carlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are excited to announce that our Marine Genomics course, originally planned in-person, will now be fully online to foster international participation!\n \nOver five days (25?29 May), this c",
+      "thread_id": "thread-909f58d9c09b",
+      "thread_depth": 0,
+      "month": "2026-03"
     }
   ],
   "threads": [
@@ -85,6 +117,28 @@
       "started": "2026-03-06T13:55:21+00:00",
       "last_reply": "2026-03-06T13:55:21+00:00",
       "root_message_id": "msg-5477bed61764"
+    },
+    {
+      "id": "thread-1f8b7e01b521",
+      "subject": "Last Chance: AI for Systematic Reviews",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-03-09T09:12:06+00:00",
+      "last_reply": "2026-03-09T09:12:06+00:00",
+      "root_message_id": "msg-1f8b7e01b521"
+    },
+    {
+      "id": "thread-909f58d9c09b",
+      "subject": "Marine Genomics course - online, 25-29 May",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-03-09T18:02:56+01:00",
+      "last_reply": "2026-03-09T18:02:56+01:00",
+      "root_message_id": "msg-909f58d9c09b"
     }
   ]
 }
