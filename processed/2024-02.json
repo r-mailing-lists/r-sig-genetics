@@ -8,7 +8,7 @@
       "message_id": "<1708242039.7939059@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-02-18T08:40:39+01:00",
+      "date": "2024-02-18T07:40:39Z",
       "subject": "[R-sig-genetics] Online course: Model-Based Demographic Inference from Population Genomics",
       "subject_clean": "Online course: Model-Based Demographic Inference from Population Genomics",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-02-18T08:40:39+01:00",
-      "last_reply": "2024-02-18T08:40:39+01:00",
+      "started": "2024-02-18T07:40:39Z",
+      "last_reply": "2024-02-18T07:40:39Z",
       "root_message_id": "msg-d348f23fe5da"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2024-02-27T21:20:18+00:00",
-      "last_reply": "2024-02-27T21:20:18+00:00",
+      "started": "2024-02-27T21:20:18Z",
+      "last_reply": "2024-02-27T21:20:18Z",
       "root_message_id": "msg-ed6c1768f764"
     }
   ]

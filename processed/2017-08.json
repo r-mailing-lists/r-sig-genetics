@@ -8,7 +8,7 @@
       "message_id": "<0e0e6d83b6d34bb7747c19fafa68fc30@prstatistics.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "8d85adc6b153d8e80093a9f8e89d7f46369fdd650fe394f7644a0e0697798998",
-      "date": "2017-08-18T00:20:45+01:00",
+      "date": "2017-08-17T23:20:45Z",
       "subject": "[R-sig-genetics] SCHOLARSHIPS.UK.ReproducibleDataScienceForPopulationGeneticsUsingR.23-27Oct.",
       "subject_clean": "SCHOLARSHIPS.UK.ReproducibleDataScienceForPopulationGeneticsUsingR.23-27Oct.",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAHpKFdCR7zXkos8B=6i93bFP3rsf866YuLTqKg_ODMVkHz-wYA@mail.gmail.com>",
       "from_name": "Ella Bowles",
       "from_email_hash": "bea6356d0698ba39cc8d8e449eda871ae3d93f278be0b70e1dfc5d13f943d456",
-      "date": "2017-08-30T16:49:50-04:00",
+      "date": "2017-08-30T20:49:50Z",
       "subject": "[R-sig-genetics] ape, read.dna to phase fasta file not working properly, tajima",
       "subject_clean": "ape, read.dna to phase fasta file not working properly, tajima",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAHpKFdBimdLcfDKQuJqNGD5oHL9p4Wu-kwJD0ippDGmwYCqDUw@mail.gmail.com>",
       "from_name": "Ella Bowles",
       "from_email_hash": "bea6356d0698ba39cc8d8e449eda871ae3d93f278be0b70e1dfc5d13f943d456",
-      "date": "2017-08-31T18:11:58-04:00",
+      "date": "2017-08-31T22:11:58Z",
       "subject": "[R-sig-genetics] ape, read.dna to phase fasta file not working properly, tajima",
       "subject_clean": "ape, read.dna to phase fasta file not working properly, tajima",
       "in_reply_to": "<CAHpKFdCR7zXkos8B=6i93bFP3rsf866YuLTqKg_ODMVkHz-wYA@mail.gmail.com>",
@@ -62,8 +62,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2017-08-18T00:20:45+01:00",
-      "last_reply": "2017-08-18T00:20:45+01:00",
+      "started": "2017-08-17T23:20:45Z",
+      "last_reply": "2017-08-17T23:20:45Z",
       "root_message_id": "msg-40a5f3e37181"
     },
     {
@@ -73,8 +73,8 @@
       "participants": [
         "Ella Bowles"
       ],
-      "started": "2017-08-30T16:49:50-04:00",
-      "last_reply": "2017-08-31T18:11:58-04:00",
+      "started": "2017-08-30T20:49:50Z",
+      "last_reply": "2017-08-31T22:11:58Z",
       "root_message_id": "msg-786f05a48d45"
     }
   ]

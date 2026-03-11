@@ -8,7 +8,7 @@
       "message_id": "<1704900265.43445540@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-01-10T16:24:25+01:00",
+      "date": "2024-01-10T15:24:25Z",
       "subject": "[R-sig-genetics] Online Course: Machine Learning - a hands-on introduction in R",
       "subject_clean": "Online Course: Machine Learning - a hands-on introduction in R",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<1704986576.829829124@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-01-11T16:22:56+01:00",
+      "date": "2024-01-11T15:22:56Z",
       "subject": "[R-sig-genetics] Course - Landscape Genomics in Lausanne, Switzerland -  June 17-21",
       "subject_clean": "Course - Landscape Genomics in Lausanne, Switzerland -  June 17-21",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<1705600982.689411127@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-01-18T19:03:02+01:00",
+      "date": "2024-01-18T18:03:02Z",
       "subject": "[R-sig-genetics] Last 2 Seats! Enroll Now for R Shiny Course on Jan 29-30",
       "subject_clean": "Last 2 Seats! Enroll Now for R Shiny Course on Jan 29-30",
       "in_reply_to": null,
@@ -72,7 +72,7 @@
       "message_id": "<1706554440.927235784@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-01-29T19:54:00+01:00",
+      "date": "2024-01-29T18:54:00Z",
       "subject": "[R-sig-genetics] Online course - Introduction to Machine Learning in R",
       "subject_clean": "Online course - Introduction to Machine Learning in R",
       "in_reply_to": null,
@@ -92,8 +92,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-01-10T16:24:25+01:00",
-      "last_reply": "2024-01-10T16:24:25+01:00",
+      "started": "2024-01-10T15:24:25Z",
+      "last_reply": "2024-01-10T15:24:25Z",
       "root_message_id": "msg-c695b94d1336"
     },
     {
@@ -103,8 +103,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-01-11T16:22:56+01:00",
-      "last_reply": "2024-01-11T16:22:56+01:00",
+      "started": "2024-01-11T15:22:56Z",
+      "last_reply": "2024-01-11T15:22:56Z",
       "root_message_id": "msg-386c39342f04"
     },
     {
@@ -114,8 +114,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-01-18T19:03:02+01:00",
-      "last_reply": "2024-01-18T19:03:02+01:00",
+      "started": "2024-01-18T18:03:02Z",
+      "last_reply": "2024-01-18T18:03:02Z",
       "root_message_id": "msg-7a35174f861b"
     },
     {
@@ -125,8 +125,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2024-01-25T14:37:23+00:00",
-      "last_reply": "2024-01-25T14:37:23+00:00",
+      "started": "2024-01-25T14:37:23Z",
+      "last_reply": "2024-01-25T14:37:23Z",
       "root_message_id": "msg-3fdb78e84adc"
     },
     {
@@ -136,8 +136,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-01-29T19:54:00+01:00",
-      "last_reply": "2024-01-29T19:54:00+01:00",
+      "started": "2024-01-29T18:54:00Z",
+      "last_reply": "2024-01-29T18:54:00Z",
       "root_message_id": "msg-6ba988a9fa72"
     }
   ]

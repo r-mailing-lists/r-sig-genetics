@@ -8,7 +8,7 @@
       "message_id": "<CANPRA+o40SsJ7n04K+FZXUsXKspL=tV5G_OBfqhKf10O0L18zQ@mail.gmail.com>",
       "from_name": "Thibaut Jombart",
       "from_email_hash": "a870df9f6e75f3cbcc4043deb7cf0598da9e8598f08b1621deb5537b21fb46f5",
-      "date": "2016-06-02T16:35:19+01:00",
+      "date": "2016-06-02T15:35:19Z",
       "subject": "[R-sig-genetics] genetic data analysis in R short course, Glasgow 16-20 Aug 2016",
       "subject_clean": "genetic data analysis in R short course, Glasgow 16-20 Aug 2016",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<3092592.TXh0rrodnL@veles>",
       "from_name": "Vojtěch Zeisek",
       "from_email_hash": "45d63b52f895aa26802362b8eba97e8fca5bb3222edb7090aaab8ebe958f5e78",
-      "date": "2016-06-02T18:22:42+02:00",
+      "date": "2016-06-02T16:22:42Z",
       "subject": "[R-sig-genetics] genetic data analysis in R short course, Glasgow 16-20 Aug 2016",
       "subject_clean": "genetic data analysis in R short course, Glasgow 16-20 Aug 2016",
       "in_reply_to": "<CANPRA+o40SsJ7n04K+FZXUsXKspL=tV5G_OBfqhKf10O0L18zQ@mail.gmail.com>",
@@ -42,7 +42,7 @@
       "message_id": "<CANPRA+qRFwcs6k_EN5j0bX_5RgN7LVjEYCXKFHOe5bNd9pzWpg@mail.gmail.com>",
       "from_name": "Thibaut Jombart",
       "from_email_hash": "a870df9f6e75f3cbcc4043deb7cf0598da9e8598f08b1621deb5537b21fb46f5",
-      "date": "2016-06-02T17:41:39+01:00",
+      "date": "2016-06-02T16:41:39Z",
       "subject": "[R-sig-genetics] genetic data analysis in R short course, Glasgow 16-20 Aug 2016",
       "subject_clean": "genetic data analysis in R short course, Glasgow 16-20 Aug 2016",
       "in_reply_to": "<3092592.TXh0rrodnL@veles>",
@@ -66,8 +66,8 @@
         "Thibaut Jombart",
         "Vojtěch Zeisek"
       ],
-      "started": "2016-06-02T16:35:19+01:00",
-      "last_reply": "2016-06-02T17:41:39+01:00",
+      "started": "2016-06-02T15:35:19Z",
+      "last_reply": "2016-06-02T16:41:39Z",
       "root_message_id": "msg-a7550a415e74"
     }
   ]

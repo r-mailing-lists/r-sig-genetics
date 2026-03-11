@@ -24,7 +24,7 @@
       "message_id": "<1656520994.795632527@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2022-06-29T18:43:14+02:00",
+      "date": "2022-06-29T16:43:14Z",
       "subject": "[R-sig-genetics] Introduction to Statistics in R for biologists and ecologists",
       "subject_clean": "Introduction to Statistics in R for biologists and ecologists",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Steen Wilhelm Knudsen"
       ],
-      "started": "2022-06-02T07:07:18+00:00",
-      "last_reply": "2022-06-02T07:07:18+00:00",
+      "started": "2022-06-02T07:07:18Z",
+      "last_reply": "2022-06-02T07:07:18Z",
       "root_message_id": "msg-1529935c2381"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2022-06-29T18:43:14+02:00",
-      "last_reply": "2022-06-29T18:43:14+02:00",
+      "started": "2022-06-29T16:43:14Z",
+      "last_reply": "2022-06-29T16:43:14Z",
       "root_message_id": "msg-edd156a85638"
     }
   ]

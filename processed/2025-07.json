@@ -40,7 +40,7 @@
       "message_id": "<1751788193.743318311@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-07-06T09:49:53+02:00",
+      "date": "2025-07-06T07:49:53Z",
       "subject": "[R-sig-genetics] Conservation Genomics course (Online, July 21-24)",
       "subject_clean": "Conservation Genomics course (Online, July 21-24)",
       "in_reply_to": null,
@@ -72,7 +72,7 @@
       "message_id": "<1752039621.577823449@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-07-09T07:40:21+02:00",
+      "date": "2025-07-09T05:40:21Z",
       "subject": "[R-sig-genetics] Physalia online course: Population Genomics Using Ancient DNA Data - 22nd–26th September",
       "subject_clean": "Physalia online course: Population Genomics Using Ancient DNA Data - 22nd–26th September",
       "in_reply_to": null,
@@ -88,7 +88,7 @@
       "message_id": "<1753020487.5792640@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-07-20T16:08:07+02:00",
+      "date": "2025-07-20T14:08:07Z",
       "subject": "[R-sig-genetics] Physalia upcoming online course: Analysing Biodiversity Through Time and Space Using R",
       "subject_clean": "Physalia upcoming online course: Analysing Biodiversity Through Time and Space Using R",
       "in_reply_to": null,
@@ -120,7 +120,7 @@
       "message_id": "<1753715821.15183357@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-07-28T17:17:01+02:00",
+      "date": "2025-07-28T15:17:01Z",
       "subject": "[R-sig-genetics] Online Course: Phylogenomics – 1–5 December",
       "subject_clean": "Online Course: Phylogenomics – 1–5 December",
       "in_reply_to": null,
@@ -152,7 +152,7 @@
       "message_id": "<CAEsSYzwax5Yv5fZddvy+00iKco=YPvk_=muh7RSYZup2K2hE8w@mail.gmail.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
-      "date": "2025-07-29T18:44:32+01:00",
+      "date": "2025-07-29T17:44:32Z",
       "subject": "[R-sig-genetics] Introduction to Generalised Linear Mixed Models for Ecologists (MMIE01)",
       "subject_clean": "Introduction to Generalised Linear Mixed Models for Ecologists (MMIE01)",
       "in_reply_to": null,
@@ -172,8 +172,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-07-01T08:20:00+00:00",
-      "last_reply": "2025-07-01T08:20:00+00:00",
+      "started": "2025-07-01T08:20:00Z",
+      "last_reply": "2025-07-01T08:20:00Z",
       "root_message_id": "msg-a06b92c8c498"
     },
     {
@@ -183,8 +183,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-07-03T06:35:00+00:00",
-      "last_reply": "2025-07-03T06:35:00+00:00",
+      "started": "2025-07-03T06:35:00Z",
+      "last_reply": "2025-07-03T06:35:00Z",
       "root_message_id": "msg-a9ea153f1280"
     },
     {
@@ -194,8 +194,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-07-06T09:49:53+02:00",
-      "last_reply": "2025-07-06T09:49:53+02:00",
+      "started": "2025-07-06T07:49:53Z",
+      "last_reply": "2025-07-06T07:49:53Z",
       "root_message_id": "msg-d1c1b0fe3f36"
     },
     {
@@ -205,8 +205,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-07-07T09:50:00+00:00",
-      "last_reply": "2025-07-07T09:50:00+00:00",
+      "started": "2025-07-07T09:50:00Z",
+      "last_reply": "2025-07-07T09:50:00Z",
       "root_message_id": "msg-b6d3970da896"
     },
     {
@@ -216,8 +216,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-07-09T07:40:21+02:00",
-      "last_reply": "2025-07-09T07:40:21+02:00",
+      "started": "2025-07-09T05:40:21Z",
+      "last_reply": "2025-07-09T05:40:21Z",
       "root_message_id": "msg-8e3889fd2c8a"
     },
     {
@@ -227,8 +227,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-07-20T16:08:07+02:00",
-      "last_reply": "2025-07-20T16:08:07+02:00",
+      "started": "2025-07-20T14:08:07Z",
+      "last_reply": "2025-07-20T14:08:07Z",
       "root_message_id": "msg-72ebfd214a80"
     },
     {
@@ -238,8 +238,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-07-22T12:35:00+00:00",
-      "last_reply": "2025-07-22T12:35:00+00:00",
+      "started": "2025-07-22T12:35:00Z",
+      "last_reply": "2025-07-22T12:35:00Z",
       "root_message_id": "msg-cd968b81f74e"
     },
     {
@@ -249,8 +249,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-07-28T17:17:01+02:00",
-      "last_reply": "2025-07-28T17:17:01+02:00",
+      "started": "2025-07-28T15:17:01Z",
+      "last_reply": "2025-07-28T15:17:01Z",
       "root_message_id": "msg-f057b35cafa0"
     },
     {
@@ -260,8 +260,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2025-07-29T08:50:00+00:00",
-      "last_reply": "2025-07-29T08:50:00+00:00",
+      "started": "2025-07-29T08:50:00Z",
+      "last_reply": "2025-07-29T08:50:00Z",
       "root_message_id": "msg-bed10e4845e4"
     },
     {
@@ -271,8 +271,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2025-07-29T18:44:32+01:00",
-      "last_reply": "2025-07-29T18:44:32+01:00",
+      "started": "2025-07-29T17:44:32Z",
+      "last_reply": "2025-07-29T17:44:32Z",
       "root_message_id": "msg-5b70fd9a37e6"
     }
   ]

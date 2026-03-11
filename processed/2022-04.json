@@ -8,7 +8,7 @@
       "message_id": "<1649838654.173211472@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2022-04-13T10:30:54+02:00",
+      "date": "2022-04-13T08:30:54Z",
       "subject": "[R-sig-genetics] Landscape Genomics in R course",
       "subject_clean": "Landscape Genomics in R course",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAJ9LPN2k5mGUP5QLfH_OJRz-BDNjy8nvfc_R8DNT-8whTaNn-A@mail.gmail.com>",
       "from_name": "Melanie Delleuze",
       "from_email_hash": "a32f6e1a163b9f633f9943ecc3a3ca5676320f18f32901cef76c039739fc366b",
-      "date": "2022-04-14T11:51:32-04:00",
+      "date": "2022-04-14T15:51:32Z",
       "subject": "[R-sig-genetics] F statistics in R",
       "subject_clean": "F statistics in R",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAEsSYzw7YZS6mNDOdWPi_o5K2xnZPpvbwsXpOWYp7ByPuAY8mw@mail.gmail.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
-      "date": "2022-04-21T14:30:49+01:00",
+      "date": "2022-04-21T13:30:49Z",
       "subject": "[R-sig-genetics] ONLINE COURSE – Introduction To Multivariate Analysis In Ecology And Evolutionary Biology",
       "subject_clean": "ONLINE COURSE – Introduction To Multivariate Analysis In Ecology And Evolutionary Biology",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<1650549654.694927882@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2022-04-21T16:00:54+02:00",
+      "date": "2022-04-21T14:00:54Z",
       "subject": "[R-sig-genetics] Online course - GENE SET ENRICHMENT ANALYSIS IN R (May 3rd-6th)",
       "subject_clean": "Online course - GENE SET ENRICHMENT ANALYSIS IN R (May 3rd-6th)",
       "in_reply_to": null,
@@ -76,8 +76,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2022-04-13T10:30:54+02:00",
-      "last_reply": "2022-04-13T10:30:54+02:00",
+      "started": "2022-04-13T08:30:54Z",
+      "last_reply": "2022-04-13T08:30:54Z",
       "root_message_id": "msg-648831deb2af"
     },
     {
@@ -87,8 +87,8 @@
       "participants": [
         "Melanie Delleuze"
       ],
-      "started": "2022-04-14T11:51:32-04:00",
-      "last_reply": "2022-04-14T11:51:32-04:00",
+      "started": "2022-04-14T15:51:32Z",
+      "last_reply": "2022-04-14T15:51:32Z",
       "root_message_id": "msg-cea37f59c57f"
     },
     {
@@ -98,8 +98,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2022-04-21T14:30:49+01:00",
-      "last_reply": "2022-04-21T14:30:49+01:00",
+      "started": "2022-04-21T13:30:49Z",
+      "last_reply": "2022-04-21T13:30:49Z",
       "root_message_id": "msg-d7eeb04cf321"
     },
     {
@@ -109,8 +109,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2022-04-21T16:00:54+02:00",
-      "last_reply": "2022-04-21T16:00:54+02:00",
+      "started": "2022-04-21T14:00:54Z",
+      "last_reply": "2022-04-21T14:00:54Z",
       "root_message_id": "msg-1018d302ee5d"
     }
   ]

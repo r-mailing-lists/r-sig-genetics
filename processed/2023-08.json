@@ -8,7 +8,7 @@
       "message_id": "<CAEsSYzwZ+77+qCV=+j0oNp8hP_XEhru+q2U6sZ_DtpbBpo0iRQ@mail.gmail.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
-      "date": "2023-08-08T12:11:43+01:00",
+      "date": "2023-08-08T11:11:43Z",
       "subject": "[R-sig-genetics] ONLINE COURSE – Machine Learning with R (Intermediate – Advanced) (MLIA01)",
       "subject_clean": "ONLINE COURSE – Machine Learning with R (Intermediate – Advanced) (MLIA01)",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<1691494725.000925598@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2023-08-08T13:38:45+02:00",
+      "date": "2023-08-08T11:38:45Z",
       "subject": "[R-sig-genetics] course \"DNA METHYLATION IN ECOLOGY AND EVOLUTION\"",
       "subject_clean": "course \"DNA METHYLATION IN ECOLOGY AND EVOLUTION\"",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<1693485614.42793160@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2023-08-31T14:40:14+02:00",
+      "date": "2023-08-31T12:40:14Z",
       "subject": "[R-sig-genetics] Join Our Online Course: Incorporating Paleogenomes into Evolutionary Genomics Studies",
       "subject_clean": "Join Our Online Course: Incorporating Paleogenomes into Evolutionary Genomics Studies",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2023-08-08T12:11:43+01:00",
-      "last_reply": "2023-08-08T12:11:43+01:00",
+      "started": "2023-08-08T11:11:43Z",
+      "last_reply": "2023-08-08T11:11:43Z",
       "root_message_id": "msg-2a8ea8ff3318"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2023-08-08T13:38:45+02:00",
-      "last_reply": "2023-08-08T13:38:45+02:00",
+      "started": "2023-08-08T11:38:45Z",
+      "last_reply": "2023-08-08T11:38:45Z",
       "root_message_id": "msg-285a194d7ebc"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2023-08-31T14:40:14+02:00",
-      "last_reply": "2023-08-31T14:40:14+02:00",
+      "started": "2023-08-31T12:40:14Z",
+      "last_reply": "2023-08-31T12:40:14Z",
       "root_message_id": "msg-16a465920a9d"
     }
   ]

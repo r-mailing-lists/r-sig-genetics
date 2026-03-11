@@ -8,7 +8,7 @@
       "message_id": "<DBAPR07MB6581989A4D42D4E2C83B214A80D30@DBAPR07MB6581.eurprd07.prod.outlook.com>",
       "from_name": "Guillaume SCHWOB",
       "from_email_hash": "55a5dfeaeae2d1d5d5203646229fde93f24f0409c0c753ac21a079691b2e4de3",
-      "date": "2020-04-23T09:02:34-04:00",
+      "date": "2020-04-23T13:02:34Z",
       "subject": "[R-sig-genetics] Polymorphic sites counting and fasta file expanding",
       "subject_clean": "Polymorphic sites counting and fasta file expanding",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<e1d8b583-d7b8-7537-d397-22ce8c74c95a@gmail.com>",
       "from_name": "Zhian N. Kamvar",
       "from_email_hash": "197ee65e841aedec35350a60c88d8c4fa7006cc9c9bc406e9e36d7b98eebe1e6",
-      "date": "2020-04-23T10:16:06-07:00",
+      "date": "2020-04-23T17:16:06Z",
       "subject": "[R-sig-genetics] Polymorphic sites counting and fasta file expanding",
       "subject_clean": "Polymorphic sites counting and fasta file expanding",
       "in_reply_to": "<DBAPR07MB6581989A4D42D4E2C83B214A80D30@DBAPR07MB6581.eurprd07.prod.outlook.com>",
@@ -42,7 +42,7 @@
       "message_id": "<CAC3bDTQbbNRiZWMBmp5=3fN2Tb88o_3w1q=2GFZpHO4wOeLTKQ@mail.gmail.com>",
       "from_name": "Marc Domènech Andreu",
       "from_email_hash": "8db4b9509e137f592bafb4ca80ae1f24ce8a8dcef593ca2706ff9470631d78d6",
-      "date": "2020-04-29T12:04:25+02:00",
+      "date": "2020-04-29T10:04:25Z",
       "subject": "[R-sig-genetics] Pegas vs Arlequin, and negative AMOVA values",
       "subject_clean": "Pegas vs Arlequin, and negative AMOVA values",
       "in_reply_to": null,
@@ -58,7 +58,7 @@
       "message_id": "<570fe58c-5626-a4ea-97ee-27e4f8764e86@gmail.com>",
       "from_name": "Zhian N. Kamvar",
       "from_email_hash": "197ee65e841aedec35350a60c88d8c4fa7006cc9c9bc406e9e36d7b98eebe1e6",
-      "date": "2020-04-29T08:26:23-07:00",
+      "date": "2020-04-29T15:26:23Z",
       "subject": "[R-sig-genetics] Pegas vs Arlequin, and negative AMOVA values",
       "subject_clean": "Pegas vs Arlequin, and negative AMOVA values",
       "in_reply_to": "<CAC3bDTQbbNRiZWMBmp5=3fN2Tb88o_3w1q=2GFZpHO4wOeLTKQ@mail.gmail.com>",
@@ -81,8 +81,8 @@
         "Guillaume SCHWOB",
         "Zhian N. Kamvar"
       ],
-      "started": "2020-04-23T09:02:34-04:00",
-      "last_reply": "2020-04-23T10:16:06-07:00",
+      "started": "2020-04-23T13:02:34Z",
+      "last_reply": "2020-04-23T17:16:06Z",
       "root_message_id": "msg-62d2a2aaf472"
     },
     {
@@ -93,8 +93,8 @@
         "Marc Domènech Andreu",
         "Zhian N. Kamvar"
       ],
-      "started": "2020-04-29T12:04:25+02:00",
-      "last_reply": "2020-04-29T08:26:23-07:00",
+      "started": "2020-04-29T10:04:25Z",
+      "last_reply": "2020-04-29T15:26:23Z",
       "root_message_id": "msg-b418786073b0"
     }
   ]

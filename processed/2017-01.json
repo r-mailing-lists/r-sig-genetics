@@ -8,7 +8,7 @@
       "message_id": "<CANpTdqX-c4=Cm-u9bXDQLZY-1FA+KJLEzFmpiqpwryndZg=8SA@mail.gmail.com>",
       "from_name": "Ramendra Nath Sarma",
       "from_email_hash": "88e4e0470e13a8e245faa21bd2432879ac81acbfa63d248ffdec26a7e3caaea6",
-      "date": "2017-01-02T15:07:39+05:30",
+      "date": "2017-01-02T09:37:39Z",
       "subject": "[R-sig-genetics] Fwd: Help in Pegas",
       "subject_clean": "Help in Pegas",
       "in_reply_to": "<CANpTdqW4y-P5MqhksV46bzUxnDcRi7g18udLxhKQTuTOGWX29w@mail.gmail.com>",
@@ -26,7 +26,7 @@
       "message_id": "<A99CA139-8132-4AF7-A139-3818A9007FD3@science.oregonstate.edu>",
       "from_name": "Zhian Kamvar",
       "from_email_hash": "22d49dbeb0ae0b237f0469049b2a7bdfde827513b85adcc2c71ca951614f6bcc",
-      "date": "2017-01-02T10:54:58-08:00",
+      "date": "2017-01-02T18:54:58Z",
       "subject": "[R-sig-genetics] Fwd: Help in Pegas",
       "subject_clean": "Help in Pegas",
       "in_reply_to": "<CANpTdqX-c4=Cm-u9bXDQLZY-1FA+KJLEzFmpiqpwryndZg=8SA@mail.gmail.com>",
@@ -61,7 +61,7 @@
       "message_id": "<4B6BE2DF-C9D6-46B9-AAFC-0685A11D5468@science.oregonstate.edu>",
       "from_name": "Zhian Kamvar",
       "from_email_hash": "22d49dbeb0ae0b237f0469049b2a7bdfde827513b85adcc2c71ca951614f6bcc",
-      "date": "2017-01-05T06:46:29-08:00",
+      "date": "2017-01-05T14:46:29Z",
       "subject": "[R-sig-genetics] Suggestions regarding randomly repooling genind objects",
       "subject_clean": "Suggestions regarding randomly repooling genind objects",
       "in_reply_to": "<E493C75D-396A-48A7-8990-DFCF6FFC5FF3@ic.ac.uk>",
@@ -79,7 +79,7 @@
       "message_id": "<20170106141250.brveslnglv7zh534@localhost>",
       "from_name": "Marcelo Laia",
       "from_email_hash": "3e56683f13d30145fd0e101a5cdd081cc46ad30001510b9b462ff8ca527f3c17",
-      "date": "2017-01-06T12:12:50-02:00",
+      "date": "2017-01-06T14:12:50Z",
       "subject": "[R-sig-genetics] Export data from GeneMapper to TREMPR format",
       "subject_clean": "Export data from GeneMapper to TREMPR format",
       "in_reply_to": null,
@@ -143,7 +143,7 @@
       "message_id": "<CA+wKXrNCrVC0_1rG5jFLDS8dV6872aeLGs8LtQ2ZTak0UXPkLg@mail.gmail.com>",
       "from_name": "Katharine Walter",
       "from_email_hash": "c4aa5585f0370eab76fafa46a4dd5579c4b40be853966cd22732de97d20dd7db",
-      "date": "2017-01-12T08:59:46-05:00",
+      "date": "2017-01-12T13:59:46Z",
       "subject": "[R-sig-genetics] Defining populations for Arlequin input",
       "subject_clean": "Defining populations for Arlequin input",
       "in_reply_to": null,
@@ -159,7 +159,7 @@
       "message_id": "<CACAXSaW1PtALesWgO5EY=+tdRYhxzBbF3O7rnvMwgNBO-5zXPg@mail.gmail.com>",
       "from_name": "Katharine Walter",
       "from_email_hash": "c4aa5585f0370eab76fafa46a4dd5579c4b40be853966cd22732de97d20dd7db",
-      "date": "2017-01-13T09:27:47-05:00",
+      "date": "2017-01-13T14:27:47Z",
       "subject": "[R-sig-genetics] Defining populations for Arlequin input",
       "subject_clean": "Defining populations for Arlequin input",
       "in_reply_to": null,
@@ -175,7 +175,7 @@
       "message_id": "<CAGrYeXhakPHs_K7paTAXj6rVPyPJV=VYAV2JP9niuFSBZkBhFw@mail.gmail.com>",
       "from_name": "Eric Archer - NOAA Federal",
       "from_email_hash": "ab9c27b4007ace24208341199b759c01d8982e4629917a74e3811a7dde09780b",
-      "date": "2017-01-14T11:27:09-08:00",
+      "date": "2017-01-14T19:27:09Z",
       "subject": "[R-sig-genetics] Defining populations for Arlequin input",
       "subject_clean": "Defining populations for Arlequin input",
       "in_reply_to": null,
@@ -296,7 +296,7 @@
       "message_id": "<783E10D7-9C3A-4ECF-93A9-DF5DA35E99AD@gmail.com>",
       "from_name": "Zhian Kamvar",
       "from_email_hash": "7dc521447931bd0edb4bad308c5643b75a875047acda912ef22609dec2e0a749",
-      "date": "2017-01-22T09:09:38-06:00",
+      "date": "2017-01-22T15:09:38Z",
       "subject": "[R-sig-genetics] Genuine object repooling issue",
       "subject_clean": "Genuine object repooling issue",
       "in_reply_to": "<08CAA131-76C8-4C3A-A1B1-A577165248ED@ic.ac.uk>",
@@ -354,8 +354,8 @@
         "Ramendra Nath Sarma",
         "Zhian Kamvar"
       ],
-      "started": "2017-01-02T15:07:39+05:30",
-      "last_reply": "2017-01-02T10:54:58-08:00",
+      "started": "2017-01-02T09:37:39Z",
+      "last_reply": "2017-01-02T18:54:58Z",
       "root_message_id": "msg-d68cee7258a0"
     },
     {
@@ -366,8 +366,8 @@
         "Bhuller, Ravneet",
         "Zhian Kamvar"
       ],
-      "started": "2017-01-05T14:04:40+00:00",
-      "last_reply": "2017-01-05T06:46:29-08:00",
+      "started": "2017-01-05T14:04:40Z",
+      "last_reply": "2017-01-05T14:46:29Z",
       "root_message_id": "msg-59df16d8114a"
     },
     {
@@ -377,8 +377,8 @@
       "participants": [
         "Marcelo Laia"
       ],
-      "started": "2017-01-06T12:12:50-02:00",
-      "last_reply": "2017-01-06T12:12:50-02:00",
+      "started": "2017-01-06T14:12:50Z",
+      "last_reply": "2017-01-06T14:12:50Z",
       "root_message_id": "msg-b6fd1057a9e7"
     },
     {
@@ -388,8 +388,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2017-01-10T14:16:42+00:00",
-      "last_reply": "2017-01-10T14:16:42+00:00",
+      "started": "2017-01-10T14:16:42Z",
+      "last_reply": "2017-01-10T14:16:42Z",
       "root_message_id": "msg-5c9a668d3673"
     },
     {
@@ -399,21 +399,9 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2017-01-10T14:23:15+00:00",
-      "last_reply": "2017-01-10T14:23:15+00:00",
+      "started": "2017-01-10T14:23:15Z",
+      "last_reply": "2017-01-10T14:23:15Z",
       "root_message_id": "msg-814acfd5d524"
-    },
-    {
-      "id": "thread-8222fcd6958e",
-      "subject": "Defining populations for Arlequin input",
-      "message_count": 2,
-      "participants": [
-        "Katharine Walter",
-        "Thibaut Jombart"
-      ],
-      "started": "2017-01-12T08:59:46-05:00",
-      "last_reply": "2017-01-16T11:12:51+00:00",
-      "root_message_id": "msg-8222fcd6958e"
     },
     {
       "id": "thread-a44da87cd92d",
@@ -423,9 +411,21 @@
         "Bhuller, Ravneet",
         "Thibaut Jombart"
       ],
-      "started": "2017-01-12T13:19:05+00:00",
-      "last_reply": "2017-01-16T12:42:16+00:00",
+      "started": "2017-01-12T13:19:05Z",
+      "last_reply": "2017-01-16T12:42:16Z",
       "root_message_id": "msg-a44da87cd92d"
+    },
+    {
+      "id": "thread-8222fcd6958e",
+      "subject": "Defining populations for Arlequin input",
+      "message_count": 2,
+      "participants": [
+        "Katharine Walter",
+        "Thibaut Jombart"
+      ],
+      "started": "2017-01-12T13:59:46Z",
+      "last_reply": "2017-01-16T11:12:51Z",
+      "root_message_id": "msg-8222fcd6958e"
     },
     {
       "id": "thread-04186f7c5879",
@@ -434,8 +434,8 @@
       "participants": [
         "Katharine Walter"
       ],
-      "started": "2017-01-13T09:27:47-05:00",
-      "last_reply": "2017-01-13T09:27:47-05:00",
+      "started": "2017-01-13T14:27:47Z",
+      "last_reply": "2017-01-13T14:27:47Z",
       "root_message_id": "msg-04186f7c5879"
     },
     {
@@ -446,8 +446,8 @@
         "Eric Archer - NOAA Federal",
         "Thibaut Jombart"
       ],
-      "started": "2017-01-14T11:27:09-08:00",
-      "last_reply": "2017-01-16T11:14:58+00:00",
+      "started": "2017-01-14T19:27:09Z",
+      "last_reply": "2017-01-16T11:14:58Z",
       "root_message_id": "msg-92581e67757c"
     },
     {
@@ -457,8 +457,8 @@
       "participants": [
         "Bhuller, Ravneet"
       ],
-      "started": "2017-01-18T13:24:57+00:00",
-      "last_reply": "2017-01-18T13:24:57+00:00",
+      "started": "2017-01-18T13:24:57Z",
+      "last_reply": "2017-01-18T13:24:57Z",
       "root_message_id": "msg-0c5d5d851dbc"
     },
     {
@@ -469,8 +469,8 @@
         "Bhuller, Ravneet",
         "Zhian Kamvar"
       ],
-      "started": "2017-01-19T13:50:49+00:00",
-      "last_reply": "2017-01-23T09:08:22+00:00",
+      "started": "2017-01-19T13:50:49Z",
+      "last_reply": "2017-01-23T09:08:22Z",
       "root_message_id": "msg-8eb240b0cfd6"
     },
     {
@@ -480,8 +480,8 @@
       "participants": [
         "Bhuller, Ravneet"
       ],
-      "started": "2017-01-26T16:58:35+00:00",
-      "last_reply": "2017-01-26T16:58:35+00:00",
+      "started": "2017-01-26T16:58:35Z",
+      "last_reply": "2017-01-26T16:58:35Z",
       "root_message_id": "msg-29b867b391e3"
     }
   ]

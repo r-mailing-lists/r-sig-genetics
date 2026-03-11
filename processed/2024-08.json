@@ -8,7 +8,7 @@
       "message_id": "<CAFEsyOwo9DsRcgWY2EsbU=ouUf65BA+Un9UxWc=GK-gqEFuXPw@mail.gmail.com>",
       "from_name": "Michael Zyphur",
       "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
-      "date": "2024-08-06T17:58:24+10:00",
+      "date": "2024-08-06T07:58:24Z",
       "subject": "[R-sig-genetics] Dimension Reduction for Complex Datasets - livestream seminar",
       "subject_clean": "Dimension Reduction for Complex Datasets - livestream seminar",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<1723399775.222331652@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-08-11T20:09:35+02:00",
+      "date": "2024-08-11T18:09:35Z",
       "subject": "[R-sig-genetics] Course: Online.PopulationGenomics.25-29 November",
       "subject_clean": "Course: Online.PopulationGenomics.25-29 November",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAFEsyOyyPM82ryS2kbUgerZahPkZTZWg9YpgXiZXYCKY1ykcTw@mail.gmail.com>",
       "from_name": "Michael Zyphur",
       "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
-      "date": "2024-08-13T22:26:39+10:00",
+      "date": "2024-08-13T12:26:39Z",
       "subject": "[R-sig-genetics] Analysis of DNA Methylation - livestream seminar",
       "subject_clean": "Analysis of DNA Methylation - livestream seminar",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<CAFEsyOyFc=4B-ZD_vsDUphb=0hqauZ_EMJUXxCikA6-wU09oFw@mail.gmail.com>",
       "from_name": "Michael Zyphur",
       "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
-      "date": "2024-08-13T22:46:20+10:00",
+      "date": "2024-08-13T12:46:20Z",
       "subject": "[R-sig-genetics]  Analysis of DNA Methylation - livestream seminar",
       "subject_clean": "Analysis of DNA Methylation - livestream seminar",
       "in_reply_to": "<CAFEsyOyyPM82ryS2kbUgerZahPkZTZWg9YpgXiZXYCKY1ykcTw@mail.gmail.com>",
@@ -74,7 +74,7 @@
       "message_id": "<CAEsSYzw==Y6=djBLx1QoQk2mKGMfL+eCobZCXdF3Dz7QudM4Dw@mail.gmail.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
-      "date": "2024-08-14T22:22:08+01:00",
+      "date": "2024-08-14T21:22:08Z",
       "subject": "[R-sig-genetics] ONLINE COURSE – Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR06)",
       "subject_clean": "ONLINE COURSE – Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR06)",
       "in_reply_to": null,
@@ -110,8 +110,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2024-08-06T17:58:24+10:00",
-      "last_reply": "2024-08-06T17:58:24+10:00",
+      "started": "2024-08-06T07:58:24Z",
+      "last_reply": "2024-08-06T07:58:24Z",
       "root_message_id": "msg-68b5477c42e6"
     },
     {
@@ -121,8 +121,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-08-11T20:09:35+02:00",
-      "last_reply": "2024-08-11T20:09:35+02:00",
+      "started": "2024-08-11T18:09:35Z",
+      "last_reply": "2024-08-11T18:09:35Z",
       "root_message_id": "msg-2a23803adae7"
     },
     {
@@ -132,8 +132,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2024-08-13T22:26:39+10:00",
-      "last_reply": "2024-08-13T22:46:20+10:00",
+      "started": "2024-08-13T12:26:39Z",
+      "last_reply": "2024-08-13T12:46:20Z",
       "root_message_id": "msg-c459fc59bc8d"
     },
     {
@@ -143,8 +143,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2024-08-14T22:22:08+01:00",
-      "last_reply": "2024-08-14T22:22:08+01:00",
+      "started": "2024-08-14T21:22:08Z",
+      "last_reply": "2024-08-14T21:22:08Z",
       "root_message_id": "msg-ba252607f9e4"
     },
     {
@@ -154,8 +154,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2024-08-21T08:20:00+00:00",
-      "last_reply": "2024-08-21T08:20:00+00:00",
+      "started": "2024-08-21T08:20:00Z",
+      "last_reply": "2024-08-21T08:20:00Z",
       "root_message_id": "msg-9f2de5717280"
     }
   ]

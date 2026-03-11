@@ -8,7 +8,7 @@
       "message_id": "<CAN9eD7=8CFvbAAPbScg9G8NUdubhDn93bY-CEAUtUcdZxUkpJg@mail.gmail.com>",
       "from_name": "nevil amos",
       "from_email_hash": "7ffc8e7850936f1d46522bb167a2c37013690516fa044fadd25b7469baf30c8b",
-      "date": "2017-02-02T10:53:45+11:00",
+      "date": "2017-02-01T23:53:45Z",
       "subject": "[R-sig-genetics] Subsetting a genind object.",
       "subject_clean": "Subsetting a genind object.",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAOUMpvPkdoQzAzQXMa94haxHxTstE1+XLTw9UmXJ6gQ9kgByHw@mail.gmail.com>",
       "from_name": "Daniel Schmidt",
       "from_email_hash": "d40329695a3f3fda5304dead991813ced304df464a5ce6308ac83f7bf92e71ce",
-      "date": "2017-02-02T10:22:21+10:00",
+      "date": "2017-02-02T00:22:21Z",
       "subject": "[R-sig-genetics] Subsetting a genind object.",
       "subject_clean": "Subsetting a genind object.",
       "in_reply_to": "<CAN9eD7=8CFvbAAPbScg9G8NUdubhDn93bY-CEAUtUcdZxUkpJg@mail.gmail.com>",
@@ -127,8 +127,8 @@
         "Daniel Schmidt",
         "nevil amos"
       ],
-      "started": "2017-02-02T10:53:45+11:00",
-      "last_reply": "2017-02-02T10:22:21+10:00",
+      "started": "2017-02-01T23:53:45Z",
+      "last_reply": "2017-02-02T00:22:21Z",
       "root_message_id": "msg-cb7380d193ac"
     },
     {
@@ -138,8 +138,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2017-02-09T16:07:19+00:00",
-      "last_reply": "2017-02-09T16:07:19+00:00",
+      "started": "2017-02-09T16:07:19Z",
+      "last_reply": "2017-02-09T16:07:19Z",
       "root_message_id": "msg-1613b9f3aa31"
     },
     {
@@ -149,8 +149,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2017-02-09T16:10:38+00:00",
-      "last_reply": "2017-02-09T16:10:38+00:00",
+      "started": "2017-02-09T16:10:38Z",
+      "last_reply": "2017-02-09T16:10:38Z",
       "root_message_id": "msg-fc0e1d6a8859"
     },
     {
@@ -160,8 +160,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2017-02-14T11:28:08+00:00",
-      "last_reply": "2017-02-14T11:28:08+00:00",
+      "started": "2017-02-14T11:28:08Z",
+      "last_reply": "2017-02-14T11:28:08Z",
       "root_message_id": "msg-8dfbec4cab8e"
     },
     {
@@ -171,8 +171,8 @@
       "participants": [
         "Rufaida Al Breiki"
       ],
-      "started": "2017-02-16T12:23:17+00:00",
-      "last_reply": "2017-02-16T12:23:17+00:00",
+      "started": "2017-02-16T12:23:17Z",
+      "last_reply": "2017-02-16T12:23:17Z",
       "root_message_id": "msg-b3e012e7fd31"
     },
     {
@@ -182,8 +182,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2017-02-23T14:43:43+00:00",
-      "last_reply": "2017-02-23T14:43:43+00:00",
+      "started": "2017-02-23T14:43:43Z",
+      "last_reply": "2017-02-23T14:43:43Z",
       "root_message_id": "msg-bf46b20f310e"
     }
   ]

@@ -8,7 +8,7 @@
       "message_id": "<1764855901.01676927@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-12-04T14:45:01+01:00",
+      "date": "2025-12-04T13:45:01Z",
       "subject": "[R-sig-genetics] UNIX and Shell Scripting for Bioinformatics",
       "subject_clean": "UNIX and Shell Scripting for Bioinformatics",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<1765192680.333520998@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-12-08T12:18:00+01:00",
+      "date": "2025-12-08T11:18:00Z",
       "subject": "[R-sig-genetics] Population Genomics course",
       "subject_clean": "Population Genomics course",
       "in_reply_to": "<1765096525.832821192@webmail.jimdo.com>",
@@ -42,7 +42,7 @@
       "message_id": "<1765473495.30211464@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-12-11T18:18:15+01:00",
+      "date": "2025-12-11T17:18:15Z",
       "subject": "[R-sig-genetics] Genomic Data Visualisation with R",
       "subject_clean": "Genomic Data Visualisation with R",
       "in_reply_to": null,
@@ -58,7 +58,7 @@
       "message_id": "<1765885315.438415507@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-12-16T12:41:55+01:00",
+      "date": "2025-12-16T11:41:55Z",
       "subject": "[R-sig-genetics] Marine Genomics course in Crete - 25 to 29 May 2026.",
       "subject_clean": "Marine Genomics course in Crete - 25 to 29 May 2026.",
       "in_reply_to": null,
@@ -94,8 +94,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-12-04T14:45:01+01:00",
-      "last_reply": "2025-12-04T14:45:01+01:00",
+      "started": "2025-12-04T13:45:01Z",
+      "last_reply": "2025-12-04T13:45:01Z",
       "root_message_id": "msg-c84ad636a87c"
     },
     {
@@ -105,8 +105,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-12-08T12:18:00+01:00",
-      "last_reply": "2025-12-08T12:18:00+01:00",
+      "started": "2025-12-08T11:18:00Z",
+      "last_reply": "2025-12-08T11:18:00Z",
       "root_message_id": "msg-5b9ab6ab0f78"
     },
     {
@@ -116,20 +116,9 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-12-11T18:18:15+01:00",
-      "last_reply": "2025-12-11T18:18:15+01:00",
+      "started": "2025-12-11T17:18:15Z",
+      "last_reply": "2025-12-11T17:18:15Z",
       "root_message_id": "msg-56a9f32e299a"
-    },
-    {
-      "id": "thread-cb72b54497d6",
-      "subject": "Free Instats events – happy holidays",
-      "message_count": 1,
-      "participants": [
-        "Michael Zyphur"
-      ],
-      "started": "2025-12-16T12:05:00+00:00",
-      "last_reply": "2025-12-16T12:05:00+00:00",
-      "root_message_id": "msg-cb72b54497d6"
     },
     {
       "id": "thread-3ac866f533db",
@@ -138,9 +127,20 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-12-16T12:41:55+01:00",
-      "last_reply": "2025-12-16T12:41:55+01:00",
+      "started": "2025-12-16T11:41:55Z",
+      "last_reply": "2025-12-16T11:41:55Z",
       "root_message_id": "msg-3ac866f533db"
+    },
+    {
+      "id": "thread-cb72b54497d6",
+      "subject": "Free Instats events – happy holidays",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2025-12-16T12:05:00Z",
+      "last_reply": "2025-12-16T12:05:00Z",
+      "root_message_id": "msg-cb72b54497d6"
     }
   ]
 }

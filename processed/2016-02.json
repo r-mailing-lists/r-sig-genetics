@@ -8,7 +8,7 @@
       "message_id": "<A54D5623-B1DA-4EDD-A974-C8FF055C36BB@science.oregonstate.edu>",
       "from_name": "Zhian Kamvar",
       "from_email_hash": "22d49dbeb0ae0b237f0469049b2a7bdfde827513b85adcc2c71ca951614f6bcc",
-      "date": "2016-02-17T12:16:10-08:00",
+      "date": "2016-02-17T20:16:10Z",
       "subject": "[R-sig-genetics] Adegenet 2.0.1 has been released!",
       "subject_clean": "Adegenet 2.0.1 has been released!",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<DE2127EA-2479-47D3-8513-EC15A062FB31@duke.edu>",
       "from_name": "Hilmar Lapp",
       "from_email_hash": "6748ec8a3a9a8424e54da9aca2c4dfb6d106c9e047156a221265f6f777d943a9",
-      "date": "2016-02-18T16:10:49-05:00",
+      "date": "2016-02-18T21:10:49Z",
       "subject": "[R-sig-genetics] Adegenet 2.0.1 has been released!",
       "subject_clean": "Adegenet 2.0.1 has been released!",
       "in_reply_to": "<A54D5623-B1DA-4EDD-A974-C8FF055C36BB@science.oregonstate.edu>",
@@ -47,8 +47,8 @@
         "Hilmar Lapp",
         "Zhian Kamvar"
       ],
-      "started": "2016-02-17T12:16:10-08:00",
-      "last_reply": "2016-02-18T16:10:49-05:00",
+      "started": "2016-02-17T20:16:10Z",
+      "last_reply": "2016-02-18T21:10:49Z",
       "root_message_id": "msg-86a7f05ff921"
     }
   ]

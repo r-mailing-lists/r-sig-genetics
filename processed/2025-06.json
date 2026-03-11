@@ -8,7 +8,7 @@
       "message_id": "<1748769909.143111842@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-06-01T11:25:09+02:00",
+      "date": "2025-06-01T09:25:09Z",
       "subject": "[R-sig-genetics] Course online: Analysing Biodiversity Through Time and Space Using R - 9–13 June",
       "subject_clean": "Course online: Analysing Biodiversity Through Time and Space Using R - 9–13 June",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAEsSYzzqoex5AU55CNLN9Hm+ZJigKQsjrMUubE9=0ZVYmsXw3g@mail.gmail.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
-      "date": "2025-06-03T16:55:04+01:00",
+      "date": "2025-06-03T15:55:04Z",
       "subject": "[R-sig-genetics] Get to Grips with the Vegan Package",
       "subject_clean": "Get to Grips with the Vegan Package",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<1748971473.13168@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-06-03T19:24:33+02:00",
+      "date": "2025-06-03T17:24:33Z",
       "subject": "[R-sig-genetics] Conservation Genomics course (online, 21–24 July)",
       "subject_clean": "Conservation Genomics course (online, 21–24 July)",
       "in_reply_to": null,
@@ -72,7 +72,7 @@
       "message_id": "<CAEsSYzyJoPx0yCwBnvpJtCwnU469=QG74ZscFjL24v1KMeWqzw@mail.gmail.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
-      "date": "2025-06-03T22:56:10+01:00",
+      "date": "2025-06-03T21:56:10Z",
       "subject": "[R-sig-genetics] PR stats new social media - £2000 in course prizes available",
       "subject_clean": "PR stats new social media - £2000 in course prizes available",
       "in_reply_to": null,
@@ -104,7 +104,7 @@
       "message_id": "<1749210889.908210444@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-06-06T13:54:49+02:00",
+      "date": "2025-06-06T11:54:49Z",
       "subject": "[R-sig-genetics] Only a few seats left — Introduction to GWAS (Online, 23–27 June )",
       "subject_clean": "Only a few seats left — Introduction to GWAS (Online, 23–27 June )",
       "in_reply_to": null,
@@ -152,7 +152,7 @@
       "message_id": "<CAEsSYzxQjyJ4FaK6a7V0kkrbvT93OzrAXS1pAg-The2TOn0-eQ@mail.gmail.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
-      "date": "2025-06-23T18:18:15+01:00",
+      "date": "2025-06-23T17:18:15Z",
       "subject": "[R-sig-genetics] PR Stats Recorded Courses - 50% off and access extended to 90 days",
       "subject_clean": "PR Stats Recorded Courses - 50% off and access extended to 90 days",
       "in_reply_to": null,
@@ -184,7 +184,7 @@
       "message_id": "<1750859453.190726396@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-06-25T15:50:53+02:00",
+      "date": "2025-06-25T13:50:53Z",
       "subject": "[R-sig-genetics] Conservation Genomics course - online, 21-24 July",
       "subject_clean": "Conservation Genomics course - online, 21-24 July",
       "in_reply_to": null,
@@ -204,8 +204,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-06-01T11:25:09+02:00",
-      "last_reply": "2025-06-01T11:25:09+02:00",
+      "started": "2025-06-01T09:25:09Z",
+      "last_reply": "2025-06-01T09:25:09Z",
       "root_message_id": "msg-c0f5387eab3e"
     },
     {
@@ -215,8 +215,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-06-03T02:35:00+00:00",
-      "last_reply": "2025-06-03T02:35:00+00:00",
+      "started": "2025-06-03T02:35:00Z",
+      "last_reply": "2025-06-03T02:35:00Z",
       "root_message_id": "msg-14b3cfcc63fb"
     },
     {
@@ -226,8 +226,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2025-06-03T16:55:04+01:00",
-      "last_reply": "2025-06-03T16:55:04+01:00",
+      "started": "2025-06-03T15:55:04Z",
+      "last_reply": "2025-06-03T15:55:04Z",
       "root_message_id": "msg-35a01b524c7c"
     },
     {
@@ -237,8 +237,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-06-03T19:24:33+02:00",
-      "last_reply": "2025-06-03T19:24:33+02:00",
+      "started": "2025-06-03T17:24:33Z",
+      "last_reply": "2025-06-03T17:24:33Z",
       "root_message_id": "msg-6837b609344a"
     },
     {
@@ -248,8 +248,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2025-06-03T22:56:10+01:00",
-      "last_reply": "2025-06-03T22:56:10+01:00",
+      "started": "2025-06-03T21:56:10Z",
+      "last_reply": "2025-06-03T21:56:10Z",
       "root_message_id": "msg-31aae8279b8e"
     },
     {
@@ -259,8 +259,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-06-04T03:29:19+00:00",
-      "last_reply": "2025-06-04T03:29:19+00:00",
+      "started": "2025-06-04T03:29:19Z",
+      "last_reply": "2025-06-04T03:29:19Z",
       "root_message_id": "msg-18bdbd34b9f5"
     },
     {
@@ -270,8 +270,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-06-06T13:54:49+02:00",
-      "last_reply": "2025-06-06T13:54:49+02:00",
+      "started": "2025-06-06T11:54:49Z",
+      "last_reply": "2025-06-06T11:54:49Z",
       "root_message_id": "msg-168120180c94"
     },
     {
@@ -281,8 +281,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-06-19T00:50:50+00:00",
-      "last_reply": "2025-06-19T00:50:50+00:00",
+      "started": "2025-06-19T00:50:50Z",
+      "last_reply": "2025-06-19T00:50:50Z",
       "root_message_id": "msg-6782e0eb7b99"
     },
     {
@@ -292,8 +292,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-06-19T12:20:00+00:00",
-      "last_reply": "2025-06-19T12:20:00+00:00",
+      "started": "2025-06-19T12:20:00Z",
+      "last_reply": "2025-06-19T12:20:00Z",
       "root_message_id": "msg-1e393de31ded"
     },
     {
@@ -303,8 +303,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2025-06-23T18:18:15+01:00",
-      "last_reply": "2025-06-23T18:18:15+01:00",
+      "started": "2025-06-23T17:18:15Z",
+      "last_reply": "2025-06-23T17:18:15Z",
       "root_message_id": "msg-c4931dd2a973"
     },
     {
@@ -314,8 +314,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-06-24T17:20:00+00:00",
-      "last_reply": "2025-06-24T17:20:00+00:00",
+      "started": "2025-06-24T17:20:00Z",
+      "last_reply": "2025-06-24T17:20:00Z",
       "root_message_id": "msg-92d7b5cbe17b"
     },
     {
@@ -325,8 +325,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-06-25T15:50:53+02:00",
-      "last_reply": "2025-06-25T15:50:53+02:00",
+      "started": "2025-06-25T13:50:53Z",
+      "last_reply": "2025-06-25T13:50:53Z",
       "root_message_id": "msg-338cd4da787f"
     }
   ]

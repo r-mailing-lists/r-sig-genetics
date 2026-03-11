@@ -8,7 +8,7 @@
       "message_id": "<5ce551921d29da8d430bf3d7aab86e80@prstatistics.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "8d85adc6b153d8e80093a9f8e89d7f46369fdd650fe394f7644a0e0697798998",
-      "date": "2016-10-10T20:06:22+01:00",
+      "date": "2016-10-10T19:06:22Z",
       "subject": "[R-sig-genetics] 'FINAL CALL - Phylogenetic data analysis using R'",
       "subject_clean": "'FINAL CALL - Phylogenetic data analysis using R'",
       "in_reply_to": null,
@@ -28,8 +28,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2016-10-10T20:06:22+01:00",
-      "last_reply": "2016-10-10T20:06:22+01:00",
+      "started": "2016-10-10T19:06:22Z",
+      "last_reply": "2016-10-10T19:06:22Z",
       "root_message_id": "msg-98000112b03f"
     }
   ]

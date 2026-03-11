@@ -8,7 +8,7 @@
       "message_id": "<1767371216.81033917@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2026-01-02T17:26:56+01:00",
+      "date": "2026-01-02T16:26:56Z",
       "subject": "[R-sig-genetics] Unix and Shell Scripting for Bioinformatics course - online, 12-16 January",
       "subject_clean": "Unix and Shell Scripting for Bioinformatics course - online, 12-16 January",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<1767609761.419913005@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2026-01-05T11:42:41+01:00",
+      "date": "2026-01-05T10:42:41Z",
       "subject": "[R-sig-genetics] GWAS course - online, 26-30 January",
       "subject_clean": "GWAS course - online, 26-30 January",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<1767711311.73927215@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2026-01-06T15:55:11+01:00",
+      "date": "2026-01-06T14:55:11Z",
       "subject": "[R-sig-genetics] Machine Learning in R course",
       "subject_clean": "Machine Learning in R course",
       "in_reply_to": null,
@@ -104,7 +104,7 @@
       "message_id": "<1768308124.071720959@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2026-01-13T13:42:04+01:00",
+      "date": "2026-01-13T12:42:04Z",
       "subject": "[R-sig-genetics] online course - Machine and Deep Learning Methods in Population Genomics and Phylogeography - 23-26 March",
       "subject_clean": "online course - Machine and Deep Learning Methods in Population Genomics and Phylogeography - 23-26 March",
       "in_reply_to": null,
@@ -156,8 +156,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2026-01-02T17:26:56+01:00",
-      "last_reply": "2026-01-02T17:26:56+01:00",
+      "started": "2026-01-02T16:26:56Z",
+      "last_reply": "2026-01-02T16:26:56Z",
       "root_message_id": "msg-4eb9942507f2"
     },
     {
@@ -167,20 +167,9 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2026-01-05T11:42:41+01:00",
-      "last_reply": "2026-01-05T11:42:41+01:00",
+      "started": "2026-01-05T10:42:41Z",
+      "last_reply": "2026-01-05T10:42:41Z",
       "root_message_id": "msg-0ae29c9b2798"
-    },
-    {
-      "id": "thread-ec5ca9a543cd",
-      "subject": "Peer Reviewing and Editing Journals – last chance",
-      "message_count": 1,
-      "participants": [
-        "mzyphur m@iii@g oii i@st@ts@org"
-      ],
-      "started": "2026-01-06T15:47:23+00:00",
-      "last_reply": "2026-01-06T15:47:23+00:00",
-      "root_message_id": "msg-ec5ca9a543cd"
     },
     {
       "id": "thread-a4f94a8e854a",
@@ -189,9 +178,20 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2026-01-06T15:55:11+01:00",
-      "last_reply": "2026-01-06T15:55:11+01:00",
+      "started": "2026-01-06T14:55:11Z",
+      "last_reply": "2026-01-06T14:55:11Z",
       "root_message_id": "msg-a4f94a8e854a"
+    },
+    {
+      "id": "thread-ec5ca9a543cd",
+      "subject": "Peer Reviewing and Editing Journals – last chance",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-01-06T15:47:23Z",
+      "last_reply": "2026-01-06T15:47:23Z",
+      "root_message_id": "msg-ec5ca9a543cd"
     },
     {
       "id": "thread-1e28e143b50c",
@@ -200,8 +200,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2026-01-09T17:14:01+00:00",
-      "last_reply": "2026-01-09T17:14:01+00:00",
+      "started": "2026-01-09T17:14:01Z",
+      "last_reply": "2026-01-09T17:14:01Z",
       "root_message_id": "msg-1e28e143b50c"
     },
     {
@@ -211,8 +211,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2026-01-12T15:15:05+00:00",
-      "last_reply": "2026-01-12T15:15:05+00:00",
+      "started": "2026-01-12T15:15:05Z",
+      "last_reply": "2026-01-12T15:15:05Z",
       "root_message_id": "msg-fbaebad562a9"
     },
     {
@@ -222,8 +222,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2026-01-13T13:42:04+01:00",
-      "last_reply": "2026-01-13T13:42:04+01:00",
+      "started": "2026-01-13T12:42:04Z",
+      "last_reply": "2026-01-13T12:42:04Z",
       "root_message_id": "msg-09a9f2c841aa"
     },
     {
@@ -233,8 +233,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2026-01-28T16:12:12+00:00",
-      "last_reply": "2026-01-28T16:12:12+00:00",
+      "started": "2026-01-28T16:12:12Z",
+      "last_reply": "2026-01-28T16:12:12Z",
       "root_message_id": "msg-602fdcd769cb"
     },
     {
@@ -244,8 +244,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2026-01-31T17:45:05+00:00",
-      "last_reply": "2026-01-31T17:45:05+00:00",
+      "started": "2026-01-31T17:45:05Z",
+      "last_reply": "2026-01-31T17:45:05Z",
       "root_message_id": "msg-28a025d39de6"
     }
   ]

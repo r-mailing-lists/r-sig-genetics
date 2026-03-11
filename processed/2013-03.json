@@ -8,7 +8,7 @@
       "message_id": "<28415404.c1p7uMXSO8@svarog>",
       "from_name": "Vojtěch Zeisek",
       "from_email_hash": "02b31b3a4a88d1c77a5400d295ee082a4c4cf53ed31468974c1e5c8e6ce551c8",
-      "date": "2013-03-20T10:23:28+01:00",
+      "date": "2013-03-20T09:23:28Z",
       "subject": "[R-sig-genetics] R & Arlequin (little OT?)",
       "subject_clean": "R & Arlequin (little OT?)",
       "in_reply_to": null,
@@ -42,7 +42,7 @@
       "message_id": "<1607950.WhUxKpI5BM@svarog>",
       "from_name": "Vojtěch Zeisek",
       "from_email_hash": "02b31b3a4a88d1c77a5400d295ee082a4c4cf53ed31468974c1e5c8e6ce551c8",
-      "date": "2013-03-20T13:34:46+01:00",
+      "date": "2013-03-20T12:34:46Z",
       "subject": "[R-sig-genetics] R & Arlequin (little OT?)",
       "subject_clean": "R & Arlequin (little OT?)",
       "in_reply_to": "<2CB2DA8E426F3541AB1907F98ABA657057A4B93B@icexch-m1.ic.ac.uk>",
@@ -66,8 +66,8 @@
         "Jombart, Thibaut",
         "Vojtěch Zeisek"
       ],
-      "started": "2013-03-20T10:23:28+01:00",
-      "last_reply": "2013-03-20T13:34:46+01:00",
+      "started": "2013-03-20T09:23:28Z",
+      "last_reply": "2013-03-20T12:34:46Z",
       "root_message_id": "msg-328b71723f0c"
     }
   ]

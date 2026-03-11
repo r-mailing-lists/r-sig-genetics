@@ -8,7 +8,7 @@
       "message_id": "<124584AFB3A4D449834B67071ACCD55501A7D818@scomp0040.wurnet.nl>",
       "from_name": "Lu, Kevin",
       "from_email_hash": "0a79678e7249a2c09899085032fab95965e0ee55ebc92d8ad4c58ad867e51e24",
-      "date": "2009-06-08T18:38:13+02:00",
+      "date": "2009-06-08T16:38:13Z",
       "subject": "[R-sig-genetics] Bayesian network",
       "subject_clean": "Bayesian network",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<0B75A6276180B546A1CA8D2B46E7580502F3741474@ICEXM3.ic.ac.uk>",
       "from_name": "Jombart, Thibaut",
       "from_email_hash": "dff22401b890fefba3d41ff8b93ad2b946cc28deb09103fa75b8a587242b5226",
-      "date": "2009-06-10T12:13:42+01:00",
+      "date": "2009-06-10T11:13:42Z",
       "subject": "[R-sig-genetics] Bayesian network",
       "subject_clean": "Bayesian network",
       "in_reply_to": "<124584AFB3A4D449834B67071ACCD55501A7D818@scomp0040.wurnet.nl>",
@@ -42,7 +42,7 @@
       "message_id": "<124584AFB3A4D449834B67071ACCD55501A7D833@scomp0040.wurnet.nl>",
       "from_name": "Lu, Kevin",
       "from_email_hash": "0a79678e7249a2c09899085032fab95965e0ee55ebc92d8ad4c58ad867e51e24",
-      "date": "2009-06-17T17:47:30+02:00",
+      "date": "2009-06-17T15:47:30Z",
       "subject": "[R-sig-genetics] Bayesian network",
       "subject_clean": "Bayesian network",
       "in_reply_to": "<0B75A6276180B546A1CA8D2B46E7580502F3741474@ICEXM3.ic.ac.uk>",
@@ -66,8 +66,8 @@
         "Jombart, Thibaut",
         "Lu, Kevin"
       ],
-      "started": "2009-06-08T18:38:13+02:00",
-      "last_reply": "2009-06-17T17:47:30+02:00",
+      "started": "2009-06-08T16:38:13Z",
+      "last_reply": "2009-06-17T15:47:30Z",
       "root_message_id": "msg-9c4587b5fce6"
     }
   ]

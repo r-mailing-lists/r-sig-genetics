@@ -8,7 +8,7 @@
       "message_id": "<4AB8E45F.2060502@gmail.com>",
       "from_name": "gmail",
       "from_email_hash": "f8f7d181ca489c160dafab77f9affa837bcc62c9decb0dc7bb24cc88822f8a60",
-      "date": "2009-09-22T16:51:11+02:00",
+      "date": "2009-09-22T14:51:11Z",
       "subject": "[R-sig-genetics] Nei-Li distance",
       "subject_clean": "Nei-Li distance",
       "in_reply_to": null,
@@ -28,8 +28,8 @@
       "participants": [
         "gmail"
       ],
-      "started": "2009-09-22T16:51:11+02:00",
-      "last_reply": "2009-09-22T16:51:11+02:00",
+      "started": "2009-09-22T14:51:11Z",
+      "last_reply": "2009-09-22T14:51:11Z",
       "root_message_id": "msg-ef6bdc0e0630"
     }
   ]

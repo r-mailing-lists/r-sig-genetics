@@ -8,7 +8,7 @@
       "message_id": "<CANPRA+odKdrDNyx4Wy6B6tRd0K0QVh92X64MT9BLzEKCe7ac6Q@mail.gmail.com>",
       "from_name": "Thibaut Jombart",
       "from_email_hash": "a870df9f6e75f3cbcc4043deb7cf0598da9e8598f08b1621deb5537b21fb46f5",
-      "date": "2016-09-01T16:17:42+01:00",
+      "date": "2016-09-01T15:17:42Z",
       "subject": "[R-sig-genetics] Fw: Query regarding DAPC using ADEGENT in R",
       "subject_clean": "Query regarding DAPC using ADEGENT in R",
       "in_reply_to": "<CADbY9FPFZXgsJtsGAFt++3xV_TqwPT3uZTiGh+G2cgPv-sMsgg@mail.gmail.com>",
@@ -49,7 +49,7 @@
       "message_id": "<CANPRA+pvnHO0LzgeoRZ6FPX1H2chPMevR-96ix5ECVYtJS0Z3w@mail.gmail.com>",
       "from_name": "Thibaut Jombart",
       "from_email_hash": "a870df9f6e75f3cbcc4043deb7cf0598da9e8598f08b1621deb5537b21fb46f5",
-      "date": "2016-09-02T10:24:39+01:00",
+      "date": "2016-09-02T09:24:39Z",
       "subject": "[R-sig-genetics] Query regarding DAPC using ADEGENT in R",
       "subject_clean": "Query regarding DAPC using ADEGENT in R",
       "in_reply_to": "<CANPRA+r041Yw6ksERD+7Y4E648M8HOpzpm2fES7Xv67HuQ5HZg@mail.gmail.com>",
@@ -96,7 +96,7 @@
       "message_id": "<83071939c4b9a1b14a139fc015c3f579@prstatistics.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "8d85adc6b153d8e80093a9f8e89d7f46369fdd650fe394f7644a0e0697798998",
-      "date": "2016-09-21T10:01:15+01:00",
+      "date": "2016-09-21T09:01:15Z",
       "subject": "[R-sig-genetics] 'Landscape genetic data analysis course - FINAL CALL'",
       "subject_clean": "'Landscape genetic data analysis course - FINAL CALL'",
       "in_reply_to": null,
@@ -117,8 +117,8 @@
         "Bhuller, Ravneet",
         "Thibaut Jombart"
       ],
-      "started": "2016-09-01T16:17:42+01:00",
-      "last_reply": "2016-09-02T08:51:56+00:00",
+      "started": "2016-09-01T15:17:42Z",
+      "last_reply": "2016-09-02T08:51:56Z",
       "root_message_id": "msg-e613ef64be37"
     },
     {
@@ -129,8 +129,8 @@
         "Bhuller, Ravneet",
         "Thibaut Jombart"
       ],
-      "started": "2016-09-02T10:24:39+01:00",
-      "last_reply": "2016-09-02T09:52:00+00:00",
+      "started": "2016-09-02T09:24:39Z",
+      "last_reply": "2016-09-02T09:52:00Z",
       "root_message_id": "msg-eec75ae2b4c6"
     },
     {
@@ -140,8 +140,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2016-09-21T10:01:15+01:00",
-      "last_reply": "2016-09-21T10:01:15+01:00",
+      "started": "2016-09-21T09:01:15Z",
+      "last_reply": "2016-09-21T09:01:15Z",
       "root_message_id": "msg-5b383eff93f4"
     }
   ]

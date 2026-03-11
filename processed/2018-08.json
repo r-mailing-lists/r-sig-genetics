@@ -8,7 +8,7 @@
       "message_id": "<42f2044cfdf1c7bd797c376a2583797f@prstatistics.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "a49005db234a0680e39b89fc8690e893af64f94b8230db3a917426e095842f7c",
-      "date": "2018-08-17T18:49:11+01:00",
+      "date": "2018-08-17T17:49:11Z",
       "subject": "[R-sig-genetics] Fwd: Intro course on Frequentist and Bayesian mixed (Hierarchical) models using R (IFBM01)",
       "subject_clean": "Intro course on Frequentist and Bayesian mixed (Hierarchical) models using R (IFBM01)",
       "in_reply_to": "<c85f362bd8d377a81549dec9302ed2e2@prstatistics.com>",
@@ -30,8 +30,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2018-08-17T18:49:11+01:00",
-      "last_reply": "2018-08-17T18:49:11+01:00",
+      "started": "2018-08-17T17:49:11Z",
+      "last_reply": "2018-08-17T17:49:11Z",
       "root_message_id": "msg-77d9dbf2e161"
     }
   ]

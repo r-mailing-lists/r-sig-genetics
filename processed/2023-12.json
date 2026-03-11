@@ -8,7 +8,7 @@
       "message_id": "<1701956759.841226104@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2023-12-07T14:45:59+01:00",
+      "date": "2023-12-07T13:45:59Z",
       "subject": "[R-sig-genetics] Course -Gene Set Enrichment Analysis in R/Bioconductor",
       "subject_clean": "Course -Gene Set Enrichment Analysis in R/Bioconductor",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<1702405648.878217973@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2023-12-12T19:27:28+01:00",
+      "date": "2023-12-12T18:27:28Z",
       "subject": "[R-sig-genetics] Course on Landscape Genomics - June 17-21 in Lausanne, Switzerland",
       "subject_clean": "Course on Landscape Genomics - June 17-21 in Lausanne, Switzerland",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<1702823108.180822323@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2023-12-17T15:25:08+01:00",
+      "date": "2023-12-17T14:25:08Z",
       "subject": "[R-sig-genetics] Gene Set Enrichment Analysis (GSEA) in R/Bioconductor course",
       "subject_clean": "Gene Set Enrichment Analysis (GSEA) in R/Bioconductor course",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2023-12-07T14:45:59+01:00",
-      "last_reply": "2023-12-07T14:45:59+01:00",
+      "started": "2023-12-07T13:45:59Z",
+      "last_reply": "2023-12-07T13:45:59Z",
       "root_message_id": "msg-08953f0e3491"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2023-12-12T19:27:28+01:00",
-      "last_reply": "2023-12-12T19:27:28+01:00",
+      "started": "2023-12-12T18:27:28Z",
+      "last_reply": "2023-12-12T18:27:28Z",
       "root_message_id": "msg-fe8e939df22d"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2023-12-17T15:25:08+01:00",
-      "last_reply": "2023-12-17T15:25:08+01:00",
+      "started": "2023-12-17T14:25:08Z",
+      "last_reply": "2023-12-17T14:25:08Z",
       "root_message_id": "msg-51226f52f06f"
     }
   ]

@@ -24,7 +24,7 @@
       "message_id": "<7FCEAB6B-FBE2-44FE-80D6-58C6D7062E12@duke.edu>",
       "from_name": "Hilmar Lapp",
       "from_email_hash": "5494d96220fbf0d17a4ba0e3063eb2d483ff3f325b3b0561a466bf424c98779f",
-      "date": "2018-02-07T15:01:41-05:00",
+      "date": "2018-02-07T20:01:41Z",
       "subject": "[R-sig-genetics] new release, snapclust, podcast",
       "subject_clean": "new release, snapclust, podcast",
       "in_reply_to": "<CANPRA+qGkQaoqwFfjWersRD4Sx=gviV5kEEAjUnf+AcMq7F5sg@mail.gmail.com>",
@@ -42,7 +42,7 @@
       "message_id": "<4F21BEA6-635A-442C-808C-27D06D9970BE@gmail.com>",
       "from_name": "Zhian Kamvar",
       "from_email_hash": "7dc521447931bd0edb4bad308c5643b75a875047acda912ef22609dec2e0a749",
-      "date": "2018-02-15T09:34:46-06:00",
+      "date": "2018-02-15T15:34:46Z",
       "subject": "[R-sig-genetics]  [poppr] Is there a way to calculate Fst or other metrics alike for snpclone object in poppr?",
       "subject_clean": "[poppr] Is there a way to calculate Fst or other metrics alike for snpclone object in poppr?",
       "in_reply_to": "<0d0f8a6f-807f-47c2-ab72-ef43457da330@googlegroups.com>",
@@ -65,7 +65,7 @@
       "message_id": "<90378dd1-77b6-bc4a-8300-813bbf7fb0fa@ird.fr>",
       "from_name": "Emmanuel Paradis",
       "from_email_hash": "4c085ad631493003895b8b2c8749a214fe7066719f788b94c2907a97cf0bf96d",
-      "date": "2018-02-19T12:11:52+01:00",
+      "date": "2018-02-19T11:11:52Z",
       "subject": "[R-sig-genetics]  [poppr] Is there a way to calculate Fst or other metrics alike for snpclone object in poppr?",
       "subject_clean": "[poppr] Is there a way to calculate Fst or other metrics alike for snpclone object in poppr?",
       "in_reply_to": "<4F21BEA6-635A-442C-808C-27D06D9970BE@gmail.com>",
@@ -94,8 +94,8 @@
         "Hilmar Lapp",
         "Thibaut Jombart"
       ],
-      "started": "2018-02-07T18:57:28+00:00",
-      "last_reply": "2018-02-07T15:01:41-05:00",
+      "started": "2018-02-07T18:57:28Z",
+      "last_reply": "2018-02-07T20:01:41Z",
       "root_message_id": "msg-e2095dda1a79"
     },
     {
@@ -106,8 +106,8 @@
         "Emmanuel Paradis",
         "Zhian Kamvar"
       ],
-      "started": "2018-02-15T09:34:46-06:00",
-      "last_reply": "2018-02-19T12:11:52+01:00",
+      "started": "2018-02-15T15:34:46Z",
+      "last_reply": "2018-02-19T11:11:52Z",
       "root_message_id": "msg-f0c9c09c40a4"
     }
   ]

@@ -8,7 +8,7 @@
       "message_id": "<1762108088.363521539@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-11-02T19:28:08+01:00",
+      "date": "2025-11-02T18:28:08Z",
       "subject": "[R-sig-genetics] Genome Assembly course",
       "subject_clean": "Genome Assembly course",
       "in_reply_to": null,
@@ -72,7 +72,7 @@
       "message_id": "<1763645856.175115295@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-11-20T14:37:36+01:00",
+      "date": "2025-11-20T13:37:36Z",
       "subject": "[R-sig-genetics] Manual Genome Curation using PretextView online course",
       "subject_clean": "Manual Genome Curation using PretextView online course",
       "in_reply_to": null,
@@ -88,7 +88,7 @@
       "message_id": "<1764057985.2222474@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-11-25T09:06:25+01:00",
+      "date": "2025-11-25T08:06:25Z",
       "subject": "[R-sig-genetics] GWAS course - online January 2026",
       "subject_clean": "GWAS course - online January 2026",
       "in_reply_to": null,
@@ -104,7 +104,7 @@
       "message_id": "<1764404040.511424276@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-11-29T09:14:00+01:00",
+      "date": "2025-11-29T08:14:00Z",
       "subject": "[R-sig-genetics] Genomic Data Visualisation with R course",
       "subject_clean": "Genomic Data Visualisation with R course",
       "in_reply_to": null,
@@ -124,8 +124,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-11-02T19:28:08+01:00",
-      "last_reply": "2025-11-02T19:28:08+01:00",
+      "started": "2025-11-02T18:28:08Z",
+      "last_reply": "2025-11-02T18:28:08Z",
       "root_message_id": "msg-02281c039ace"
     },
     {
@@ -135,8 +135,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2025-11-04T12:50:00+00:00",
-      "last_reply": "2025-11-04T12:50:00+00:00",
+      "started": "2025-11-04T12:50:00Z",
+      "last_reply": "2025-11-04T12:50:00Z",
       "root_message_id": "msg-38979f1a2fe8"
     },
     {
@@ -146,8 +146,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2025-11-06T12:50:00+00:00",
-      "last_reply": "2025-11-06T12:50:00+00:00",
+      "started": "2025-11-06T12:50:00Z",
+      "last_reply": "2025-11-06T12:50:00Z",
       "root_message_id": "msg-ef78f7b064bf"
     },
     {
@@ -157,8 +157,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2025-11-11T15:50:00+00:00",
-      "last_reply": "2025-11-11T15:50:00+00:00",
+      "started": "2025-11-11T15:50:00Z",
+      "last_reply": "2025-11-11T15:50:00Z",
       "root_message_id": "msg-0e0c54e548ec"
     },
     {
@@ -168,8 +168,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-11-20T14:37:36+01:00",
-      "last_reply": "2025-11-20T14:37:36+01:00",
+      "started": "2025-11-20T13:37:36Z",
+      "last_reply": "2025-11-20T13:37:36Z",
       "root_message_id": "msg-5067c59736be"
     },
     {
@@ -179,8 +179,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-11-25T09:06:25+01:00",
-      "last_reply": "2025-11-25T09:06:25+01:00",
+      "started": "2025-11-25T08:06:25Z",
+      "last_reply": "2025-11-25T08:06:25Z",
       "root_message_id": "msg-09932424f233"
     },
     {
@@ -190,8 +190,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-11-29T09:14:00+01:00",
-      "last_reply": "2025-11-29T09:14:00+01:00",
+      "started": "2025-11-29T08:14:00Z",
+      "last_reply": "2025-11-29T08:14:00Z",
       "root_message_id": "msg-959a524eefc1"
     }
   ]

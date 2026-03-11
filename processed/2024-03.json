@@ -8,7 +8,7 @@
       "message_id": "<1709836962.829121048@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-03-07T19:42:42+01:00",
+      "date": "2024-03-07T18:42:42Z",
       "subject": "[R-sig-genetics] Landscape Genomics course in Lausanne, EPL, Switzerland",
       "subject_clean": "Landscape Genomics course in Lausanne, EPL, Switzerland",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<1710150171.47328904@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-03-11T10:42:51+01:00",
+      "date": "2024-03-11T09:42:51Z",
       "subject": "[R-sig-genetics] Online course: course on Genome Assembly and Annotation (3 seats left)",
       "subject_clean": "Online course: course on Genome Assembly and Annotation (3 seats left)",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<1711003155.805123576@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-03-21T07:39:15+01:00",
+      "date": "2024-03-21T06:39:15Z",
       "subject": "[R-sig-genetics] Online course; Multivariate Data Analysis with R and vegan",
       "subject_clean": "Online course; Multivariate Data Analysis with R and vegan",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<1711274760.047515884@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-03-24T11:06:00+01:00",
+      "date": "2024-03-24T10:06:00Z",
       "subject": "[R-sig-genetics] Online course: Introduction to GWAS",
       "subject_clean": "Online course: Introduction to GWAS",
       "in_reply_to": null,
@@ -76,8 +76,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-03-07T19:42:42+01:00",
-      "last_reply": "2024-03-07T19:42:42+01:00",
+      "started": "2024-03-07T18:42:42Z",
+      "last_reply": "2024-03-07T18:42:42Z",
       "root_message_id": "msg-9ba05ba036b3"
     },
     {
@@ -87,8 +87,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-03-11T10:42:51+01:00",
-      "last_reply": "2024-03-11T10:42:51+01:00",
+      "started": "2024-03-11T09:42:51Z",
+      "last_reply": "2024-03-11T09:42:51Z",
       "root_message_id": "msg-c4e300a9035f"
     },
     {
@@ -98,8 +98,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-03-21T07:39:15+01:00",
-      "last_reply": "2024-03-21T07:39:15+01:00",
+      "started": "2024-03-21T06:39:15Z",
+      "last_reply": "2024-03-21T06:39:15Z",
       "root_message_id": "msg-fc042fcdea89"
     },
     {
@@ -109,8 +109,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-03-24T11:06:00+01:00",
-      "last_reply": "2024-03-24T11:06:00+01:00",
+      "started": "2024-03-24T10:06:00Z",
+      "last_reply": "2024-03-24T10:06:00Z",
       "root_message_id": "msg-26469676c743"
     }
   ]

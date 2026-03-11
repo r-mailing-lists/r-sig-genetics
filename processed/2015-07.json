@@ -24,7 +24,7 @@
       "message_id": "<CAGutmY_Y3soZViKv87aFaA4bs_az7BN5_8YUGEAcAy-JxuDwSw@mail.gmail.com>",
       "from_name": "Libby Liggins",
       "from_email_hash": "996c1acf53838854a924a008a596817e1ae157e36fc3522befff1af5f1e78ec0",
-      "date": "2015-07-16T07:18:20+12:00",
+      "date": "2015-07-15T19:18:20Z",
       "subject": "[R-sig-genetics] genind2hierfstat",
       "subject_clean": "genind2hierfstat",
       "in_reply_to": null,
@@ -58,7 +58,7 @@
       "message_id": "<CAGutmY8YcE3iE2Oqsth4OGckjPpgXk66+EZWAcD4WncV=kSueA@mail.gmail.com>",
       "from_name": "Libby Liggins",
       "from_email_hash": "996c1acf53838854a924a008a596817e1ae157e36fc3522befff1af5f1e78ec0",
-      "date": "2015-07-17T01:10:47+12:00",
+      "date": "2015-07-16T13:10:47Z",
       "subject": "[R-sig-genetics] genind2hierfstat",
       "subject_clean": "genind2hierfstat",
       "in_reply_to": "<2CB2DA8E426F3541AB1907F98ABA6570ABF4B45F@icexch-m1.ic.ac.uk>",
@@ -77,7 +77,7 @@
       "message_id": "<91629265-9F72-4135-9125-A9EB9D4A4E02@gmail.com>",
       "from_name": "Eric Crandall",
       "from_email_hash": "da4e892f1ec2ad9821389691ed8d760f846c9edea54c2980320b958deedfc1e0",
-      "date": "2015-07-20T12:16:52-07:00",
+      "date": "2015-07-20T19:16:52Z",
       "subject": "[R-sig-genetics] pegas::amova()",
       "subject_clean": "pegas::amova()",
       "in_reply_to": "<CAGutmY8YcE3iE2Oqsth4OGckjPpgXk66+EZWAcD4WncV=kSueA@mail.gmail.com>",
@@ -97,7 +97,7 @@
       "message_id": "<15E239CB-5131-4594-9EA1-6BA277ADDFD8@gmail.com>",
       "from_name": "Zhian Kamvar",
       "from_email_hash": "7dc521447931bd0edb4bad308c5643b75a875047acda912ef22609dec2e0a749",
-      "date": "2015-07-20T12:48:22-07:00",
+      "date": "2015-07-20T19:48:22Z",
       "subject": "[R-sig-genetics] pegas::amova()",
       "subject_clean": "pegas::amova()",
       "in_reply_to": "<91629265-9F72-4135-9125-A9EB9D4A4E02@gmail.com>",
@@ -118,7 +118,7 @@
       "message_id": "<F31E7A16-D0EB-4A4D-9047-E3319C55FF6B@science.oregonstate.edu>",
       "from_name": "Zhian Kamvar",
       "from_email_hash": "22d49dbeb0ae0b237f0469049b2a7bdfde827513b85adcc2c71ca951614f6bcc",
-      "date": "2015-07-20T13:31:50-07:00",
+      "date": "2015-07-20T20:31:50Z",
       "subject": "[R-sig-genetics] pegas::amova()",
       "subject_clean": "pegas::amova()",
       "in_reply_to": "<15E239CB-5131-4594-9EA1-6BA277ADDFD8@gmail.com>",
@@ -140,7 +140,7 @@
       "message_id": "<CD230320-2A6B-419B-8BBA-F0A50C153AEB@gmail.com>",
       "from_name": "Eric Crandall",
       "from_email_hash": "da4e892f1ec2ad9821389691ed8d760f846c9edea54c2980320b958deedfc1e0",
-      "date": "2015-07-22T17:40:41-07:00",
+      "date": "2015-07-23T00:40:41Z",
       "subject": "[R-sig-genetics] pegas::amova()",
       "subject_clean": "pegas::amova()",
       "in_reply_to": "<F31E7A16-D0EB-4A4D-9047-E3319C55FF6B@science.oregonstate.edu>",
@@ -163,7 +163,7 @@
       "message_id": "<E640FB39-F11C-4CCB-9CCA-F68E0847256F@uq.edu.au>",
       "from_name": "Cynthia Riginos",
       "from_email_hash": "cc3755ae46bab89e9e348bc24b7cfbc68b73d118f597a7074ee9233ff7507313",
-      "date": "2015-07-31T08:15:12+10:00",
+      "date": "2015-07-30T22:15:12Z",
       "subject": "[R-sig-genetics] assigning pie chart colors for pegas haploNet plot",
       "subject_clean": "assigning pie chart colors for pegas haploNet plot",
       "in_reply_to": null,
@@ -183,8 +183,8 @@
       "participants": [
         "Jombart, Thibaut"
       ],
-      "started": "2015-07-09T11:24:18+00:00",
-      "last_reply": "2015-07-09T11:24:18+00:00",
+      "started": "2015-07-09T11:24:18Z",
+      "last_reply": "2015-07-09T11:24:18Z",
       "root_message_id": "msg-323bd0d75de2"
     },
     {
@@ -197,8 +197,8 @@
         "Libby Liggins",
         "Zhian Kamvar"
       ],
-      "started": "2015-07-16T07:18:20+12:00",
-      "last_reply": "2015-07-22T17:40:41-07:00",
+      "started": "2015-07-15T19:18:20Z",
+      "last_reply": "2015-07-23T00:40:41Z",
       "root_message_id": "msg-4c7446220691"
     },
     {
@@ -208,8 +208,8 @@
       "participants": [
         "Cynthia Riginos"
       ],
-      "started": "2015-07-31T08:15:12+10:00",
-      "last_reply": "2015-07-31T08:15:12+10:00",
+      "started": "2015-07-30T22:15:12Z",
+      "last_reply": "2015-07-30T22:15:12Z",
       "root_message_id": "msg-e83c05230ec0"
     }
   ]

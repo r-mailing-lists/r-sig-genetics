@@ -8,7 +8,7 @@
       "message_id": "<485264AE.2060103@biomserv.univ-lyon1.fr>",
       "from_name": "Hinda Haned",
       "from_email_hash": "0d73c59167376c4fd0d9daf4d67cded3e78fa442c2952ae438cf76e8ec2bc096",
-      "date": "2008-06-13T14:14:38+02:00",
+      "date": "2008-06-13T12:14:38Z",
       "subject": "[R-sig-genetics] simulation of consanguineous unions in human populations with R",
       "subject_clean": "simulation of consanguineous unions in human populations with R",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<485651A1.7090902@biomserv.univ-lyon1.fr>",
       "from_name": "Thibaut Jombart",
       "from_email_hash": "745bd5f1d840815ae5156488a617b95dd0ec8c0e8571cbfdb7b8c4915d7b1fdd",
-      "date": "2008-06-16T13:42:25+02:00",
+      "date": "2008-06-16T11:42:25Z",
       "subject": "[R-sig-genetics] simulation of consanguineous unions in human populations with R",
       "subject_clean": "simulation of consanguineous unions in human populations with R",
       "in_reply_to": "<485264AE.2060103@biomserv.univ-lyon1.fr>",
@@ -42,7 +42,7 @@
       "message_id": "<F189E18BBAA8B6479F618B9044CF4E9C686C133711@owa.bfro.uni-lj.si>",
       "from_name": "Gorjanc Gregor",
       "from_email_hash": "fa1948da1d5a19d793d64821dc48b628a0b7b353a62033b85cac76bd747bdc03",
-      "date": "2008-06-16T15:08:44+02:00",
+      "date": "2008-06-16T13:08:44Z",
       "subject": "[R-sig-genetics] Simulation of consanguineous unions in human populations with R",
       "subject_clean": "Simulation of consanguineous unions in human populations with R",
       "in_reply_to": null,
@@ -63,8 +63,8 @@
         "Hinda Haned",
         "Thibaut Jombart"
       ],
-      "started": "2008-06-13T14:14:38+02:00",
-      "last_reply": "2008-06-16T13:42:25+02:00",
+      "started": "2008-06-13T12:14:38Z",
+      "last_reply": "2008-06-16T11:42:25Z",
       "root_message_id": "msg-ae35769e207e"
     },
     {
@@ -74,8 +74,8 @@
       "participants": [
         "Gorjanc Gregor"
       ],
-      "started": "2008-06-16T15:08:44+02:00",
-      "last_reply": "2008-06-16T15:08:44+02:00",
+      "started": "2008-06-16T13:08:44Z",
+      "last_reply": "2008-06-16T13:08:44Z",
       "root_message_id": "msg-db9965e6ccd7"
     }
   ]

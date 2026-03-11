@@ -8,7 +8,7 @@
       "message_id": "<bd9b6bc796ba64c7e323efd24b096136@prstatistics.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "8d85adc6b153d8e80093a9f8e89d7f46369fdd650fe394f7644a0e0697798998",
-      "date": "2017-07-19T13:13:24+01:00",
+      "date": "2017-07-19T12:13:24Z",
       "subject": "[R-sig-genetics] Course on Bayesian modelling",
       "subject_clean": "Course on Bayesian modelling",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<d51b6ed3cfa2bf292693bb933e552631@prstatistics.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "8d85adc6b153d8e80093a9f8e89d7f46369fdd650fe394f7644a0e0697798998",
-      "date": "2017-07-31T14:49:39+01:00",
+      "date": "2017-07-31T13:49:39Z",
       "subject": "[R-sig-genetics] Fwd: UK.ReproducibleDataScienceForPopulationGeneticsUsingR.ThibautJombart.23-27Oct.",
       "subject_clean": "UK.ReproducibleDataScienceForPopulationGeneticsUsingR.ThibautJombart.23-27Oct.",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2017-07-19T13:13:24+01:00",
-      "last_reply": "2017-07-19T13:13:24+01:00",
+      "started": "2017-07-19T12:13:24Z",
+      "last_reply": "2017-07-19T12:13:24Z",
       "root_message_id": "msg-33908683132e"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2017-07-31T14:49:39+01:00",
-      "last_reply": "2017-07-31T14:49:39+01:00",
+      "started": "2017-07-31T13:49:39Z",
+      "last_reply": "2017-07-31T13:49:39Z",
       "root_message_id": "msg-3c01631616c4"
     }
   ]

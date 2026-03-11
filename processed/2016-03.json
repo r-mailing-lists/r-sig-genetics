@@ -8,7 +8,7 @@
       "message_id": "<9148538B-FAC5-4A6B-B01A-23D2E3B0065F@gmail.com>",
       "from_name": "Daniel Fulop",
       "from_email_hash": "9285c5a6c3f750ec49fe135f70d32379d4b0fafe1d24403bc5edc061163bafc1",
-      "date": "2016-03-12T00:32:41-08:00",
+      "date": "2016-03-12T08:32:41Z",
       "subject": "[R-sig-genetics] genlight to treemix conversion",
       "subject_clean": "genlight to treemix conversion",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<7AD7BEF5-F4F6-4575-8A2D-1074316FF15B@gmail.com>",
       "from_name": "Zhian Kamvar",
       "from_email_hash": "7dc521447931bd0edb4bad308c5643b75a875047acda912ef22609dec2e0a749",
-      "date": "2016-03-14T13:54:19-07:00",
+      "date": "2016-03-14T20:54:19Z",
       "subject": "[R-sig-genetics] genlight to treemix conversion",
       "subject_clean": "genlight to treemix conversion",
       "in_reply_to": "<9148538B-FAC5-4A6B-B01A-23D2E3B0065F@gmail.com>",
@@ -42,7 +42,7 @@
       "message_id": "<56E93FE5.9050004@ird.fr>",
       "from_name": "Emmanuel Paradis",
       "from_email_hash": "4c085ad631493003895b8b2c8749a214fe7066719f788b94c2907a97cf0bf96d",
-      "date": "2016-03-16T12:13:41+01:00",
+      "date": "2016-03-16T11:13:41Z",
       "subject": "[R-sig-genetics] new version of pegas",
       "subject_clean": "new version of pegas",
       "in_reply_to": null,
@@ -58,7 +58,7 @@
       "message_id": "<56E94020.4030301@ird.fr>",
       "from_name": "Emmanuel Paradis",
       "from_email_hash": "4c085ad631493003895b8b2c8749a214fe7066719f788b94c2907a97cf0bf96d",
-      "date": "2016-03-16T12:14:40+01:00",
+      "date": "2016-03-16T11:14:40Z",
       "subject": "[R-sig-genetics] new version of pegas",
       "subject_clean": "new version of pegas",
       "in_reply_to": null,
@@ -97,8 +97,8 @@
         "Daniel Fulop",
         "Zhian Kamvar"
       ],
-      "started": "2016-03-12T00:32:41-08:00",
-      "last_reply": "2016-03-14T13:54:19-07:00",
+      "started": "2016-03-12T08:32:41Z",
+      "last_reply": "2016-03-14T20:54:19Z",
       "root_message_id": "msg-ac8a67ba581c"
     },
     {
@@ -108,8 +108,8 @@
       "participants": [
         "Emmanuel Paradis"
       ],
-      "started": "2016-03-16T12:13:41+01:00",
-      "last_reply": "2016-03-16T12:13:41+01:00",
+      "started": "2016-03-16T11:13:41Z",
+      "last_reply": "2016-03-16T11:13:41Z",
       "root_message_id": "msg-dd2bcdebc4fe"
     },
     {
@@ -120,8 +120,8 @@
         "Emmanuel Paradis",
         "Thibaut Jombart"
       ],
-      "started": "2016-03-16T12:14:40+01:00",
-      "last_reply": "2016-03-16T11:28:49+00:00",
+      "started": "2016-03-16T11:14:40Z",
+      "last_reply": "2016-03-16T11:28:49Z",
       "root_message_id": "msg-44556247e127"
     }
   ]

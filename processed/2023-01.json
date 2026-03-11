@@ -40,7 +40,7 @@
       "message_id": "<1674901160.2667238@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2023-01-28T11:19:20+01:00",
+      "date": "2023-01-28T10:19:20Z",
       "subject": "[R-sig-genetics] Course: Machine Learning in R for omics data",
       "subject_clean": "Course: Machine Learning in R for omics data",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2023-01-24T16:35:24+00:00",
-      "last_reply": "2023-01-24T16:35:24+00:00",
+      "started": "2023-01-24T16:35:24Z",
+      "last_reply": "2023-01-24T16:35:24Z",
       "root_message_id": "msg-e59b9b9b033f"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2023-01-27T17:17:36+00:00",
-      "last_reply": "2023-01-27T17:17:36+00:00",
+      "started": "2023-01-27T17:17:36Z",
+      "last_reply": "2023-01-27T17:17:36Z",
       "root_message_id": "msg-895f02d60f79"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2023-01-28T11:19:20+01:00",
-      "last_reply": "2023-01-28T11:19:20+01:00",
+      "started": "2023-01-28T10:19:20Z",
+      "last_reply": "2023-01-28T10:19:20Z",
       "root_message_id": "msg-0ab4a7cb2a08"
     }
   ]

@@ -42,7 +42,7 @@
       "message_id": "<CAHuTOvqRp1SyrLS7zpjm2eatbgZrgdyivqw_5Y48B1vr9-d2tw@mail.gmail.com>",
       "from_name": "Sven E. Templer",
       "from_email_hash": "39110eb3ad5c123cd52b66aa7e06d92d7bb4d3e6be600860da5cc505b870da83",
-      "date": "2015-05-29T16:31:52+02:00",
+      "date": "2015-05-29T14:31:52Z",
       "subject": "[R-sig-genetics] Reading large VCF into genind",
       "subject_clean": "Reading large VCF into genind",
       "in_reply_to": "<D18E3136.8298%si3@sanger.ac.uk>",
@@ -60,7 +60,7 @@
       "message_id": "<CAJZnH0ndam3pwqp_f7YmDW96ipEpP82jzw57Q0VsnS-na22NyA@mail.gmail.com>",
       "from_name": "Vikram Chhatre",
       "from_email_hash": "7620f04f8524e3edd5380019064bf2bac61a89fc22ff56629adadd5a00d968a6",
-      "date": "2015-05-29T10:32:52-04:00",
+      "date": "2015-05-29T14:32:52Z",
       "subject": "[R-sig-genetics] Reading large VCF into genind",
       "subject_clean": "Reading large VCF into genind",
       "in_reply_to": "<D18E3136.8298%si3@sanger.ac.uk>",
@@ -85,8 +85,8 @@
         "Sven E. Templer",
         "Vikram Chhatre"
       ],
-      "started": "2015-05-29T14:07:37+00:00",
-      "last_reply": "2015-05-29T10:32:52-04:00",
+      "started": "2015-05-29T14:07:37Z",
+      "last_reply": "2015-05-29T14:32:52Z",
       "root_message_id": "msg-a3681bc36026"
     }
   ]

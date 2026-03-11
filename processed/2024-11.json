@@ -24,7 +24,7 @@
       "message_id": "<1731419830.407823575@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-11-12T14:57:10+01:00",
+      "date": "2024-11-12T13:57:10Z",
       "subject": "[R-sig-genetics] RADseq course using Stacks - only 2 seats left",
       "subject_clean": "RADseq course using Stacks - only 2 seats left",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<1732111225.596610773@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-11-20T15:00:25+01:00",
+      "date": "2024-11-20T14:00:25Z",
       "subject": "[R-sig-genetics] Online Course: Multivariate Data Analysis with R and vegan",
       "subject_clean": "Online Course: Multivariate Data Analysis with R and vegan",
       "in_reply_to": null,
@@ -88,7 +88,7 @@
       "message_id": "<1732209229.740911195@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-11-21T18:13:49+01:00",
+      "date": "2024-11-21T17:13:49Z",
       "subject": "[R-sig-genetics] Few Seats Left for Landscape Genomics Workshop (20–24 Jan 2025, Poland)",
       "subject_clean": "Few Seats Left for Landscape Genomics Workshop (20–24 Jan 2025, Poland)",
       "in_reply_to": null,
@@ -104,7 +104,7 @@
       "message_id": "<1732442281.905322156@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-11-24T10:58:01+01:00",
+      "date": "2024-11-24T09:58:01Z",
       "subject": "[R-sig-genetics] Online course -  Longitudinal Data Analysis in R (December 16-19)",
       "subject_clean": "Online course -  Longitudinal Data Analysis in R (December 16-19)",
       "in_reply_to": null,
@@ -136,7 +136,7 @@
       "message_id": "<1732638287.13767510@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-11-26T17:24:47+01:00",
+      "date": "2024-11-26T16:24:47Z",
       "subject": "[R-sig-genetics] online course: Multivariate Data Analysis with R and vegan- February 10-13",
       "subject_clean": "online course: Multivariate Data Analysis with R and vegan- February 10-13",
       "in_reply_to": null,
@@ -156,8 +156,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2024-11-08T05:30:28+00:00",
-      "last_reply": "2024-11-08T05:30:28+00:00",
+      "started": "2024-11-08T05:30:28Z",
+      "last_reply": "2024-11-08T05:30:28Z",
       "root_message_id": "msg-2b1625663375"
     },
     {
@@ -167,8 +167,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-11-12T14:57:10+01:00",
-      "last_reply": "2024-11-12T14:57:10+01:00",
+      "started": "2024-11-12T13:57:10Z",
+      "last_reply": "2024-11-12T13:57:10Z",
       "root_message_id": "msg-74b1dcde7d78"
     },
     {
@@ -178,8 +178,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2024-11-18T02:47:31+00:00",
-      "last_reply": "2024-11-18T02:47:31+00:00",
+      "started": "2024-11-18T02:47:31Z",
+      "last_reply": "2024-11-18T02:47:31Z",
       "root_message_id": "msg-3b4afbfc5145"
     },
     {
@@ -189,8 +189,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-11-20T15:00:25+01:00",
-      "last_reply": "2024-11-20T15:00:25+01:00",
+      "started": "2024-11-20T14:00:25Z",
+      "last_reply": "2024-11-20T14:00:25Z",
       "root_message_id": "msg-8e4445c7d284"
     },
     {
@@ -200,8 +200,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2024-11-20T19:10:01+00:00",
-      "last_reply": "2024-11-20T19:10:01+00:00",
+      "started": "2024-11-20T19:10:01Z",
+      "last_reply": "2024-11-20T19:10:01Z",
       "root_message_id": "msg-4b2cfaabde60"
     },
     {
@@ -211,8 +211,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-11-21T18:13:49+01:00",
-      "last_reply": "2024-11-21T18:13:49+01:00",
+      "started": "2024-11-21T17:13:49Z",
+      "last_reply": "2024-11-21T17:13:49Z",
       "root_message_id": "msg-a47fe754f3a9"
     },
     {
@@ -222,8 +222,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-11-24T10:58:01+01:00",
-      "last_reply": "2024-11-24T10:58:01+01:00",
+      "started": "2024-11-24T09:58:01Z",
+      "last_reply": "2024-11-24T09:58:01Z",
       "root_message_id": "msg-418b7a5ee247"
     },
     {
@@ -233,8 +233,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2024-11-25T12:09:00+00:00",
-      "last_reply": "2024-11-25T12:09:00+00:00",
+      "started": "2024-11-25T12:09:00Z",
+      "last_reply": "2024-11-25T12:09:00Z",
       "root_message_id": "msg-8ed8d3d6022b"
     },
     {
@@ -244,8 +244,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-11-26T17:24:47+01:00",
-      "last_reply": "2024-11-26T17:24:47+01:00",
+      "started": "2024-11-26T16:24:47Z",
+      "last_reply": "2024-11-26T16:24:47Z",
       "root_message_id": "msg-efa63a94afec"
     }
   ]

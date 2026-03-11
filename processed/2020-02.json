@@ -8,7 +8,7 @@
       "message_id": "<754605724.54117.1582775189904.JavaMail.zimbra@ird.fr>",
       "from_name": "Emmanuel Paradis",
       "from_email_hash": "f68b887be78643fdd0937b17160582e9b94b62931130f7b421e7c5e339bd9035",
-      "date": "2020-02-27T04:46:29+01:00",
+      "date": "2020-02-27T03:46:29Z",
       "subject": "[R-sig-genetics]  [R-sig-phylo] PEGAS: assignment to haplotype when missing information",
       "subject_clean": "PEGAS: assignment to haplotype when missing information",
       "in_reply_to": "<1357300703.1381289.1582709715439.JavaMail.zimbra@ird.fr>",
@@ -47,8 +47,8 @@
       "participants": [
         "Emmanuel Paradis"
       ],
-      "started": "2020-02-27T04:46:29+01:00",
-      "last_reply": "2020-02-27T04:46:29+01:00",
+      "started": "2020-02-27T03:46:29Z",
+      "last_reply": "2020-02-27T03:46:29Z",
       "root_message_id": "msg-65b704c78b80"
     },
     {
@@ -58,8 +58,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2020-02-28T13:41:06+00:00",
-      "last_reply": "2020-02-28T13:41:06+00:00",
+      "started": "2020-02-28T13:41:06Z",
+      "last_reply": "2020-02-28T13:41:06Z",
       "root_message_id": "msg-2d46a7d478e7"
     }
   ]

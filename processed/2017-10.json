@@ -8,7 +8,7 @@
       "message_id": "<fdb2796038ee33056c85fd4919ecdb06@prstatistics.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "8d85adc6b153d8e80093a9f8e89d7f46369fdd650fe394f7644a0e0697798998",
-      "date": "2017-10-12T12:56:55+01:00",
+      "date": "2017-10-12T11:56:55Z",
       "subject": "[R-sig-genetics] UK.FINALCALL.LandscapeGenomics/GeneticsUsingR.Nov6-10",
       "subject_clean": "UK.FINALCALL.LandscapeGenomics/GeneticsUsingR.Nov6-10",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<7fbcf6901602112bd7728bbb6e862ce3@prstatistics.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "8d85adc6b153d8e80093a9f8e89d7f46369fdd650fe394f7644a0e0697798998",
-      "date": "2017-10-17T16:23:15+01:00",
+      "date": "2017-10-17T15:23:15Z",
       "subject": "[R-sig-genetics] Part funded Scholarships for Course - Applied Bayesian Modelling For Ecologists Nov 20-25",
       "subject_clean": "Part funded Scholarships for Course - Applied Bayesian Modelling For Ecologists Nov 20-25",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<933cf51ef6df04a11c537b64828ffbe1@prstatistics.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "8d85adc6b153d8e80093a9f8e89d7f46369fdd650fe394f7644a0e0697798998",
-      "date": "2017-10-23T14:56:30+01:00",
+      "date": "2017-10-23T13:56:30Z",
       "subject": "[R-sig-genetics] UK.AdvancingInRForEcologists.Dec4-8",
       "subject_clean": "UK.AdvancingInRForEcologists.Dec4-8",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2017-10-12T12:56:55+01:00",
-      "last_reply": "2017-10-12T12:56:55+01:00",
+      "started": "2017-10-12T11:56:55Z",
+      "last_reply": "2017-10-12T11:56:55Z",
       "root_message_id": "msg-2eb98342d93d"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2017-10-17T16:23:15+01:00",
-      "last_reply": "2017-10-17T16:23:15+01:00",
+      "started": "2017-10-17T15:23:15Z",
+      "last_reply": "2017-10-17T15:23:15Z",
       "root_message_id": "msg-602e3fa5602f"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2017-10-23T14:56:30+01:00",
-      "last_reply": "2017-10-23T14:56:30+01:00",
+      "started": "2017-10-23T13:56:30Z",
+      "last_reply": "2017-10-23T13:56:30Z",
       "root_message_id": "msg-d2a60e69b63b"
     }
   ]

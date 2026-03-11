@@ -8,7 +8,7 @@
       "message_id": "<4C263D71.8060305@monash.edu.au>",
       "from_name": "Nevil Amos",
       "from_email_hash": "7ffc8e7850936f1d46522bb167a2c37013690516fa044fadd25b7469baf30c8b",
-      "date": "2010-06-27T03:48:33+10:00",
+      "date": "2010-06-26T17:48:33Z",
       "subject": "[R-sig-genetics] Calculation of Queller and Goodnight relatedness in R:",
       "subject_clean": "Calculation of Queller and Goodnight relatedness in R:",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<AANLkTilSVYW5HM9WhqFVOe3s41uHNdd1dijT6lWafLF7@mail.gmail.com>",
       "from_name": "Nevil Amos (Sci)",
       "from_email_hash": "8f869c7f9048fa8f7d01c170a46d0c390d63dc3af2f8a4f8c79cb05503770d69",
-      "date": "2010-06-28T03:50:06+10:00",
+      "date": "2010-06-27T17:50:06Z",
       "subject": "[R-sig-genetics] Calcualtion of pairwise relatedness in R: package?",
       "subject_clean": "Calcualtion of pairwise relatedness in R: package?",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<AANLkTimlFHbY6gBEqVwYduqDPUJl3XMAo3lwr6nEpP0G@mail.gmail.com>",
       "from_name": "Ross",
       "from_email_hash": "bd9eed4d4a1a62910622d2a5da79175d251c39e6de3e5207bb592f725cbfc146",
-      "date": "2010-06-28T20:12:36+10:00",
+      "date": "2010-06-28T10:12:36Z",
       "subject": "[R-sig-genetics] R-sig-genetics Digest, Vol 7, Issue 1",
       "subject_clean": "R-sig-genetics Digest, Vol 7, Issue 1",
       "in_reply_to": "<mailman.15.1277719204.4800.r-sig-genetics@r-project.org>",
@@ -58,7 +58,7 @@
       "message_id": "<4C288FD8.4090601@gmail.com>",
       "from_name": "Nevil Amos",
       "from_email_hash": "7ffc8e7850936f1d46522bb167a2c37013690516fa044fadd25b7469baf30c8b",
-      "date": "2010-06-28T22:04:40+10:00",
+      "date": "2010-06-28T12:04:40Z",
       "subject": "[R-sig-genetics] R-sig-genetics Digest, Vol 7, Issue 1",
       "subject_clean": "R-sig-genetics Digest, Vol 7, Issue 1",
       "in_reply_to": "<AANLkTimlFHbY6gBEqVwYduqDPUJl3XMAo3lwr6nEpP0G@mail.gmail.com>",
@@ -93,7 +93,7 @@
       "message_id": "<AANLkTil-tsmfxsC3k2-oAMv7xTwVZpZmQHJwE6X1CkCJ@mail.gmail.com>",
       "from_name": "Ross",
       "from_email_hash": "bd9eed4d4a1a62910622d2a5da79175d251c39e6de3e5207bb592f725cbfc146",
-      "date": "2010-06-29T09:22:20+10:00",
+      "date": "2010-06-28T23:22:20Z",
       "subject": "[R-sig-genetics] R-sig-genetics Digest, Vol 7, Issue 1",
       "subject_clean": "R-sig-genetics Digest, Vol 7, Issue 1",
       "in_reply_to": "<4C288FD8.4090601@gmail.com>",
@@ -117,8 +117,8 @@
       "participants": [
         "Nevil Amos"
       ],
-      "started": "2010-06-27T03:48:33+10:00",
-      "last_reply": "2010-06-27T03:48:33+10:00",
+      "started": "2010-06-26T17:48:33Z",
+      "last_reply": "2010-06-26T17:48:33Z",
       "root_message_id": "msg-9ef94d071ec2"
     },
     {
@@ -128,20 +128,9 @@
       "participants": [
         "Nevil Amos (Sci)"
       ],
-      "started": "2010-06-28T03:50:06+10:00",
-      "last_reply": "2010-06-28T03:50:06+10:00",
+      "started": "2010-06-27T17:50:06Z",
+      "last_reply": "2010-06-27T17:50:06Z",
       "root_message_id": "msg-26d2544c4757"
-    },
-    {
-      "id": "thread-8eb281bcd1dc",
-      "subject": "Re : Calcualtion of pairwise relatedness in R: > package?",
-      "message_count": 1,
-      "participants": [
-        "Neil Shephard"
-      ],
-      "started": "2010-06-28T13:00:16+00:00",
-      "last_reply": "2010-06-28T13:00:16+00:00",
-      "root_message_id": "msg-8eb281bcd1dc"
     },
     {
       "id": "thread-50c1c6f4f642",
@@ -151,9 +140,20 @@
         "Nevil Amos",
         "Ross"
       ],
-      "started": "2010-06-28T20:12:36+10:00",
-      "last_reply": "2010-06-29T09:22:20+10:00",
+      "started": "2010-06-28T10:12:36Z",
+      "last_reply": "2010-06-28T23:22:20Z",
       "root_message_id": "msg-50c1c6f4f642"
+    },
+    {
+      "id": "thread-8eb281bcd1dc",
+      "subject": "Re : Calcualtion of pairwise relatedness in R: > package?",
+      "message_count": 1,
+      "participants": [
+        "Neil Shephard"
+      ],
+      "started": "2010-06-28T13:00:16Z",
+      "last_reply": "2010-06-28T13:00:16Z",
+      "root_message_id": "msg-8eb281bcd1dc"
     }
   ]
 }

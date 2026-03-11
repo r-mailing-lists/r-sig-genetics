@@ -24,7 +24,7 @@
       "message_id": "<1698919282.618516236@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2023-11-02T11:01:22+01:00",
+      "date": "2023-11-02T10:01:22Z",
       "subject": "[R-sig-genetics] Seascape Genomics in R course - 1 seat available",
       "subject_clean": "Seascape Genomics in R course - 1 seat available",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<1700752152.61144155@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2023-11-23T16:09:12+01:00",
+      "date": "2023-11-23T15:09:12Z",
       "subject": "[R-sig-genetics] GWAS course",
       "subject_clean": "GWAS course",
       "in_reply_to": null,
@@ -76,8 +76,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2023-11-01T16:22:20+00:00",
-      "last_reply": "2023-11-01T16:22:20+00:00",
+      "started": "2023-11-01T16:22:20Z",
+      "last_reply": "2023-11-01T16:22:20Z",
       "root_message_id": "msg-d60f0580d5ba"
     },
     {
@@ -87,8 +87,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2023-11-02T11:01:22+01:00",
-      "last_reply": "2023-11-02T11:01:22+01:00",
+      "started": "2023-11-02T10:01:22Z",
+      "last_reply": "2023-11-02T10:01:22Z",
       "root_message_id": "msg-259b490eb8dc"
     },
     {
@@ -98,8 +98,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2023-11-23T16:09:12+01:00",
-      "last_reply": "2023-11-23T16:09:12+01:00",
+      "started": "2023-11-23T15:09:12Z",
+      "last_reply": "2023-11-23T15:09:12Z",
       "root_message_id": "msg-e4321d4b1030"
     },
     {
@@ -109,8 +109,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2023-11-29T20:02:11+00:00",
-      "last_reply": "2023-11-29T20:02:11+00:00",
+      "started": "2023-11-29T20:02:11Z",
+      "last_reply": "2023-11-29T20:02:11Z",
       "root_message_id": "msg-baddff4701f8"
     }
   ]

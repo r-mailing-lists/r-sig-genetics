@@ -8,7 +8,7 @@
       "message_id": "<207EA363-B926-410B-B05F-58E4F3C0A6B9@gmail.com>",
       "from_name": "Zhian Kamvar",
       "from_email_hash": "7dc521447931bd0edb4bad308c5643b75a875047acda912ef22609dec2e0a749",
-      "date": "2017-09-13T11:08:03-05:00",
+      "date": "2017-09-13T16:08:03Z",
       "subject": "[R-sig-genetics] New release of poppr version 2.5.0",
       "subject_clean": "New release of poppr version 2.5.0",
       "in_reply_to": null,
@@ -28,8 +28,8 @@
       "participants": [
         "Zhian Kamvar"
       ],
-      "started": "2017-09-13T11:08:03-05:00",
-      "last_reply": "2017-09-13T11:08:03-05:00",
+      "started": "2017-09-13T16:08:03Z",
+      "last_reply": "2017-09-13T16:08:03Z",
       "root_message_id": "msg-514cc3929e5e"
     }
   ]

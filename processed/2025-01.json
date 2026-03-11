@@ -24,7 +24,7 @@
       "message_id": "<1735904923.69835480@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-01-03T12:48:43+01:00",
+      "date": "2025-01-03T11:48:43Z",
       "subject": "[R-sig-genetics] Only 2 Seats Left: Landscape Genomics Workshop in Poland (20–24 January 2025)",
       "subject_clean": "Only 2 Seats Left: Landscape Genomics Workshop in Poland (20–24 January 2025)",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<1736354927.884619205@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-01-08T17:48:47+01:00",
+      "date": "2025-01-08T16:48:47Z",
       "subject": "[R-sig-genetics] Course online: Multivariate Data Analysis with R and vegan",
       "subject_clean": "Course online: Multivariate Data Analysis with R and vegan",
       "in_reply_to": null,
@@ -72,7 +72,7 @@
       "message_id": "<1736442065.953725300@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-01-09T18:01:05+01:00",
+      "date": "2025-01-09T17:01:05Z",
       "subject": "[R-sig-genetics] Landscape Genomics course in Poland - 20-24 January",
       "subject_clean": "Landscape Genomics course in Poland - 20-24 January",
       "in_reply_to": null,
@@ -184,7 +184,7 @@
       "message_id": "<1737462421.515713950@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-01-21T13:27:01+01:00",
+      "date": "2025-01-21T12:27:01Z",
       "subject": "[R-sig-genetics] Introduction to Machine Learning with R",
       "subject_clean": "Introduction to Machine Learning with R",
       "in_reply_to": null,
@@ -236,8 +236,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-01-02T11:50:00+00:00",
-      "last_reply": "2025-01-02T11:50:00+00:00",
+      "started": "2025-01-02T11:50:00Z",
+      "last_reply": "2025-01-02T11:50:00Z",
       "root_message_id": "msg-57ce7ec65999"
     },
     {
@@ -247,8 +247,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-01-03T12:48:43+01:00",
-      "last_reply": "2025-01-03T12:48:43+01:00",
+      "started": "2025-01-03T11:48:43Z",
+      "last_reply": "2025-01-03T11:48:43Z",
       "root_message_id": "msg-c72c9fd3d292"
     },
     {
@@ -258,8 +258,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-01-08T08:50:00+00:00",
-      "last_reply": "2025-01-08T08:50:00+00:00",
+      "started": "2025-01-08T08:50:00Z",
+      "last_reply": "2025-01-08T08:50:00Z",
       "root_message_id": "msg-52dcde0120ed"
     },
     {
@@ -269,8 +269,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-01-08T17:48:47+01:00",
-      "last_reply": "2025-01-08T17:48:47+01:00",
+      "started": "2025-01-08T16:48:47Z",
+      "last_reply": "2025-01-08T16:48:47Z",
       "root_message_id": "msg-6faf9b168eb3"
     },
     {
@@ -280,8 +280,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-01-09T18:01:05+01:00",
-      "last_reply": "2025-01-09T18:01:05+01:00",
+      "started": "2025-01-09T17:01:05Z",
+      "last_reply": "2025-01-09T17:01:05Z",
       "root_message_id": "msg-c9e348375485"
     },
     {
@@ -291,8 +291,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-01-13T09:20:00+00:00",
-      "last_reply": "2025-01-13T09:20:00+00:00",
+      "started": "2025-01-13T09:20:00Z",
+      "last_reply": "2025-01-13T09:20:00Z",
       "root_message_id": "msg-f8e48ef7a833"
     },
     {
@@ -302,8 +302,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-01-14T10:14:39+00:00",
-      "last_reply": "2025-01-14T10:14:39+00:00",
+      "started": "2025-01-14T10:14:39Z",
+      "last_reply": "2025-01-14T10:14:39Z",
       "root_message_id": "msg-6e9f35892044"
     },
     {
@@ -313,8 +313,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-01-15T07:20:00+00:00",
-      "last_reply": "2025-01-15T07:20:00+00:00",
+      "started": "2025-01-15T07:20:00Z",
+      "last_reply": "2025-01-15T07:20:00Z",
       "root_message_id": "msg-e989eb6e8513"
     },
     {
@@ -324,8 +324,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2025-01-16T16:02:33+00:00",
-      "last_reply": "2025-01-16T16:02:33+00:00",
+      "started": "2025-01-16T16:02:33Z",
+      "last_reply": "2025-01-16T16:02:33Z",
       "root_message_id": "msg-caddf81422b8"
     },
     {
@@ -335,8 +335,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-01-17T06:35:00+00:00",
-      "last_reply": "2025-01-17T06:35:00+00:00",
+      "started": "2025-01-17T06:35:00Z",
+      "last_reply": "2025-01-17T06:35:00Z",
       "root_message_id": "msg-e38b477f14b6"
     },
     {
@@ -346,8 +346,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-01-21T05:54:02+00:00",
-      "last_reply": "2025-01-21T05:54:02+00:00",
+      "started": "2025-01-21T05:54:02Z",
+      "last_reply": "2025-01-21T05:54:02Z",
       "root_message_id": "msg-97798a1cfe91"
     },
     {
@@ -357,8 +357,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-01-21T13:27:01+01:00",
-      "last_reply": "2025-01-21T13:27:01+01:00",
+      "started": "2025-01-21T12:27:01Z",
+      "last_reply": "2025-01-21T12:27:01Z",
       "root_message_id": "msg-43cedb2c67fc"
     },
     {
@@ -368,8 +368,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-01-27T11:50:00+00:00",
-      "last_reply": "2025-01-27T11:50:00+00:00",
+      "started": "2025-01-27T11:50:00Z",
+      "last_reply": "2025-01-27T11:50:00Z",
       "root_message_id": "msg-f098e6505eed"
     },
     {
@@ -379,8 +379,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2025-01-30T06:05:00+00:00",
-      "last_reply": "2025-01-30T06:05:00+00:00",
+      "started": "2025-01-30T06:05:00Z",
+      "last_reply": "2025-01-30T06:05:00Z",
       "root_message_id": "msg-0560c3aafbfe"
     }
   ]

@@ -8,7 +8,7 @@
       "message_id": "<CAEGfAaNOWLmbR=qnJFLpNVJSZcqt2rK8oCzT3yKT1-a3gD78Cg@mail.gmail.com>",
       "from_name": "Felipe Hernández",
       "from_email_hash": "5fb9eed2b34139cc23d008f174c5fa3b61604fa1b880f60ee150ba10fb63d4c7",
-      "date": "2017-04-03T09:57:17-04:00",
+      "date": "2017-04-03T13:57:17Z",
       "subject": "[R-sig-genetics] LD calculation question",
       "subject_clean": "LD calculation question",
       "in_reply_to": "<CAEGfAaPPrRdr1BDrt=HDM3erfiLvdP8mOgvbgS1rrvc9igsrfw@mail.gmail.com>",
@@ -26,7 +26,7 @@
       "message_id": "<c31558b6-4d44-59f9-d9c4-d514e037829a@ird.fr>",
       "from_name": "Emmanuel Paradis",
       "from_email_hash": "4c085ad631493003895b8b2c8749a214fe7066719f788b94c2907a97cf0bf96d",
-      "date": "2017-04-04T10:17:18+02:00",
+      "date": "2017-04-04T08:17:18Z",
       "subject": "[R-sig-genetics] LD calculation question",
       "subject_clean": "LD calculation question",
       "in_reply_to": "<CAEGfAaPPrRdr1BDrt=HDM3erfiLvdP8mOgvbgS1rrvc9igsrfw@mail.gmail.com>",
@@ -44,7 +44,7 @@
       "message_id": "<34c37bffff290166009f19f205115f53@prstatistics.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "8d85adc6b153d8e80093a9f8e89d7f46369fdd650fe394f7644a0e0697798998",
-      "date": "2017-04-11T15:16:47+01:00",
+      "date": "2017-04-11T14:16:47Z",
       "subject": "[R-sig-genetics] PART FUNDED SCHOLARSHIPS - Coding, data management, and Shiny applications using RStudio for evolutionary biologists and ecologists - May 2017",
       "subject_clean": "PART FUNDED SCHOLARSHIPS - Coding, data management, and Shiny applications using RStudio for evolutionary biologists and ecologists - May 2017",
       "in_reply_to": null,
@@ -60,7 +60,7 @@
       "message_id": "<339854e4a603e79cc1ea25ac1a78e6bc@prstatistics.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "8d85adc6b153d8e80093a9f8e89d7f46369fdd650fe394f7644a0e0697798998",
-      "date": "2017-04-24T17:55:17+01:00",
+      "date": "2017-04-24T16:55:17Z",
       "subject": "[R-sig-genetics] SpatialAnalysisOfEcologicalDataUsingR_JasonMatthiopoulos_UK_7th-12thAug",
       "subject_clean": "SpatialAnalysisOfEcologicalDataUsingR_JasonMatthiopoulos_UK_7th-12thAug",
       "in_reply_to": null,
@@ -80,8 +80,8 @@
       "participants": [
         "Felipe Hernández"
       ],
-      "started": "2017-04-03T09:57:17-04:00",
-      "last_reply": "2017-04-03T09:57:17-04:00",
+      "started": "2017-04-03T13:57:17Z",
+      "last_reply": "2017-04-03T13:57:17Z",
       "root_message_id": "msg-21052fc2fa0c"
     },
     {
@@ -91,8 +91,8 @@
       "participants": [
         "Emmanuel Paradis"
       ],
-      "started": "2017-04-04T10:17:18+02:00",
-      "last_reply": "2017-04-04T10:17:18+02:00",
+      "started": "2017-04-04T08:17:18Z",
+      "last_reply": "2017-04-04T08:17:18Z",
       "root_message_id": "msg-0e8cec2874c5"
     },
     {
@@ -102,8 +102,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2017-04-11T15:16:47+01:00",
-      "last_reply": "2017-04-11T15:16:47+01:00",
+      "started": "2017-04-11T14:16:47Z",
+      "last_reply": "2017-04-11T14:16:47Z",
       "root_message_id": "msg-afd2b6292d94"
     },
     {
@@ -113,8 +113,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2017-04-24T17:55:17+01:00",
-      "last_reply": "2017-04-24T17:55:17+01:00",
+      "started": "2017-04-24T16:55:17Z",
+      "last_reply": "2017-04-24T16:55:17Z",
       "root_message_id": "msg-4bd0c43fc201"
     }
   ]

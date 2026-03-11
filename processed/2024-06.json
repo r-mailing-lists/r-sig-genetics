@@ -8,7 +8,7 @@
       "message_id": "<1717511002.148531224@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-06-04T16:23:22+02:00",
+      "date": "2024-06-04T14:23:22Z",
       "subject": "[R-sig-genetics] Adaptation Genomics course (online)",
       "subject_clean": "Adaptation Genomics course (online)",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAEsSYzy4ieaj-nKNSi-pz2g6RAFn=YGkM=DK-yEDncn8inAt1g@mail.gmail.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
-      "date": "2024-06-13T17:00:34+01:00",
+      "date": "2024-06-13T16:00:34Z",
       "subject": "[R-sig-genetics] ONLINE COURSE – Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR06)",
       "subject_clean": "ONLINE COURSE – Multivariate Analysis Of Ecological Communities Using R With The VEGAN package (VGNR06)",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<1718294561.00965289@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-06-13T18:02:41+02:00",
+      "date": "2024-06-13T16:02:41Z",
       "subject": "[R-sig-genetics] online course on Adaptation Genomics",
       "subject_clean": "online course on Adaptation Genomics",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<1718898271.53868229@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-06-20T17:44:31+02:00",
+      "date": "2024-06-20T15:44:31Z",
       "subject": "[R-sig-genetics] Conservation Genomics course (online)",
       "subject_clean": "Conservation Genomics course (online)",
       "in_reply_to": null,
@@ -72,7 +72,7 @@
       "message_id": "<1719578950.038210710@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-06-28T14:49:10+02:00",
+      "date": "2024-06-28T12:49:10Z",
       "subject": "[R-sig-genetics] Online course: Conservation Genomics (July 22-25)",
       "subject_clean": "Online course: Conservation Genomics (July 22-25)",
       "in_reply_to": null,
@@ -92,8 +92,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-06-04T16:23:22+02:00",
-      "last_reply": "2024-06-04T16:23:22+02:00",
+      "started": "2024-06-04T14:23:22Z",
+      "last_reply": "2024-06-04T14:23:22Z",
       "root_message_id": "msg-746b13aec2eb"
     },
     {
@@ -103,8 +103,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2024-06-13T17:00:34+01:00",
-      "last_reply": "2024-06-13T17:00:34+01:00",
+      "started": "2024-06-13T16:00:34Z",
+      "last_reply": "2024-06-13T16:00:34Z",
       "root_message_id": "msg-23d4fce0d52c"
     },
     {
@@ -114,8 +114,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-06-13T18:02:41+02:00",
-      "last_reply": "2024-06-13T18:02:41+02:00",
+      "started": "2024-06-13T16:02:41Z",
+      "last_reply": "2024-06-13T16:02:41Z",
       "root_message_id": "msg-c37b6f461cbb"
     },
     {
@@ -125,8 +125,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-06-20T17:44:31+02:00",
-      "last_reply": "2024-06-20T17:44:31+02:00",
+      "started": "2024-06-20T15:44:31Z",
+      "last_reply": "2024-06-20T15:44:31Z",
       "root_message_id": "msg-498e00aba337"
     },
     {
@@ -136,8 +136,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-06-28T14:49:10+02:00",
-      "last_reply": "2024-06-28T14:49:10+02:00",
+      "started": "2024-06-28T12:49:10Z",
+      "last_reply": "2024-06-28T12:49:10Z",
       "root_message_id": "msg-a910baf81af9"
     }
   ]

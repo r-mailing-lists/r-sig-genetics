@@ -24,7 +24,7 @@
       "message_id": "<CAEsSYzzAzaxDPsLxP0R34YQ97cGOAL9nooXhiMNR3JzDbfcw5w@mail.gmail.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
-      "date": "2025-08-05T13:42:44+01:00",
+      "date": "2025-08-05T12:42:44Z",
       "subject": "[R-sig-genetics] Introduction to Machine Learning (IMLR04)",
       "subject_clean": "Introduction to Machine Learning (IMLR04)",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAEsSYzy8ij+a-+rT6LC11fNWdKcBPwXMA_wizqjA-jZhVSspDA@mail.gmail.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
-      "date": "2025-08-05T13:56:20+01:00",
+      "date": "2025-08-05T12:56:20Z",
       "subject": "[R-sig-genetics] Bayesian Multilevel Modelling using brms for Ecologists (BMME01)",
       "subject_clean": "Bayesian Multilevel Modelling using brms for Ecologists (BMME01)",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<1754478614.67414600@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-08-06T13:10:14+02:00",
+      "date": "2025-08-06T11:10:14Z",
       "subject": "[R-sig-genetics] Course: Biodiversity Data Analysis in R - online, 18-22 August",
       "subject_clean": "Course: Biodiversity Data Analysis in R - online, 18-22 August",
       "in_reply_to": null,
@@ -72,7 +72,7 @@
       "message_id": "<1754561179.18582353@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-08-07T12:06:19+02:00",
+      "date": "2025-08-07T10:06:19Z",
       "subject": "[R-sig-genetics] Online Course: Single-cell RNA-seq Analysis with R/Bioconductor – Nov 17–21",
       "subject_clean": "Online Course: Single-cell RNA-seq Analysis with R/Bioconductor – Nov 17–21",
       "in_reply_to": null,
@@ -88,7 +88,7 @@
       "message_id": "<1754929445.70052699@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-08-11T18:24:05+02:00",
+      "date": "2025-08-11T16:24:05Z",
       "subject": "[R-sig-genetics] online course Invasion Genomics in R - 8th, 10th, and 11th September",
       "subject_clean": "online course Invasion Genomics in R - 8th, 10th, and 11th September",
       "in_reply_to": null,
@@ -120,7 +120,7 @@
       "message_id": "<1755006337.829115491@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-08-12T15:45:37+02:00",
+      "date": "2025-08-12T13:45:37Z",
       "subject": "[R-sig-genetics] AI + Genomics, online course in September",
       "subject_clean": "AI + Genomics, online course in September",
       "in_reply_to": null,
@@ -152,7 +152,7 @@
       "message_id": "<1755161367.11826512@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-08-14T10:49:27+02:00",
+      "date": "2025-08-14T08:49:27Z",
       "subject": "[R-sig-genetics] RNAseq with R and Bioconductor- online course, 3-14 November",
       "subject_clean": "RNAseq with R and Bioconductor- online course, 3-14 November",
       "in_reply_to": null,
@@ -204,8 +204,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2025-08-05T08:35:00+00:00",
-      "last_reply": "2025-08-05T08:35:00+00:00",
+      "started": "2025-08-05T08:35:00Z",
+      "last_reply": "2025-08-05T08:35:00Z",
       "root_message_id": "msg-9aece32d4e5a"
     },
     {
@@ -215,8 +215,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2025-08-05T13:42:44+01:00",
-      "last_reply": "2025-08-05T13:42:44+01:00",
+      "started": "2025-08-05T12:42:44Z",
+      "last_reply": "2025-08-05T12:42:44Z",
       "root_message_id": "msg-9d6fae217640"
     },
     {
@@ -226,8 +226,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2025-08-05T13:56:20+01:00",
-      "last_reply": "2025-08-05T13:56:20+01:00",
+      "started": "2025-08-05T12:56:20Z",
+      "last_reply": "2025-08-05T12:56:20Z",
       "root_message_id": "msg-47481317ed36"
     },
     {
@@ -237,8 +237,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-08-06T13:10:14+02:00",
-      "last_reply": "2025-08-06T13:10:14+02:00",
+      "started": "2025-08-06T11:10:14Z",
+      "last_reply": "2025-08-06T11:10:14Z",
       "root_message_id": "msg-f3b2b2be4b55"
     },
     {
@@ -248,20 +248,9 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-08-07T12:06:19+02:00",
-      "last_reply": "2025-08-07T12:06:19+02:00",
+      "started": "2025-08-07T10:06:19Z",
+      "last_reply": "2025-08-07T10:06:19Z",
       "root_message_id": "msg-70d6466fc767"
-    },
-    {
-      "id": "thread-067eb7963d02",
-      "subject": "Clustering Complex Data with ChatGPT - livestream seminar",
-      "message_count": 1,
-      "participants": [
-        "Michael Zyphur"
-      ],
-      "started": "2025-08-11T17:50:00+00:00",
-      "last_reply": "2025-08-11T17:50:00+00:00",
-      "root_message_id": "msg-067eb7963d02"
     },
     {
       "id": "thread-780550e2da70",
@@ -270,9 +259,20 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-08-11T18:24:05+02:00",
-      "last_reply": "2025-08-11T18:24:05+02:00",
+      "started": "2025-08-11T16:24:05Z",
+      "last_reply": "2025-08-11T16:24:05Z",
       "root_message_id": "msg-780550e2da70"
+    },
+    {
+      "id": "thread-067eb7963d02",
+      "subject": "Clustering Complex Data with ChatGPT - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2025-08-11T17:50:00Z",
+      "last_reply": "2025-08-11T17:50:00Z",
+      "root_message_id": "msg-067eb7963d02"
     },
     {
       "id": "thread-7914b7b3d8ce",
@@ -281,8 +281,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-08-12T15:45:37+02:00",
-      "last_reply": "2025-08-12T15:45:37+02:00",
+      "started": "2025-08-12T13:45:37Z",
+      "last_reply": "2025-08-12T13:45:37Z",
       "root_message_id": "msg-7914b7b3d8ce"
     },
     {
@@ -292,8 +292,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2025-08-14T03:35:00+00:00",
-      "last_reply": "2025-08-14T03:35:00+00:00",
+      "started": "2025-08-14T03:35:00Z",
+      "last_reply": "2025-08-14T03:35:00Z",
       "root_message_id": "msg-d4dcde2d4a51"
     },
     {
@@ -303,8 +303,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-08-14T10:49:27+02:00",
-      "last_reply": "2025-08-14T10:49:27+02:00",
+      "started": "2025-08-14T08:49:27Z",
+      "last_reply": "2025-08-14T08:49:27Z",
       "root_message_id": "msg-a9afd52c6c16"
     },
     {
@@ -314,8 +314,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2025-08-26T08:50:00+00:00",
-      "last_reply": "2025-08-26T08:50:00+00:00",
+      "started": "2025-08-26T08:50:00Z",
+      "last_reply": "2025-08-26T08:50:00Z",
       "root_message_id": "msg-cb0a86d5cbda"
     },
     {
@@ -325,8 +325,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2025-08-28T08:20:00+00:00",
-      "last_reply": "2025-08-28T08:20:00+00:00",
+      "started": "2025-08-28T08:20:00Z",
+      "last_reply": "2025-08-28T08:20:00Z",
       "root_message_id": "msg-7372a312a933"
     }
   ]

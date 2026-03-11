@@ -8,7 +8,7 @@
       "message_id": "<E53D4F8B-622F-4B12-AFC9-969E657F5753@lshtm.ac.uk>",
       "from_name": "Susana",
       "from_email_hash": "0577073b1525a66503644134e7cafe9adf7716f5b51851f98558f60cc3845692",
-      "date": "2016-04-03T01:20:49+01:00",
+      "date": "2016-04-03T00:20:49Z",
       "subject": "[R-sig-genetics] nj tree",
       "subject_clean": "nj tree",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<7A8EFC25-4783-433A-9BFA-00029D7F215D@lshtm.ac.uk>",
       "from_name": "Susana",
       "from_email_hash": "0577073b1525a66503644134e7cafe9adf7716f5b51851f98558f60cc3845692",
-      "date": "2016-04-27T01:32:05+01:00",
+      "date": "2016-04-27T00:32:05Z",
       "subject": "[R-sig-genetics] extract the sequences of the haplotypes",
       "subject_clean": "extract the sequences of the haplotypes",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Susana"
       ],
-      "started": "2016-04-03T01:20:49+01:00",
-      "last_reply": "2016-04-03T01:20:49+01:00",
+      "started": "2016-04-03T00:20:49Z",
+      "last_reply": "2016-04-03T00:20:49Z",
       "root_message_id": "msg-d947eed04713"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Susana"
       ],
-      "started": "2016-04-27T01:32:05+01:00",
-      "last_reply": "2016-04-27T01:32:05+01:00",
+      "started": "2016-04-27T00:32:05Z",
+      "last_reply": "2016-04-27T00:32:05Z",
       "root_message_id": "msg-e2edfe4d7298"
     }
   ]

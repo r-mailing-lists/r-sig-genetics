@@ -8,7 +8,7 @@
       "message_id": "<e7529c930901041632i37f29df8o5312be7d44825fd0@mail.gmail.com>",
       "from_name": "Grant Gillis",
       "from_email_hash": "a89a4403e234398eb342007e100114ce89f4e27340c96eb5ebdc9f20f9db8717",
-      "date": "2009-01-04T19:32:05-05:00",
+      "date": "2009-01-05T00:32:05Z",
       "subject": "[R-sig-genetics] combining scores from multiple panels",
       "subject_clean": "combining scores from multiple panels",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<e7529c930901120649y6280d6c3hf8a8a44c67552099@mail.gmail.com>",
       "from_name": "Grant Gillis",
       "from_email_hash": "a89a4403e234398eb342007e100114ce89f4e27340c96eb5ebdc9f20f9db8717",
-      "date": "2009-01-12T09:49:14-05:00",
+      "date": "2009-01-12T14:49:14Z",
       "subject": "[R-sig-genetics] combining scores from multiple panels",
       "subject_clean": "combining scores from multiple panels",
       "in_reply_to": null,
@@ -78,8 +78,8 @@
       "participants": [
         "Grant Gillis"
       ],
-      "started": "2009-01-04T19:32:05-05:00",
-      "last_reply": "2009-01-04T19:32:05-05:00",
+      "started": "2009-01-05T00:32:05Z",
+      "last_reply": "2009-01-05T00:32:05Z",
       "root_message_id": "msg-5e92e72f8858"
     },
     {
@@ -89,8 +89,8 @@
       "participants": [
         "Jombart, Thibaut J X"
       ],
-      "started": "2009-01-11T17:34:25+00:00",
-      "last_reply": "2009-01-11T17:34:25+00:00",
+      "started": "2009-01-11T17:34:25Z",
+      "last_reply": "2009-01-11T17:34:25Z",
       "root_message_id": "msg-d74520dd02d2"
     },
     {
@@ -101,8 +101,8 @@
         "Grant Gillis",
         "Jombart, Thibaut J X"
       ],
-      "started": "2009-01-12T09:49:14-05:00",
-      "last_reply": "2009-01-12T15:28:01+00:00",
+      "started": "2009-01-12T14:49:14Z",
+      "last_reply": "2009-01-12T15:28:01Z",
       "root_message_id": "msg-0a76ad0122e5"
     }
   ]

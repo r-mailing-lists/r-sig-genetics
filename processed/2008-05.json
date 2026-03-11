@@ -8,7 +8,7 @@
       "message_id": "<4832CE2E.4030702@biomserv.univ-lyon1.fr>",
       "from_name": "Thibaut Jombart",
       "from_email_hash": "745bd5f1d840815ae5156488a617b95dd0ec8c0e8571cbfdb7b8c4915d7b1fdd",
-      "date": "2008-05-20T15:12:14+02:00",
+      "date": "2008-05-20T13:12:14Z",
       "subject": "[R-sig-genetics] Announcement: R-sig-genetics",
       "subject_clean": "Announcement: R-sig-genetics",
       "in_reply_to": null,
@@ -28,8 +28,8 @@
       "participants": [
         "Thibaut Jombart"
       ],
-      "started": "2008-05-20T15:12:14+02:00",
-      "last_reply": "2008-05-20T15:12:14+02:00",
+      "started": "2008-05-20T13:12:14Z",
+      "last_reply": "2008-05-20T13:12:14Z",
       "root_message_id": "msg-db3ba7adda59"
     }
   ]

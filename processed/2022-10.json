@@ -8,7 +8,7 @@
       "message_id": "<1664874778.84772825@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2022-10-04T11:12:58+02:00",
+      "date": "2022-10-04T09:12:58Z",
       "subject": "[R-sig-genetics] Physalia course \"Developing R/Bioconductor packages for genomics\"",
       "subject_clean": "Physalia course \"Developing R/Bioconductor packages for genomics\"",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<1665681785.208521178@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2022-10-13T19:23:05+02:00",
+      "date": "2022-10-13T17:23:05Z",
       "subject": "[R-sig-genetics] Online course: Seascape Genomics in  R",
       "subject_clean": "Online course: Seascape Genomics in  R",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<1666772986.579921@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2022-10-26T10:29:46+02:00",
+      "date": "2022-10-26T08:29:46Z",
       "subject": "[R-sig-genetics] Seascape genomics in R",
       "subject_clean": "Seascape genomics in R",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2022-10-04T11:12:58+02:00",
-      "last_reply": "2022-10-04T11:12:58+02:00",
+      "started": "2022-10-04T09:12:58Z",
+      "last_reply": "2022-10-04T09:12:58Z",
       "root_message_id": "msg-e7a514e29d0b"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2022-10-13T19:23:05+02:00",
-      "last_reply": "2022-10-13T19:23:05+02:00",
+      "started": "2022-10-13T17:23:05Z",
+      "last_reply": "2022-10-13T17:23:05Z",
       "root_message_id": "msg-b65367724e0a"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2022-10-26T10:29:46+02:00",
-      "last_reply": "2022-10-26T10:29:46+02:00",
+      "started": "2022-10-26T08:29:46Z",
+      "last_reply": "2022-10-26T08:29:46Z",
       "root_message_id": "msg-e661153d4450"
     }
   ]

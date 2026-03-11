@@ -26,7 +26,7 @@
       "message_id": "<CAN9eD7=gs3upT7-mikw+P=j==5yZvyL3HDdpobtwtKc3+REPUg@mail.gmail.com>",
       "from_name": "nevil amos",
       "from_email_hash": "7ffc8e7850936f1d46522bb167a2c37013690516fa044fadd25b7469baf30c8b",
-      "date": "2013-04-03T12:23:34+11:00",
+      "date": "2013-04-03T01:23:34Z",
       "subject": "[R-sig-genetics] Calculation of Queller and Goodnight relatedness in R:",
       "subject_clean": "Calculation of Queller and Goodnight relatedness in R:",
       "in_reply_to": "<loom.20130401T181259-323@post.gmane.org>",
@@ -50,8 +50,8 @@
         "Lina Valencia",
         "nevil amos"
       ],
-      "started": "2013-04-01T16:14:37+00:00",
-      "last_reply": "2013-04-03T12:23:34+11:00",
+      "started": "2013-04-01T16:14:37Z",
+      "last_reply": "2013-04-03T01:23:34Z",
       "root_message_id": "msg-3b30cd15c850"
     }
   ]

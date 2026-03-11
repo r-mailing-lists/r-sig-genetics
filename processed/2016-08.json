@@ -8,7 +8,7 @@
       "message_id": "<e6c6418905591205c2c865cce90c1402@prstatistics.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "8d85adc6b153d8e80093a9f8e89d7f46369fdd650fe394f7644a0e0697798998",
-      "date": "2016-08-04T18:03:24+01:00",
+      "date": "2016-08-04T17:03:24Z",
       "subject": "[R-sig-genetics] 'Phylogenetic data analysis using R - STATS COURSE'",
       "subject_clean": "'Phylogenetic data analysis using R - STATS COURSE'",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAJZnH0=KrAr7Umd-LAwnMB9G-pmy6Fr6hjYJbKVZJPnNO1P-rg@mail.gmail.com>",
       "from_name": "Vikram Chhatre",
       "from_email_hash": "7620f04f8524e3edd5380019064bf2bac61a89fc22ff56629adadd5a00d968a6",
-      "date": "2016-08-05T10:14:36-06:00",
+      "date": "2016-08-05T16:14:36Z",
       "subject": "[R-sig-genetics] Hierfstat: calculating global Fst and CI",
       "subject_clean": "Hierfstat: calculating global Fst and CI",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<4b69ce76278346ed9c3171d668508f68@prstatistics.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "8d85adc6b153d8e80093a9f8e89d7f46369fdd650fe394f7644a0e0697798998",
-      "date": "2016-08-09T19:56:56+01:00",
+      "date": "2016-08-09T18:56:56Z",
       "subject": "[R-sig-genetics] 'Landscape (population) genetic data analysis - STATS COURSE'",
       "subject_clean": "'Landscape (population) genetic data analysis - STATS COURSE'",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<20160809162441.48856el8shhy1o0s@webmail.oregonstate.edu>",
       "from_name": "Kevin Weitemier",
       "from_email_hash": "864acef86da31756b6967f528e58cff945ab188781cd46f31a0c7da462d4cc85",
-      "date": "2016-08-09T16:24:41-07:00",
+      "date": "2016-08-09T23:24:41Z",
       "subject": "[R-sig-genetics] Hierfstat: test.between() with many loci",
       "subject_clean": "Hierfstat: test.between() with many loci",
       "in_reply_to": null,
@@ -88,7 +88,7 @@
       "message_id": "<27B0E60E-1F38-48FF-ADFF-AF241F547E02@gmail.com>",
       "from_name": "Nelly",
       "from_email_hash": "876fa9b4c7d962b001936d8f3b92354e2f7b246f4d249b4b00b8023b0948e21a",
-      "date": "2016-08-31T06:49:18-04:00",
+      "date": "2016-08-31T10:49:18Z",
       "subject": "[R-sig-genetics] R-sig-genetics Digest, Vol 33, Issue 4",
       "subject_clean": "R-sig-genetics Digest, Vol 33, Issue 4",
       "in_reply_to": "<mailman.17.1472637603.1678.r-sig-genetics@r-project.org>",
@@ -106,7 +106,7 @@
       "message_id": "<CADbY9FPFZXgsJtsGAFt++3xV_TqwPT3uZTiGh+G2cgPv-sMsgg@mail.gmail.com>",
       "from_name": "Graham Reynolds",
       "from_email_hash": "3150f42d9337cde9d69c8ac9a4691631926600de5693282b2fc92358c13fbb79",
-      "date": "2016-08-31T19:33:20-04:00",
+      "date": "2016-08-31T23:33:20Z",
       "subject": "[R-sig-genetics] Fw: Query regarding DAPC using ADEGENT in R",
       "subject_clean": "Query regarding DAPC using ADEGENT in R",
       "in_reply_to": "<CO2PR07MB2710658CD66523FCC97500DA88E30@CO2PR07MB2710.namprd07.prod.outlook.com>",
@@ -129,8 +129,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2016-08-04T18:03:24+01:00",
-      "last_reply": "2016-08-04T18:03:24+01:00",
+      "started": "2016-08-04T17:03:24Z",
+      "last_reply": "2016-08-04T17:03:24Z",
       "root_message_id": "msg-77084aa1aff6"
     },
     {
@@ -140,20 +140,9 @@
       "participants": [
         "Vikram Chhatre"
       ],
-      "started": "2016-08-05T10:14:36-06:00",
-      "last_reply": "2016-08-05T10:14:36-06:00",
+      "started": "2016-08-05T16:14:36Z",
+      "last_reply": "2016-08-05T16:14:36Z",
       "root_message_id": "msg-3e955f8a5f0e"
-    },
-    {
-      "id": "thread-7e66144cc537",
-      "subject": "Hierfstat: test.between() with many loci",
-      "message_count": 1,
-      "participants": [
-        "Kevin Weitemier"
-      ],
-      "started": "2016-08-09T16:24:41-07:00",
-      "last_reply": "2016-08-09T16:24:41-07:00",
-      "root_message_id": "msg-7e66144cc537"
     },
     {
       "id": "thread-0b32be8a83cd",
@@ -162,20 +151,20 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2016-08-09T19:56:56+01:00",
-      "last_reply": "2016-08-09T19:56:56+01:00",
+      "started": "2016-08-09T18:56:56Z",
+      "last_reply": "2016-08-09T18:56:56Z",
       "root_message_id": "msg-0b32be8a83cd"
     },
     {
-      "id": "thread-ce0c5a02e1f7",
-      "subject": "R-sig-genetics Digest, Vol 33, Issue 4",
+      "id": "thread-7e66144cc537",
+      "subject": "Hierfstat: test.between() with many loci",
       "message_count": 1,
       "participants": [
-        "Nelly"
+        "Kevin Weitemier"
       ],
-      "started": "2016-08-31T06:49:18-04:00",
-      "last_reply": "2016-08-31T06:49:18-04:00",
-      "root_message_id": "msg-ce0c5a02e1f7"
+      "started": "2016-08-09T23:24:41Z",
+      "last_reply": "2016-08-09T23:24:41Z",
+      "root_message_id": "msg-7e66144cc537"
     },
     {
       "id": "thread-494ef6e02d80",
@@ -184,9 +173,20 @@
       "participants": [
         "Bhuller, Ravneet"
       ],
-      "started": "2016-08-31T09:39:18+00:00",
-      "last_reply": "2016-08-31T09:39:18+00:00",
+      "started": "2016-08-31T09:39:18Z",
+      "last_reply": "2016-08-31T09:39:18Z",
       "root_message_id": "msg-494ef6e02d80"
+    },
+    {
+      "id": "thread-ce0c5a02e1f7",
+      "subject": "R-sig-genetics Digest, Vol 33, Issue 4",
+      "message_count": 1,
+      "participants": [
+        "Nelly"
+      ],
+      "started": "2016-08-31T10:49:18Z",
+      "last_reply": "2016-08-31T10:49:18Z",
+      "root_message_id": "msg-ce0c5a02e1f7"
     },
     {
       "id": "thread-2cb7daad97f9",
@@ -195,8 +195,8 @@
       "participants": [
         "Graham Reynolds"
       ],
-      "started": "2016-08-31T19:33:20-04:00",
-      "last_reply": "2016-08-31T19:33:20-04:00",
+      "started": "2016-08-31T23:33:20Z",
+      "last_reply": "2016-08-31T23:33:20Z",
       "root_message_id": "msg-2cb7daad97f9"
     }
   ]

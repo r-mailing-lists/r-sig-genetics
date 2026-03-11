@@ -8,7 +8,7 @@
       "message_id": "<CAEsSYzwWEzDicsRAaHrt-NYntpJhdbtjuPv7OuN-4BmM-skoKA@mail.gmail.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
-      "date": "2022-05-30T14:26:55+01:00",
+      "date": "2022-05-30T13:26:55Z",
       "subject": "[R-sig-genetics] ONLINE COURSE – Introduction to Machine Learning and Deep Learning using R (IMDL03)",
       "subject_clean": "ONLINE COURSE – Introduction to Machine Learning and Deep Learning using R (IMDL03)",
       "in_reply_to": null,
@@ -28,8 +28,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2022-05-30T14:26:55+01:00",
-      "last_reply": "2022-05-30T14:26:55+01:00",
+      "started": "2022-05-30T13:26:55Z",
+      "last_reply": "2022-05-30T13:26:55Z",
       "root_message_id": "msg-e95e0fbc98d1"
     }
   ]

@@ -72,7 +72,7 @@
       "message_id": "<1758014682.040222243@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-09-16T11:24:42+02:00",
+      "date": "2025-09-16T09:24:42Z",
       "subject": "[R-sig-genetics] Only 3 Seats Left – Population Genomics Using Ancient DNA Data (Online, 22–26 Sept)",
       "subject_clean": "Only 3 Seats Left – Population Genomics Using Ancient DNA Data (Online, 22–26 Sept)",
       "in_reply_to": null,
@@ -104,7 +104,7 @@
       "message_id": "<1758191464.736528950@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-09-18T12:31:04+02:00",
+      "date": "2025-09-18T10:31:04Z",
       "subject": "[R-sig-genetics] online course: Sex Chromosome Evolution - 6–10 October",
       "subject_clean": "online course: Sex Chromosome Evolution - 6–10 October",
       "in_reply_to": null,
@@ -120,7 +120,7 @@
       "message_id": "<1758208256.656222232@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-09-18T17:10:56+02:00",
+      "date": "2025-09-18T15:10:56Z",
       "subject": "[R-sig-genetics] online course RAD-Seq Data Analysis (27–31 October)",
       "subject_clean": "online course RAD-Seq Data Analysis (27–31 October)",
       "in_reply_to": "<1758208220.631430289@webmail.jimdo.com>",
@@ -154,7 +154,7 @@
       "message_id": "<1758641375.513720698@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2025-09-23T17:29:35+02:00",
+      "date": "2025-09-23T15:29:35Z",
       "subject": "[R-sig-genetics] Physalia online course Adaptation Genomics (8–12 December).",
       "subject_clean": "Physalia online course Adaptation Genomics (8–12 December).",
       "in_reply_to": null,
@@ -190,8 +190,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2025-09-09T07:50:00+00:00",
-      "last_reply": "2025-09-09T07:50:00+00:00",
+      "started": "2025-09-09T07:50:00Z",
+      "last_reply": "2025-09-09T07:50:00Z",
       "root_message_id": "msg-4057d8d915de"
     },
     {
@@ -201,8 +201,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2025-09-10T08:50:00+00:00",
-      "last_reply": "2025-09-10T08:50:00+00:00",
+      "started": "2025-09-10T08:50:00Z",
+      "last_reply": "2025-09-10T08:50:00Z",
       "root_message_id": "msg-c4450af852d0"
     },
     {
@@ -212,8 +212,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2025-09-15T11:26:20+00:00",
-      "last_reply": "2025-09-15T11:26:20+00:00",
+      "started": "2025-09-15T11:26:20Z",
+      "last_reply": "2025-09-15T11:26:20Z",
       "root_message_id": "msg-04462767853e"
     },
     {
@@ -223,8 +223,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2025-09-16T08:20:00+00:00",
-      "last_reply": "2025-09-16T08:20:00+00:00",
+      "started": "2025-09-16T08:20:00Z",
+      "last_reply": "2025-09-16T08:20:00Z",
       "root_message_id": "msg-6cca5be5e2d2"
     },
     {
@@ -234,8 +234,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-09-16T11:24:42+02:00",
-      "last_reply": "2025-09-16T11:24:42+02:00",
+      "started": "2025-09-16T09:24:42Z",
+      "last_reply": "2025-09-16T09:24:42Z",
       "root_message_id": "msg-3e414a03e837"
     },
     {
@@ -245,8 +245,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2025-09-16T16:50:00+00:00",
-      "last_reply": "2025-09-16T16:50:00+00:00",
+      "started": "2025-09-16T16:50:00Z",
+      "last_reply": "2025-09-16T16:50:00Z",
       "root_message_id": "msg-7be84fdfb29d"
     },
     {
@@ -256,8 +256,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-09-18T12:31:04+02:00",
-      "last_reply": "2025-09-18T12:31:04+02:00",
+      "started": "2025-09-18T10:31:04Z",
+      "last_reply": "2025-09-18T10:31:04Z",
       "root_message_id": "msg-547fa9eae540"
     },
     {
@@ -267,8 +267,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-09-18T17:10:56+02:00",
-      "last_reply": "2025-09-18T17:10:56+02:00",
+      "started": "2025-09-18T15:10:56Z",
+      "last_reply": "2025-09-18T15:10:56Z",
       "root_message_id": "msg-66d847b0789a"
     },
     {
@@ -278,8 +278,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2025-09-19T00:49:13+00:00",
-      "last_reply": "2025-09-19T00:49:13+00:00",
+      "started": "2025-09-19T00:49:13Z",
+      "last_reply": "2025-09-19T00:49:13Z",
       "root_message_id": "msg-d4943773aa38"
     },
     {
@@ -289,8 +289,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2025-09-23T17:29:35+02:00",
-      "last_reply": "2025-09-23T17:29:35+02:00",
+      "started": "2025-09-23T15:29:35Z",
+      "last_reply": "2025-09-23T15:29:35Z",
       "root_message_id": "msg-2f961eed288a"
     },
     {
@@ -300,8 +300,8 @@
       "participants": [
         "Michael Zyphur"
       ],
-      "started": "2025-09-30T17:50:00+00:00",
-      "last_reply": "2025-09-30T17:50:00+00:00",
+      "started": "2025-09-30T17:50:00Z",
+      "last_reply": "2025-09-30T17:50:00Z",
       "root_message_id": "msg-5abae1603646"
     }
   ]

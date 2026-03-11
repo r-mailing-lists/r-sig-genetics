@@ -8,7 +8,7 @@
       "message_id": "<1694964824.32018398@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2023-09-17T17:33:44+02:00",
+      "date": "2023-09-17T15:33:44Z",
       "subject": "[R-sig-genetics] course\" Population Genomics Using Ancient DNA Data\"",
       "subject_clean": "course\" Population Genomics Using Ancient DNA Data\"",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAEsSYzzhTtV7GF3AU9gMgxp1b6xkEBYWNbG5bHXcoVf1ov8H5g@mail.gmail.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
-      "date": "2023-09-20T18:26:50+01:00",
+      "date": "2023-09-20T17:26:50Z",
       "subject": "[R-sig-genetics] The Practice of RADseq: Population Genomics Analysis with Stacks (RADS02)",
       "subject_clean": "The Practice of RADseq: Population Genomics Analysis with Stacks (RADS02)",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2023-09-17T17:33:44+02:00",
-      "last_reply": "2023-09-17T17:33:44+02:00",
+      "started": "2023-09-17T15:33:44Z",
+      "last_reply": "2023-09-17T15:33:44Z",
       "root_message_id": "msg-a6a5927ce19c"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2023-09-20T18:26:50+01:00",
-      "last_reply": "2023-09-20T18:26:50+01:00",
+      "started": "2023-09-20T17:26:50Z",
+      "last_reply": "2023-09-20T17:26:50Z",
       "root_message_id": "msg-4db5b78d4027"
     }
   ]

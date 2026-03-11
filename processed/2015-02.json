@@ -8,7 +8,7 @@
       "message_id": "<54EB065C.70605@imbe.fr>",
       "from_name": "Benjamin Alric",
       "from_email_hash": "c8e1671d33ad1e995b63b029209e65b4d64cea19d83f25651f9a18a574bf9152",
-      "date": "2015-02-23T11:52:12+01:00",
+      "date": "2015-02-23T10:52:12Z",
       "subject": "[R-sig-genetics] Simulated hybridization from same locus but different alleles with hybridize function in adegenet",
       "subject_clean": "Simulated hybridization from same locus but different alleles with hybridize function in adegenet",
       "in_reply_to": null,
@@ -42,7 +42,7 @@
       "message_id": "<5ED77BEA-B22D-4271-AA10-B6B184F68F1F@my.jcu.edu.au>",
       "from_name": "Hugo Harrison",
       "from_email_hash": "95fe8ecdf68e66f0c530bd03c3cb5c78afbc5c106cd07b58abb20b10fcd3c40e",
-      "date": "2015-02-23T22:38:59+10:00",
+      "date": "2015-02-23T12:38:59Z",
       "subject": "[R-sig-genetics] Simulated hybridization from same locus but different alleles with hybridize function in adegenet",
       "subject_clean": "Simulated hybridization from same locus but different alleles with hybridize function in adegenet",
       "in_reply_to": "<54EB065C.70605@imbe.fr>",
@@ -66,8 +66,8 @@
         "Hugo Harrison",
         "Jombart, Thibaut"
       ],
-      "started": "2015-02-23T11:52:12+01:00",
-      "last_reply": "2015-02-23T22:38:59+10:00",
+      "started": "2015-02-23T10:52:12Z",
+      "last_reply": "2015-02-23T12:38:59Z",
       "root_message_id": "msg-07958e127bc6"
     }
   ]

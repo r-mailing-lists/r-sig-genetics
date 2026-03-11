@@ -61,7 +61,7 @@
       "message_id": "<1580471.D2phreNtIz@veles.site>",
       "from_name": "Vojtěch Zeisek",
       "from_email_hash": "45d63b52f895aa26802362b8eba97e8fca5bb3222edb7090aaab8ebe958f5e78",
-      "date": "2016-12-09T12:50:52+01:00",
+      "date": "2016-12-09T11:50:52Z",
       "subject": "[R-sig-genetics] Microsatellite data query: Data frame to genind conversion using adegent in R",
       "subject_clean": "Microsatellite data query: Data frame to genind conversion using adegent in R",
       "in_reply_to": "<705C0BFA-ABD0-4708-9D7D-F76738113797@ic.ac.uk>",
@@ -98,7 +98,7 @@
       "message_id": "<d1fb9d35-0edd-c055-bee0-078af4695fe3@ird.fr>",
       "from_name": "Emmanuel Paradis",
       "from_email_hash": "4c085ad631493003895b8b2c8749a214fe7066719f788b94c2907a97cf0bf96d",
-      "date": "2016-12-09T14:36:40+01:00",
+      "date": "2016-12-09T13:36:40Z",
       "subject": "[R-sig-genetics] Microsatellite data query: Data frame to genind conversion using adegent in R",
       "subject_clean": "Microsatellite data query: Data frame to genind conversion using adegent in R",
       "in_reply_to": "<1580471.D2phreNtIz@veles.site>",
@@ -117,7 +117,7 @@
       "message_id": "<2782117.INN871vY8o@veles.site>",
       "from_name": "Vojtěch Zeisek",
       "from_email_hash": "45d63b52f895aa26802362b8eba97e8fca5bb3222edb7090aaab8ebe958f5e78",
-      "date": "2016-12-09T14:54:49+01:00",
+      "date": "2016-12-09T13:54:49Z",
       "subject": "[R-sig-genetics] Microsatellite data query: Data frame to genind conversion using adegent in R",
       "subject_clean": "Microsatellite data query: Data frame to genind conversion using adegent in R",
       "in_reply_to": "<d1fb9d35-0edd-c055-bee0-078af4695fe3@ird.fr>",
@@ -163,8 +163,8 @@
         "Thibaut Jombart",
         "Vojtěch Zeisek"
       ],
-      "started": "2016-12-09T11:33:21+00:00",
-      "last_reply": "2016-12-09T14:12:42+00:00",
+      "started": "2016-12-09T11:33:21Z",
+      "last_reply": "2016-12-09T14:12:42Z",
       "root_message_id": "msg-0d386bc2457d"
     }
   ]

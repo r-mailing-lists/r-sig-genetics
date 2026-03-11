@@ -8,7 +8,7 @@
       "message_id": "<b1298053b9196b2cbcaf9debdf6bb089@prstatistics.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "a49005db234a0680e39b89fc8690e893af64f94b8230db3a917426e095842f7c",
-      "date": "2018-10-16T13:22:54+01:00",
+      "date": "2018-10-16T12:22:54Z",
       "subject": "[R-sig-genetics] hylogenetic comparative methods for studying diversification and phenotypic evolution",
       "subject_clean": "hylogenetic comparative methods for studying diversification and phenotypic evolution",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<51836b37-322a-2a81-400a-56492750105e@ird.fr>",
       "from_name": "Emmanuel Paradis",
       "from_email_hash": "968c8c072c624717d0437edd446e25480189b84f4ccb54121e21964655a4edeb",
-      "date": "2018-10-17T14:46:33+07:00",
+      "date": "2018-10-17T07:46:33Z",
       "subject": "[R-sig-genetics] testing for admixture in R",
       "subject_clean": "testing for admixture in R",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2018-10-16T13:22:54+01:00",
-      "last_reply": "2018-10-16T13:22:54+01:00",
+      "started": "2018-10-16T12:22:54Z",
+      "last_reply": "2018-10-16T12:22:54Z",
       "root_message_id": "msg-13fa097fbedb"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Emmanuel Paradis"
       ],
-      "started": "2018-10-17T14:46:33+07:00",
-      "last_reply": "2018-10-17T14:46:33+07:00",
+      "started": "2018-10-17T07:46:33Z",
+      "last_reply": "2018-10-17T07:46:33Z",
       "root_message_id": "msg-375cf99d4186"
     }
   ]

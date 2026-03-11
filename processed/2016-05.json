@@ -8,7 +8,7 @@
       "message_id": "<572C9FDA.9000802@ird.fr>",
       "from_name": "Emmanuel Paradis",
       "from_email_hash": "4c085ad631493003895b8b2c8749a214fe7066719f788b94c2907a97cf0bf96d",
-      "date": "2016-05-06T15:44:58+02:00",
+      "date": "2016-05-06T13:44:58Z",
       "subject": "[R-sig-genetics] extract the sequences of the haplotypes",
       "subject_clean": "extract the sequences of the haplotypes",
       "in_reply_to": "<7A8EFC25-4783-433A-9BFA-00029D7F215D@lshtm.ac.uk>",
@@ -30,8 +30,8 @@
       "participants": [
         "Emmanuel Paradis"
       ],
-      "started": "2016-05-06T15:44:58+02:00",
-      "last_reply": "2016-05-06T15:44:58+02:00",
+      "started": "2016-05-06T13:44:58Z",
+      "last_reply": "2016-05-06T13:44:58Z",
       "root_message_id": "msg-2a5118f9f300"
     }
   ]

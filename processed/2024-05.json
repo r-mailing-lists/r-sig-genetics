@@ -8,7 +8,7 @@
       "message_id": "<1715276822.015317881@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-05-09T19:47:02+02:00",
+      "date": "2024-05-09T17:47:02Z",
       "subject": "[R-sig-genetics] FW: Landscape Genomics course",
       "subject_clean": "Landscape Genomics course",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<1715959928.78731932@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-05-17T17:32:08+02:00",
+      "date": "2024-05-17T15:32:08Z",
       "subject": "[R-sig-genetics] Online course: Multivariate data analysis with R - only 2 seats left",
       "subject_clean": "Online course: Multivariate data analysis with R - only 2 seats left",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-05-09T19:47:02+02:00",
-      "last_reply": "2024-05-09T19:47:02+02:00",
+      "started": "2024-05-09T17:47:02Z",
+      "last_reply": "2024-05-09T17:47:02Z",
       "root_message_id": "msg-14d86a404804"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-05-17T17:32:08+02:00",
-      "last_reply": "2024-05-17T17:32:08+02:00",
+      "started": "2024-05-17T15:32:08Z",
+      "last_reply": "2024-05-17T15:32:08Z",
       "root_message_id": "msg-d9df762f6005"
     }
   ]

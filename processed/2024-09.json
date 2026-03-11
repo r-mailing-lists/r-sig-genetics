@@ -8,7 +8,7 @@
       "message_id": "<1725786553.998730387@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-09-08T11:09:13+02:00",
+      "date": "2024-09-08T09:09:13Z",
       "subject": "[R-sig-genetics] Online course: Seascape Genomics in R (October 28 - November 1)",
       "subject_clean": "Online course: Seascape Genomics in R (October 28 - November 1)",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAEsSYzwd0RX1zr_iQVU06bPycRu-sGtBqDi0gFQBxjR6OGXxmA@mail.gmail.com>",
       "from_name": "Oliver Hooker",
       "from_email_hash": "47b0bc31b285f64bb78fbbab425fc87c1d35be3b4328b6f86a320748ab327aa8",
-      "date": "2024-09-12T18:33:57+01:00",
+      "date": "2024-09-12T17:33:57Z",
       "subject": "[R-sig-genetics] ONLINE COURSE – Introduction to R using Tidyverse (TIDY01)",
       "subject_clean": "ONLINE COURSE – Introduction to R using Tidyverse (TIDY01)",
       "in_reply_to": null,
@@ -72,7 +72,7 @@
       "message_id": "<1727422976.85611447@webmail.jimdo.com>",
       "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
       "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
-      "date": "2024-09-27T09:42:56+02:00",
+      "date": "2024-09-27T07:42:56Z",
       "subject": "[R-sig-genetics] Landscape Genomics course in Poland - January 20-24",
       "subject_clean": "Landscape Genomics course in Poland - January 20-24",
       "in_reply_to": null,
@@ -92,8 +92,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-09-08T11:09:13+02:00",
-      "last_reply": "2024-09-08T11:09:13+02:00",
+      "started": "2024-09-08T09:09:13Z",
+      "last_reply": "2024-09-08T09:09:13Z",
       "root_message_id": "msg-6f4c9b0fde7d"
     },
     {
@@ -103,8 +103,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2024-09-11T06:27:35+00:00",
-      "last_reply": "2024-09-11T06:27:35+00:00",
+      "started": "2024-09-11T06:27:35Z",
+      "last_reply": "2024-09-11T06:27:35Z",
       "root_message_id": "msg-44b4e725e488"
     },
     {
@@ -114,8 +114,8 @@
       "participants": [
         "Oliver Hooker"
       ],
-      "started": "2024-09-12T18:33:57+01:00",
-      "last_reply": "2024-09-12T18:33:57+01:00",
+      "started": "2024-09-12T17:33:57Z",
+      "last_reply": "2024-09-12T17:33:57Z",
       "root_message_id": "msg-93d2c12782b9"
     },
     {
@@ -125,8 +125,8 @@
       "participants": [
         "mzyphur m@iii@g oii i@st@ts@org"
       ],
-      "started": "2024-09-17T22:25:00+00:00",
-      "last_reply": "2024-09-17T22:25:00+00:00",
+      "started": "2024-09-17T22:25:00Z",
+      "last_reply": "2024-09-17T22:25:00Z",
       "root_message_id": "msg-08fc6b9f0b6b"
     },
     {
@@ -136,8 +136,8 @@
       "participants": [
         "i@io m@iii@g oii phys@ii@-courses@org"
       ],
-      "started": "2024-09-27T09:42:56+02:00",
-      "last_reply": "2024-09-27T09:42:56+02:00",
+      "started": "2024-09-27T07:42:56Z",
+      "last_reply": "2024-09-27T07:42:56Z",
       "root_message_id": "msg-3daa5515364f"
     }
   ]
