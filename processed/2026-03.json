@@ -82,6 +82,22 @@
       "thread_id": "thread-909f58d9c09b",
       "thread_depth": 0,
       "month": "2026-03"
+    },
+    {
+      "id": "msg-88821c26fc97",
+      "message_id": "<1773154228.44615079@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-03-10T15:50:28+01:00",
+      "subject": "[R-sig-genetics] Evidence Synthesis and Meta-analysis in R | Online Course, 11–14 May",
+      "subject_clean": "Evidence Synthesis and Meta-analysis in R | Online Course, 11–14 May",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\n \nYou can still join our 4-day online course ?Meta-analysis in R? (11?14 May) to learn how to conduct rigorous and reproducible evidence synthesis in ecology and evolution.\n \nIn this hands-on course, participants will learn how to design and perform systematic reviews and meta-analyses, from question formulation and literature searching to effect size calculation, meta-analytic modelling, and interpretation of results. The course also covers multilevel meta-analysis, meta-regression, heterogeneity, publication bias, and data visualization, using R and widely used packages such as metafor and orchaRd.\n \nThe program combines lectures and practical exercises with real datasets, providing participants with the skills needed to apply evidence synthesis methods to their own research projects.\n \nIf you are interested in learning how to integrate findings across studies and perform robust meta-analyses in R, this course will provide the practical tools to get started: [ https://www.physalia-courses.org/courses-workshops/metain-r/ ]( https://www.physalia-courses.org/courses-workshops/metain-r/ ) \n \nBest regards,\n \nCarlo\n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\n \nYou can still join our 4-day online course ?Meta-analysis in R? (11?14 May) to learn how to conduct rigorous and reproducible evidence synthesis in ecology and evolution.\n \nIn this hands-",
+      "thread_id": "thread-88821c26fc97",
+      "thread_depth": 0,
+      "month": "2026-03"
     }
   ],
   "threads": [
@@ -139,6 +155,17 @@
       "started": "2026-03-09T18:02:56+01:00",
       "last_reply": "2026-03-09T18:02:56+01:00",
       "root_message_id": "msg-909f58d9c09b"
+    },
+    {
+      "id": "thread-88821c26fc97",
+      "subject": "Evidence Synthesis and Meta-analysis in R | Online Course, 11–14 May",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-03-10T15:50:28+01:00",
+      "last_reply": "2026-03-10T15:50:28+01:00",
+      "root_message_id": "msg-88821c26fc97"
     }
   ]
 }
