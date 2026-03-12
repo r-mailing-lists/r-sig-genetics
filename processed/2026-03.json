@@ -98,6 +98,22 @@
       "thread_id": "thread-88821c26fc97",
       "thread_depth": 0,
       "month": "2026-03"
+    },
+    {
+      "id": "msg-ab2032528402",
+      "message_id": "<enJcm7c9RgOTd_yGxvhmEg@geopod-ismtpd-4>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-03-11T11:36:53Z",
+      "subject": "[R-sig-genetics] Last chance: Causal Inference using AI and ML",
+      "subject_clean": "Last chance: Causal Inference using AI and ML",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - This upcoming seminar offers an intensive exploration of critical methods for robust research. Causal Inference with AI and Machine Learning is a 2-day seminar livestreaming March 12?13 with Jason Anastasopoulos (School of Public and International Affairs, University of Georgia). This seminar explores the logic and practice of causal inference, moving beyond mere prediction to understand cause-and-effect relationships. Researchers in genetic data analysis can apply these methods to identify causal genetic variants, understand gene-environment interactions, or evaluate the impact of genetic interventions. Participants will learn to design credible studies, implement state-of-the-art estimators in R, and leverage LLM-assisted prompting for robust diagnostics and clear explanations in their own genetic research.\n\nSign up today (https://instats.org/seminar/causal-inference-with-ai-and-machine-lea) to join before enrollment closes, and please pass this to colleagues and students who may be interested!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - This upcoming seminar offers an intensive exploration of critical methods for robust research. Causal Inference with AI and Machine Learning is a 2-day semi",
+      "thread_id": "thread-ab2032528402",
+      "thread_depth": 0,
+      "month": "2026-03"
     }
   ],
   "threads": [
@@ -166,6 +182,17 @@
       "started": "2026-03-10T14:50:28Z",
       "last_reply": "2026-03-10T14:50:28Z",
       "root_message_id": "msg-88821c26fc97"
+    },
+    {
+      "id": "thread-ab2032528402",
+      "subject": "Last chance: Causal Inference using AI and ML",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-03-11T11:36:53Z",
+      "last_reply": "2026-03-11T11:36:53Z",
+      "root_message_id": "msg-ab2032528402"
     }
   ]
 }
