@@ -114,6 +114,22 @@
       "thread_id": "thread-ab2032528402",
       "thread_depth": 0,
       "month": "2026-03"
+    },
+    {
+      "id": "msg-e0ffba554dc8",
+      "message_id": "<LFFnwZyzTa-aR1sl9rVDQg@geopod-ismtpd-14>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-03-13T14:01:25Z",
+      "subject": "[R-sig-genetics] Last chance: R Programming for Statistics and ML",
+      "subject_clean": "Last chance: R Programming for Statistics and ML",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - This seminar offers practical R programming skills to advance your statistical and machine learning work. R Programming for Statistics and Machine Learning is a 2-day seminar livestreaming March 27 with Nikolay Oskolkov (Group Leader (PI) at LIOS). This seminar explores R programming as an integrated toolkit for contemporary statistical inference and machine learning, emphasizing both theoretical foundations and practical implementation for reproducible research. Researchers analyzing genetic data can apply these methods, including penalized regression, advanced dimensionality reduction, and sophisticated clustering, to identify key genetic markers, classify complex traits, and build robust predictive models. Learning to implement these algorithms from first principles in R will enhance capabilities for methodological innovation and ensure transparent, publication-ready analyses of high-dimensional genetic datasets.\n\nSign up today (https://instats.org/seminar/r-programming-for-statistics-and-machine) to register now, and we'd appreciate you sharing this with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - This seminar offers practical R programming skills to advance your statistical and machine learning work. R Programming for Statistics and Machine Learning ",
+      "thread_id": "thread-e0ffba554dc8",
+      "thread_depth": 0,
+      "month": "2026-03"
     }
   ],
   "threads": [
@@ -193,6 +209,17 @@
       "started": "2026-03-11T11:36:53Z",
       "last_reply": "2026-03-11T11:36:53Z",
       "root_message_id": "msg-ab2032528402"
+    },
+    {
+      "id": "thread-e0ffba554dc8",
+      "subject": "Last chance: R Programming for Statistics and ML",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-03-13T14:01:25Z",
+      "last_reply": "2026-03-13T14:01:25Z",
+      "root_message_id": "msg-e0ffba554dc8"
     }
   ]
 }
