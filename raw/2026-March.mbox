@@ -213,3 +213,24 @@ Instats | instats.org
 	[[alternative HTML version deleted]]
 
 
+From mzyphur m@iii@g oii i@st@ts@org  Mon Mar 16 10:06:57 2026
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Mon, 16 Mar 2026 09:06:57 +0000 (UTC)
+Subject: [R-sig-genetics] Last chance: RNA-seq: FASTQ to Counts with Nextflow
+Message-ID: <U526DvStRguAQ76hyzN-yQ@geopod-ismtpd-17>
+
+Hello R-SIG-GENETICS members
+
+Last chance - Learn to establish robust, reproducible RNA-seq processing pipelines for your genetic research. RNA-seq: From FASTQ to Counts is a 2-day seminar livestreaming March 23 and 25 with Estefania Mancini (Josep Carreras Leukaemia Research Institute). This seminar offers practical, hands-on training in reproducible RNA-seq data processing using nf-core Nextflow pipelines. Researchers can apply these skills to generate robust, publication-ready read count matrices from raw FASTQ files, ensuring their upstream data preparation is sound before statistical analysis in R. You will gain the ability to configure and run portable, containerized workflows on various computing environments, troubleshoot common issues, and document workflows for enhanced reproducibility in your genetic data analysis projects.
+
+Sign up today (https://instats.org/seminar/rna-seq-from-fastq-to-counts) to reserve your place before it starts, and feel free to circulate this with colleagues and students!
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Instats | instats.org
+	[[alternative HTML version deleted]]
+
+
