@@ -146,6 +146,38 @@
       "thread_id": "thread-f4713f34faa9",
       "thread_depth": 0,
       "month": "2026-03"
+    },
+    {
+      "id": "msg-89602fd22bfb",
+      "message_id": "<HVnS7rpOSDWcbXJAiM0KuQ@geopod-ismtpd-3>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-03-18T11:56:24Z",
+      "subject": "[R-sig-genetics] Computational Genomics for Microbial Trait Analysis",
+      "subject_clean": "Computational Genomics for Microbial Trait Analysis",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nExplore advanced computational genomics techniques to understand microbial adaptation and phenotypic outcomes. Computational Genomics for Microbial Traits (Free Seminar) is a 2-day seminar livestreaming April 22, led by Janani Ravi (University of Colorado Anschutz). This seminar explores general-purpose computational approaches that integrate large-scale, heterogeneous public datasets to bridge the microbial genotype-phenotype gap. It demonstrates how machine learning and comparative genomics can study microbial adaptation and predict antimicrobial resistance, recovering known mechanisms and discovering novel candidates. Researchers in genetic data analysis can apply these microbe- and disease-agnostic methods, open-source software, and interactive web tools to advance their own work on microbial traits, host responses, and drug repurposing.\n\nSign up today (https://instats.org/seminar/computational-genomics-for-microbial-tra) to join the livestream, and please pass this along to colleagues and students who may find it useful!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nExplore advanced computational genomics techniques to understand microbial adaptation and phenotypic outcomes. Computational Genomics for Microbial Traits (Free Seminar) ",
+      "thread_id": "thread-89602fd22bfb",
+      "thread_depth": 0,
+      "month": "2026-03"
+    },
+    {
+      "id": "msg-1c5093969832",
+      "message_id": "<1773848603.56611234@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-03-18T15:43:23Z",
+      "subject": "[R-sig-genetics] Spring School in Bioinformatics (9th edition)",
+      "subject_clean": "Spring School in Bioinformatics (9th edition)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are pleased to announce our upcoming Spring School in Bioinformatics (9th edition), which will take place online from 8?12 June.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course68/ ]( https://www.physalia-courses.org/courses-workshops/course68/ )\n \n \nThis five-day course will introduce participants to the fundamentals of Next Generation Sequencing (NGS) data analysis, combining conceptual lectures with extensive hands-on practical sessions. Participants will learn how to assess sequencing quality, assemble and annotate genomes, perform RNA-seq and differential gene expression analyses, and explore phylogenomics using NGS data. While the course will primarily focus on Illumina data, it will also cover the opportunities and requirements of long-read technologies such as Nanopore and PacBio.\n \nThroughout the week, participants will also gain practical experience with the Linux command line, as well as with Docker and software containers, which are widely used in bioinformatics to ensure reproducible analyses.\n \nThe course is designed for researchers with a biological background who would like to gain practical experience in handling and analysing genomic and transcriptomic data. By the end of the training, participants will have a solid understanding of the strengths and limitations of NGS approaches and the tools commonly used in modern bioinformatics workflows.\n \nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/course68/ )\n \n \nBest regards,\nCarlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are pleased to announce our upcoming Spring School in Bioinformatics (9th edition), which will take place online from 8?12 June.\n \nCourse website: [ https://www.physalia-courses.org/cours",
+      "thread_id": "thread-1c5093969832",
+      "thread_depth": 0,
+      "month": "2026-03"
     }
   ],
   "threads": [
@@ -247,6 +279,28 @@
       "started": "2026-03-16T09:06:57Z",
       "last_reply": "2026-03-16T09:06:57Z",
       "root_message_id": "msg-f4713f34faa9"
+    },
+    {
+      "id": "thread-89602fd22bfb",
+      "subject": "Computational Genomics for Microbial Trait Analysis",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-03-18T11:56:24Z",
+      "last_reply": "2026-03-18T11:56:24Z",
+      "root_message_id": "msg-89602fd22bfb"
+    },
+    {
+      "id": "thread-1c5093969832",
+      "subject": "Spring School in Bioinformatics (9th edition)",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-03-18T15:43:23Z",
+      "last_reply": "2026-03-18T15:43:23Z",
+      "root_message_id": "msg-1c5093969832"
     }
   ]
 }
