@@ -178,6 +178,22 @@
       "thread_id": "thread-1c5093969832",
       "thread_depth": 0,
       "month": "2026-03"
+    },
+    {
+      "id": "msg-0fedd4a61719",
+      "message_id": "<wf_TYkG8RtKnH_1KWW3snQ@geopod-ismtpd-13>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-03-20T13:55:23Z",
+      "subject": "[R-sig-genetics] UMAP & Dimensionality Reduction in R",
+      "subject_clean": "UMAP & Dimensionality Reduction in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLearn to simplify complex genetic datasets and uncover new insights using advanced analytical techniques. Dimensionality Reduction with UMAP and Beyond 2.0 led by Nikolay Oskolkov (Group Leader (PI) at LIOS) is now available as an on-demand streaming seminar. This seminar offers a hands-on approach to essential dimensionality reduction techniques, crucial for anyone in genetic data analysis working with large multivariate datasets. By simplifying complex genetic datasets, these methods enable researchers to discover new insights and make data manageable for further analysis, improving accuracy and efficiency. Participants will gain practical experience in applying methods like UMAP, tSNE, and PCA using R and Python, directly enhancing their analytical skills for ongoing and future genetic projects.\n\nAccess this seminar (https://instats.org/seminar/dimensionality-reduction-with-umap-and-b-1) whenever convenient and feel free to circulate this with colleagues and students who may be interested!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLearn to simplify complex genetic datasets and uncover new insights using advanced analytical techniques. Dimensionality Reduction with UMAP and Beyond 2.0 led by Nikolay",
+      "thread_id": "thread-0fedd4a61719",
+      "thread_depth": 0,
+      "month": "2026-03"
     }
   ],
   "threads": [
@@ -301,6 +317,17 @@
       "started": "2026-03-18T15:43:23Z",
       "last_reply": "2026-03-18T15:43:23Z",
       "root_message_id": "msg-1c5093969832"
+    },
+    {
+      "id": "thread-0fedd4a61719",
+      "subject": "UMAP & Dimensionality Reduction in R",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-03-20T13:55:23Z",
+      "last_reply": "2026-03-20T13:55:23Z",
+      "root_message_id": "msg-0fedd4a61719"
     }
   ]
 }
