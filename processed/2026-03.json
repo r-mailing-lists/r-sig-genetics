@@ -194,6 +194,22 @@
       "thread_id": "thread-0fedd4a61719",
       "thread_depth": 0,
       "month": "2026-03"
+    },
+    {
+      "id": "msg-c4e4e2564a9a",
+      "message_id": "<5Rjr0IiARTeqKUILsaP5jA@geopod-ismtpd-11>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-03-23T09:44:23Z",
+      "subject": "[R-sig-genetics] Last chance: Agentic Data Analytics for Research Automation",
+      "subject_clean": "Last chance: Agentic Data Analytics for Research Automation",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - Discover how autonomous AI agents can revolutionize your data analysis processes. Agentic Data Analytics: Automating Research Workflows is a 2-day seminar livestreaming March 24 and 27 with Peter Gruber (Faculty of Economics, USI Universit? della Svizzera Italiana). Agentic AI offers a powerful new paradigm for researchers to automate entire scientific workflows, from data cleaning to report generation, which is highly relevant for complex genetic data analysis. This seminar demonstrates how to leverage autonomous agents, using tools like Google Antigravity with R and Python, to streamline tedious tasks such as preparing large genetic datasets, executing statistical models, and producing publication-ready visualizations. By mastering these agentic workflows, geneticists can significantly enhance reproducibility, accelerate discovery, and free up valuable time for deeper analytical insights in their own research.\n\nSign up today (https://instats.org/seminar/agentic-data-analytics-automating-resear) to register now, and we'd appreciate you sharing this with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Discover how autonomous AI agents can revolutionize your data analysis processes. Agentic Data Analytics: Automating Research Workflows is a 2-day seminar l",
+      "thread_id": "thread-c4e4e2564a9a",
+      "thread_depth": 0,
+      "month": "2026-03"
     }
   ],
   "threads": [
@@ -328,6 +344,17 @@
       "started": "2026-03-20T13:55:23Z",
       "last_reply": "2026-03-20T13:55:23Z",
       "root_message_id": "msg-0fedd4a61719"
+    },
+    {
+      "id": "thread-c4e4e2564a9a",
+      "subject": "Last chance: Agentic Data Analytics for Research Automation",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-03-23T09:44:23Z",
+      "last_reply": "2026-03-23T09:44:23Z",
+      "root_message_id": "msg-c4e4e2564a9a"
     }
   ]
 }
