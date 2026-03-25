@@ -210,6 +210,22 @@
       "thread_id": "thread-c4e4e2564a9a",
       "thread_depth": 0,
       "month": "2026-03"
+    },
+    {
+      "id": "msg-c47a577263b2",
+      "message_id": "<1774345457.454719573@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-03-24T09:44:17Z",
+      "subject": "[R-sig-genetics] Conservation Genomics course - online, 7–10 April",
+      "subject_clean": "Conservation Genomics course - online, 7–10 April",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nThere are still a few seats available for our Conservation Genomics course, delivered fully online from 7?10 April. This course provides a comprehensive introduction to the use of population genomics in conservation, combining lectures with hands-on exercises.\n \nParticipants will gain practical experience in:\nStudy design and genomic data collection methods\nHandling raw sequencing data and SNP filtering\nAssessing population structure, adaptation, effective population size, inbreeding, and relatedness\n\nThe course offers a unique opportunity to translate genomic data into actionable conservation insights: [ https://www.physalia-courses.org/courses-workshops/course62/ ]( https://www.physalia-courses.org/courses-workshops/course62/ ) \n \nBest regards, Carlo\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nThere are still a few seats available for our Conservation Genomics course, delivered fully online from 7?10 April. This course provides a comprehensive introduction to the use of population",
+      "thread_id": "thread-c47a577263b2",
+      "thread_depth": 0,
+      "month": "2026-03"
     }
   ],
   "threads": [
@@ -355,6 +371,17 @@
       "started": "2026-03-23T09:44:23Z",
       "last_reply": "2026-03-23T09:44:23Z",
       "root_message_id": "msg-c4e4e2564a9a"
+    },
+    {
+      "id": "thread-c47a577263b2",
+      "subject": "Conservation Genomics course - online, 7–10 April",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-03-24T09:44:17Z",
+      "last_reply": "2026-03-24T09:44:17Z",
+      "root_message_id": "msg-c47a577263b2"
     }
   ]
 }
