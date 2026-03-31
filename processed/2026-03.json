@@ -258,6 +258,38 @@
       "thread_id": "thread-31cce36a6bf4",
       "thread_depth": 0,
       "month": "2026-03"
+    },
+    {
+      "id": "msg-dc7a063fb63a",
+      "message_id": "<aXtIlOBJSSeDAmvDxhxW5g@geopod-ismtpd-0>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-03-30T09:04:06Z",
+      "subject": "[R-sig-genetics] Last chance: Bayesian Thinking for Genetic Data Analysis",
+      "subject_clean": "Last chance: Bayesian Thinking for Genetic Data Analysis",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - Discover how new analytical approaches can significantly enhance your current research projects. An Introduction to Bayesian Thinking is a 2-day seminar livestreaming March 31 with Centre for Applied Statistics Courses (CASC) (University College London). This seminar introduces Bayesian statistical methods, equipping researchers with tools to incorporate prior knowledge and make robust probabilistic statements about unknown parameters. For those analyzing genetic data with R, applying these Bayesian techniques allows for more nuanced model development, improved parameter estimation, and a deeper understanding of complex genetic interactions. You can use these skills to enhance the quality and impact of your own genetic research, moving beyond traditional methods to integrate existing biological insights effectively.\n\nSign up today (https://instats.org/seminar/an-introduction-to-bayesian-thinking) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Discover how new analytical approaches can significantly enhance your current research projects. An Introduction to Bayesian Thinking is a 2-day seminar liv",
+      "thread_id": "thread-dc7a063fb63a",
+      "thread_depth": 0,
+      "month": "2026-03"
+    },
+    {
+      "id": "msg-27d86da951e3",
+      "message_id": "<1774885081.09183502@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-03-30T15:38:01Z",
+      "subject": "[R-sig-genetics] Conservation Genomics course",
+      "subject_clean": "Conservation Genomics course",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are excited to announce that only a few seats remain for our Conservation Genomics online course, taking place from 7?10 April.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course62/ ]( https://www.physalia-courses.org/courses-workshops/course62/ ) \n \nThis course introduces participants to the use of population genomics tools for conservation, covering everything from study design and genomic data collection to SNP filtering and advanced analyses such as population structure, local adaptation, effective population size, inbreeding, and relatedness. Hands-on exercises in R and Linux environments will allow you to manipulate, visualize, and interpret genomic data in a conservation context.\n \n \nLearning outcomes include:\nStudy design and genomic data collection methods\nHandling genomic data from raw reads to filtered SNP datasets\nAssessing population structure\nSearching for signals of adaptation\nEstimating effective population size\nCalculating inbreeding\nEstimating relatedness\n \nBest regards,\nCarlo\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are excited to announce that only a few seats remain for our Conservation Genomics online course, taking place from 7?10 April.\n \nCourse website: [ https://www.physalia-courses.org/course",
+      "thread_id": "thread-27d86da951e3",
+      "thread_depth": 0,
+      "month": "2026-03"
     }
   ],
   "threads": [
@@ -436,6 +468,28 @@
       "started": "2026-03-27T14:04:41Z",
       "last_reply": "2026-03-27T14:04:41Z",
       "root_message_id": "msg-31cce36a6bf4"
+    },
+    {
+      "id": "thread-dc7a063fb63a",
+      "subject": "Last chance: Bayesian Thinking for Genetic Data Analysis",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-03-30T09:04:06Z",
+      "last_reply": "2026-03-30T09:04:06Z",
+      "root_message_id": "msg-dc7a063fb63a"
+    },
+    {
+      "id": "thread-27d86da951e3",
+      "subject": "Conservation Genomics course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-03-30T15:38:01Z",
+      "last_reply": "2026-03-30T15:38:01Z",
+      "root_message_id": "msg-27d86da951e3"
     }
   ]
 }
