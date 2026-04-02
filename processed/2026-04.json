@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2026-04",
+  "messages": [
+    {
+      "id": "msg-78ee7d4624db",
+      "message_id": "<EbsjyyS7TeCer3SITV5IOw@geopod-ismtpd-9>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-04-01T11:13:31Z",
+      "subject": "[R-sig-genetics] Last chance: Project Quality and Management Best Practices",
+      "subject_clean": "Last chance: Project Quality and Management Best Practices",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - This seminar offers practical strategies to enhance the quality and management of your data analysis projects. Project Quality and Management for Statisticians and Data Scientists is a 2-day seminar livestreaming April 8 and 22 with Michiko Wolcott (Msight Analytics). Genetic data analysis projects, often conducted using R, frequently encounter non-statistical challenges like data quality issues, scoping uncertainty, and managing expectations. This seminar introduces best practices and methodologies in project management, delivery, and quality, offering a structured framework to assess and improve the robustness and transparency of your analytical workflows. By applying these principles, researchers can enhance the rigor and reproducibility of their genetic studies, ensuring more reliable and impactful results.\n\nSign up today (https://instats.org/seminar/project-quality-and-management-for-stati) to reserve your place before it starts, and feel free to circulate this with colleagues and students!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - This seminar offers practical strategies to enhance the quality and management of your data analysis projects. Project Quality and Management for Statistici",
+      "thread_id": "thread-78ee7d4624db",
+      "thread_depth": 0,
+      "month": "2026-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-78ee7d4624db",
+      "subject": "Last chance: Project Quality and Management Best Practices",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-04-01T11:13:31Z",
+      "last_reply": "2026-04-01T11:13:31Z",
+      "root_message_id": "msg-78ee7d4624db"
+    }
+  ]
+}
