@@ -18,6 +18,22 @@
       "thread_id": "thread-78ee7d4624db",
       "thread_depth": 0,
       "month": "2026-04"
+    },
+    {
+      "id": "msg-44664706f0e4",
+      "message_id": "<o83yBKUHRGWpVG5CnjM1uQ@geopod-ismtpd-17>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-04-03T13:53:36Z",
+      "subject": "[R-sig-genetics] Master R Programming for Statistics and Machine Learning",
+      "subject_clean": "Master R Programming for Statistics and Machine Learning",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nExplore powerful R programming methods to elevate your statistical and machine learning research. R Programming for Statistics and Machine Learning is a 2-day seminar livestreaming May 11, led by Nikolay Oskolkov (Lund University). This seminar offers an integrated toolkit for contemporary statistical inference and machine learning in R, directly applicable to researchers analyzing high-dimensional genetic and genomic data. You will learn to implement techniques like penalised regression (LASSO), various dimensionality reduction methods (PCA, tSNE, UMAP), and advanced clustering algorithms, all crucial for identifying patterns and making robust inferences in complex genetic datasets. Mastering these R programming patterns will enhance your ability to design, implement, and report sophisticated analyses, leading to more reproducible and impactful research in genetic data analysis.\n\nSign up today (https://instats.org/seminar/r-programming-for-statistics-and-machine) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nExplore powerful R programming methods to elevate your statistical and machine learning research. R Programming for Statistics and Machine Learning is a 2-day seminar liv",
+      "thread_id": "thread-44664706f0e4",
+      "thread_depth": 0,
+      "month": "2026-04"
     }
   ],
   "threads": [
@@ -31,6 +47,17 @@
       "started": "2026-04-01T11:13:31Z",
       "last_reply": "2026-04-01T11:13:31Z",
       "root_message_id": "msg-78ee7d4624db"
+    },
+    {
+      "id": "thread-44664706f0e4",
+      "subject": "Master R Programming for Statistics and Machine Learning",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-04-03T13:53:36Z",
+      "last_reply": "2026-04-03T13:53:36Z",
+      "root_message_id": "msg-44664706f0e4"
     }
   ]
 }
