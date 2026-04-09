@@ -50,6 +50,22 @@
       "thread_id": "thread-994a11ed7d82",
       "thread_depth": 0,
       "month": "2026-04"
+    },
+    {
+      "id": "msg-b81716a499ae",
+      "message_id": "<fmWfmfUzRzySTknDOtyweA@geopod-ismtpd-0>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-04-08T11:46:09Z",
+      "subject": "[R-sig-genetics] Longitudinal Analysis in Biostatistics - Mastering Longitudinal Analysis",
+      "subject_clean": "Longitudinal Analysis in Biostatistics - Mastering Longitudinal Analysis",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nUnderstanding complex temporal data is essential for robust research across many scientific disciplines. Longitudinal Analysis in Biostatistics led by Md Tuhin Sheikh (Biostatistics, College of Health Solutions, Arizona State University) is now available as an on-demand streaming seminar. This seminar provides a comprehensive overview of longitudinal data analysis, focusing on advanced modeling frameworks, strategies for handling missing data, and multilevel modeling. Researchers in genetic data analysis often encounter repeated observations over time, where understanding temporal dynamics and handling complex data structures is crucial. Participants will gain hands-on experience with these techniques in R, enabling them to robustly analyze genetic datasets, interpret complex temporal relationships, and advance their own research.\n\nAccess this seminar (https://instats.org/seminar/longitudinal-analysis-in-biostatistics) on demand at your own pace, and please pass this to colleagues and students who may find it useful!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nUnderstanding complex temporal data is essential for robust research across many scientific disciplines. Longitudinal Analysis in Biostatistics led by Md Tuhin Sheikh (Bi",
+      "thread_id": "thread-b81716a499ae",
+      "thread_depth": 0,
+      "month": "2026-04"
     }
   ],
   "threads": [
@@ -85,6 +101,17 @@
       "started": "2026-04-06T09:39:24Z",
       "last_reply": "2026-04-06T09:39:24Z",
       "root_message_id": "msg-994a11ed7d82"
+    },
+    {
+      "id": "thread-b81716a499ae",
+      "subject": "Longitudinal Analysis in Biostatistics - Mastering Longitudinal Analysis",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-04-08T11:46:09Z",
+      "last_reply": "2026-04-08T11:46:09Z",
+      "root_message_id": "msg-b81716a499ae"
     }
   ]
 }
