@@ -66,6 +66,22 @@
       "thread_id": "thread-b81716a499ae",
       "thread_depth": 0,
       "month": "2026-04"
+    },
+    {
+      "id": "msg-1e16d9841304",
+      "message_id": "<T0G8gqVtTpqnUvVBE-pZ4g@geopod-ismtpd-5>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-04-10T13:21:49Z",
+      "subject": "[R-sig-genetics] Last chance: Deep Learning for Complex Datasets with AI",
+      "subject_clean": "Last chance: Deep Learning for Complex Datasets with AI",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - This intensive workshop offers practical skills to advance your data analysis capabilities. Deep Learning for Complex Datasets with AI 3.0 is a 2-day seminar livestreaming April 15 with Nikolay Oskolkov (Lund University). Deep learning techniques, including those enhanced by Large Language Models like ChatGPT, are crucial for analyzing complex genetic and multi-omics datasets, enabling researchers to uncover intricate patterns and hidden structures. This seminar provides hands-on experience with R, Python, TensorFlow, and Keras, guided by ChatGPT, to build and apply neural network architectures. Participants will develop practical skills to integrate diverse biological datasets, advance their genetic data analysis, and apply cutting-edge AI methods to their own research projects in areas like single-cell biology and personalized medicine.\n\nSign up today (https://instats.org/seminar/deep-learning-for-complex-datasets-with-4) to register now, and we'd appreciate you sharing this with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - This intensive workshop offers practical skills to advance your data analysis capabilities. Deep Learning for Complex Datasets with AI 3.0 is a 2-day semina",
+      "thread_id": "thread-1e16d9841304",
+      "thread_depth": 0,
+      "month": "2026-04"
     }
   ],
   "threads": [
@@ -112,6 +128,17 @@
       "started": "2026-04-08T11:46:09Z",
       "last_reply": "2026-04-08T11:46:09Z",
       "root_message_id": "msg-b81716a499ae"
+    },
+    {
+      "id": "thread-1e16d9841304",
+      "subject": "Last chance: Deep Learning for Complex Datasets with AI",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-04-10T13:21:49Z",
+      "last_reply": "2026-04-10T13:21:49Z",
+      "root_message_id": "msg-1e16d9841304"
     }
   ]
 }
