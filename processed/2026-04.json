@@ -82,6 +82,22 @@
       "thread_id": "thread-1e16d9841304",
       "thread_depth": 0,
       "month": "2026-04"
+    },
+    {
+      "id": "msg-a5021cdfc414",
+      "message_id": "<v4Mb31ijRa6Sve9jVDtHyQ@geopod-ismtpd-13>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-04-13T09:16:12Z",
+      "subject": "[R-sig-genetics] Last chance: Machine Learning for Computational Biology",
+      "subject_clean": "Last chance: Machine Learning for Computational Biology",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - This seminar offers advanced methods that can significantly benefit your ongoing genetic research. Machine Learning for Computational Biology 3.0 is a 2-day seminar livestreaming April 14 with Nikolay Oskolkov (Lund University). This seminar equips researchers with powerful machine learning techniques to analyze and interpret complex biological data. Focusing on practical applications in R and Python, participants will learn to implement algorithms from scratch, directly enhancing their genetic data analysis capabilities. These skills, including implementing neural networks, random forest, k-means clustering, and MCMC methods, can be applied to solve complex genetic and genomic research problems.\n\nSign up today (https://instats.org/seminar/machine-learning-for-computational-biolo-2) to reserve your place before it starts, and feel free to circulate this with colleagues and students!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - This seminar offers advanced methods that can significantly benefit your ongoing genetic research. Machine Learning for Computational Biology 3.0 is a 2-day",
+      "thread_id": "thread-a5021cdfc414",
+      "thread_depth": 0,
+      "month": "2026-04"
     }
   ],
   "threads": [
@@ -139,6 +155,17 @@
       "started": "2026-04-10T13:21:49Z",
       "last_reply": "2026-04-10T13:21:49Z",
       "root_message_id": "msg-1e16d9841304"
+    },
+    {
+      "id": "thread-a5021cdfc414",
+      "subject": "Last chance: Machine Learning for Computational Biology",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-04-13T09:16:12Z",
+      "last_reply": "2026-04-13T09:16:12Z",
+      "root_message_id": "msg-a5021cdfc414"
     }
   ]
 }
