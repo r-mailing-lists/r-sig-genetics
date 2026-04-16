@@ -98,6 +98,22 @@
       "thread_id": "thread-a5021cdfc414",
       "thread_depth": 0,
       "month": "2026-04"
+    },
+    {
+      "id": "msg-256836afe709",
+      "message_id": "<2R_FO4YBT1mTJ3GjvqHeRw@geopod-ismtpd-7>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-04-15T11:19:09Z",
+      "subject": "[R-sig-genetics] Last chance: RNA-seq Analysis in R: Counts to Conclusions",
+      "subject_clean": "Last chance: RNA-seq Analysis in R: Counts to Conclusions",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - Learn to master RNA-seq data analysis using R/Bioconductor for your genetic research. RNA-seq: From Counts to Conclusions is a 2-day seminar livestreaming April 20 and 22 with Estefania Mancini (Josep Carreras Leukaemia Research Institute). This workshop provides practical, statistically rigorous RNA-seq analysis workflows in R/Bioconductor, directly applicable to genetic data analysis. Participants will gain skills to construct, execute, and interpret complete RNA-seq pipelines, enabling them to translate raw sequencing reads into robust, publication-quality conclusions for their own genetic research. The provided annotated code templates and reproducible RMarkdown reports will allow R-sig-genetics members to rapidly adapt these methods to their specific datasets, accelerating data analysis and biological interpretation in their ongoing projects.\n\nSign up today (https://instats.org/seminar/rna-seq-from-counts-to-conclusions) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Learn to master RNA-seq data analysis using R/Bioconductor for your genetic research. RNA-seq: From Counts to Conclusions is a 2-day seminar livestreaming A",
+      "thread_id": "thread-256836afe709",
+      "thread_depth": 0,
+      "month": "2026-04"
     }
   ],
   "threads": [
@@ -166,6 +182,17 @@
       "started": "2026-04-13T09:16:12Z",
       "last_reply": "2026-04-13T09:16:12Z",
       "root_message_id": "msg-a5021cdfc414"
+    },
+    {
+      "id": "thread-256836afe709",
+      "subject": "Last chance: RNA-seq Analysis in R: Counts to Conclusions",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-04-15T11:19:09Z",
+      "last_reply": "2026-04-15T11:19:09Z",
+      "root_message_id": "msg-256836afe709"
     }
   ]
 }
