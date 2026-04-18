@@ -114,6 +114,22 @@
       "thread_id": "thread-256836afe709",
       "thread_depth": 0,
       "month": "2026-04"
+    },
+    {
+      "id": "msg-f8e7514d3c6a",
+      "message_id": "<zZ0xL60TSW6qBa-osgtovg@geopod-ismtpd-10>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-04-17T14:08:35Z",
+      "subject": "[R-sig-genetics] Gaussian Processes with PyMC and LLMs",
+      "subject_clean": "Gaussian Processes with PyMC and LLMs",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nDiscover how advanced probabilistic modeling techniques can enhance your quantitative research. Gaussian Processes with PyMC and LLMs led by Chris Fonnesbeck (PyMC Labs and Vanderbilt University Medical Center) is now available as an on-demand streaming seminar. Gaussian Processes offer a powerful Bayesian nonparametric approach to model complex genetic traits, gene expression dynamics, or population structures without rigid parametric assumptions. This seminar provides hands-on competence with PyMC and Python, supported by LLMs, enabling researchers to specify, fit, and diagnose scalable GP models for their own publication-quality genetic analyses. Participants will learn to quantify uncertainty, build hierarchical models, and apply sparse approximations, directly addressing challenges in large or multi-output genetic datasets.\n\nAccess this seminar (https://instats.org/seminar/gaussian-processes-with-pymc-and-llms-1) whenever convenient and feel free to circulate this with colleagues and students who may be interested!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nDiscover how advanced probabilistic modeling techniques can enhance your quantitative research. Gaussian Processes with PyMC and LLMs led by Chris Fonnesbeck (PyMC Labs a",
+      "thread_id": "thread-f8e7514d3c6a",
+      "thread_depth": 0,
+      "month": "2026-04"
     }
   ],
   "threads": [
@@ -193,6 +209,17 @@
       "started": "2026-04-15T11:19:09Z",
       "last_reply": "2026-04-15T11:19:09Z",
       "root_message_id": "msg-256836afe709"
+    },
+    {
+      "id": "thread-f8e7514d3c6a",
+      "subject": "Gaussian Processes with PyMC and LLMs",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-04-17T14:08:35Z",
+      "last_reply": "2026-04-17T14:08:35Z",
+      "root_message_id": "msg-f8e7514d3c6a"
     }
   ]
 }
