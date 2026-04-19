@@ -130,6 +130,22 @@
       "thread_id": "thread-f8e7514d3c6a",
       "thread_depth": 0,
       "month": "2026-04"
+    },
+    {
+      "id": "msg-6137fde32194",
+      "message_id": "<1776519602.36210086@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-04-18T13:40:02Z",
+      "subject": "[R-sig-genetics] Bayesian modelling and evolutionary analysis using RevBayes - online, 21-24 April",
+      "subject_clean": "Bayesian modelling and evolutionary analysis using RevBayes - online, 21-24 April",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe have just a few seats left for our upcoming online course:\nA hands-on course in Bayesian modelling and evolutionary analysis using RevBayes\n\nDates: 21?24 April \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/bayesian-phylogenetics/ ]( https://www.physalia-courses.org/courses-workshops/bayesian-phylogenetics/ )\n \n \n \nThis course offers an in-depth introduction to Bayesian inference and MCMC methods for phylogenetic analysis, with a strong focus on hands-on learning using RevBayes. Across four interactive days, participants will learn how to build and interpret models of lineage diversification, biogeographic history, and evolutionary processes using real datasets.\n \n \nTopics include:\nFoundations of Bayesian inference and probabilistic graphical models\nBiogeographic modelling (including DEC and stochastic mapping)\nComparative biogeography (Bayesian Island Biogeography)\nDiversification analyses within birth?death frameworks\n \n \n \nFeel free to reach out if you have any questions.\n \nBest regards,\nCarlo\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe have just a few seats left for our upcoming online course:\nA hands-on course in Bayesian modelling and evolutionary analysis using RevBayes\n\nDates: 21?24 April \n \nCourse website: [ https:",
+      "thread_id": "thread-6137fde32194",
+      "thread_depth": 0,
+      "month": "2026-04"
     }
   ],
   "threads": [
@@ -220,6 +236,17 @@
       "started": "2026-04-17T14:08:35Z",
       "last_reply": "2026-04-17T14:08:35Z",
       "root_message_id": "msg-f8e7514d3c6a"
+    },
+    {
+      "id": "thread-6137fde32194",
+      "subject": "Bayesian modelling and evolutionary analysis using RevBayes - online, 21-24 April",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-04-18T13:40:02Z",
+      "last_reply": "2026-04-18T13:40:02Z",
+      "root_message_id": "msg-6137fde32194"
     }
   ]
 }
