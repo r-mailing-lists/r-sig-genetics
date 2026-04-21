@@ -146,6 +146,38 @@
       "thread_id": "thread-6137fde32194",
       "thread_depth": 0,
       "month": "2026-04"
+    },
+    {
+      "id": "msg-c90bbbb53fc0",
+      "message_id": "<3PJX6pnWTBuI14ynkmv0hA@geopod-ismtpd-6>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-04-20T09:33:15Z",
+      "subject": "[R-sig-genetics] Last chance: Computational Genomics for Microbial Traits",
+      "subject_clean": "Last chance: Computational Genomics for Microbial Traits",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - We invite you to a seminar exploring advanced computational methods for genomic analysis. Computational Genomics for Microbial Traits (Free Seminar) is a 2-day seminar livestreaming April 22 with Janani Ravi (University of Colorado Anschutz). This seminar introduces general-purpose computational approaches that integrate large-scale, heterogeneous public datasets to bridge the microbial genotype-phenotype gap. Researchers in genetic data analysis can apply these methods, including machine learning and comparative genomics, to analyze their own complex datasets, predict traits, and understand genetic mechanisms. The presented microbe-, host-, and disease-agnostic frameworks, along with open-source tools, offer adaptable strategies for advancing diverse genomic research projects.\n\nSign up today (https://instats.org/seminar/computational-genomics-for-microbial-tra) to register now, and we'd appreciate you sharing this with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - We invite you to a seminar exploring advanced computational methods for genomic analysis. Computational Genomics for Microbial Traits (Free Seminar) is a 2-",
+      "thread_id": "thread-c90bbbb53fc0",
+      "thread_depth": 0,
+      "month": "2026-04"
+    },
+    {
+      "id": "msg-fd23e663a148",
+      "message_id": "<1776701806.413525858@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-04-20T16:16:46Z",
+      "subject": "[R-sig-genetics] (ONLINE COURSE) Missing Data in R",
+      "subject_clean": "(ONLINE COURSE) Missing Data in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \ndo you want to learn how to handle missing data in R?\n \nYou can still join us for this 3-day course  ?Handling Missing Data in R?, taking place 22?24 April.\n \n \nReal-world datasets are almost never complete, and missing values can seriously affect statistical conclusions if not handled properly. This course provides a practical and theory-driven approach to understanding and dealing with missing data using R.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/missing-data-with-r/ ]( https://www.physalia-courses.org/courses-workshops/missing-data-with-r/ ) \n \n \nParticipants will learn how to:\nIdentify missing data mechanisms (MCAR, MAR, MNAR)\nDiagnose and visualise missingness patterns in R\nApply traditional methods and understand their limitations\nImplement modern approaches such as multiple imputation (MICE)\nExplore advanced methods including Soft Impute and EM algorithms\nBest regards, Carlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \ndo you want to learn how to handle missing data in R?\n \nYou can still join us for this 3-day course  ?Handling Missing Data in R?, taking place 22?24 April.\n \n \nReal-world datasets are alm",
+      "thread_id": "thread-fd23e663a148",
+      "thread_depth": 0,
+      "month": "2026-04"
     }
   ],
   "threads": [
@@ -247,6 +279,28 @@
       "started": "2026-04-18T13:40:02Z",
       "last_reply": "2026-04-18T13:40:02Z",
       "root_message_id": "msg-6137fde32194"
+    },
+    {
+      "id": "thread-c90bbbb53fc0",
+      "subject": "Last chance: Computational Genomics for Microbial Traits",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-04-20T09:33:15Z",
+      "last_reply": "2026-04-20T09:33:15Z",
+      "root_message_id": "msg-c90bbbb53fc0"
+    },
+    {
+      "id": "thread-fd23e663a148",
+      "subject": "(ONLINE COURSE) Missing Data in R",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-04-20T16:16:46Z",
+      "last_reply": "2026-04-20T16:16:46Z",
+      "root_message_id": "msg-fd23e663a148"
     }
   ]
 }

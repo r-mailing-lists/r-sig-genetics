@@ -222,3 +222,70 @@ mobile: +49 17645230846
 	[[alternative HTML version deleted]]
 
 
+From mzyphur m@iii@g oii i@st@ts@org  Mon Apr 20 11:33:15 2026
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Mon, 20 Apr 2026 09:33:15 +0000 (UTC)
+Subject: [R-sig-genetics] Last chance: Computational Genomics for Microbial
+ Traits
+Message-ID: <3PJX6pnWTBuI14ynkmv0hA@geopod-ismtpd-6>
+
+Hello R-SIG-GENETICS members
+
+Last chance - We invite you to a seminar exploring advanced computational methods for genomic analysis. Computational Genomics for Microbial Traits (Free Seminar) is a 2-day seminar livestreaming April 22 with Janani Ravi (University of Colorado Anschutz). This seminar introduces general-purpose computational approaches that integrate large-scale, heterogeneous public datasets to bridge the microbial genotype-phenotype gap. Researchers in genetic data analysis can apply these methods, including machine learning and comparative genomics, to analyze their own complex datasets, predict traits, and understand genetic mechanisms. The presented microbe-, host-, and disease-agnostic frameworks, along with open-source tools, offer adaptable strategies for advancing diverse genomic research projects.
+
+Sign up today (https://instats.org/seminar/computational-genomics-for-microbial-tra) to register now, and we'd appreciate you sharing this with colleagues and students who might benefit!
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Instats | instats.org
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Mon Apr 20 18:16:46 2026
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Mon, 20 Apr 2026 18:16:46 +0200 (CEST)
+Subject: [R-sig-genetics] =?utf-8?q?=28ONLINE_COURSE=29_Missing_Data_in_R?=
+Message-ID: <1776701806.413525858@webmail.jimdo.com>
+
+
+Dear all,
+ 
+do you want to learn how to handle missing data in R?
+ 
+You can still join us for this 3-day course  ?Handling Missing Data in R?, taking place 22?24 April.
+ 
+ 
+Real-world datasets are almost never complete, and missing values can seriously affect statistical conclusions if not handled properly. This course provides a practical and theory-driven approach to understanding and dealing with missing data using R.
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/missing-data-with-r/ ]( https://www.physalia-courses.org/courses-workshops/missing-data-with-r/ ) 
+ 
+ 
+Participants will learn how to:
+Identify missing data mechanisms (MCAR, MAR, MNAR)
+Diagnose and visualise missingness patterns in R
+Apply traditional methods and understand their limitations
+Implement modern approaches such as multiple imputation (MICE)
+Explore advanced methods including Soft Impute and EM algorithms
+Best regards, Carlo
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )
+
+
+
+	[[alternative HTML version deleted]]
+
+
