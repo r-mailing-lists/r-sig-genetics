@@ -178,6 +178,22 @@
       "thread_id": "thread-fd23e663a148",
       "thread_depth": 0,
       "month": "2026-04"
+    },
+    {
+      "id": "msg-bf35e3c3a9e1",
+      "message_id": "<RschjQORR0ebjl_-7_e-hQ@geopod-ismtpd-2>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-04-22T12:09:17Z",
+      "subject": "[R-sig-genetics] Last chance: Computational Genomics for Microbial Traits",
+      "subject_clean": "Last chance: Computational Genomics for Microbial Traits",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - Discover how new computational genomics techniques can enhance your genetic data analysis. Computational Genomics for Microbial Traits (Free Seminar) is a 2-day seminar livestreaming April 22 with Janani Ravi (University of Colorado Anschutz). This seminar introduces general-purpose computational genomics approaches that integrate large-scale, heterogeneous public datasets to bridge the microbial genotype-phenotype gap. Researchers in genetic data analysis can apply these methods, including machine learning and comparative genomics, to uncover novel insights into microbial adaptation, predict traits like antimicrobial resistance, and delineate host responses to infection within their own genetic studies. The provided open-source software and interactive web tools will enable community members to efficiently leverage these advanced techniques to accelerate their research in genetic data analysis and drug repurposing.\n\nSign up today (https://instats.org/seminar/computational-genomics-for-microbial-tra) to register now, and we'd appreciate you sharing this with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Discover how new computational genomics techniques can enhance your genetic data analysis. Computational Genomics for Microbial Traits (Free Seminar) is a 2",
+      "thread_id": "thread-bf35e3c3a9e1",
+      "thread_depth": 0,
+      "month": "2026-04"
     }
   ],
   "threads": [
@@ -301,6 +317,17 @@
       "started": "2026-04-20T16:16:46Z",
       "last_reply": "2026-04-20T16:16:46Z",
       "root_message_id": "msg-fd23e663a148"
+    },
+    {
+      "id": "thread-bf35e3c3a9e1",
+      "subject": "Last chance: Computational Genomics for Microbial Traits",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-04-22T12:09:17Z",
+      "last_reply": "2026-04-22T12:09:17Z",
+      "root_message_id": "msg-bf35e3c3a9e1"
     }
   ]
 }
