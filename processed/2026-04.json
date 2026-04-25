@@ -194,6 +194,38 @@
       "thread_id": "thread-bf35e3c3a9e1",
       "thread_depth": 0,
       "month": "2026-04"
+    },
+    {
+      "id": "msg-1f998760940c",
+      "message_id": "<DAIeaKgHQHCo4fE17MMOuQ@geopod-ismtpd-17>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-04-24T13:55:15Z",
+      "subject": "[R-sig-genetics] Last chance: Dimension Reduction for Complex Genetic Data",
+      "subject_clean": "Last chance: Dimension Reduction for Complex Genetic Data",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - Discover practical methods to simplify and interpret your complex research datasets effectively. Dimension Reduction for Complex Datasets 2.0 is a 2-day seminar livestreaming April 27 with Nikolay Oskolkov (Lund University). High-dimensional genetic datasets often pose challenges in analysis and interpretation. This seminar provides crucial dimension reduction techniques to simplify such complex data, making it more manageable without losing critical information. You will gain practical experience applying methods like tSNE and UMAP using R, enabling more accurate and efficient analyses for your genomics or other genetic research projects. Learn to preprocess high-dimensional data, select appropriate techniques, and interpret results effectively, directly enhancing your ability to uncover insights from your own complex genetic datasets.\n\nSign up today (https://instats.org/seminar/dimension-reduction-for-complex-datasets) to join before enrollment closes, and please pass this to colleagues and students who may be interested!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Discover practical methods to simplify and interpret your complex research datasets effectively. Dimension Reduction for Complex Datasets 2.0 is a 2-day sem",
+      "thread_id": "thread-1f998760940c",
+      "thread_depth": 0,
+      "month": "2026-04"
+    },
+    {
+      "id": "msg-a5c00c5262f5",
+      "message_id": "<1777050726.382726882@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-04-24T17:12:06Z",
+      "subject": "[R-sig-genetics] (Online course) Multivariate Data Analysis with R and vegan",
+      "subject_clean": "(Online course) Multivariate Data Analysis with R and vegan",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear colleagues,\nWe are pleased to announce that a few last seats are still available for our upcoming online course:\nMultivariate Data Analysis with R and vegan\n\nDates: 4?7 May \n\n\nCourse website: [ https://www.physalia-courses.org/courses-workshops/vegan/ ]( https://www.physalia-courses.org/courses-workshops/vegan/ ) \n \nThis practical course introduces the main methods for analysing multivariate ecological data using R and the vegan package.\nTopics include:\nUnconstrained ordination (PCA, NMDS, PCoA)\nConstrained ordination (RDA, CCA, db-RDA)\nPERMANOVA and PERMDISP\nPermutation-based statistical inference\nApplications to ecological and high-throughput (metabarcoding/metagenomics) data\nThe course is hands-on, with guided exercises and practical examples throughout.\nIt is designed for PhD students and researchers with basic R experience who want to gain confidence in analysing multivariate data.\n \nIf you are interested in joining, we recommend registering soon as places are limited.\n \nBest regards,\nCarlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear colleagues,\nWe are pleased to announce that a few last seats are still available for our upcoming online course:\nMultivariate Data Analysis with R and vegan\n\nDates: 4?7 May \n\n\nCourse website: [ h",
+      "thread_id": "thread-a5c00c5262f5",
+      "thread_depth": 0,
+      "month": "2026-04"
     }
   ],
   "threads": [
@@ -328,6 +360,28 @@
       "started": "2026-04-22T12:09:17Z",
       "last_reply": "2026-04-22T12:09:17Z",
       "root_message_id": "msg-bf35e3c3a9e1"
+    },
+    {
+      "id": "thread-1f998760940c",
+      "subject": "Last chance: Dimension Reduction for Complex Genetic Data",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-04-24T13:55:15Z",
+      "last_reply": "2026-04-24T13:55:15Z",
+      "root_message_id": "msg-1f998760940c"
+    },
+    {
+      "id": "thread-a5c00c5262f5",
+      "subject": "(Online course) Multivariate Data Analysis with R and vegan",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-04-24T17:12:06Z",
+      "last_reply": "2026-04-24T17:12:06Z",
+      "root_message_id": "msg-a5c00c5262f5"
     }
   ]
 }
