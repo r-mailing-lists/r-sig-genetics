@@ -258,6 +258,22 @@
       "thread_id": "thread-d9322f54804c",
       "thread_depth": 0,
       "month": "2026-04"
+    },
+    {
+      "id": "msg-808f55a45463",
+      "message_id": "<Oi5oO3sSRW66-CK0kV8uzw@geopod-ismtpd-0>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-04-29T11:34:14Z",
+      "subject": "[R-sig-genetics] Last chance: AI Multi-Agent Workflows in R",
+      "subject_clean": "Last chance: AI Multi-Agent Workflows in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - This upcoming seminar offers practical strategies for integrating advanced AI capabilities into your R-based research. AI Multi-Agent Workflows in R is a 2-day seminar livestreaming April 30 with Fodil Ihaddaden (Institute for Statistical and Data Science). This seminar introduces AI multi-agent workflows in R, a powerful approach for automating complex research tasks. Researchers in genetic data analysis can apply these methods to build reproducible pipelines for literature synthesis, automate data curation from diverse sources, or orchestrate complex annotation processes for genetic variants. You will learn to design role-based agents and manage stateful interactions, enabling transparent and auditable AI-assisted workflows that enhance the rigor and efficiency of your genetic research.\n\nSign up today (https://instats.org/seminar/ai-multi-agent-workflows-in-r) to join before enrollment closes, and please pass this to colleagues and students who may be interested!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - This upcoming seminar offers practical strategies for integrating advanced AI capabilities into your R-based research. AI Multi-Agent Workflows in R is a 2-",
+      "thread_id": "thread-808f55a45463",
+      "thread_depth": 0,
+      "month": "2026-04"
     }
   ],
   "threads": [
@@ -436,6 +452,17 @@
       "started": "2026-04-28T10:44:11Z",
       "last_reply": "2026-04-28T10:44:11Z",
       "root_message_id": "msg-d9322f54804c"
+    },
+    {
+      "id": "thread-808f55a45463",
+      "subject": "Last chance: AI Multi-Agent Workflows in R",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-04-29T11:34:14Z",
+      "last_reply": "2026-04-29T11:34:14Z",
+      "root_message_id": "msg-808f55a45463"
     }
   ]
 }
