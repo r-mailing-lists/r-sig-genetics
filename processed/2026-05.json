@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2026-05",
+  "messages": [
+    {
+      "id": "msg-54bd72e80fbb",
+      "message_id": "<7Cf9QJvKQMS-T6uKTMCQVg@geopod-ismtpd-14>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-05-01T13:22:55Z",
+      "subject": "[R-sig-genetics] Single Cell Data Analysis with R and Python",
+      "subject_clean": "Single Cell Data Analysis with R and Python",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nExplore cutting-edge methods for analyzing complex biological data at the single-cell level. Single Cell Data Analysis 3.0 is a 2-day seminar livestreaming May 25, led by Nikolay Oskolkov (Lund University). This workshop provides crucial computational tools and methodologies for high-level single-cell data interpretation, enabling researchers to explore complex biological systems at the most granular scale. Participants will gain hands-on experience in state-of-the-art techniques for processing and analyzing single-cell RNA sequencing data, which is essential for deciphering cellular complexity and understanding genetic heterogeneity. These robust data analysis methods, implemented in R and Python, can be directly applied to advance genetic research by uncovering cell-type specific gene expression patterns and disease mechanisms.\n\nSign up today (https://instats.org/seminar/single-cell-data-analysis-30) to reserve your place, and feel free to circulate this with colleagues and students who may be interested!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nExplore cutting-edge methods for analyzing complex biological data at the single-cell level. Single Cell Data Analysis 3.0 is a 2-day seminar livestreaming May 25, led by",
+      "thread_id": "thread-54bd72e80fbb",
+      "thread_depth": 0,
+      "month": "2026-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-54bd72e80fbb",
+      "subject": "Single Cell Data Analysis with R and Python",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-05-01T13:22:55Z",
+      "last_reply": "2026-05-01T13:22:55Z",
+      "root_message_id": "msg-54bd72e80fbb"
+    }
+  ]
+}

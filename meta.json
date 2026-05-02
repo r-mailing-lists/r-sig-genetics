@@ -2,10 +2,10 @@
   "list": "r-sig-genetics",
   "description": "",
   "source_url": "",
-  "total_messages": 513,
+  "total_messages": 514,
   "first_message": "2008-05-20T13:12:14Z",
-  "last_message": "2026-04-29T11:34:14Z",
-  "total_threads": 431,
+  "last_message": "2026-05-01T13:22:55Z",
+  "total_threads": 432,
   "months_available": [
     "2008-05",
     "2008-06",
@@ -123,6 +123,7 @@
     "2026-01",
     "2026-02",
     "2026-03",
-    "2026-04"
+    "2026-04",
+    "2026-05"
   ]
 }
