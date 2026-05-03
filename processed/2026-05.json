@@ -18,6 +18,22 @@
       "thread_id": "thread-54bd72e80fbb",
       "thread_depth": 0,
       "month": "2026-05"
+    },
+    {
+      "id": "msg-69ac16e13c4e",
+      "message_id": "<1777707019.55646713@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-05-02T07:30:19Z",
+      "subject": "[R-sig-genetics] Only 2 Seats Left – Network Analysis in R (4–7 May )",
+      "subject_clean": "Only 2 Seats Left – Network Analysis in R (4–7 May )",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nOnly 2 seats remain for our upcoming online course: Network Analysis in R\n\nDates: 4?7 May 2026\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/network-analysis-in-r/ ]( https://www.physalia-courses.org/courses-workshops/network-analysis-in-r/ ) \n \nThis course provides a practical introduction to network analysis using R, with a strong focus on hands-on implementation and real data applications (especially in the life sciences, but transferable to other fields).\nAcross four sessions, you will learn how to:\n \n? Build and manipulate network objects in R (using igraph and related tools)\n? Explore node-, edge-, and network-level statistics (centrality, cohesion, topology)\n? Detect and evaluate network communities and clusters\n? Apply statistical testing and simulation approaches for network data\n? Work with random graphs, small-world models, and preferential attachment\n? Visualize networks using best practices with ggraph and tidygraph, including interactive approaches\n \nEach day combines short theoretical introductions with live coding exercises and guided practice problems, ensuring you can immediately apply what you learn.\n \n \nBest regards,\nCarlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nOnly 2 seats remain for our upcoming online course: Network Analysis in R\n\nDates: 4?7 May 2026\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/network-analysis-in-r/ ]",
+      "thread_id": "thread-69ac16e13c4e",
+      "thread_depth": 0,
+      "month": "2026-05"
     }
   ],
   "threads": [
@@ -31,6 +47,17 @@
       "started": "2026-05-01T13:22:55Z",
       "last_reply": "2026-05-01T13:22:55Z",
       "root_message_id": "msg-54bd72e80fbb"
+    },
+    {
+      "id": "thread-69ac16e13c4e",
+      "subject": "Only 2 Seats Left – Network Analysis in R (4–7 May )",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-05-02T07:30:19Z",
+      "last_reply": "2026-05-02T07:30:19Z",
+      "root_message_id": "msg-69ac16e13c4e"
     }
   ]
 }
