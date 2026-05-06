@@ -90,3 +90,114 @@ Instats | instats.org
 	[[alternative HTML version deleted]]
 
 
+From i@io m@iii@g oii phys@ii@-courses@org  Tue May  5 10:48:23 2026
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Tue, 5 May 2026 10:48:23 +0200 (CEST)
+Subject: [R-sig-genetics] Gene Set Enrichment Analysis in R course
+Message-ID: <1777970903.267915743@webmail.jimdo.com>
+
+
+Dear all,
+ 
+We?re excited to announce our upcoming online course ?Gene Set Enrichment Analysis in R?, taking place 11?15 May!
+ 
+ 
+ 
+This practical course offers a comprehensive introduction to gene set enrichment analysis methods widely used in transcriptomics, proteomics, and multi-omics workflows. You?ll learn how to run, interpret, and report enrichment analyses using real-world examples and tools, with the flexibility to work on your own data.
+ 
+ 
+ 
+What you will learn:
+ 
+
+Core concepts and statistical principles of gene set enrichment
+
+How to select and use gene set databases and annotation resources
+
+Over-representation analysis (ORA) and ranking-based methods like GSEA
+
+Advanced visualization and interpretation of results
+
+Applications in single-cell and spatial omics data
+ 
+Course format:
+ Five afternoons (14:00?19:00 Berlin time) of lectures, hands-on exercises, and Q&A, fully online to support international participation.
+ 
+Find the full program and register here:[ https://www.physalia-courses.org/courses-workshops/gse-in-r/ ]( https://www.physalia-courses.org/courses-workshops/gse-in-r/ )
+ 
+ 
+ 
+Best regards,
+ 
+Carlo
+ 
+ 
+ 
+ 
+ 
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )
+ 
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Tue May  5 18:17:49 2026
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Tue, 5 May 2026 18:17:49 +0200 (CEST)
+Subject: [R-sig-genetics] Courses on Spatial Omics in 2026
+Message-ID: <1777997869.8114938@webmail.jimdo.com>
+
+
+Dear all,
+We are pleased to announce two upcoming online courses focused on spatial omics, designed to provide both foundational training and advanced analytical skills in this rapidly evolving field.
+ 
+1 -  Spatial Omics in R/Bioconductor
+Dates:  18?20 May 
+Instructor: Dr. Stefano Mangiola (South Australian immunoGENomics Cancer Institute, Australia)
+ 
+This course introduces the core concepts and technologies behind spatial omics, with a strong focus on practical data analysis in R/Bioconductor. Participants will learn how to work with both sequencing- and imaging-based spatial data, apply tidy data principles, and perform key analyses such as spatial differential expression and cell?cell interaction studies.
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/spatial-omics-1 ]( https://www.physalia-courses.org/courses-workshops/spatial-omics-1 ) 
+ 
+2 -  Spatial Omics Data Analysis: From Raw Data to AI Insights
+Dates:  14?16 September 
+Instructors: Dr. Sara Jim?nez & Tim Treis (Helmholtz Munich, Germany)
+ 
+This course provides an end-to-end workflow for spatial omics data analysis, from raw data processing and quality control to advanced spatial statistics and AI-based approaches. Participants will explore spatial structure, gene-level patterns, cell?cell communication, and modern deep learning methods, with a strong emphasis on reproducibility and practical application.
+ 
+Course website: [ https://www.physalia-courses.org/courses-workshops/scverse/ ]( https://www.physalia-courses.org/courses-workshops/scverse/ ) 
+ 
+These trainings are ideal for researchers working in single-cell biology, spatial transcriptomics, computational biology, and bioinformatics who want to strengthen their analytical skills in spatial omics.
+ 
+ 
+Best regards,
+Carlo
+
+--------------------
+
+Carlo Pecoraro, Ph.D
+
+
+Physalia-courses DIRECTOR
+
+info at physalia-courses.org
+
+mobile: +49 17645230846
+
+[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )
+
+
+
+	[[alternative HTML version deleted]]
+
+

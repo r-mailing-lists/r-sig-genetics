@@ -50,6 +50,38 @@
       "thread_id": "thread-ec4d0a3f148d",
       "thread_depth": 0,
       "month": "2026-05"
+    },
+    {
+      "id": "msg-d640e8432e6c",
+      "message_id": "<1777970903.267915743@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-05-05T08:48:23Z",
+      "subject": "[R-sig-genetics] Gene Set Enrichment Analysis in R course",
+      "subject_clean": "Gene Set Enrichment Analysis in R course",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nWe?re excited to announce our upcoming online course ?Gene Set Enrichment Analysis in R?, taking place 11?15 May!\n \n \n \nThis practical course offers a comprehensive introduction to gene set enrichment analysis methods widely used in transcriptomics, proteomics, and multi-omics workflows. You?ll learn how to run, interpret, and report enrichment analyses using real-world examples and tools, with the flexibility to work on your own data.\n \n \n \nWhat you will learn:\n \n\nCore concepts and statistical principles of gene set enrichment\n\nHow to select and use gene set databases and annotation resources\n\nOver-representation analysis (ORA) and ranking-based methods like GSEA\n\nAdvanced visualization and interpretation of results\n\nApplications in single-cell and spatial omics data\n \nCourse format:\n Five afternoons (14:00?19:00 Berlin time) of lectures, hands-on exercises, and Q&A, fully online to support international participation.\n \nFind the full program and register here:[ https://www.physalia-courses.org/courses-workshops/gse-in-r/ ]( https://www.physalia-courses.org/courses-workshops/gse-in-r/ )\n \n \n \nBest regards,\n \nCarlo\n \n \n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nWe?re excited to announce our upcoming online course ?Gene Set Enrichment Analysis in R?, taking place 11?15 May!\n \n \n \nThis practical course offers a comprehensive introduction to gene se",
+      "thread_id": "thread-d640e8432e6c",
+      "thread_depth": 0,
+      "month": "2026-05"
+    },
+    {
+      "id": "msg-c1fef27d21cf",
+      "message_id": "<1777997869.8114938@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-05-05T16:17:49Z",
+      "subject": "[R-sig-genetics] Courses on Spatial Omics in 2026",
+      "subject_clean": "Courses on Spatial Omics in 2026",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are pleased to announce two upcoming online courses focused on spatial omics, designed to provide both foundational training and advanced analytical skills in this rapidly evolving field.\n \n1 -  Spatial Omics in R/Bioconductor\nDates:  18?20 May \nInstructor: Dr. Stefano Mangiola (South Australian immunoGENomics Cancer Institute, Australia)\n \nThis course introduces the core concepts and technologies behind spatial omics, with a strong focus on practical data analysis in R/Bioconductor. Participants will learn how to work with both sequencing- and imaging-based spatial data, apply tidy data principles, and perform key analyses such as spatial differential expression and cell?cell interaction studies.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/spatial-omics-1 ]( https://www.physalia-courses.org/courses-workshops/spatial-omics-1 ) \n \n2 -  Spatial Omics Data Analysis: From Raw Data to AI Insights\nDates:  14?16 September \nInstructors: Dr. Sara Jim?nez & Tim Treis (Helmholtz Munich, Germany)\n \nThis course provides an end-to-end workflow for spatial omics data analysis, from raw data processing and quality control to advanced spatial statistics and AI-based approaches. Participants will explore spatial structure, gene-level patterns, cell?cell communication, and modern deep learning methods, with a strong emphasis on reproducibility and practical application.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/scverse/ ]( https://www.physalia-courses.org/courses-workshops/scverse/ ) \n \nThese trainings are ideal for researchers working in single-cell biology, spatial transcriptomics, computational biology, and bioinformatics who want to strengthen their analytical skills in spatial omics.\n \n \nBest regards,\nCarlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are pleased to announce two upcoming online courses focused on spatial omics, designed to provide both foundational training and advanced analytical skills in this rapidly evolving field.",
+      "thread_id": "thread-c1fef27d21cf",
+      "thread_depth": 0,
+      "month": "2026-05"
     }
   ],
   "threads": [
@@ -85,6 +117,28 @@
       "started": "2026-05-04T09:29:48Z",
       "last_reply": "2026-05-04T09:29:48Z",
       "root_message_id": "msg-ec4d0a3f148d"
+    },
+    {
+      "id": "thread-d640e8432e6c",
+      "subject": "Gene Set Enrichment Analysis in R course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-05-05T08:48:23Z",
+      "last_reply": "2026-05-05T08:48:23Z",
+      "root_message_id": "msg-d640e8432e6c"
+    },
+    {
+      "id": "thread-c1fef27d21cf",
+      "subject": "Courses on Spatial Omics in 2026",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-05-05T16:17:49Z",
+      "last_reply": "2026-05-05T16:17:49Z",
+      "root_message_id": "msg-c1fef27d21cf"
     }
   ]
 }
