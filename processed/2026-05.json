@@ -82,6 +82,38 @@
       "thread_id": "thread-c1fef27d21cf",
       "thread_depth": 0,
       "month": "2026-05"
+    },
+    {
+      "id": "msg-fce4aa9ea522",
+      "message_id": "<5SKGUcpNR8WgLi_BIPF0UQ@geopod-ismtpd-16>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-05-06T11:13:28Z",
+      "subject": "[R-sig-genetics] Last chance: Modelling Trait Evolution with R",
+      "subject_clean": "Last chance: Modelling Trait Evolution with R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - Discover advanced statistical and computational methods to analyze evolutionary patterns in your data. Modelling and Mapping Trait Evolution is a 2-day seminar livestreaming May 11 and 13 with Renan Maestri (Department of Ecology, Universidade Federal do Rio Grande do Sul). This seminar provides statistical and computational methods for modelling and mapping phenotypic trait evolution on phylogenies, integrating theoretical foundations with practical R implementations. Researchers in genetic data analysis can apply these techniques to infer evolutionary processes, test macroevolutionary hypotheses, and visualize trait changes in their own genetic datasets. The practical R workflows for continuous and categorical trait models, ancestral state estimation, and multi-regime models will enhance the rigor and reproducibility of your genetic research.\n\nSign up today (https://instats.org/seminar/modelling-and-mapping-trait-evolution) to reserve your place before it starts, and feel free to circulate this with colleagues and students!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Discover advanced statistical and computational methods to analyze evolutionary patterns in your data. Modelling and Mapping Trait Evolution is a 2-day semi",
+      "thread_id": "thread-fce4aa9ea522",
+      "thread_depth": 0,
+      "month": "2026-05"
+    },
+    {
+      "id": "msg-b85e2fd1ca6e",
+      "message_id": "<1778076070.134825136@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-05-06T14:01:10Z",
+      "subject": "[R-sig-genetics] Gene Set Enrichment Analysis in R course",
+      "subject_clean": "Gene Set Enrichment Analysis in R course",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nWant to turn long gene lists into real biological insight?\n \nYou can still join us for the Gene Set Enrichment Analysis in R course, starting next week.( 11?15 May) [ https://www.physalia-courses.org/courses-workshops/gse-in-r/ ]( https://www.physalia-courses.org/courses-workshops/gse-in-r/ )\n \n \nThis hands-on course will take you from the fundamentals of gene set enrichment to advanced, publication-ready analyses in R. You?ll learn how to run, interpret, and visualize enrichment results across transcriptomics, proteomics, and multi-omics data ? using the tools actually used in current research.\n \n>From classic ORA to GSEA, pathway analysis, GO interpretation, and network-based approaches, you?ll build a complete, practical workflow you can immediately apply to your own data.\n \nAnd you are welcome to bring your own dataset.\n \nIf you work with transcriptomic or multi-omics data, this is the step that makes your results biologically meaningful.\n \nBest, Carlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nWant to turn long gene lists into real biological insight?\n \nYou can still join us for the Gene Set Enrichment Analysis in R course, starting next week.( 11?15 May) [ https://www.physalia-",
+      "thread_id": "thread-b85e2fd1ca6e",
+      "thread_depth": 0,
+      "month": "2026-05"
     }
   ],
   "threads": [
@@ -139,6 +171,28 @@
       "started": "2026-05-05T16:17:49Z",
       "last_reply": "2026-05-05T16:17:49Z",
       "root_message_id": "msg-c1fef27d21cf"
+    },
+    {
+      "id": "thread-fce4aa9ea522",
+      "subject": "Last chance: Modelling Trait Evolution with R",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-05-06T11:13:28Z",
+      "last_reply": "2026-05-06T11:13:28Z",
+      "root_message_id": "msg-fce4aa9ea522"
+    },
+    {
+      "id": "thread-b85e2fd1ca6e",
+      "subject": "Gene Set Enrichment Analysis in R course",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-05-06T14:01:10Z",
+      "last_reply": "2026-05-06T14:01:10Z",
+      "root_message_id": "msg-b85e2fd1ca6e"
     }
   ]
 }
