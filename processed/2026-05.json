@@ -114,6 +114,38 @@
       "thread_id": "thread-b85e2fd1ca6e",
       "thread_depth": 0,
       "month": "2026-05"
+    },
+    {
+      "id": "msg-ca9e92b42cdf",
+      "message_id": "<UmAjCk5MTdO26ct3baKfVA@geopod-ismtpd-12>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-05-08T13:42:38Z",
+      "subject": "[R-sig-genetics] Last chance: What Grant Reviewers Look For in Proposals",
+      "subject_clean": "Last chance: What Grant Reviewers Look For in Proposals",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - This seminar offers essential insights into crafting compelling research proposals that resonate with funding committees. What Do Grant Reviewers Look For? (Free Seminar) is a 2-day seminar livestreaming May 13 with Phil Batterham (National Centre for Epidemiology and Population Health, Australian National University). Understanding what grant reviewers seek is a critical skill for advancing research careers and ensuring project viability, particularly for studies involving complex genetic data. This seminar explains how reviewers evaluate significance, innovation, and methodological rigor, helping you design robust and persuasive genetic data analysis projects aligned with funder priorities. You will learn strategies for strengthening methodological sections, justifying sample sizes for genetic studies, addressing reproducibility concerns, and presenting findings to increase funding and publication prospects in your field.\n\nSign up today (https://instats.org/seminar/what-do-grant-reviewers-look-for-free-se) to register now, and we'd appreciate you sharing this with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - This seminar offers essential insights into crafting compelling research proposals that resonate with funding committees. What Do Grant Reviewers Look For? ",
+      "thread_id": "thread-ca9e92b42cdf",
+      "thread_depth": 0,
+      "month": "2026-05"
+    },
+    {
+      "id": "msg-0492b9eb3fd9",
+      "message_id": "<1778250081.999331592@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-05-08T14:21:21Z",
+      "subject": "[R-sig-genetics] Online course - Generalized Linear Models in R- 25–29 May",
+      "subject_clean": "Online course - Generalized Linear Models in R- 25–29 May",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nThere are only a few seats available for our online course Generalized Linear Models in R, taking place from 25?29 May.\n \nMany statistical methods commonly taught as separate tools (t-tests, ANOVA, regression) are in fact part of a single, powerful framework: Generalized Linear Models (GLMs). This course presents GLMs as a unified and practical approach for analysing real biological and experimental data in R, including Gaussian, binary, and count data.\n \nDuring the course, you will learn how to:\nFit and interpret GLMs in R (including logistic and Poisson regression)\nWork with categorical and continuous predictors\nUnderstand model selection and diagnostic approaches\nVisualize and effectively communicate model results\nBuild a strong foundation for advanced methods such as mixed models, GAMs, and Bayesian approaches\n \nBest regards,\nCarlo \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nThere are only a few seats available for our online course Generalized Linear Models in R, taking place from 25?29 May.\n \nMany statistical methods commonly taught as separate tools (t-tests,",
+      "thread_id": "thread-0492b9eb3fd9",
+      "thread_depth": 0,
+      "month": "2026-05"
     }
   ],
   "threads": [
@@ -193,6 +225,28 @@
       "started": "2026-05-06T14:01:10Z",
       "last_reply": "2026-05-06T14:01:10Z",
       "root_message_id": "msg-b85e2fd1ca6e"
+    },
+    {
+      "id": "thread-ca9e92b42cdf",
+      "subject": "Last chance: What Grant Reviewers Look For in Proposals",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-05-08T13:42:38Z",
+      "last_reply": "2026-05-08T13:42:38Z",
+      "root_message_id": "msg-ca9e92b42cdf"
+    },
+    {
+      "id": "thread-0492b9eb3fd9",
+      "subject": "Online course - Generalized Linear Models in R- 25–29 May",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-05-08T14:21:21Z",
+      "last_reply": "2026-05-08T14:21:21Z",
+      "root_message_id": "msg-0492b9eb3fd9"
     }
   ]
 }
