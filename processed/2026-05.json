@@ -146,6 +146,22 @@
       "thread_id": "thread-0492b9eb3fd9",
       "thread_depth": 0,
       "month": "2026-05"
+    },
+    {
+      "id": "msg-623c24b745cf",
+      "message_id": "<-mPr2ItKQjuigdWZ6eLNQA@geopod-ismtpd-1>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-05-11T09:45:12Z",
+      "subject": "[R-sig-genetics] Last chance: Introduction to R, Regression, and rms Package",
+      "subject_clean": "Last chance: Introduction to R, Regression, and rms Package",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - This seminar offers essential skills for robust statistical analysis and reproducible research practices. Introduction to R, Regression, and the rms Package is a 2-day seminar livestreaming May 11 with Frank Harrell (Department of Biostatistics, Vanderbilt University) and Drew Levy. This seminar introduces R, RStudio, linear and multiple regression principles, and the rms package for model specification, estimation, and diagnosis. Researchers in genetics can apply these foundational skills to develop rigorous regression analyses for complex genetic data and implement reproducible reporting workflows in their empirical studies. The reproducible Quarto workflow demonstrated, including a case study, provides a template for transparently integrating data, analysis, and reporting in genetic research.\n\nSign up today (https://instats.org/seminar/introduction-to-r-regression-and-the-rms) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - This seminar offers essential skills for robust statistical analysis and reproducible research practices. Introduction to R, Regression, and the rms Package",
+      "thread_id": "thread-623c24b745cf",
+      "thread_depth": 0,
+      "month": "2026-05"
     }
   ],
   "threads": [
@@ -247,6 +263,17 @@
       "started": "2026-05-08T14:21:21Z",
       "last_reply": "2026-05-08T14:21:21Z",
       "root_message_id": "msg-0492b9eb3fd9"
+    },
+    {
+      "id": "thread-623c24b745cf",
+      "subject": "Last chance: Introduction to R, Regression, and rms Package",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-05-11T09:45:12Z",
+      "last_reply": "2026-05-11T09:45:12Z",
+      "root_message_id": "msg-623c24b745cf"
     }
   ]
 }
