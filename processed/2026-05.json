@@ -162,6 +162,22 @@
       "thread_id": "thread-623c24b745cf",
       "thread_depth": 0,
       "month": "2026-05"
+    },
+    {
+      "id": "msg-857545d95558",
+      "message_id": "<C3uD2rCHRDui91FF_E4rdg@geopod-ismtpd-11>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-05-13T11:44:37Z",
+      "subject": "[R-sig-genetics] Last chance: Sample Size and Power Analysis for Rigorous Research",
+      "subject_clean": "Last chance: Sample Size and Power Analysis for Rigorous Research",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - Understanding sample size and power analysis is fundamental for designing robust studies and producing credible research. Sample Size and Power Analysis is a 2-day seminar livestreaming May 14 with Soleman Abu-Bader (School of Social Work, Howard University). Accurate sample size determination and statistical power analysis are critical for the rigor of quantitative research, ensuring valid inferences and effective resource allocation. Researchers analyzing genetic data with R can apply these principles to design adequately powered studies, justify sample sizes in grant proposals, and enhance the credibility of their findings. This seminar provides practical competence in operationalizing effect sizes and generating reproducible justifications for sample size choices, directly strengthening publication prospects for genetic research.\n\nSign up today (https://instats.org/seminar/sample-size-and-power-analysis) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Understanding sample size and power analysis is fundamental for designing robust studies and producing credible research. Sample Size and Power Analysis is ",
+      "thread_id": "thread-857545d95558",
+      "thread_depth": 0,
+      "month": "2026-05"
     }
   ],
   "threads": [
@@ -274,6 +290,17 @@
       "started": "2026-05-11T09:45:12Z",
       "last_reply": "2026-05-11T09:45:12Z",
       "root_message_id": "msg-623c24b745cf"
+    },
+    {
+      "id": "thread-857545d95558",
+      "subject": "Last chance: Sample Size and Power Analysis for Rigorous Research",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-05-13T11:44:37Z",
+      "last_reply": "2026-05-13T11:44:37Z",
+      "root_message_id": "msg-857545d95558"
     }
   ]
 }
