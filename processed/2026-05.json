@@ -242,6 +242,22 @@
       "thread_id": "thread-98226115c236",
       "thread_depth": 0,
       "month": "2026-05"
+    },
+    {
+      "id": "msg-dc9b8dc74c94",
+      "message_id": "<AfgRvUMqQ26BdN3Bj33Szw@geopod-ismtpd-9>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-05-22T13:53:37Z",
+      "subject": "[R-sig-genetics] Last chance: Exploratory Analysis of Complex Datasets with AI",
+      "subject_clean": "Last chance: Exploratory Analysis of Complex Datasets with AI",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - This advanced seminar offers practical skills to navigate and interpret the complexities of modern data analysis. Exploratory Analysis of Complex Datasets with AI 3.0 is a 2-day seminar livestreaming May 27 with Nikolay Oskolkov (Lund University). This seminar offers advanced techniques for exploratory analysis of high-dimensional genetic datasets, enabling researchers to uncover hidden patterns and anomalies. You will learn to apply dimensionality reduction and clustering methods, along with modern AI tools, to extract deeper insights from your complex genetic data. Mastering these skills in R and Python, supported by AI, will significantly enhance your ability to interpret and advance your genomic research.\n\nSign up today (https://instats.org/seminar/exploratory-analysis-of-complex-datasets-4) to join before enrollment closes, and please pass this to colleagues and students who may be interested!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - This advanced seminar offers practical skills to navigate and interpret the complexities of modern data analysis. Exploratory Analysis of Complex Datasets w",
+      "thread_id": "thread-dc9b8dc74c94",
+      "thread_depth": 0,
+      "month": "2026-05"
     }
   ],
   "threads": [
@@ -409,6 +425,17 @@
       "started": "2026-05-19T11:17:19Z",
       "last_reply": "2026-05-19T11:17:19Z",
       "root_message_id": "msg-98226115c236"
+    },
+    {
+      "id": "thread-dc9b8dc74c94",
+      "subject": "Last chance: Exploratory Analysis of Complex Datasets with AI",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-05-22T13:53:37Z",
+      "last_reply": "2026-05-22T13:53:37Z",
+      "root_message_id": "msg-dc9b8dc74c94"
     }
   ]
 }
