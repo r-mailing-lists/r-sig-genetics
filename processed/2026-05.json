@@ -258,6 +258,38 @@
       "thread_id": "thread-dc9b8dc74c94",
       "thread_depth": 0,
       "month": "2026-05"
+    },
+    {
+      "id": "msg-4ff4ecf77d52",
+      "message_id": "<1779693519.10061206@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-05-25T07:18:39Z",
+      "subject": "[R-sig-genetics] Online course: Machine Learning for Multi-Omics Integration - 21–23 September",
+      "subject_clean": "Online course: Machine Learning for Multi-Omics Integration - 21–23 September",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are pleased to announce the online Physalia course  Machine Learning for Multi-Omics Integration, taking place from  21?23 September.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/multiomics/ ]( https://www.physalia-courses.org/courses-workshops/multiomics/ ) \n \nThis course will introduce machine learning methodologies for integrating large-scale biological and biomedical data generated through Next-Generation Sequencing (NGS) and other Omics technologies. Through a combination of lectures and hands-on sessions, participants will explore supervised, unsupervised, deep learning, and single-cell Omics integration approaches.\n \nParticipants are expected to have basic familiarity with the UNIX environment and beginner-level experience in R and/or Python.\n \nBy the end of the course, participants will be able to:\nUnderstand machine learning approaches for biological data analysis\nSelect appropriate tools for integrative Omics analysis\nDesign and implement integrative bioinformatics workflows\nApply suitable methodologies to specific biological research questions\nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ ) \n \nBest regards,\n \nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are pleased to announce the online Physalia course  Machine Learning for Multi-Omics Integration, taking place from  21?23 September.\n \nCourse website: [ https://www.physalia-courses.org/",
+      "thread_id": "thread-4ff4ecf77d52",
+      "thread_depth": 0,
+      "month": "2026-05"
+    },
+    {
+      "id": "msg-843839c0a686",
+      "message_id": "<PCGWHioqR8eyqNuLPeQBHA@geopod-ismtpd-3>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-05-25T09:08:12Z",
+      "subject": "[R-sig-genetics] Last chance: Single Cell Data Analysis Workshop",
+      "subject_clean": "Last chance: Single Cell Data Analysis Workshop",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - Discover how to effectively analyze complex biological data at the single-cell level. Single Cell Data Analysis 3.0 is a 2-day seminar livestreaming May 25 with Nikolay Oskolkov (Lund University). This workshop offers practical skills in single-cell data analysis, crucial for understanding cellular heterogeneity in genetic research. Participants will gain expertise in processing, clustering, and integrating single-cell RNA sequencing data using R and Python. These methods can be directly applied to advance genetic studies by enabling more granular insights into gene expression patterns and cellular mechanisms.\n\nSign up today (https://instats.org/seminar/single-cell-data-analysis-30) to register now, and we'd appreciate you sharing this with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Discover how to effectively analyze complex biological data at the single-cell level. Single Cell Data Analysis 3.0 is a 2-day seminar livestreaming May 25 ",
+      "thread_id": "thread-843839c0a686",
+      "thread_depth": 0,
+      "month": "2026-05"
     }
   ],
   "threads": [
@@ -436,6 +468,28 @@
       "started": "2026-05-22T13:53:37Z",
       "last_reply": "2026-05-22T13:53:37Z",
       "root_message_id": "msg-dc9b8dc74c94"
+    },
+    {
+      "id": "thread-4ff4ecf77d52",
+      "subject": "Online course: Machine Learning for Multi-Omics Integration - 21–23 September",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-05-25T07:18:39Z",
+      "last_reply": "2026-05-25T07:18:39Z",
+      "root_message_id": "msg-4ff4ecf77d52"
+    },
+    {
+      "id": "thread-843839c0a686",
+      "subject": "Last chance: Single Cell Data Analysis Workshop",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-05-25T09:08:12Z",
+      "last_reply": "2026-05-25T09:08:12Z",
+      "root_message_id": "msg-843839c0a686"
     }
   ]
 }
