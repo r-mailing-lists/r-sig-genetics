@@ -290,6 +290,22 @@
       "thread_id": "thread-843839c0a686",
       "thread_depth": 0,
       "month": "2026-05"
+    },
+    {
+      "id": "msg-4df6e5e90056",
+      "message_id": "<h9BHVQs-Sn2l3m0C1uc4YA@geopod-ismtpd-10>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-05-27T11:58:22Z",
+      "subject": "[R-sig-genetics] AI Agents for Researchers - Streamline Research with AI Agents",
+      "subject_clean": "AI Agents for Researchers - Streamline Research with AI Agents",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - Enhance your computational research workflows with advanced, reproducible agentic AI tools. AI Agents for Researchers is a 2-day seminar livestreaming June 5 with Martin Qiu (Lazaridis School of Business and Economics, Wilfrid Laurier University). Geneticists can leverage Codex and agentic AI to automate complex R coding tasks, manage large-scale data preparation, and document analytical pipelines with rigorous audit logs. By decomposing coding and data-cleaning procedures into structured agentic workflows, you can ensure your genomic analyses remain highly reproducible and robust against peer review. This training provides the practical framework needed to integrate these intelligent collaborators into your existing R-based research environment.\n\nSign up today (https://instats.org/seminar/ai-agents-for-researchers) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Enhance your computational research workflows with advanced, reproducible agentic AI tools. AI Agents for Researchers is a 2-day seminar livestreaming June ",
+      "thread_id": "thread-4df6e5e90056",
+      "thread_depth": 0,
+      "month": "2026-05"
     }
   ],
   "threads": [
@@ -490,6 +506,17 @@
       "started": "2026-05-25T09:08:12Z",
       "last_reply": "2026-05-25T09:08:12Z",
       "root_message_id": "msg-843839c0a686"
+    },
+    {
+      "id": "thread-4df6e5e90056",
+      "subject": "AI Agents for Researchers - Streamline Research with AI Agents",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-05-27T11:58:22Z",
+      "last_reply": "2026-05-27T11:58:22Z",
+      "root_message_id": "msg-4df6e5e90056"
     }
   ]
 }
