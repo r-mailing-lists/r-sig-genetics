@@ -306,6 +306,22 @@
       "thread_id": "thread-4df6e5e90056",
       "thread_depth": 0,
       "month": "2026-05"
+    },
+    {
+      "id": "msg-2c7dae299023",
+      "message_id": "<1nCuIzMXQbaFKK2Sxdsshg@geopod-ismtpd-11>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-05-29T13:53:07Z",
+      "subject": "[R-sig-genetics] Longitudinal Analysis in Biostatistics - On-Demand R Seminar",
+      "subject_clean": "Longitudinal Analysis in Biostatistics - On-Demand R Seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nEnhance your statistical toolkit with advanced methods designed to handle complex datasets over time. Longitudinal Analysis in Biostatistics led by Md Tuhin Sheikh (Biostatistics, College of Health Solutions, Arizona State University) is now available as an on-demand streaming seminar. Researchers can leverage these advanced modeling frameworks to track genetic variations and phenotypic changes in populations over time. By mastering practical techniques for handling missing data and multilevel structures in R, you can ensure your genomic analyses remain robust against experimental dropout. These biostatistical methods will directly enhance your ability to model complex, nested genetic datasets and extract meaningful evolutionary insights.\n\nAccess this seminar (https://instats.org/seminar/longitudinal-analysis-in-biostatistics) on demand at your own pace, and please pass this to colleagues and students who may find it useful!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nEnhance your statistical toolkit with advanced methods designed to handle complex datasets over time. Longitudinal Analysis in Biostatistics led by Md Tuhin Sheikh (Biost",
+      "thread_id": "thread-2c7dae299023",
+      "thread_depth": 0,
+      "month": "2026-05"
     }
   ],
   "threads": [
@@ -517,6 +533,17 @@
       "started": "2026-05-27T11:58:22Z",
       "last_reply": "2026-05-27T11:58:22Z",
       "root_message_id": "msg-4df6e5e90056"
+    },
+    {
+      "id": "thread-2c7dae299023",
+      "subject": "Longitudinal Analysis in Biostatistics - On-Demand R Seminar",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-05-29T13:53:07Z",
+      "last_reply": "2026-05-29T13:53:07Z",
+      "root_message_id": "msg-2c7dae299023"
     }
   ]
 }
