@@ -322,6 +322,22 @@
       "thread_id": "thread-2c7dae299023",
       "thread_depth": 0,
       "month": "2026-05"
+    },
+    {
+      "id": "msg-4e0150e84b40",
+      "message_id": "<1780153346.983624921@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-05-30T15:02:26Z",
+      "subject": "[R-sig-genetics] Sex Chromosome Evolution- online, 12-16October",
+      "subject_clean": "Sex Chromosome Evolution- online, 12-16October",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are pleased to announce the upcoming Physalia online course ?Sex Chromosome Evolution?, taking place from 12?16 October.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/sexchr/ ]( https://www.physalia-courses.org/courses-workshops/sexchr/ ) \n \nThis course will introduce how genomic and transcriptomic data can be used to detect sex chromosomes and to study the cause and consequences of sex chromosome differentiation. Participants will explore study design, data collection, and analysis strategies, and will learn how to identify sex chromosomes and investigate their molecular evolution.\n \nKey topics include:\n\nSex determination systems and sex chromosomes (X0, XY, ZW, UV)\n\nIdentification of sex chromosomes using genomic approaches\n\nRecombination suppression, evolutionary strata, and genome divergence\n\nGene gain/loss and gene expression differentiation\n\nSex-biased gene expression and dosage compensation\n\nComparative analyses across species\nThe course combines lectures, hands-on exercises, and interactive discussions using real datasets.\n \nParticipants will work in a Linux environment and use R for data analysis and visualization.\nThe course is aimed at graduate students and researchers in evolutionary biology, genetics/genomics, and bioinformatics. Basic experience in UNIX command line and R is recommended.\n \n \nBest wishes,\nCarlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are pleased to announce the upcoming Physalia online course ?Sex Chromosome Evolution?, taking place from 12?16 October.\n \nCourse website: [ https://www.physalia-courses.org/courses-works",
+      "thread_id": "thread-4e0150e84b40",
+      "thread_depth": 0,
+      "month": "2026-05"
     }
   ],
   "threads": [
@@ -544,6 +560,17 @@
       "started": "2026-05-29T13:53:07Z",
       "last_reply": "2026-05-29T13:53:07Z",
       "root_message_id": "msg-2c7dae299023"
+    },
+    {
+      "id": "thread-4e0150e84b40",
+      "subject": "Sex Chromosome Evolution- online, 12-16October",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-05-30T15:02:26Z",
+      "last_reply": "2026-05-30T15:02:26Z",
+      "root_message_id": "msg-4e0150e84b40"
     }
   ]
 }
