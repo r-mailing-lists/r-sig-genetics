@@ -34,6 +34,38 @@
       "thread_id": "thread-5917d97002e3",
       "thread_depth": 0,
       "month": "2026-06"
+    },
+    {
+      "id": "msg-5f1e4808f60a",
+      "message_id": "<b8b-KtAISyKKWEJMJxqzoQ@geopod-ismtpd-4>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-06-08T09:02:24Z",
+      "subject": "[R-sig-genetics] Last chance: Clustering High-Dimensional Data 3.0 starts soon",
+      "subject_clean": "Last chance: Clustering High-Dimensional Data 3.0 starts soon",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - Enhance your analytical toolkit with advanced methods for managing complex, multi-dimensional datasets. Clustering High-Dimensional Data 3.0 is a 2-day seminar livestreaming June 16 with Nikolay Oskolkov (Lund University). This upcoming livestream seminar provides comprehensive training in advanced clustering techniques and dimensionality reduction using R and Python. Genetics researchers can apply these methods to extract meaningful patterns from complex, high-dimensional genomic datasets. By mastering algorithms like DBSCAN and UMAP, you can significantly enhance your statistical workflows and accelerate discoveries in computational biology.\n\nSign up today (https://instats.org/seminar/clustering-high-dimensional-data-30) to join before enrollment closes, and please pass this to colleagues and students who may be interested!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Enhance your analytical toolkit with advanced methods for managing complex, multi-dimensional datasets. Clustering High-Dimensional Data 3.0 is a 2-day semi",
+      "thread_id": "thread-5f1e4808f60a",
+      "thread_depth": 0,
+      "month": "2026-06"
+    },
+    {
+      "id": "msg-55743d68fac8",
+      "message_id": "<1780925949.55384772@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-06-08T13:39:09Z",
+      "subject": "[R-sig-genetics] Developing R/Bioconductor packages",
+      "subject_clean": "Developing R/Bioconductor packages",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are pleased to announce the online course ?Developing R/Bioconductor packages for genomics?, taking place 6?10 July (2?6 pm Berlin time).\n \nCourse website:[ https://www.physalia-courses.org/courses-workshops/r-packages/ ]( https://www.physalia-courses.org/courses-workshops/r-packages/ ) \n \n \nThis 5-day hands-on course is designed to make R package development and the Bioconductor ecosystem accessible to biologists and early-stage bioinformaticians who want to move from package users to package developers. The focus is on building robust, reproducible, and distributable genomic software in R.\n \nParticipants will learn how to:\nDevelop well-structured R functions and packages\nDocument, test, and maintain code effectively\nManage dependencies, versions, and continuous integration (GitHub Actions)\nBuild Bioconductor-compliant packages and objects\nCreate vignettes and package websites\nSubmit, release, and disseminate packages (including JOSS and rOpenSci pathways)\nThe course combines short lectures (~2h/day), live demonstrations, and extensive guided exercises with solutions. Daily office hours and a dedicated Slack channel will support interaction and Q&A.\n \n \nBest regards,\n \nThe Physalia-courses website\n \n[ www.physalia-courses.org ]( http://www.physalia-courses.org )\n \n \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are pleased to announce the online course ?Developing R/Bioconductor packages for genomics?, taking place 6?10 July (2?6 pm Berlin time).\n \nCourse website:[ https://www.physalia-courses.o",
+      "thread_id": "thread-55743d68fac8",
+      "thread_depth": 0,
+      "month": "2026-06"
     }
   ],
   "threads": [
@@ -58,6 +90,28 @@
       "started": "2026-06-03T11:12:24Z",
       "last_reply": "2026-06-03T11:12:24Z",
       "root_message_id": "msg-5917d97002e3"
+    },
+    {
+      "id": "thread-5f1e4808f60a",
+      "subject": "Last chance: Clustering High-Dimensional Data 3.0 starts soon",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-06-08T09:02:24Z",
+      "last_reply": "2026-06-08T09:02:24Z",
+      "root_message_id": "msg-5f1e4808f60a"
+    },
+    {
+      "id": "thread-55743d68fac8",
+      "subject": "Developing R/Bioconductor packages",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-06-08T13:39:09Z",
+      "last_reply": "2026-06-08T13:39:09Z",
+      "root_message_id": "msg-55743d68fac8"
     }
   ]
 }

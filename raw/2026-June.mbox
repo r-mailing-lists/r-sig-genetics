@@ -41,3 +41,60 @@ Instats | instats.org
 	[[alternative HTML version deleted]]
 
 
+From mzyphur m@iii@g oii i@st@ts@org  Mon Jun  8 11:02:24 2026
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Mon, 08 Jun 2026 09:02:24 +0000 (UTC)
+Subject: [R-sig-genetics] Last chance: Clustering High-Dimensional Data 3.0
+ starts soon
+Message-ID: <b8b-KtAISyKKWEJMJxqzoQ@geopod-ismtpd-4>
+
+Hello R-SIG-GENETICS members
+
+Last chance - Enhance your analytical toolkit with advanced methods for managing complex, multi-dimensional datasets. Clustering High-Dimensional Data 3.0 is a 2-day seminar livestreaming June 16 with Nikolay Oskolkov (Lund University). This upcoming livestream seminar provides comprehensive training in advanced clustering techniques and dimensionality reduction using R and Python. Genetics researchers can apply these methods to extract meaningful patterns from complex, high-dimensional genomic datasets. By mastering algorithms like DBSCAN and UMAP, you can significantly enhance your statistical workflows and accelerate discoveries in computational biology.
+
+Sign up today (https://instats.org/seminar/clustering-high-dimensional-data-30) to join before enrollment closes, and please pass this to colleagues and students who may be interested!
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Instats | instats.org
+	[[alternative HTML version deleted]]
+
+
+From i@io m@iii@g oii phys@ii@-courses@org  Mon Jun  8 15:39:09 2026
+From: i@io m@iii@g oii phys@ii@-courses@org (i@io m@iii@g oii phys@ii@-courses@org)
+Date: Mon, 8 Jun 2026 15:39:09 +0200 (CEST)
+Subject: [R-sig-genetics] Developing R/Bioconductor packages
+Message-ID: <1780925949.55384772@webmail.jimdo.com>
+
+
+Dear all,
+We are pleased to announce the online course ?Developing R/Bioconductor packages for genomics?, taking place 6?10 July (2?6 pm Berlin time).
+ 
+Course website:[ https://www.physalia-courses.org/courses-workshops/r-packages/ ]( https://www.physalia-courses.org/courses-workshops/r-packages/ ) 
+ 
+ 
+This 5-day hands-on course is designed to make R package development and the Bioconductor ecosystem accessible to biologists and early-stage bioinformaticians who want to move from package users to package developers. The focus is on building robust, reproducible, and distributable genomic software in R.
+ 
+Participants will learn how to:
+Develop well-structured R functions and packages
+Document, test, and maintain code effectively
+Manage dependencies, versions, and continuous integration (GitHub Actions)
+Build Bioconductor-compliant packages and objects
+Create vignettes and package websites
+Submit, release, and disseminate packages (including JOSS and rOpenSci pathways)
+The course combines short lectures (~2h/day), live demonstrations, and extensive guided exercises with solutions. Daily office hours and a dedicated Slack channel will support interaction and Q&A.
+ 
+ 
+Best regards,
+ 
+The Physalia-courses website
+ 
+[ www.physalia-courses.org ]( http://www.physalia-courses.org )
+ 
+ 
+	[[alternative HTML version deleted]]
+
+
