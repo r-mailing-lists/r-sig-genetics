@@ -66,6 +66,22 @@
       "thread_id": "thread-55743d68fac8",
       "thread_depth": 0,
       "month": "2026-06"
+    },
+    {
+      "id": "msg-7c9f16999750",
+      "message_id": "<Hq6XzisiRaWt99_X46s_tA@geopod-ismtpd-2>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-06-10T11:57:34Z",
+      "subject": "[R-sig-genetics] Analyzing Latent Variable Mixture Models",
+      "subject_clean": "Analyzing Latent Variable Mixture Models",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nEnhance your statistical toolkit with advanced methods for modeling unobserved population heterogeneity. Latent Variable Mixture Models is a 2-day seminar livestreaming July 6?7, led by Holmes Finch (Department of Educational Psychology - Ball State University). Researchers analyzing complex genetic datasets can apply these advanced modeling techniques to identify unobserved subpopulations and model nonnormal trait distributions within their study cohorts. By integrating these methods into your R workflows, you can better resolve population heterogeneity and detect measurement noninvariance across diverse genetic samples. This approach allows for more robust inference when linking genetic markers to complex, multi-layered phenotypes.\n\nSign up today (https://instats.org/seminar/latent-variable-mixture-models) to register, and we would appreciate you sharing this with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nEnhance your statistical toolkit with advanced methods for modeling unobserved population heterogeneity. Latent Variable Mixture Models is a 2-day seminar livestreaming J",
+      "thread_id": "thread-7c9f16999750",
+      "thread_depth": 0,
+      "month": "2026-06"
     }
   ],
   "threads": [
@@ -112,6 +128,17 @@
       "started": "2026-06-08T13:39:09Z",
       "last_reply": "2026-06-08T13:39:09Z",
       "root_message_id": "msg-55743d68fac8"
+    },
+    {
+      "id": "thread-7c9f16999750",
+      "subject": "Analyzing Latent Variable Mixture Models",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-06-10T11:57:34Z",
+      "last_reply": "2026-06-10T11:57:34Z",
+      "root_message_id": "msg-7c9f16999750"
     }
   ]
 }
