@@ -82,6 +82,22 @@
       "thread_id": "thread-7c9f16999750",
       "thread_depth": 0,
       "month": "2026-06"
+    },
+    {
+      "id": "msg-35080d34665f",
+      "message_id": "<0WuG4wa1RJqdy98fdqNx8Q@geopod-ismtpd-10>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-06-12T13:43:21Z",
+      "subject": "[R-sig-genetics] Learn Multivariate Analysis of Biotic Communities in R",
+      "subject_clean": "Learn Multivariate Analysis of Biotic Communities in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nEnhance your research capabilities with our comprehensive, self-paced training on advanced multivariate data analysis. Multivariate Analysis of Biotic Communities led by Oliver Miler (Northwest Indian Fisheries Commission) is now available as an on-demand streaming seminar. This on-demand seminar provides researchers with the practical skills needed to conduct multivariate analysis of complex biological datasets using R. Members of the genetics community can apply these advanced analytical workflows to model multi-locus genetic patterns and explore complex gene-environment interactions. By mastering these multivariate techniques and visualization tools, you can uncover hidden structures in your genomic and ecological data to publish more robust research findings.\n\nAccess this seminar (https://instats.org/seminar/multivariate-analysis-of-biotic-communit-1) online at your convenience and we'd appreciate you sharing this with colleagues and students!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nEnhance your research capabilities with our comprehensive, self-paced training on advanced multivariate data analysis. Multivariate Analysis of Biotic Communities led by ",
+      "thread_id": "thread-35080d34665f",
+      "thread_depth": 0,
+      "month": "2026-06"
     }
   ],
   "threads": [
@@ -139,6 +155,17 @@
       "started": "2026-06-10T11:57:34Z",
       "last_reply": "2026-06-10T11:57:34Z",
       "root_message_id": "msg-7c9f16999750"
+    },
+    {
+      "id": "thread-35080d34665f",
+      "subject": "Learn Multivariate Analysis of Biotic Communities in R",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-06-12T13:43:21Z",
+      "last_reply": "2026-06-12T13:43:21Z",
+      "root_message_id": "msg-35080d34665f"
     }
   ]
 }
