@@ -146,6 +146,22 @@
       "thread_id": "thread-030ecf8e982a",
       "thread_depth": 0,
       "month": "2026-06"
+    },
+    {
+      "id": "msg-394592fe88a0",
+      "message_id": "<5wE675aeTR22gc47IVDupA@geopod-ismtpd-2>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-06-19T13:39:10Z",
+      "subject": "[R-sig-genetics] AI for Data Visualization and Dashboards",
+      "subject_clean": "AI for Data Visualization and Dashboards",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nEffectively communicating complex scientific insights is essential for advancing modern research. AI for Data Visualization and Dashboards led by Hadi Fariborzi (Bissett School of Business, Mount Royal University, Calgary) is now available as an on-demand streaming seminar. Geneticists can leverage AI-assisted workflows in R and other platforms to rapidly build publication-ready visualizations of complex genomic datasets and spatial trends. This on-demand seminar teaches you how to use AI copilots to automate data cleaning, generate reproducible code, and design interactive dashboards that make your genetic findings more accessible to reviewers and collaborators. By mastering these AI-driven visualization techniques, you can streamline your analysis pipelines and present multi-dimensional biological data with greater clarity and impact.\n\nAccess this seminar (https://instats.org/seminar/ai-for-data-visualization-and-dashboards-1) on demand at your own pace, and please pass this to colleagues and students who may find it useful!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nEffectively communicating complex scientific insights is essential for advancing modern research. AI for Data Visualization and Dashboards led by Hadi Fariborzi (Bissett ",
+      "thread_id": "thread-394592fe88a0",
+      "thread_depth": 0,
+      "month": "2026-06"
     }
   ],
   "threads": [
@@ -247,6 +263,17 @@
       "started": "2026-06-17T11:40:25Z",
       "last_reply": "2026-06-17T11:40:25Z",
       "root_message_id": "msg-030ecf8e982a"
+    },
+    {
+      "id": "thread-394592fe88a0",
+      "subject": "AI for Data Visualization and Dashboards",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-06-19T13:39:10Z",
+      "last_reply": "2026-06-19T13:39:10Z",
+      "root_message_id": "msg-394592fe88a0"
     }
   ]
 }
