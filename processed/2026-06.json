@@ -162,6 +162,22 @@
       "thread_id": "thread-394592fe88a0",
       "thread_depth": 0,
       "month": "2026-06"
+    },
+    {
+      "id": "msg-b2ba29e143d9",
+      "message_id": "<Dd5_Vug4ROevs0Y8R-B6Fw@geopod-ismtpd-canary-0>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-06-22T09:52:33Z",
+      "subject": "[R-sig-genetics] Last chance: Building Autonomous AI Agents for Research",
+      "subject_clean": "Last chance: Building Autonomous AI Agents for Research",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - Enhance your computational workflows with cutting-edge tools designed to streamline complex data analysis. Building Autonomous AI Agents for Scientific Research is a 2-day seminar livestreaming June 26?27 with Renan Maestri (Department of Ecology, Universidade Federal do Rio Grande do Sul). Researchers analyzing complex genetic datasets in R can leverage autonomous AI agents to automate code generation, manage heavy analytical pipelines, and organize multi-step workflows. By learning to deploy these agentic systems locally or in the cloud, you can safely scale your genomic data processing while maintaining strict control over data privacy and reproducibility. This training will help you integrate secure, open-source AI tools directly into your R-based research to accelerate publication-quality discoveries.\n\nSign up today (https://instats.org/seminar/building-autonomous-ai-agents-for-scient) to reserve your place before it starts, and feel free to circulate this with colleagues and students!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Enhance your computational workflows with cutting-edge tools designed to streamline complex data analysis. Building Autonomous AI Agents for Scientific Rese",
+      "thread_id": "thread-b2ba29e143d9",
+      "thread_depth": 0,
+      "month": "2026-06"
     }
   ],
   "threads": [
@@ -274,6 +290,17 @@
       "started": "2026-06-19T13:39:10Z",
       "last_reply": "2026-06-19T13:39:10Z",
       "root_message_id": "msg-394592fe88a0"
+    },
+    {
+      "id": "thread-b2ba29e143d9",
+      "subject": "Last chance: Building Autonomous AI Agents for Research",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-06-22T09:52:33Z",
+      "last_reply": "2026-06-22T09:52:33Z",
+      "root_message_id": "msg-b2ba29e143d9"
     }
   ]
 }
