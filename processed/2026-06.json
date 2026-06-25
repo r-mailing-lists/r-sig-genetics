@@ -178,6 +178,22 @@
       "thread_id": "thread-b2ba29e143d9",
       "thread_depth": 0,
       "month": "2026-06"
+    },
+    {
+      "id": "msg-fc163269b1ea",
+      "message_id": "<TPyEwjmYTXeep5IPLMxLpA@geopod-ismtpd-canary-0>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-06-24T11:58:13Z",
+      "subject": "[R-sig-genetics] Master Social Network Analysis and ERGM in R",
+      "subject_clean": "Master Social Network Analysis and ERGM in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nEnhance your quantitative research skills with our comprehensive on-demand training program. Social Network Analysis: From Basics to ERGM led by Antonio Zinilli (Research Institute on Sustainable Economic Growth, National Research Council of Italy (CNR)) is now available as an on-demand streaming seminar. This on-demand seminar introduces comprehensive methods for modeling complex relational structures using R. Genetic researchers can apply these network analysis tools to map gene-gene interactions, analyze metabolic pathways, and model population structure dynamics. By mastering exponential random graph models (ERGM), you will be able to test complex hypotheses about the structural properties of biological networks in your own datasets.\n\nAccess this seminar (https://instats.org/seminar/social-network-analysis-from-basics-to-e-1) on demand at your own pace, and please pass this to colleagues and students who may find it useful!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nEnhance your quantitative research skills with our comprehensive on-demand training program. Social Network Analysis: From Basics to ERGM led by Antonio Zinilli (Research",
+      "thread_id": "thread-fc163269b1ea",
+      "thread_depth": 0,
+      "month": "2026-06"
     }
   ],
   "threads": [
@@ -301,6 +317,17 @@
       "started": "2026-06-22T09:52:33Z",
       "last_reply": "2026-06-22T09:52:33Z",
       "root_message_id": "msg-b2ba29e143d9"
+    },
+    {
+      "id": "thread-fc163269b1ea",
+      "subject": "Master Social Network Analysis and ERGM in R",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-06-24T11:58:13Z",
+      "last_reply": "2026-06-24T11:58:13Z",
+      "root_message_id": "msg-fc163269b1ea"
     }
   ]
 }
