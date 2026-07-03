@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-genetics",
+  "description": "",
+  "month": "2026-07",
+  "messages": [
+    {
+      "id": "msg-d1a74d87a034",
+      "message_id": "<wZ9s_6gVQ1mZSdEsc03z3g@geopod-ismtpd-5>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-07-02T12:33:33Z",
+      "subject": "[R-sig-genetics] Responsible AI in Academic Research — a policy proposal",
+      "subject_clean": "Responsible AI in Academic Research — a policy proposal",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello colleagues\n\nI'm sharing a new open-access policy document that you may find\nuseful: Responsible\nAI in Academic Research: A Competency Framework for Research Training\n<https://instats.org/publications/responsible-ai-in-academic-research>.\n\nIt came from a deceptively simple question: what does \"responsible AI use\"\nactually mean at the level of everyday research practice? This seemed like\na priority given the substantial AI research training\n<https://instats.org/results?nav=On-Demand&view=Seminars> that Instats has\nbeen offering since ChatGPT's launch. Over time, the document grew into a\nsurvey of AI policy at 38 top-tier doctoral universities across 15\ncountries, only six of which currently go beyond research-integrity rules\ninto AI literacy and valid research practice. The piece sets out a\nfive-dimension competency framework and a plain-language maturity grid that\nany department, graduate school, or research office can use to see where it\nstands today and what a credible next step looks like. A key takeaway is that plagiarism is not the central issue AI raises for research training. The deeper concern is whether research remains valid, and whether our training equips students with the knowledge and skills to conduct it responsibly.\n\nThe policy document is written for the people actually making these calls ?\nsupervisors, deans, graduate-school directors, and research-integrity\ncommittees ? and it's free to read, share, and download. Please feel free\nto pass it along to anyone wrestling with these questions.\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello colleagues\n\nI'm sharing a new open-access policy document that you may find\nuseful: Responsible\nAI in Academic Research: A Competency Framework for Research Training\n<https://instats.org/publica",
+      "thread_id": "thread-d1a74d87a034",
+      "thread_depth": 0,
+      "month": "2026-07"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d1a74d87a034",
+      "subject": "Responsible AI in Academic Research — a policy proposal",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-07-02T12:33:33Z",
+      "last_reply": "2026-07-02T12:33:33Z",
+      "root_message_id": "msg-d1a74d87a034"
+    }
+  ]
+}
