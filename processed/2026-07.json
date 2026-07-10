@@ -18,6 +18,22 @@
       "thread_id": "thread-d1a74d87a034",
       "thread_depth": 0,
       "month": "2026-07"
+    },
+    {
+      "id": "msg-04601d4ff04a",
+      "message_id": "<1783579961.39427162@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-07-09T06:52:41Z",
+      "subject": "[R-sig-genetics] Landscape Genomics Course - online, 13–17 July",
+      "subject_clean": "Landscape Genomics Course - online, 13–17 July",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Good morning everyone,\n \nThere is still time to join our Landscape Genomics course, taking place next week (13?17 July):\n[ https://www.physalia-courses.org/courses-workshops/course17 ]( https://www.physalia-courses.org/courses-workshops/course17 )\n \nOver five intensive days, participants will learn how to:\nanalyse GIS and spatial environmental data,\nwork with genomic datasets,\nintegrate spatial and genomic information, and\napply statistical approaches to investigate local adaptation.\nWhether you are interested in evolutionary biology, conservation genomics, or environmental adaptation, this course provides a practical, hands-on introduction to the latest analytical methods.\n \nIf you have any questions, please feel free to contact us.\n \nBest regards,\nCarlo\n \n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Good morning everyone,\n \nThere is still time to join our Landscape Genomics course, taking place next week (13?17 July):\n[ https://www.physalia-courses.org/courses-workshops/course17 ]( https://www.ph",
+      "thread_id": "thread-04601d4ff04a",
+      "thread_depth": 0,
+      "month": "2026-07"
     }
   ],
   "threads": [
@@ -31,6 +47,17 @@
       "started": "2026-07-02T12:33:33Z",
       "last_reply": "2026-07-02T12:33:33Z",
       "root_message_id": "msg-d1a74d87a034"
+    },
+    {
+      "id": "thread-04601d4ff04a",
+      "subject": "Landscape Genomics Course - online, 13–17 July",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-07-09T06:52:41Z",
+      "last_reply": "2026-07-09T06:52:41Z",
+      "root_message_id": "msg-04601d4ff04a"
     }
   ]
 }
