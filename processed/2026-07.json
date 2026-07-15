@@ -34,6 +34,22 @@
       "thread_id": "thread-04601d4ff04a",
       "thread_depth": 0,
       "month": "2026-07"
+    },
+    {
+      "id": "msg-36f42ebeeef6",
+      "message_id": "<gztwS65ySseD28ABcOVB1Q@geopod-ismtpd-7>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-07-14T10:49:23Z",
+      "subject": "[R-sig-genetics] DNA methylation analysis workflows",
+      "subject_clean": "DNA methylation analysis workflows",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nAnalyzing epigenetic data requires robust statistical tools and reproducible bioinformatic workflows. Analysis of DNA Methylation 2.0 led by Aline Muyle (Institute of Evolutionary Science of Montpellier (ISEM)) is now available as an on-demand streaming seminar. This on-demand seminar provides comprehensive workflows for processing and interpreting genomic methylation data from both short-read and long-read sequencing technologies. Researchers can apply these step-by-step bioinformatic pipelines and R scripts to identify differentially methylated regions and conduct robust statistical modeling in their own genetic studies. By integrating these advanced epigenetic analyses into your R-based workflows, you can uncover deeper insights into gene regulation and evolutionary patterns within your study populations.\n\nAccess this seminar (https://instats.org/seminar/analysis-of-dna-methylation-20-1) whenever convenient and feel free to circulate this with colleagues and students who may be interested!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nAnalyzing epigenetic data requires robust statistical tools and reproducible bioinformatic workflows. Analysis of DNA Methylation 2.0 led by Aline Muyle (Institute of Evo",
+      "thread_id": "thread-36f42ebeeef6",
+      "thread_depth": 0,
+      "month": "2026-07"
     }
   ],
   "threads": [
@@ -58,6 +74,17 @@
       "started": "2026-07-09T06:52:41Z",
       "last_reply": "2026-07-09T06:52:41Z",
       "root_message_id": "msg-04601d4ff04a"
+    },
+    {
+      "id": "thread-36f42ebeeef6",
+      "subject": "DNA methylation analysis workflows",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-07-14T10:49:23Z",
+      "last_reply": "2026-07-14T10:49:23Z",
+      "root_message_id": "msg-36f42ebeeef6"
     }
   ]
 }

@@ -85,3 +85,24 @@ mobile: +49 17645230846
 	[[alternative HTML version deleted]]
 
 
+From mzyphur m@iii@g oii i@st@ts@org  Tue Jul 14 12:49:23 2026
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Tue, 14 Jul 2026 10:49:23 +0000 (UTC)
+Subject: [R-sig-genetics] DNA methylation analysis workflows
+Message-ID: <gztwS65ySseD28ABcOVB1Q@geopod-ismtpd-7>
+
+Hello R-SIG-GENETICS members
+
+Analyzing epigenetic data requires robust statistical tools and reproducible bioinformatic workflows. Analysis of DNA Methylation 2.0 led by Aline Muyle (Institute of Evolutionary Science of Montpellier (ISEM)) is now available as an on-demand streaming seminar. This on-demand seminar provides comprehensive workflows for processing and interpreting genomic methylation data from both short-read and long-read sequencing technologies. Researchers can apply these step-by-step bioinformatic pipelines and R scripts to identify differentially methylated regions and conduct robust statistical modeling in their own genetic studies. By integrating these advanced epigenetic analyses into your R-based workflows, you can uncover deeper insights into gene regulation and evolutionary patterns within your study populations.
+
+Access this seminar (https://instats.org/seminar/analysis-of-dna-methylation-20-1) whenever convenient and feel free to circulate this with colleagues and students who may be interested!
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Instats | instats.org
+	[[alternative HTML version deleted]]
+
+
