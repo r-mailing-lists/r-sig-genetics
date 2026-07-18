@@ -50,6 +50,22 @@
       "thread_id": "thread-36f42ebeeef6",
       "thread_depth": 0,
       "month": "2026-07"
+    },
+    {
+      "id": "msg-d12f3df68d0f",
+      "message_id": "<LO2P265MB3675B7A0061888C0AF06C2B1ADC62@LO2P265MB3675.GBRP265.PROD.OUTLOOK.COM>",
+      "from_name": "Courses Info",
+      "from_email_hash": "24d17b1a4e0545afb32bf1bf5c3df1ff7d4f9388732f0717a9c94af6b35f2b5d",
+      "date": "2026-07-17T17:21:11Z",
+      "subject": "[R-sig-genetics] Genomic Prediction of Complex Traits using R",
+      "subject_clean": "Genomic Prediction of Complex Traits using R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Genomic Prediction of Complex Traits (GPCT01)\nhttps://prstats.org/course/genomic-prediction-of-complex-traits-gpct01/\n\nDelivered by Dr. Javier Fern?ndez-Gonz?lez, a quantitative geneticist specialising in statistical genomics, genomic prediction, and computational methods for breeding and quantitative genetics.\n\nLearn how to build genomic prediction models for complex traits, with methods that are highly applicable to evolutionary biology, population genetics, and evolutionary genomics.\n\nUnderstanding the genetic basis of complex traits is central to modern evolutionary biology. Advances in genome sequencing now allow researchers to investigate how thousands of genetic variants collectively influence phenotypes, adaptation, fitness, and evolutionary potential. Although genomic prediction was originally developed for plant and animal breeding, these statistical approaches are increasingly being used to study natural populations, the evolution of quantitative traits, genotype-phenotype relationships, and responses to environmental change.\n\nWhat you'll gain\n\n  *   A strong understanding of genomic prediction and quantitative genetics\n  *   Practical experience building genomic prediction models using modern statistical methods\n  *   Skills in predicting complex traits from genome-wide marker data\n  *   Understanding of model evaluation, validation, and prediction accuracy\n  *   Confidence in interpreting genomic prediction models within an evolutionary context\n\nCourse format\n\n  *   Live, instructor-led online training\n  *   Hands-on coding with real-world genomic datasets\n  *   Interactive practical exercises throughout\n  *   Strong focus on applied, research-ready workflows\n\nWho is this course for?\n\n  *   Evolutionary biologists\n  *   Population and quantitative geneticists\n  *   Evolutionary genomic researchers\n  *   PhD students and postdoctoral researchers\n  *   Anyone interested in applying statistical genomics to evolutionary research\n\nWhy take this course?\n\nMany of the most important questions in evolutionary biology involve understanding how genetic variation contributes to phenotypic diversity, adaptation, and fitness. Genomic prediction provides a powerful statistical framework for modelling complex traits controlled by many loci, allowing researchers to investigate evolutionary potential, predict phenotypic variation, and better understand the genetic architecture of adaptive traits. These methods are increasingly being applied alongside GWAS, population genomics, and quantitative genetics to address fundamental evolutionary questions.\n\nThis course equips you with the practical skills needed to develop, evaluate, and interpret genomic prediction models using modern statistical approaches. Whether you're studying adaptation, quantitative trait evolution, life-history variation, genotype-phenotype relationships, or evolutionary responses to changing environments, you'll gain the analytical toolkit needed to apply genomic prediction methods confidently in your own research.\n\nLearn more & enrol\n\nPR Stats course page for Genomic Prediction of Complex Traits (GPCT01)\n\nhttps://prstats.org/course/genomic-prediction-of-complex-traits-gpct01/\n\nQuestions?\n\nEmail: oliver at prstats.org\n\nOliver Hooker\nManaging Partner\n[signature_68833404]\nAdvanced Training for Researchers in the Life Sciences\ncoursesinfo at prstats.org <http://oliver at prstats.org/> | www.prstats.org<http://www.prstats.org/>\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20260717/6418db00/attachment-0001.html>\n\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: img-36c9b4a7-df2f-4310-8967-5faa998b05ba.png\nType: image/png\nSize: 722372 bytes\nDesc: img-36c9b4a7-df2f-4310-8967-5faa998b05ba.png\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20260717/6418db00/attachment-0001.png>",
+      "body_snippet": "Genomic Prediction of Complex Traits (GPCT01)\nhttps://prstats.org/course/genomic-prediction-of-complex-traits-gpct01/\n\nDelivered by Dr. Javier Fern?ndez-Gonz?lez, a quantitative geneticist specialisin",
+      "thread_id": "thread-d12f3df68d0f",
+      "thread_depth": 0,
+      "month": "2026-07"
     }
   ],
   "threads": [
@@ -85,6 +101,17 @@
       "started": "2026-07-14T10:49:23Z",
       "last_reply": "2026-07-14T10:49:23Z",
       "root_message_id": "msg-36f42ebeeef6"
+    },
+    {
+      "id": "thread-d12f3df68d0f",
+      "subject": "Genomic Prediction of Complex Traits using R",
+      "message_count": 1,
+      "participants": [
+        "Courses Info"
+      ],
+      "started": "2026-07-17T17:21:11Z",
+      "last_reply": "2026-07-17T17:21:11Z",
+      "root_message_id": "msg-d12f3df68d0f"
     }
   ]
 }
