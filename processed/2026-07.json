@@ -66,6 +66,38 @@
       "thread_id": "thread-d12f3df68d0f",
       "thread_depth": 0,
       "month": "2026-07"
+    },
+    {
+      "id": "msg-7f57883106a6",
+      "message_id": "<PADyrQ2XSMm0mDlawjBcfQ@geopod-ismtpd-canary-0>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-07-22T11:17:32Z",
+      "subject": "[R-sig-genetics] Last chance: Machine Learning for Computational Biology",
+      "subject_clean": "Last chance: Machine Learning for Computational Biology",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - Add hands-on machine learning methods to your genetic data analysis toolkit. Machine Learning for Computational Biology 4.0 is a seminar livestreaming July 30 with Nikolay Oskolkov (Lund University). Implement random forests, clustering, MCMC, and neural networks in R for genetic and genomic data analysis. Code key algorithms from scratch, troubleshoot model performance, and evaluate modelling choices alongside ethical considerations. Apply practical R workflows to biological data integration and research questions involving genetics.\n\nSign up today (https://instats.org/seminar/machine-learning-for-computational-biolo-4) to join before enrollment closes, and please pass this to colleagues and students who may be interested!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Add hands-on machine learning methods to your genetic data analysis toolkit. Machine Learning for Computational Biology 4.0 is a seminar livestreaming July ",
+      "thread_id": "thread-7f57883106a6",
+      "thread_depth": 0,
+      "month": "2026-07"
+    },
+    {
+      "id": "msg-6e75bc129415",
+      "message_id": "<1784721398.0055409@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-07-22T11:56:38Z",
+      "subject": "[R-sig-genetics] Developing R/Bioconductor Packages for Genomics . 27-31 July",
+      "subject_clean": "Developing R/Bioconductor Packages for Genomics . 27-31 July",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nHave you ever wished you could turn your scripts into a polished, shareable Bioconductor package?\n \nJoin Developing R/Bioconductor Packages for Genomics (Online, 27?31 July) and learn the complete package development workflow?from writing robust functions and documenting code to testing, continuous integration, package websites, and publishing your package in Bioconductor.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/r-packages/ ]( https://www.physalia-courses.org/courses-workshops/r-packages/ )\n \n \nDesigned for biologists and bioinformaticians with basic R experience, this highly practical course combines expert-led lectures with hands-on exercises. By the end of the week, you'll have the skills and confidence to develop, maintain, and share professional-quality genomics software using Bioconductor best practices.\n \nTurn your code into a reusable tool?and start contributing to the Bioconductor ecosystem.\n \nFor the full list of our courses and workshops, please have a look at: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )\n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nHave you ever wished you could turn your scripts into a polished, shareable Bioconductor package?\n \nJoin Developing R/Bioconductor Packages for Genomics (Online, 27?31 July) and learn the ",
+      "thread_id": "thread-6e75bc129415",
+      "thread_depth": 0,
+      "month": "2026-07"
     }
   ],
   "threads": [
@@ -112,6 +144,28 @@
       "started": "2026-07-17T17:21:11Z",
       "last_reply": "2026-07-17T17:21:11Z",
       "root_message_id": "msg-d12f3df68d0f"
+    },
+    {
+      "id": "thread-7f57883106a6",
+      "subject": "Last chance: Machine Learning for Computational Biology",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-07-22T11:17:32Z",
+      "last_reply": "2026-07-22T11:17:32Z",
+      "root_message_id": "msg-7f57883106a6"
+    },
+    {
+      "id": "thread-6e75bc129415",
+      "subject": "Developing R/Bioconductor Packages for Genomics . 27-31 July",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-07-22T11:56:38Z",
+      "last_reply": "2026-07-22T11:56:38Z",
+      "root_message_id": "msg-6e75bc129415"
     }
   ]
 }
