@@ -98,6 +98,22 @@
       "thread_id": "thread-6e75bc129415",
       "thread_depth": 0,
       "month": "2026-07"
+    },
+    {
+      "id": "msg-62025514e1cb",
+      "message_id": "<wMQacBgjRMm6p_Y3g1xz4g@geopod-ismtpd-4>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-07-23T14:01:46Z",
+      "subject": "[R-sig-genetics] Last chance: High-Performance Programming for Biology",
+      "subject_clean": "Last chance: High-Performance Programming for Biology",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nLast chance - Extend genetic analysis workflows with scalable, performance-conscious research software skills. High-Performance Programming for Biology is a 2-day seminar livestreaming August 3 and 14 with Giulio Formenti (Vertebrate Genome Lab, The Rockefeller University). Build efficient C and C++ tools, profile bottlenecks, manage memory safely, and use multithreading for genomic workloads. Genetic data analysts can apply these methods alongside R workflows when processing large sequence datasets, k-mer spaces, and indexed files. Reproducible build, testing, logging, and documentation practices help make research software more robust and reusable.\n\nSign up today (https://instats.org/seminar/high-performance-programming-for-biology) to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Extend genetic analysis workflows with scalable, performance-conscious research software skills. High-Performance Programming for Biology is a 2-day seminar",
+      "thread_id": "thread-62025514e1cb",
+      "thread_depth": 0,
+      "month": "2026-07"
     }
   ],
   "threads": [
@@ -166,6 +182,17 @@
       "started": "2026-07-22T11:56:38Z",
       "last_reply": "2026-07-22T11:56:38Z",
       "root_message_id": "msg-6e75bc129415"
+    },
+    {
+      "id": "thread-62025514e1cb",
+      "subject": "Last chance: High-Performance Programming for Biology",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-07-23T14:01:46Z",
+      "last_reply": "2026-07-23T14:01:46Z",
+      "root_message_id": "msg-62025514e1cb"
     }
   ]
 }
