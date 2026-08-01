@@ -146,22 +146,6 @@
       "thread_id": "thread-55018b3c2a52",
       "thread_depth": 0,
       "month": "2026-07"
-    },
-    {
-      "id": "msg-6ae8d857081a",
-      "message_id": "<08VmPApsS1GreuS1Fc9lwA@geopod-ismtpd-canary-0>",
-      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
-      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
-      "date": "2026-07-30T14:08:48Z",
-      "subject": "[R-sig-genetics] Applied longitudinal analysis for genetic data",
-      "subject_clean": "Applied longitudinal analysis for genetic data",
-      "in_reply_to": null,
-      "references": [],
-      "body_plain": "Hello R-SIG-GENETICS members\n\nRepeated measurements can reveal patterns that single-timepoint analyses cannot capture. Applied Longitudinal Data Analysis led by Han Du (Department of Psychology, University of California, Los Angeles) is now available as an on-demand streaming seminar. Model individual change and between-person differences over time using multilevel models, latent growth curves, and related longitudinal methods. Address nonlinear change, non-normality, model selection, mediation, and dyadic data through practical R and SPSS applications. Apply these techniques to genetic data with repeated measurements and report longitudinal findings clearly.\n\nAccess this seminar (https://instats.org/seminar/applied-longitudinal-data-analysis-1) online at your convenience and we'd appreciate you sharing this with colleagues and students!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Hello R-SIG-GENETICS members\n\nRepeated measurements can reveal patterns that single-timepoint analyses cannot capture. Applied Longitudinal Data Analysis led by Han Du (Department of Psychology, Unive",
-      "thread_id": "thread-6ae8d857081a",
-      "thread_depth": 0,
-      "month": "2026-07"
     }
   ],
   "threads": [
@@ -263,17 +247,6 @@
       "started": "2026-07-28T20:39:12Z",
       "last_reply": "2026-07-28T20:39:12Z",
       "root_message_id": "msg-55018b3c2a52"
-    },
-    {
-      "id": "thread-6ae8d857081a",
-      "subject": "Applied longitudinal analysis for genetic data",
-      "message_count": 1,
-      "participants": [
-        "mzyphur m@iii@g oii i@st@ts@org"
-      ],
-      "started": "2026-07-30T14:08:48Z",
-      "last_reply": "2026-07-30T14:08:48Z",
-      "root_message_id": "msg-6ae8d857081a"
     }
   ]
 }
