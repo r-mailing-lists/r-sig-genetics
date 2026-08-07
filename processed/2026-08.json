@@ -18,6 +18,38 @@
       "thread_id": "thread-0fdeb9e2c39a",
       "thread_depth": 0,
       "month": "2026-08"
+    },
+    {
+      "id": "msg-e33f8b4f739d",
+      "message_id": "<1786011175.682626807@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-08-06T10:12:55Z",
+      "subject": "[R-sig-genetics] Online course. Invasion Genomics in R. 12-14-16 October",
+      "subject_clean": "Online course. Invasion Genomics in R. 12-14-16 October",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nRegistrations are open for our online course ?Invasion Genomics in R?, taking place 12, 14 & 16 October.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/invasion-genomics/ ]( https://www.physalia-courses.org/courses-workshops/invasion-genomics/ ) \n \nDesigned to foster international participation, the course combines recorded lectures, self-paced practical tutorials with annotated R scripts, and live remote instructor support. Participants can progress through the materials at their own pace while having the opportunity to ask questions and discuss challenges with the instructor. The format is particularly suited to participants across different time zones.\n \nThe course provides a practical introduction to invasion genomics, focusing on three key themes:\nMovement dynamics ? investigating invasion sources, dispersal pathways, genetic diversity, and population structure\nAdaptation dynamics ? applying selection outlier detection methods to investigate adaptive processes\nEnvironmental adaptation ? using genotype-by-environment association (GEA) methods to explore how environmental conditions shape adaptive outcomes\nThe course is aimed at graduate students, researchers, and professionals interested in applying genomic approaches to invasion biology. \n\nIncludes: Recorded lectures, guided practicals, annotated R scripts, and live remote support\nParticipants will gain both fundamental knowledge and practical experience to help them apply invasion genomic approaches in their own research.\n \nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )\n \n \n \nBest regards,\n \nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nRegistrations are open for our online course ?Invasion Genomics in R?, taking place 12, 14 & 16 October.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/invasion-geno",
+      "thread_id": "thread-e33f8b4f739d",
+      "thread_depth": 0,
+      "month": "2026-08"
+    },
+    {
+      "id": "msg-bbf1ab2a06a5",
+      "message_id": "<yrJRY0AQTKqGnhleeB4WRw@geopod-ismtpd-7>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-08-06T14:32:46Z",
+      "subject": "[R-sig-genetics] Genomics for Ecological and Evolutionary Studies",
+      "subject_clean": "Genomics for Ecological and Evolutionary Studies",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nDevelop practical genomic data skills for ecological and evolutionary research questions. Genomics for Ecological and Evolutionary Studies led by Giulio Formenti (Vertebrate Genome Lab, The Rockefeller University) and Guido Gallo (Department of Biosciences, University of Milan) is now available as an on-demand streaming seminar. Sequencing-data analysis and bioinformatics workflows can help genetics researchers connect genomic evidence to ecological and evolutionary questions. Participants practise obtaining public data, aligning short and long reads, calling variants, inspecting variant files, and comparing alignments with command-line tools. These methods can be applied alongside R-based genetic-data analysis to evaluate sequencing technologies, manage genomic datasets, and investigate biodiversity and evolutionary history.\n\nCourse details: https://instats.org/seminar/genomics-for-ecological-and-evolutionary-1\nFurther information is available on the Instats course page.\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nDevelop practical genomic data skills for ecological and evolutionary research questions. Genomics for Ecological and Evolutionary Studies led by Giulio Formenti (Vertebr",
+      "thread_id": "thread-bbf1ab2a06a5",
+      "thread_depth": 0,
+      "month": "2026-08"
     }
   ],
   "threads": [
@@ -31,6 +63,28 @@
       "started": "2026-08-04T14:01:12Z",
       "last_reply": "2026-08-04T14:01:12Z",
       "root_message_id": "msg-0fdeb9e2c39a"
+    },
+    {
+      "id": "thread-e33f8b4f739d",
+      "subject": "Online course. Invasion Genomics in R. 12-14-16 October",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-08-06T10:12:55Z",
+      "last_reply": "2026-08-06T10:12:55Z",
+      "root_message_id": "msg-e33f8b4f739d"
+    },
+    {
+      "id": "thread-bbf1ab2a06a5",
+      "subject": "Genomics for Ecological and Evolutionary Studies",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-08-06T14:32:46Z",
+      "last_reply": "2026-08-06T14:32:46Z",
+      "root_message_id": "msg-bbf1ab2a06a5"
     }
   ]
 }
