@@ -50,6 +50,22 @@
       "thread_id": "thread-bbf1ab2a06a5",
       "thread_depth": 0,
       "month": "2026-08"
+    },
+    {
+      "id": "msg-e6284d4217ca",
+      "message_id": "<8o6ngqYiS0eKlOb7XQ6k5g@geopod-ismtpd-3>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-08-11T14:03:31Z",
+      "subject": "[R-sig-genetics] Appraising quantitative research in genetics",
+      "subject_clean": "Appraising quantitative research in genetics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nGenetic analyses are easier to assess when claims, designs, and evidence remain aligned. Appraising and Improving Quantitative Research led by Centre for Applied Statistics Courses (CASC) (University College London) is now available as an on-demand streaming seminar. Critical appraisal of study design, bias, model assumptions, and sensitivity analyses can strengthen genetic data-analysis decisions. Learn to align research questions, estimands, sampling, and analytical choices while evaluating reported uncertainty and causal claims. Apply reproducibility checks, reporting frameworks, and transparent workflows when reviewing or improving quantitative genetics research in R.\n\nCourse details: https://instats.org/seminar/appraising-and-improving-quantitative-re-1\nThe course page includes the curriculum and enrollment details.\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nGenetic analyses are easier to assess when claims, designs, and evidence remain aligned. Appraising and Improving Quantitative Research led by Centre for Applied Statisti",
+      "thread_id": "thread-e6284d4217ca",
+      "thread_depth": 0,
+      "month": "2026-08"
     }
   ],
   "threads": [
@@ -85,6 +101,17 @@
       "started": "2026-08-06T14:32:46Z",
       "last_reply": "2026-08-06T14:32:46Z",
       "root_message_id": "msg-bbf1ab2a06a5"
+    },
+    {
+      "id": "thread-e6284d4217ca",
+      "subject": "Appraising quantitative research in genetics",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-08-11T14:03:31Z",
+      "last_reply": "2026-08-11T14:03:31Z",
+      "root_message_id": "msg-e6284d4217ca"
     }
   ]
 }
