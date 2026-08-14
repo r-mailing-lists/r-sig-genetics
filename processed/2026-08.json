@@ -66,6 +66,22 @@
       "thread_id": "thread-e6284d4217ca",
       "thread_depth": 0,
       "month": "2026-08"
+    },
+    {
+      "id": "msg-5a857965bddd",
+      "message_id": "<PWsKeJnvQqiOK90YKhqNKQ@geopod-ismtpd-2>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-08-13T14:00:01Z",
+      "subject": "[R-sig-genetics] Spatial data and R for genetics",
+      "subject_clean": "Spatial data and R for genetics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Bring geographic context into genetic data analysis and presentation. Introduction to Spatial Data and R as a GIS 2.0 is a 2-day seminar livestreaming August 18?19 with Nick Bearman (University College London and Geospatial Training Solutions). Import, process, and visualise spatial data in R with sf, choropleth mapping, and map customisation. Automate repeated map production and work across spatial data formats, coordinate reference systems, and point data. Genetic researchers can use these methods to examine and present geographic structure alongside genetic datasets.\n\nDetails and registration: https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-4\nPlease circulate this reminder if it is relevant to colleagues or students.\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Bring geographic context into genetic data analysis and presentation. Introduction to Spatial Data and R as a GIS 2.0 is a 2-day seminar livestreaming August",
+      "thread_id": "thread-5a857965bddd",
+      "thread_depth": 0,
+      "month": "2026-08"
     }
   ],
   "threads": [
@@ -112,6 +128,17 @@
       "started": "2026-08-11T14:03:31Z",
       "last_reply": "2026-08-11T14:03:31Z",
       "root_message_id": "msg-e6284d4217ca"
+    },
+    {
+      "id": "thread-5a857965bddd",
+      "subject": "Spatial data and R for genetics",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-08-13T14:00:01Z",
+      "last_reply": "2026-08-13T14:00:01Z",
+      "root_message_id": "msg-5a857965bddd"
     }
   ]
 }
