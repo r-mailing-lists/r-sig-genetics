@@ -82,6 +82,22 @@
       "thread_id": "thread-5a857965bddd",
       "thread_depth": 0,
       "month": "2026-08"
+    },
+    {
+      "id": "msg-932a7692afde",
+      "message_id": "<-6zQ9KxdQZOUJSsx1ZnFRg@geopod-ismtpd-4>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-08-18T14:09:20Z",
+      "subject": "[R-sig-genetics] AI for Quantitative Qualitative Research",
+      "subject_clean": "AI for Quantitative Qualitative Research",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nExtend your R-based analyses with transparent, reproducible computational methods. AI for Quantitative & Qualitative Research led by Hadi Fariborzi (Bissett School of Business, Mount Royal University, Calgary) is now available as an on-demand streaming seminar. Build reproducible Python and R workflows for cleaning structured and text data, running regression, multilevel models, and structural equation models, and interpreting results with AI-assisted support. Apply replication checks and transparent code-to-results documentation to genetic data analyses while auditing generated code and model outputs for methodological soundness. Use thematic coding, text mining, and exportable notebooks to connect quantitative and qualitative evidence in collaborative research projects.\n\nCourse details: https://instats.org/seminar/ai-for-quantitative-and-qualitative-rese-1\nPlease circulate this information if it is relevant to colleagues or students.\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nExtend your R-based analyses with transparent, reproducible computational methods. AI for Quantitative & Qualitative Research led by Hadi Fariborzi (Bissett School of Bus",
+      "thread_id": "thread-932a7692afde",
+      "thread_depth": 0,
+      "month": "2026-08"
     }
   ],
   "threads": [
@@ -139,6 +155,17 @@
       "started": "2026-08-13T14:00:01Z",
       "last_reply": "2026-08-13T14:00:01Z",
       "root_message_id": "msg-5a857965bddd"
+    },
+    {
+      "id": "thread-932a7692afde",
+      "subject": "AI for Quantitative Qualitative Research",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-08-18T14:09:20Z",
+      "last_reply": "2026-08-18T14:09:20Z",
+      "root_message_id": "msg-932a7692afde"
     }
   ]
 }
