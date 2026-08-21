@@ -159,3 +159,25 @@ Instats | instats.org
 	[[alternative HTML version deleted]]
 
 
+From mzyphur m@iii@g oii i@st@ts@org  Thu Aug 20 16:03:34 2026
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Thu, 20 Aug 2026 14:03:34 +0000 (UTC)
+Subject: [R-sig-genetics] Causal Machine Learning for Genetics
+Message-ID: <XL2kyT8-RIerrtoCJ3MZkQ@geopod-ismtpd-6>
+
+Hello R-SIG-GENETICS members
+
+Genetic data analysis can require clearer separation of association and causal effect. Causal Machine Learning led by Melvyn Weeks (Faculty of Economics, University of Cambridge) is now available as an on-demand streaming seminar. Use lasso, double lasso, double machine learning, and causal forests to distinguish causal effects from predictive associations. Genetics researchers can apply these approaches in R when investigating treatment effects or high-dimensional data alongside established identification strategies. Worked notebooks and sample data support replication and interpretation within a causal-inference workflow.
+
+Course details: https://instats.org/seminar/causal-machine-learning-1
+The course page includes the curriculum and enrollment details.
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Instats | instats.org
+	[[alternative HTML version deleted]]
+
+
