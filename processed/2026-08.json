@@ -130,6 +130,22 @@
       "thread_id": "thread-a3d2afe1a6a3",
       "thread_depth": 0,
       "month": "2026-08"
+    },
+    {
+      "id": "msg-c68ce566acac",
+      "message_id": "<UAPidI8URn2wlA3YlJvkxw@geopod-ismtpd-2>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-08-25T14:00:37Z",
+      "subject": "[R-sig-genetics] Bayesian Statistical Modelling for Genetic Data",
+      "subject_clean": "Bayesian Statistical Modelling for Genetic Data",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nBuild interpretable statistical workflows for genetic questions using R. Introduction to Bayesian Statistical Modelling 2.0 led by Rosina Savisaar (Mondego Science (Biostatistics)) is now available as an on-demand streaming seminar. Bayesian regression in R provides a framework for matching genetic data types to probability distributions and expressing prior information. Using brms, researchers can fit models, interpret posterior distributions, check model appropriateness, and visualize results. These skills can support genetic data analysis when evaluating uncertainty and making predictions.\n\nCourse details: https://instats.org/seminar/introduction-to-bayesian-statistical-mod-2\nThe full course outline is available on the Instats course page.\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nBuild interpretable statistical workflows for genetic questions using R. Introduction to Bayesian Statistical Modelling 2.0 led by Rosina Savisaar (Mondego Science (Biost",
+      "thread_id": "thread-c68ce566acac",
+      "thread_depth": 0,
+      "month": "2026-08"
     }
   ],
   "threads": [
@@ -220,6 +236,17 @@
       "started": "2026-08-23T07:33:11Z",
       "last_reply": "2026-08-23T07:33:11Z",
       "root_message_id": "msg-a3d2afe1a6a3"
+    },
+    {
+      "id": "thread-c68ce566acac",
+      "subject": "Bayesian Statistical Modelling for Genetic Data",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-08-25T14:00:37Z",
+      "last_reply": "2026-08-25T14:00:37Z",
+      "root_message_id": "msg-c68ce566acac"
     }
   ]
 }
