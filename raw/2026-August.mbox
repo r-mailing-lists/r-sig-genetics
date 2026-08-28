@@ -233,3 +233,25 @@ Instats | instats.org
 	[[alternative HTML version deleted]]
 
 
+From mzyphur m@iii@g oii i@st@ts@org  Thu Aug 27 16:08:47 2026
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Thu, 27 Aug 2026 14:08:47 +0000 (UTC)
+Subject: [R-sig-genetics] Causal Mediation Analysis in R
+Message-ID: <uRSM1b9ER6anBkYVYplR1w@geopod-ismtpd-2>
+
+Hello R-SIG-GENETICS members
+
+Pathway questions demand more than estimating whether an association is present. Causal Mediation Analysis led by Paola Zaninotto (Epidemiology & Public Health, University College London) and Martin Danka (Centre for Longitudinal Studies, University College London) is now available as an on-demand streaming seminar. Counterfactual reasoning, g-computation, and interventional effects provide tools for examining causal pathways under complex confounding. Genetic-data researchers using R can apply these approaches to distinguish direct and mediated relationships while evaluating the assumptions behind their models. Practical implementation in R supports transparent estimation and interpretation of mediation effects in applied studies.
+
+Course details: https://instats.org/seminar/causal-mediation-analysis-1
+The course page includes the curriculum and enrollment details.
+
+
+Best wishes
+
+Michael Zyphur
+Professor and Director
+Instats | instats.org
+	[[alternative HTML version deleted]]
+
+

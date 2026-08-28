@@ -146,6 +146,22 @@
       "thread_id": "thread-c68ce566acac",
       "thread_depth": 0,
       "month": "2026-08"
+    },
+    {
+      "id": "msg-9282f7b8c36e",
+      "message_id": "<uRSM1b9ER6anBkYVYplR1w@geopod-ismtpd-2>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-08-27T14:08:47Z",
+      "subject": "[R-sig-genetics] Causal Mediation Analysis in R",
+      "subject_clean": "Causal Mediation Analysis in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nPathway questions demand more than estimating whether an association is present. Causal Mediation Analysis led by Paola Zaninotto (Epidemiology & Public Health, University College London) and Martin Danka (Centre for Longitudinal Studies, University College London) is now available as an on-demand streaming seminar. Counterfactual reasoning, g-computation, and interventional effects provide tools for examining causal pathways under complex confounding. Genetic-data researchers using R can apply these approaches to distinguish direct and mediated relationships while evaluating the assumptions behind their models. Practical implementation in R supports transparent estimation and interpretation of mediation effects in applied studies.\n\nCourse details: https://instats.org/seminar/causal-mediation-analysis-1\nThe course page includes the curriculum and enrollment details.\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nPathway questions demand more than estimating whether an association is present. Causal Mediation Analysis led by Paola Zaninotto (Epidemiology & Public Health, Universit",
+      "thread_id": "thread-9282f7b8c36e",
+      "thread_depth": 0,
+      "month": "2026-08"
     }
   ],
   "threads": [
@@ -247,6 +263,17 @@
       "started": "2026-08-25T14:00:37Z",
       "last_reply": "2026-08-25T14:00:37Z",
       "root_message_id": "msg-c68ce566acac"
+    },
+    {
+      "id": "thread-9282f7b8c36e",
+      "subject": "Causal Mediation Analysis in R",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-08-27T14:08:47Z",
+      "last_reply": "2026-08-27T14:08:47Z",
+      "root_message_id": "msg-9282f7b8c36e"
     }
   ]
 }
