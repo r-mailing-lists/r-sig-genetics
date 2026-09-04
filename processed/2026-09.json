@@ -18,6 +18,22 @@
       "thread_id": "thread-db052b3a0b5c",
       "thread_depth": 0,
       "month": "2026-09"
+    },
+    {
+      "id": "msg-902a8835b195",
+      "message_id": "<jSiwfiK0SCmcKI6xjmEKfQ@geopod-ismtpd-3>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-09-03T14:01:13Z",
+      "subject": "[R-sig-genetics] AI-Powered Bioinformatics for Genetic Data",
+      "subject_clean": "AI-Powered Bioinformatics for Genetic Data",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nIntegrating genetic measurements across platforms requires careful preparation and validation. AI-Powered Bioinformatics led by Nikolay Oskolkov (Lund University) is now available as an on-demand streaming seminar. Preprocessing, batch correction, imputation, and multi-omics integration provide a basis for analysing heterogeneous genetic datasets. Participants build reproducible Python and R workflows for supervised and unsupervised models, single-cell data, and independent-cohort evaluation. R users working with genetic data can apply these methods to assess cross-modal patterns and interpret model outputs biologically.\n\nCourse details: https://instats.org/seminar/ai-powered-bioinformatics\nFurther information is available on the Instats course page.\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nIntegrating genetic measurements across platforms requires careful preparation and validation. AI-Powered Bioinformatics led by Nikolay Oskolkov (Lund University) is now ",
+      "thread_id": "thread-902a8835b195",
+      "thread_depth": 0,
+      "month": "2026-09"
     }
   ],
   "threads": [
@@ -31,6 +47,17 @@
       "started": "2026-09-01T14:02:25Z",
       "last_reply": "2026-09-01T14:02:25Z",
       "root_message_id": "msg-db052b3a0b5c"
+    },
+    {
+      "id": "thread-902a8835b195",
+      "subject": "AI-Powered Bioinformatics for Genetic Data",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-09-03T14:01:13Z",
+      "last_reply": "2026-09-03T14:01:13Z",
+      "root_message_id": "msg-902a8835b195"
     }
   ]
 }
