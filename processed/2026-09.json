@@ -34,6 +34,22 @@
       "thread_id": "thread-902a8835b195",
       "thread_depth": 0,
       "month": "2026-09"
+    },
+    {
+      "id": "msg-652e711a03f1",
+      "message_id": "<RdmCIn9oTRSd63GsUpSDbA@geopod-ismtpd-4>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2026-09-05T01:37:45Z",
+      "subject": "[R-sig-genetics] Cell and Gene Therapy: Design, Estimands, Operations, and AI - livestream seminar",
+      "subject_clean": "Cell and Gene Therapy: Design, Estimands, Operations, and AI - livestream seminar",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Cell and Gene Therapy: Design, Estimands, Operations, and AI <https://instats.org/seminar/cell-and-gene-therapy-design-estimands-o>, livestreaming October 6 and sponsored by the American Statistical Association?s Cell and Gene Therapy Scientific Working Group. As cell and gene therapies rapidly reshape biomedical innovation, this seminar provides PhD students, academic researchers, and applied scientists with a coherent framework for evaluating complex interventions across translational research, clinical development, and regulatory evidence generation. Drawing on expertise associated with the American Statistical Association?s Cell and Gene Therapy Scientific Working Group, the workshop examines core design and analysis challenges, including single-arm and randomized trials, dose finding, historical borrowing, estimands, operational considerations, and the production of credible, publishable evidence in settings with limited samples and heterogeneous populations. The seminar also considers the growing role of artificial intelligence in cell and gene therapy development, helping participants understand how emerging computational tools may influence discovery, decision support, evidence synthesis, reproducibility, and interpretation in this fast-moving field.\n\nSign up today <https://instats.org//seminar/cell-and-gene-therapy-design-estimands-o> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Cell and Gene Therapy: Design, Estimands, Operations, and AI <https://instats.org/seminar/cell-and-gene-therapy-design-estimands-o>, livestrea",
+      "thread_id": "thread-652e711a03f1",
+      "thread_depth": 0,
+      "month": "2026-09"
     }
   ],
   "threads": [
@@ -58,6 +74,17 @@
       "started": "2026-09-03T14:01:13Z",
       "last_reply": "2026-09-03T14:01:13Z",
       "root_message_id": "msg-902a8835b195"
+    },
+    {
+      "id": "thread-652e711a03f1",
+      "subject": "Cell and Gene Therapy: Design, Estimands, Operations, and AI - livestream seminar",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2026-09-05T01:37:45Z",
+      "last_reply": "2026-09-05T01:37:45Z",
+      "root_message_id": "msg-652e711a03f1"
     }
   ]
 }
