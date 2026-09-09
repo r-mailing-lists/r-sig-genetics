@@ -50,6 +50,22 @@
       "thread_id": "thread-652e711a03f1",
       "thread_depth": 0,
       "month": "2026-09"
+    },
+    {
+      "id": "msg-e5aca8d973e2",
+      "message_id": "<V505kOysR16q98bG3t5hoQ@geopod-ismtpd-canary-0>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-09-08T14:01:15Z",
+      "subject": "[R-sig-genetics] Tidy Data, Visualisation, and AI",
+      "subject_clean": "Tidy Data, Visualisation, and AI",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Reproducible data handling supports careful interpretation of genetic analyses. Tidy Data, Visualisation, and AI is a 2-day seminar livestreaming September 21?22 with Flavio Lombardo (Institute for Statistical and Data Science). Reshape, recode, and check messy data in R using tidyverse tools, then produce adaptable figures with ggplot2. Genetic data analysts can apply these practices to keep data preparation explicit and graphical choices aligned with the scientific question. The seminar includes AI-assisted extraction from unstructured text and methods for validating its results.\n\nDetails and registration: https://instats.org/seminar/tidy-data-visualisation-and-ai\nThe seminar page includes the full schedule and registration details.\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Reproducible data handling supports careful interpretation of genetic analyses. Tidy Data, Visualisation, and AI is a 2-day seminar livestreaming September 2",
+      "thread_id": "thread-e5aca8d973e2",
+      "thread_depth": 0,
+      "month": "2026-09"
     }
   ],
   "threads": [
@@ -85,6 +101,17 @@
       "started": "2026-09-05T01:37:45Z",
       "last_reply": "2026-09-05T01:37:45Z",
       "root_message_id": "msg-652e711a03f1"
+    },
+    {
+      "id": "thread-e5aca8d973e2",
+      "subject": "Tidy Data, Visualisation, and AI",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-09-08T14:01:15Z",
+      "last_reply": "2026-09-08T14:01:15Z",
+      "root_message_id": "msg-e5aca8d973e2"
     }
   ]
 }
