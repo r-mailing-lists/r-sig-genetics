@@ -66,6 +66,22 @@
       "thread_id": "thread-e5aca8d973e2",
       "thread_depth": 0,
       "month": "2026-09"
+    },
+    {
+      "id": "msg-bdc207e04d26",
+      "message_id": "<Reo7-HUMTiWlTn3y9gN6BQ@geopod-ismtpd-canary-0>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-09-10T14:01:53Z",
+      "subject": "[R-sig-genetics] Machine Learning for Computational Biology",
+      "subject_clean": "Machine Learning for Computational Biology",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nGenetic datasets often call for methods that extend beyond conventional statistical summaries. Machine Learning for Computational Biology is a seminar livestreaming October 19, led by Nikolay Oskolkov (Lund University). Random forests, neural networks, MCMC, and clustering provide practical approaches to genetic and genomic data analysis in R and Python. Coding algorithms from scratch develops understanding of model construction, gradient descent, feature selection, and optimisation. Researchers can use these methods to investigate complex genetic data and evaluate modelling choices in their own analyses.\n\nDetails and registration: https://instats.org/seminar/machine-learning-for-computational-biolo-4\nThe seminar page includes the full schedule and registration details.\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nGenetic datasets often call for methods that extend beyond conventional statistical summaries. Machine Learning for Computational Biology is a seminar livestreaming Octob",
+      "thread_id": "thread-bdc207e04d26",
+      "thread_depth": 0,
+      "month": "2026-09"
     }
   ],
   "threads": [
@@ -112,6 +128,17 @@
       "started": "2026-09-08T14:01:15Z",
       "last_reply": "2026-09-08T14:01:15Z",
       "root_message_id": "msg-e5aca8d973e2"
+    },
+    {
+      "id": "thread-bdc207e04d26",
+      "subject": "Machine Learning for Computational Biology",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-09-10T14:01:53Z",
+      "last_reply": "2026-09-10T14:01:53Z",
+      "root_message_id": "msg-bdc207e04d26"
     }
   ]
 }
