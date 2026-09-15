@@ -82,6 +82,22 @@
       "thread_id": "thread-bdc207e04d26",
       "thread_depth": 0,
       "month": "2026-09"
+    },
+    {
+      "id": "msg-b5258d8a04a9",
+      "message_id": "<1789384973.09667073@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-09-14T11:22:53Z",
+      "subject": "[R-sig-genetics] Last seats available — Population Genomics Using Ancient DNA",
+      "subject_clean": "Last seats available — Population Genomics Using Ancient DNA",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n \nInterested in uncovering population history from ancient DNA?\n \nJoin us online, 21?25 September, for an hands-on course covering the computational analysis of ancient DNA data, from authentication and variant calling to population structure, demographic inference, allele-sharing statistics, and natural selection.\n \nYou?ll work with real aDNA datasets and practical research questions, learning methods that can be directly applied to your own research.\n \nDesigned for graduate students and researchers in genetics, genomics, ecology, anthropology, and population biology.\n \nIf aDNA and population genomics are part of your research?or you?re looking to add these tools to your toolkit?this is a great opportunity to join us.\n \n \nBest,\n \nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nInterested in uncovering population history from ancient DNA?\n \nJoin us online, 21?25 September, for an hands-on course covering the computational analysis of ancient DNA data, from authen",
+      "thread_id": "thread-b5258d8a04a9",
+      "thread_depth": 0,
+      "month": "2026-09"
     }
   ],
   "threads": [
@@ -139,6 +155,17 @@
       "started": "2026-09-10T14:01:53Z",
       "last_reply": "2026-09-10T14:01:53Z",
       "root_message_id": "msg-bdc207e04d26"
+    },
+    {
+      "id": "thread-b5258d8a04a9",
+      "subject": "Last seats available — Population Genomics Using Ancient DNA",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-09-14T11:22:53Z",
+      "last_reply": "2026-09-14T11:22:53Z",
+      "root_message_id": "msg-b5258d8a04a9"
     }
   ]
 }
