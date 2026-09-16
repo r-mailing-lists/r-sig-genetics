@@ -98,6 +98,22 @@
       "thread_id": "thread-b5258d8a04a9",
       "thread_depth": 0,
       "month": "2026-09"
+    },
+    {
+      "id": "msg-ad0c22f93753",
+      "message_id": "<QvseVN7ISk-lvGZXGmzx_g@geopod-ismtpd-0>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-09-15T14:03:00Z",
+      "subject": "[R-sig-genetics] Accessible Bioinformatics for Windows Users",
+      "subject_clean": "Accessible Bioinformatics for Windows Users",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nGenetic analysis can proceed on Windows systems with a suitable computational setup. Accessible Bioinformatics for Windows Users is a 2-day seminar livestreaming October 2 and 6, led by Andres Zhou Tsang (Adelaide University). Configure WSL, R, and supporting bioinformatics tools on Windows for genetic data analysis. Process sequencing data, inspect quality, assemble genomes, align sequences, and conduct RNA-seq differential expression analysis. Apply these workflows to genetic datasets while combining Linux-based tools with familiar Windows applications.\n\nDetails and registration: https://instats.org/seminar/accessible-bioinformatics-for-windows-us\nPlease circulate this information if it is relevant to colleagues or students.\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nGenetic analysis can proceed on Windows systems with a suitable computational setup. Accessible Bioinformatics for Windows Users is a 2-day seminar livestreaming October ",
+      "thread_id": "thread-ad0c22f93753",
+      "thread_depth": 0,
+      "month": "2026-09"
     }
   ],
   "threads": [
@@ -166,6 +182,17 @@
       "started": "2026-09-14T11:22:53Z",
       "last_reply": "2026-09-14T11:22:53Z",
       "root_message_id": "msg-b5258d8a04a9"
+    },
+    {
+      "id": "thread-ad0c22f93753",
+      "subject": "Accessible Bioinformatics for Windows Users",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-09-15T14:03:00Z",
+      "last_reply": "2026-09-15T14:03:00Z",
+      "root_message_id": "msg-ad0c22f93753"
     }
   ]
 }
