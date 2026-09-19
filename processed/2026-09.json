@@ -114,6 +114,38 @@
       "thread_id": "thread-ad0c22f93753",
       "thread_depth": 0,
       "month": "2026-09"
+    },
+    {
+      "id": "msg-52208e8ced4e",
+      "message_id": "<ofY7aHAsSlmj1TQ6QyyDbw@geopod-ismtpd-2>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-09-18T14:10:32Z",
+      "subject": "[R-sig-genetics] Text-as-Data with Python - Genetics text analysis",
+      "subject_clean": "Text-as-Data with Python - Genetics text analysis",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Research documentation can carry structured signals that complement quantitative genetic analysis. Text-as-Data with Python is a 2-day seminar livestreaming September 21 and 23 with Jihye Park (University of Geneva). Python skills for linking messy records and analysing text can help genetics researchers organise study documents and classify large text collections. The seminar covers topic models, BERT-based encoders, and practical evaluation against a baseline. Participants finish with approaches for saving and reusing reproducible text-based measures.\n\nDetails and registration: https://instats.org/seminar/text-as-data-with-python\nPlease circulate this reminder if it is relevant to colleagues or students.\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Research documentation can carry structured signals that complement quantitative genetic analysis. Text-as-Data with Python is a 2-day seminar livestreaming ",
+      "thread_id": "thread-52208e8ced4e",
+      "thread_depth": 0,
+      "month": "2026-09"
+    },
+    {
+      "id": "msg-e331ba830b39",
+      "message_id": "<1789753541.070125810@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-09-18T17:45:41Z",
+      "subject": "[R-sig-genetics] (Online course)  Invasion Genomics in R,",
+      "subject_clean": "(Online course)  Invasion Genomics in R,",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nHave a look at our upcoming online course Invasion Genomics in R, taking place on 12, 14 and 16 October.\n \nThe course is designed to be asynchronous and self-paced, so you can work through the lectures and practical exercises when it suits you. On each course day, recorded lectures and self-guided tutorials with annotated R scripts will be released.\n \nAlthough the course is self-paced, the instructor will be available throughout the course to answer questions, provide guidance and help with any problems you may encounter during the practicals. This also makes the course suitable for participants joining from different time zones.\n \nThe course will cover three main topics:\nMovement dynamics ? invasion sources, dispersal pathways and population structure\nAdaptation dynamics ? selection and adaptation in the invaded range\nGenotype-by-environment associations (GEA) ? the relationship between environmental conditions and adaptation\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/invasion-genomics/ ]( https://www.physalia-courses.org/courses-workshops/invasion-genomics/ ) \n \n \nBest regards,\n \nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nHave a look at our upcoming online course Invasion Genomics in R, taking place on 12, 14 and 16 October.\n \nThe course is designed to be asynchronous and self-paced, so you can work through t",
+      "thread_id": "thread-e331ba830b39",
+      "thread_depth": 0,
+      "month": "2026-09"
     }
   ],
   "threads": [
@@ -193,6 +225,28 @@
       "started": "2026-09-15T14:03:00Z",
       "last_reply": "2026-09-15T14:03:00Z",
       "root_message_id": "msg-ad0c22f93753"
+    },
+    {
+      "id": "thread-52208e8ced4e",
+      "subject": "Text-as-Data with Python - Genetics text analysis",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-09-18T14:10:32Z",
+      "last_reply": "2026-09-18T14:10:32Z",
+      "root_message_id": "msg-52208e8ced4e"
+    },
+    {
+      "id": "thread-e331ba830b39",
+      "subject": "(Online course)  Invasion Genomics in R,",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-09-18T17:45:41Z",
+      "last_reply": "2026-09-18T17:45:41Z",
+      "root_message_id": "msg-e331ba830b39"
     }
   ]
 }
