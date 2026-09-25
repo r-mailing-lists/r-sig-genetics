@@ -162,6 +162,22 @@
       "thread_id": "thread-344f4c7447dc",
       "thread_depth": 0,
       "month": "2026-09"
+    },
+    {
+      "id": "msg-3f719cc516fa",
+      "message_id": "<8baX47x5SNiAkE6LJ1EW5g@geopod-ismtpd-6>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-09-24T14:04:44Z",
+      "subject": "[R-sig-genetics] No-code inference for genetic data",
+      "subject_clean": "No-code inference for genetic data",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Genetic analyses benefit from explicit reasoning about variation, design, and model fit. No-Code Statistical Inference is a 2-day seminar livestreaming September 28 and 30 with Moses Boudourides (Data Science Graduate Program, School of Professional Studies, Northwestern University). Estimation, uncertainty, and regression diagnostics support careful interpretation of genetic data analyses. The seminar links variable types, study designs, effect sizes, categorical association, and model assumptions to inferential choices. R users can apply these principles when reviewing analyses or explaining evidence from genetic datasets.\n\nDetails and registration: https://instats.org/seminar/no-code-statistical-inference\nFurther information is available on the seminar page.\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Genetic analyses benefit from explicit reasoning about variation, design, and model fit. No-Code Statistical Inference is a 2-day seminar livestreaming Septe",
+      "thread_id": "thread-3f719cc516fa",
+      "thread_depth": 0,
+      "month": "2026-09"
     }
   ],
   "threads": [
@@ -274,6 +290,17 @@
       "started": "2026-09-21T14:02:24Z",
       "last_reply": "2026-09-21T14:02:24Z",
       "root_message_id": "msg-344f4c7447dc"
+    },
+    {
+      "id": "thread-3f719cc516fa",
+      "subject": "No-code inference for genetic data",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-09-24T14:04:44Z",
+      "last_reply": "2026-09-24T14:04:44Z",
+      "root_message_id": "msg-3f719cc516fa"
     }
   ]
 }
