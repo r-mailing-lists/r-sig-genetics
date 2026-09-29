@@ -178,6 +178,22 @@
       "thread_id": "thread-3f719cc516fa",
       "thread_depth": 0,
       "month": "2026-09"
+    },
+    {
+      "id": "msg-7133f4c95ac0",
+      "message_id": "<DGOi60lJQ6Kw2KMPUOhyqQ@geopod-ismtpd-0>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-09-28T14:04:46Z",
+      "subject": "[R-sig-genetics] Latent Variables for Genetic Questionnaires",
+      "subject_clean": "Latent Variables for Genetic Questionnaires",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Self-reported data can shape conclusions alongside genetic analyses. Measuring Latent Variables with Questionnaires is a 2-day seminar livestreaming September 30 and October 2 with Bert Weijters (Faculty of Psychology and Educational Sciences, Ghent University). Latent-variable modelling in R can distinguish a genetic research construct from the questionnaire items used to represent it. Participants will estimate confirmatory factor models, assess measurement quality, and inspect method effects with lavaan. These methods can support studies of genetic risk perception, family health history, participation, and reported behaviours.\n\nDetails and registration: https://instats.org/seminar/measuring-latent-variables-with-question\nFull details are available on the Instats seminar page.\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Self-reported data can shape conclusions alongside genetic analyses. Measuring Latent Variables with Questionnaires is a 2-day seminar livestreaming Septembe",
+      "thread_id": "thread-7133f4c95ac0",
+      "thread_depth": 0,
+      "month": "2026-09"
     }
   ],
   "threads": [
@@ -301,6 +317,17 @@
       "started": "2026-09-24T14:04:44Z",
       "last_reply": "2026-09-24T14:04:44Z",
       "root_message_id": "msg-3f719cc516fa"
+    },
+    {
+      "id": "thread-7133f4c95ac0",
+      "subject": "Latent Variables for Genetic Questionnaires",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-09-28T14:04:46Z",
+      "last_reply": "2026-09-28T14:04:46Z",
+      "root_message_id": "msg-7133f4c95ac0"
     }
   ]
 }
