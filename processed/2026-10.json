@@ -18,6 +18,22 @@
       "thread_id": "thread-c704c0bfd388",
       "thread_depth": 0,
       "month": "2026-10"
+    },
+    {
+      "id": "msg-09227fd578d5",
+      "message_id": "<EIWLRb-LQ8O-IJokGMBkFg@geopod-ismtpd-4>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-10-05T14:01:14Z",
+      "subject": "[R-sig-genetics] Writing Your First Paper (Free Seminar) - Genetic research writing",
+      "subject_clean": "Writing Your First Paper (Free Seminar) - Genetic research writing",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Careful manuscript choices can make genetic evidence easier to evaluate and reuse. Writing Your First Paper (Free Seminar) is a 2-day seminar livestreaming October 5?6 with Jenifer Lopes (Department of Organismic & Evolutionary Biology, Faculty of Arts & Sciences, Harvard University). Communicate genetic analyses with a clear account of hypotheses, methods, results, and their contribution. Build literature searches and citation strategies that locate R-based genetic work within relevant debates. Learn journal selection, abstract writing, and ethical AI-assisted editing practices for a publication-ready manuscript.\n\nDetails and registration: https://instats.org/seminar/writing-your-first-paper-free-seminar\nFurther information is available on the seminar page.\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Careful manuscript choices can make genetic evidence easier to evaluate and reuse. Writing Your First Paper (Free Seminar) is a 2-day seminar livestreaming O",
+      "thread_id": "thread-09227fd578d5",
+      "thread_depth": 0,
+      "month": "2026-10"
     }
   ],
   "threads": [
@@ -31,6 +47,17 @@
       "started": "2026-10-02T15:20:49Z",
       "last_reply": "2026-10-02T15:20:49Z",
       "root_message_id": "msg-c704c0bfd388"
+    },
+    {
+      "id": "thread-09227fd578d5",
+      "subject": "Writing Your First Paper (Free Seminar) - Genetic research writing",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-10-05T14:01:14Z",
+      "last_reply": "2026-10-05T14:01:14Z",
+      "root_message_id": "msg-09227fd578d5"
     }
   ]
 }
