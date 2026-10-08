@@ -34,6 +34,22 @@
       "thread_id": "thread-09227fd578d5",
       "thread_depth": 0,
       "month": "2026-10"
+    },
+    {
+      "id": "msg-70e51d26bf3d",
+      "message_id": "<lQmGlDoxQPaZDFf8zisE-g@geopod-ismtpd-6>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-10-07T14:01:13Z",
+      "subject": "[R-sig-genetics] Multilevel and Mixed Models for Genetics",
+      "subject_clean": "Multilevel and Mixed Models for Genetics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Hierarchical genetic datasets call for explicit attention to dependence. Multilevel and Mixed Models with AI is a 2-day seminar livestreaming October 7 and 9 with Michael Zyphur (Instats | instats.org). Specify multilevel models for genetic data structured by families, populations, sites, or repeated measurements. Estimate random effects and multilevel path models in R and Mplus while separating sources of variation. Use diagnostics, simulation, and carefully documented AI assistance to support transparent genetic analyses.\n\nDetails and registration: https://instats.org/seminar/multilevel-and-mixed-models-with-ai\nThe seminar page includes the full schedule and registration details.\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Hierarchical genetic datasets call for explicit attention to dependence. Multilevel and Mixed Models with AI is a 2-day seminar livestreaming October 7 and 9",
+      "thread_id": "thread-70e51d26bf3d",
+      "thread_depth": 0,
+      "month": "2026-10"
     }
   ],
   "threads": [
@@ -58,6 +74,17 @@
       "started": "2026-10-05T14:01:14Z",
       "last_reply": "2026-10-05T14:01:14Z",
       "root_message_id": "msg-09227fd578d5"
+    },
+    {
+      "id": "thread-70e51d26bf3d",
+      "subject": "Multilevel and Mixed Models for Genetics",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-10-07T14:01:13Z",
+      "last_reply": "2026-10-07T14:01:13Z",
+      "root_message_id": "msg-70e51d26bf3d"
     }
   ]
 }
