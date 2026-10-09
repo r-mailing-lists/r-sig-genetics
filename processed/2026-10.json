@@ -50,6 +50,22 @@
       "thread_id": "thread-70e51d26bf3d",
       "thread_depth": 0,
       "month": "2026-10"
+    },
+    {
+      "id": "msg-1dc968f561ec",
+      "message_id": "<uAQZzX3BT5ubXRaFEB-2vA@geopod-ismtpd-4>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-10-08T14:31:06Z",
+      "subject": "[R-sig-genetics] Instats Certifications now Live: Free for Members",
+      "subject_clean": "Instats Certifications now Live: Free for Members",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS colleagues\n\nHere's a brief update for R-SIG-GENETICS colleagues on our new Instats certifications in research methods and data analysis, including AI programs alongside causal inference, SEM, multilevel modeling, meta-analysis, machine learning, and qualitative/mixed methods programs (see instats.org/results?view=Seminars&nav=Certifications).\n\nComplete each program's requirements to earn an official, verifiable Instats credential and digital badge that you can add to LinkedIn, include on your CV, and share across your professional network. Each certification offers a focused program of advanced training, with core seminars and electives of your choosing based on their relevance to your research.\n\nAn Instats membership gives you unlimited access to all certifications free of charge (instats.org/membership), and if you've already taken the required Instats seminars, these can automatically count toward your certification.\n\nPlease feel free to share this with colleagues and students who may be interested.\n\n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org",
+      "body_snippet": "Hello R-SIG-GENETICS colleagues\n\nHere's a brief update for R-SIG-GENETICS colleagues on our new Instats certifications in research methods and data analysis, including AI programs alongside causal inf",
+      "thread_id": "thread-1dc968f561ec",
+      "thread_depth": 0,
+      "month": "2026-10"
     }
   ],
   "threads": [
@@ -85,6 +101,17 @@
       "started": "2026-10-07T14:01:13Z",
       "last_reply": "2026-10-07T14:01:13Z",
       "root_message_id": "msg-70e51d26bf3d"
+    },
+    {
+      "id": "thread-1dc968f561ec",
+      "subject": "Instats Certifications now Live: Free for Members",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-10-08T14:31:06Z",
+      "last_reply": "2026-10-08T14:31:06Z",
+      "root_message_id": "msg-1dc968f561ec"
     }
   ]
 }
