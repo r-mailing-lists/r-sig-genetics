@@ -194,6 +194,22 @@
       "thread_id": "thread-fc163269b1ea",
       "thread_depth": 0,
       "month": "2026-06"
+    },
+    {
+      "id": "msg-ea99241beca2",
+      "message_id": "<1782813105.950429775@webmail.jimdo.com>",
+      "from_name": "i@io m@iii@g oii phys@ii@-courses@org",
+      "from_email_hash": "ca8ae7fca04226cbf7116003b962efbd86b9ffdf6a68e1a8cee80f656f89cb9c",
+      "date": "2026-06-30T09:51:45Z",
+      "subject": "[R-sig-genetics] Invasion Genomics in R course - 12–14–16 October",
+      "subject_clean": "Invasion Genomics in R course - 12–14–16 October",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are pleased to announce our upcoming online course ?Invasion Genomics in R? (2nd edition), taking place on 12?14?16 October.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/invasion-genomics/ ]( https://www.physalia-courses.org/courses-workshops/invasion-genomics/ ) \n \nThis 3-day course combines pre-recorded lectures, hands-on practical sessions, and live support, allowing participants to progress at their own pace while receiving guidance from the instructor.\n \nParticipants will learn how genomic approaches can be used to investigate:\ninvasion sources and dispersal pathways,\npopulation structure and genetic diversity,\nselection signals and adaptation,\ngenotype-by-environment associations.\nThe course is aimed at researchers, graduate students, and professionals interested in applying genomics to the study of biological invasions.\n \nWe hope you can join us for this practical introduction to invasion genomics using R.\n \nBest regards,\nCarlo\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe are pleased to announce our upcoming online course ?Invasion Genomics in R? (2nd edition), taking place on 12?14?16 October.\n \nCourse website: [ https://www.physalia-courses.org/courses-w",
+      "thread_id": "thread-ea99241beca2",
+      "thread_depth": 0,
+      "month": "2026-06"
     }
   ],
   "threads": [
@@ -328,6 +344,17 @@
       "started": "2026-06-24T11:58:13Z",
       "last_reply": "2026-06-24T11:58:13Z",
       "root_message_id": "msg-fc163269b1ea"
+    },
+    {
+      "id": "thread-ea99241beca2",
+      "subject": "Invasion Genomics in R course - 12–14–16 October",
+      "message_count": 1,
+      "participants": [
+        "i@io m@iii@g oii phys@ii@-courses@org"
+      ],
+      "started": "2026-06-30T09:51:45Z",
+      "last_reply": "2026-06-30T09:51:45Z",
+      "root_message_id": "msg-ea99241beca2"
     }
   ]
 }
