@@ -194,6 +194,22 @@
       "thread_id": "thread-7133f4c95ac0",
       "thread_depth": 0,
       "month": "2026-09"
+    },
+    {
+      "id": "msg-c00c8ccf719a",
+      "message_id": "<-9ZG3fy7QoqaLN5MltO9qw@geopod-ismtpd-4>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-09-30T14:01:13Z",
+      "subject": "[R-sig-genetics] Structural Equation Modeling with AI",
+      "subject_clean": "Structural Equation Modeling with AI",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Examine complex genetic evidence while accounting for measurement and structural uncertainty. Structural Equation Modeling with AI is a 2-day seminar livestreaming September 30 and October 2 with Michael Zyphur (Instats | instats.org). Measurement models can clarify how multiple genetic indicators represent constructs before structural hypotheses are tested. Applied R and Mplus work develops path analysis, confirmatory factor analysis, mediation, moderation, and instrumental variable SEM. The material supports genetic data analysts who need transparent AI-assisted code development, model diagnostics, interpretation, and research reporting.\n\nDetails and registration: https://instats.org/seminar/structural-equation-modeling-with-ai\nThe seminar page includes the full schedule and registration details.\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Examine complex genetic evidence while accounting for measurement and structural uncertainty. Structural Equation Modeling with AI is a 2-day seminar livestr",
+      "thread_id": "thread-c00c8ccf719a",
+      "thread_depth": 0,
+      "month": "2026-09"
     }
   ],
   "threads": [
@@ -328,6 +344,17 @@
       "started": "2026-09-28T14:04:46Z",
       "last_reply": "2026-09-28T14:04:46Z",
       "root_message_id": "msg-7133f4c95ac0"
+    },
+    {
+      "id": "thread-c00c8ccf719a",
+      "subject": "Structural Equation Modeling with AI",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-09-30T14:01:13Z",
+      "last_reply": "2026-09-30T14:01:13Z",
+      "root_message_id": "msg-c00c8ccf719a"
     }
   ]
 }
