@@ -13,11 +13,14 @@
       "subject_clean": "Calculation of Queller and Goodnight relatedness in R:",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100627/9f828d86/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100627/9f828d86/attachment.pl>",
+      "body_plain": "Do any of the genetics related packages allow calcualtion of individual \nrelatedness values?\n\nsuch as that in Queller, D.C. and Goodnight, K.F. 1989. Estimation of \ngenetic relatedness using allozyme data. Evolution 43:258-275.?\n\ncheers\n\nNevil Amos\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Do any of the genetics related packages allow calcualtion of individual \nrelatedness values?\n\nsuch as that in Queller, D.C. and Goodnight, K.F. 1989. Estimation of \ngenetic relatedness using allozyme ",
       "thread_id": "thread-9ef94d071ec2",
       "thread_depth": 0,
-      "month": "2010-06"
+      "month": "2010-06",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100627/9f828d86/attachment.pl"
+      ]
     },
     {
       "id": "msg-26d2544c4757",
@@ -29,11 +32,14 @@
       "subject_clean": "Calcualtion of pairwise relatedness in R: package?",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100628/8d08e3b9/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100628/8d08e3b9/attachment.pl>",
+      "body_plain": "Is the calculation of pairwise relateness\neg. Queller and Goodnight 1989 avaiable in any R: package?\n\ncheers\n\n\n\n-- \nNevil Amos\nMolecular Ecology Research Group\nAustralian Centre for Biodiversity\nMonash University\nCLAYTON VIC 3800\nAustralia\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Is the calculation of pairwise relateness\neg. Queller and Goodnight 1989 avaiable in any R: package?\n\ncheers\n\n\n\n-- \nNevil Amos\nMolecular Ecology Research Group\nAustralian Centre for Biodiversity\nMonas",
       "thread_id": "thread-26d2544c4757",
       "thread_depth": 0,
-      "month": "2010-06"
+      "month": "2010-06",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100628/8d08e3b9/attachment.pl"
+      ]
     },
     {
       "id": "msg-50c1c6f4f642",

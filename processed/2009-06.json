@@ -13,11 +13,14 @@
       "subject_clean": "Bayesian network",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090608/30e07672/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090608/30e07672/attachment.pl>",
+      "body_plain": "Dear all,\n \nI am now trying to use Bayesian network to analyze my SNP data,\nassociating 20 SNPs with one phenotype (plasma cholesterol levels). I\nwant to use deal package to find the markov plane of my phenotype. I\nhave 3575 records. After trying the deal package, I can not go through\ncoomand----jointprior (). It is said \"Error in array(1, Dim) : 'dim'\nspecifies too large an array\". \n \nI reduced the number of SNP to 10 and I can continue.  When I try\n\"result<-heuristic(my.data1.nw,my.data1,my.data1.prior,restart=2,degree=\n10,trace=TRUE)\". It was said that \"[Heuristic [Autosearch Error in\nphi[[y]] : attempt to select less than one element\". So, I can not get\nthe results.\n \nI hope someone could help me with it. Am I using the right package?\n \nThanks in advance,\n \nKevin\n \n \n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nI am now trying to use Bayesian network to analyze my SNP data,\nassociating 20 SNPs with one phenotype (plasma cholesterol levels). I\nwant to use deal package to find the markov plane of m",
       "thread_id": "thread-9c4587b5fce6",
       "thread_depth": 0,
-      "month": "2009-06"
+      "month": "2009-06",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090608/30e07672/attachment.pl"
+      ]
     },
     {
       "id": "msg-17238ec3a993",

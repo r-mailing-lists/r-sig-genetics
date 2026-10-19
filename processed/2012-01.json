@@ -13,11 +13,14 @@
       "subject_clean": "visualising clusters when not separated geographically",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20120111/ced6e4c2/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20120111/ced6e4c2/attachment.pl>",
+      "body_plain": "Dear List members,\nI have a question regarding the DAPC scatter.\nI have 8 sampled populations (from 8 geographic locations), and the DAPC \nanalysis (as well as Structure), found 6 clusters. Now, these clusters \nare not separate geographically, which means that each sampled location \nhas a proportion of each cluster. I wanted to see this on a scatter, to \nsee how different clusters were, hence I plotted the $ind.coord (I used \npoints()), and simply coloured the points by clustering this time (as \nper DAPC analysis) and not by geographic location. I was expecting to \nget same-colour points clustered close together (whereas in the first \nDAPC, where colours were based on geog location, they were all \noverlapping). Instead, colours remained all overlapping. I do not \nunderstand how this explains the existence of 6 clusters, if they're not \nthere on the graph.\nMaybe my assumption that re-colouring the points by cluster (and not \nlocation) would present distinct groups was wrong?\nI hope what I say makes sense...\nI should say that I re-analysed from the start the same dataset too, \nthis time grouping individuals by cluster assignment and not by \ngeographical location, and I do get nicely separated clusters on the \nscatter. I thought this was wrong in principle though, as I was basing \nit on a new analysis.\nCheers\nIlaria\n\n-- \nDr Ilaria Coscia\nInstitute of Biological, Environmental and Rural Science (IBERS)\nEdward Llwyd Building\nAberystwyth University\nAberystwyth\nCeredigion SY23 3DA\nUK\n\ntel +44 (0)1970 62 2298\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear List members,\nI have a question regarding the DAPC scatter.\nI have 8 sampled populations (from 8 geographic locations), and the DAPC \nanalysis (as well as Structure), found 6 clusters. Now, these",
       "thread_id": "thread-199a81349c8d",
       "thread_depth": 0,
-      "month": "2012-01"
+      "month": "2012-01",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20120111/ced6e4c2/attachment.pl"
+      ]
     }
   ],
   "threads": [

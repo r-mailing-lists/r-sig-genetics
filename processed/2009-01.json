@@ -13,11 +13,14 @@
       "subject_clean": "combining scores from multiple panels",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090104/b1007693/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090104/b1007693/attachment.pl>",
+      "body_plain": "Hello List,\n\nThanks in advance for any help.\n\nI am trying to use R to combine panels of microsatellite scores in R and\nhaving troubles.  I am using GeneMarker 1.70 and my files are saved as tab\ndelimited text that look like the example below.  I would like the output to\nhave a column for individuals ( eg, [ H1]H01.fsa) and then one column for\neach allele at each locus.  One of the spots I am have trouble with is that\neach file has a different permutation of the same individuals.   Has anyone\nalready put something together that they are willing to share?\n\n\nCheers\nGrant\n\nAllele Report\nSoftware Package: SoftGenetics GeneMarker 1.70\nDate/Time: 12/17/2008 3:08:13 PM\n\nProject: C:\\Documents and Settings\\Genomics\\My\nDocuments\\Gillis\\Moosel_TC045.SGF\nPanel: Mosse\nSize: GS350\nAnalysis Type: Fragment (Animal)\n\n\nReport Style: Marker Table\n\n        M14        M10        M8        M15        M03\n1    [ H1]H01.fsa            201    205            104    110    224\n224\n2    [ G1]G01.fsa    146    150    205    205    223    225    102    106\n220    224\n3    [ F1]F01.fsa    142    154            215    225    104    110\n224    232\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello List,\n\nThanks in advance for any help.\n\nI am trying to use R to combine panels of microsatellite scores in R and\nhaving troubles.  I am using GeneMarker 1.70 and my files are saved as tab\ndelimi",
       "thread_id": "thread-5e92e72f8858",
       "thread_depth": 0,
-      "month": "2009-01"
+      "month": "2009-01",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090104/b1007693/attachment.pl"
+      ]
     },
     {
       "id": "msg-d74520dd02d2",
@@ -29,11 +32,14 @@
       "subject_clean": "combining scores from multiple panels",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090111/2ac797af/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090111/2ac797af/attachment.pl>",
+      "body_plain": "> Hello List,\n\n> Thanks in advance for any help.\n\n> I am trying to use R to combine panels of microsatellite scores in R and\n> having troubles.  I am using GeneMarker 1.70 and my files are saved as tab\n> delimited text that look like the example below.  I would like the output to\n> have a column for individuals ( eg, [ H1]H01.fsa) and then one column for\n> each allele at each locus.  One of the spots I am have trouble with is that\n> each file has a different permutation of the same individuals.   Has anyone\n> already put something together that they are willing to share?\n\n\n> Cheers\n> Grant\n\nDear Grant, \n\nI think the simplest way to deal with your issue is to reorder matrices using the row names. Then you can safely cbind them if you wish to have all information in the same matrix.\nFor instance :\n\n> A <- matrix(1:12, ncol=3)\n> B <- matrix(12:1, ncol=3)\n> rownames(A) <- letters[1:4]\n> rownames(B) <- letters[4:1]\n> A\n  [,1] [,2] [,3]\na    1    5    9\nb    2    6   10\nc    3    7   11\nd    4    8   12\n> B\n  [,1] [,2] [,3]\nd   12    8    4\nc   11    7    3\nb   10    6    2\na    9    5    1\n\n> B[rownames(A),]\n  [,1] [,2] [,3]\na    9    5    1\nb   10    6    2\nc   11    7    3\nd   12    8    4\n\n## so to reorder B, just use:\n> B <- B[rownames(A),]\n\nIs this what you needed? \n\nBest, \n\nThibaut.\n\n-- \n######################################\nDr Thibaut JOMBART\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - Faculty of Medicine\nSt Mary’s Campus\nNorfolk Place\nLondon W2 1PG\nUnited Kingdom\nTel. : 0044 (0)20 7594 3658\njombart at biomserv.univ-lyon1.fr\nhttp://biomserv.univ-lyon1.fr/%7Ejombart/\nhttp://adegenet.r-forge.r-project.org/\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "> Hello List,\n\n> Thanks in advance for any help.\n\n> I am trying to use R to combine panels of microsatellite scores in R and\n> having troubles.  I am using GeneMarker 1.70 and my files are saved as ta",
       "thread_id": "thread-d74520dd02d2",
       "thread_depth": 0,
-      "month": "2009-01"
+      "month": "2009-01",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090111/2ac797af/attachment.pl"
+      ]
     },
     {
       "id": "msg-0a76ad0122e5",
@@ -45,11 +51,14 @@
       "subject_clean": "combining scores from multiple panels",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090112/1c40bd9c/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090112/1c40bd9c/attachment.pl>",
+      "body_plain": "Hi Thibaut,\n\nThanks for having a look at this for me.  What you have is close to what I'm\nlooking for.  Where I am stuck is that for me each data sheet does not\nnecessarily have the same individuals.  I have in the range of 20 different\ndata sheets composed of various formulations of 200 individuals.  Not all\nindividuals are in every sheet.  Each sheet has a column for individuals and\ncolumns for allele data from 2 or 3 microsatillate loci.  I would like to\nread these into a data sheet that has all individual and locus data in a\nsingle sheet with a column of individuals and 2 columns per locus for\nmicrosat data.\n\nI have done this the old-fashioned way in excel (with vlookup) but will have\nto do it again a few more times in the future do if it is relatively simple\nI am still interested in and suggestions on how it can be done.\n\nCheers\nGrant\n\n\n\n\nSo from your example it would be closer to:\n\n> A <- matrix(1:12, ncol=3)\n> B <- matrix(12:1, ncol=3)\n> rownames(A) <- letters[1:4]\n> rownames(B) <- letters[6:3]\n> A\n  [,1] [,2] [,3]\na    1    5    9\nb    2    6   10\nc    3    7   11\nd    4    8   12\n> B\n  [,1] [,2] [,3]\nf   12    8    4\ne   11    7    3\nd   10    6    2\nc    9    5    1\n\n\n\n\n\n\n> Hello List,\n\n> Thanks in advance for any help.\n\n> I am trying to use R to combine panels of microsatellite scores in R and\n> having troubles.  I am using GeneMarker 1.70 and my files are saved as tab\n> delimited text that look like the example below.  I would like the output to\n\n> have a column for individuals ( eg, [ H1]H01.fsa) and then one column for\n> each allele at each locus.  One of the spots I am have trouble with is that\n> each file has a different permutation of the same individuals.   Has anyone\n\n> already put something together that they are willing to share?\n\n\n> Cheers\n> Grant\n\nDear Grant,\n\nI think the simplest way to deal with your issue is to reorder\nmatrices using the row names. Then you can safely cbind them if you\nwish to have all information in the same matrix.\n\nFor instance :\n\n> A <- matrix(1:12, ncol=3)\n> B <- matrix(12:1, ncol=3)\n> rownames(A) <- letters[1:4]\n> rownames(B) <- letters[4:1]\n> A\n  [,1] [,2] [,3]\na    1    5    9\n\nb    2    6   10\nc    3    7   11\nd    4    8   12\n> B\n  [,1] [,2] [,3]\nd   12    8    4\nc   11    7    3\nb   10    6    2\na    9    5    1\n\n> B[rownames(A),]\n  [,1] [,2] [,3]\na    9    5    1\n\nb   10    6    2\nc   11    7    3\nd   12    8    4\n\n## so to reorder B, just use:\n> B <- B[rownames(A),]\n\nIs this what you needed?\n\nBest,\n\nThibaut.\n\n-- \n######################################\n\nDr Thibaut JOMBART\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - Faculty of Medicine\nSt Mary's Campus\nNorfolk Place\nLondon W2 1PG\nUnited Kingdom\n\nTel. : 0044 (0)20 7594 3658\njombart at biomserv.univ-lyon1.fr\nhttp://biomserv.univ-lyon1.fr/%7Ejombart/\nhttp://adegenet.r-forge.r-project.org/\n\n\t[[alternative HTML version deleted]]\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi Thibaut,\n\nThanks for having a look at this for me.  What you have is close to what I'm\nlooking for.  Where I am stuck is that for me each data sheet does not\nnecessarily have the same individuals. ",
       "thread_id": "thread-0a76ad0122e5",
       "thread_depth": 0,
-      "month": "2009-01"
+      "month": "2009-01",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090112/1c40bd9c/attachment.pl"
+      ]
     },
     {
       "id": "msg-d4d054e0b9ac",
@@ -63,11 +72,14 @@
       "references": [
         "<e7529c930901120649y6280d6c3hf8a8a44c67552099@mail.gmail.com>"
       ],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090112/83092186/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090112/83092186/attachment.pl>",
+      "body_plain": "Grant Gillis wrote:\n> Hi Thibaut,\n>\n> Thanks for having a look at this for me.  What you have is close to what I'm\n> looking for.  Where I am stuck is that for me each data sheet does not\n> necessarily have the same individuals.  I have in the range of 20 different\n> data sheets composed of various formulations of 200 individuals.  Not all\n> individuals are in every sheet.  Each sheet has a column for individuals and\n> columns for allele data from 2 or 3 microsatillate loci.  I would like to\n> read these into a data sheet that has all individual and locus data in a\n> single sheet with a column of individuals and 2 columns per locus for\n> microsat data.\n>\n> I have done this the old-fashioned way in excel (with vlookup) but will have\n> to do it again a few more times in the future do if it is relatively simple\n> I am still interested in and suggestions on how it can be done.\n>\n> Cheers\n> Grant\n>\n>\n>\n>\n> So from your example it would be closer to:\n>\n>> A <- matrix(1:12, ncol=3)\n>> B <- matrix(12:1, ncol=3)\n>> rownames(A) <- letters[1:4]\n>> rownames(B) <- letters[6:3]\n>> A\n>   [,1] [,2] [,3]\n> a    1    5    9\n> b    2    6   10\n> c    3    7   11\n> d    4    8   12\n>> B\n>   [,1] [,2] [,3]\n> f   12    8    4\n> e   11    7    3\n> d   10    6    2\n> c    9    5    1\n\nAll right, then I guess what you need is using merge.\n\n>From your example above:\n> A <- data.frame(id=rownames(A),A)\n> B <- data.frame(id=rownames(B),B)\n> A\n  id V1 V2 V3\na  a  1  5  9\nb  b  2  6 10\nc  c  3  7 11\nd  d  4  8 12\n> B\n  id X1 X2 X3\nf  f 12  8  4\ne  e 11  7  3\nd  d 10  6  2\nc  c  9  5  1\n\n## only common individuals\n> merge(A,B, by=\"id\")\n  id V1 V2 V3 X1 X2 X3\n1  c  3  7 11  9  5  1\n2  d  4  8 12 10  6  2\n\n## all individuals\n> merge(A,B, by=\"id\", all=TRUE)\n  id V1 V2 V3 X1 X2 X3\n1  a  1  5  9 NA NA NA\n2  b  2  6 10 NA NA NA\n3  c  3  7 11  9  5  1\n4  d  4  8 12 10  6  2\n5  e NA NA NA 11  7  3\n6  f NA NA NA 12  8  4\n\n\nDefinitely no need to use excel here ;-)\n\nCheers,\n\nThibaut.\n\n-- \n######################################\nDr Thibaut JOMBART\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - Faculty of Medicine\nSt Mary’s Campus\nNorfolk Place\nLondon W2 1PG\nUnited Kingdom\nTel. : 0044 (0)20 7594 3658\njombart at biomserv.univ-lyon1.fr\nhttp://biomserv.univ-lyon1.fr/%7Ejombart/\nhttp://adegenet.r-forge.r-project.org/\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Grant Gillis wrote:\n> Hi Thibaut,\n>\n> Thanks for having a look at this for me.  What you have is close to what I'm\n> looking for.  Where I am stuck is that for me each data sheet does not\n> necessaril",
       "thread_id": "thread-0a76ad0122e5",
       "thread_depth": 1,
-      "month": "2009-01"
+      "month": "2009-01",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090112/83092186/attachment.pl"
+      ]
     }
   ],
   "threads": [

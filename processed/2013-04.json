@@ -34,11 +34,14 @@
         "<4C263D71.8060305@monash.edu.au>",
         "<loom.20130401T181259-323@post.gmane.org>"
       ],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130403/bcbae4e5/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130403/bcbae4e5/attachment.pl>",
+      "body_plain": "No, unfortunately I have not found any.\n\n\nOn Tue, Apr 2, 2013 at 3:14 AM, Lina Valencia <linavalencia85 at gmail.com>wrote:\n\n> Nevil Amos <nevil.amos at ...> writes:\n>\n> >\n> > Do any of the genetics related packages allow calcualtion of individual\n> > relatedness values?\n> >\n> > such as that in Queller, D.C. and Goodnight, K.F. 1989. Estimation of\n> > genetic relatedness using allozyme data. Evolution 43:258-275.?\n> >\n> > cheers\n> >\n> > Nevil Amos\n> >\n> >       [[alternative HTML version deleted]]\n> >\n>\n>\n> Hi Nevil,\n>\n> I am also looking to an R package that calculate Q-G relatedness. Have you\n> find\n> any? I need to calculate R for many populations and different points in\n> time,\n> and doing it on Kingroup takes too much time.\n>\n> Thanks!\n>\n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "No, unfortunately I have not found any.\n\n\nOn Tue, Apr 2, 2013 at 3:14 AM, Lina Valencia <linavalencia85 at gmail.com>wrote:\n\n> Nevil Amos <nevil.amos at ...> writes:\n>\n> >\n> > Do any of the genetics r",
       "thread_id": "thread-3b30cd15c850",
       "thread_depth": 1,
-      "month": "2013-04"
+      "month": "2013-04",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130403/bcbae4e5/attachment.pl"
+      ]
     }
   ],
   "threads": [

@@ -13,11 +13,14 @@
       "subject_clean": "BLAST from R using BoSSA: is it normal it takes so long?",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20140114/2cd2e5ba/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20140114/2cd2e5ba/attachment.pl>",
+      "body_plain": "Hi,\n\nI was trying to use blast{BoSSA} to BLAST some sequences I have in a DNAbin\nobject, but it is taking too long and I am not sure it is working properly.\n\nAfter running the example below the console returns several lines of \"Read\n2178 items\" one after another and has been there for several mins.\n\nCould you spot if I am doing something wrong or if this is normal?\n\nMany thanks.\n\nExample data:\n\n```\n\nx <- structure(c(\"55548\", \"43297\", \"35309\", \"34468\",\n\"AATTCAATGCTCGGGAAGCAAGGAAAGCTGGGGACCAACTTCTCTTGGAGACATGAGCTTAGTGCAGTTAGATCGGAAGAGCA\",\n\"AATTCCTAAAACACCAATCAAGTTGGTGTTGCTAATTTCAACACCAACTTGTTGATCTTCACGTTCACAACCGTCTTCACGTT\",\n\"AATTCACCACCACCACTAGCATACCATCCACCTCCATCACCACCACCGGTTAAGATCGGAAGAGCACACTCTGAACTCCAGTC\",\n\"AATTCTATTGGTCATCACAATGGTGGTCCGTGGCTCACGTGCGTTCCTTGTGCAGGTCAACAGGTCAAGTTAAGATCGGAAGA\"),\n.Dim = c(4L, 2L))\n\ny <- t(sapply(strsplit(x[,2],\"\"), tolower))\nrownames(y) <- x[,1]\n\ny<-as.DNAbin(y)\n\ntestblast<-blast(y, program=\"blastn\", database= \"nr\", entrezquery=\n\"viridiplantae[organism]\")\n\n```\n\n\n\nThanks,\n\nAlicia\n\n\n\n\n-- \nAlicia Mastretta-Yanes\nPhD student\nCentre for Ecology, Evolution and Conservation\nSchool of Biological Sciences\nUniversity of East Anglia\nNorwich NR4 7TJ\nENGLAND\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi,\n\nI was trying to use blast{BoSSA} to BLAST some sequences I have in a DNAbin\nobject, but it is taking too long and I am not sure it is working properly.\n\nAfter running the example below the consol",
       "thread_id": "thread-acf666df6d0f",
       "thread_depth": 0,
-      "month": "2014-01"
+      "month": "2014-01",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20140114/2cd2e5ba/attachment.pl"
+      ]
     }
   ],
   "threads": [
