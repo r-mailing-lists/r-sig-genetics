@@ -114,6 +114,22 @@
       "thread_id": "thread-4a3cb0771194",
       "thread_depth": 0,
       "month": "2026-10"
+    },
+    {
+      "id": "msg-e6c24ad882ef",
+      "message_id": "<u0GxpEtYSymBoY4snFuPnw@geopod-ismtpd-1>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-10-19T14:00:02Z",
+      "subject": "[R-sig-genetics] Large Language Models for genetics",
+      "subject_clean": "Large Language Models for genetics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - A clear foundation for evaluating generative tools in computational research. Understanding Large Language Models is a seminar livestreaming October 22 with Peter Gruber (Faculty of Economics, USI Universit? della Svizzera Italiana). Interpret tokenization, training limits, and hallucination when assessing AI for genetic data analysis. Geneticists using R can apply this understanding to decide where generative tools may assist analysis, documentation, or research writing. The seminar connects model behavior with informed choices about prompts, privacy, and task selection.\n\nDetails and registration: https://instats.org/seminar/understanding-large-language-models\nThe seminar page includes the full schedule and registration details.\n\n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - A clear foundation for evaluating generative tools in computational research. Understanding Large Language Models is a seminar livestreaming October 22 with ",
+      "thread_id": "thread-e6c24ad882ef",
+      "thread_depth": 0,
+      "month": "2026-10"
     }
   ],
   "threads": [
@@ -193,6 +209,17 @@
       "started": "2026-10-16T14:00:07Z",
       "last_reply": "2026-10-16T14:00:07Z",
       "root_message_id": "msg-4a3cb0771194"
+    },
+    {
+      "id": "thread-e6c24ad882ef",
+      "subject": "Large Language Models for genetics",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-10-19T14:00:02Z",
+      "last_reply": "2026-10-19T14:00:02Z",
+      "root_message_id": "msg-e6c24ad882ef"
     }
   ]
 }
