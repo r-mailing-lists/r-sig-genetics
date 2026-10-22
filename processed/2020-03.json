@@ -19,7 +19,8 @@
       "body_snippet": "Hi Hirra,\n\nI've tried with the data you pisted below using pegas 0.12 and I was not able to repeat your results: I found that seqs. 1 and 3 are grouped in the same haplotype (not 1 and 2). Anyway, thi",
       "thread_id": "thread-b36775acb83e",
       "thread_depth": 0,
-      "month": "2020-03"
+      "month": "2020-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2020-March/000198.html"
     }
   ],
   "threads": [

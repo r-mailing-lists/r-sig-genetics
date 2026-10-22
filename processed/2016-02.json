@@ -17,7 +17,8 @@
       "body_snippet": "Hello all,\n\nThis is just to let everyone know that adegenet version 2.0.1 has been released on CRAN. It includes new features such as avoiding overlapping labels in scatter.dapc(), speedups to df2geni",
       "thread_id": "thread-86a7f05ff921",
       "thread_depth": 0,
-      "month": "2016-02"
+      "month": "2016-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-February/000083.html"
     },
     {
       "id": "msg-65dc97b294bb",
@@ -31,11 +32,12 @@
       "references": [
         "<A54D5623-B1DA-4EDD-A974-C8FF055C36BB@science.oregonstate.edu>"
       ],
-      "body_plain": "I rebuilt the rpopgen Docker container, so it?s available there now, too:\nhttps://hub.docker.com/r/hlapp/rpopgen/\n\n -hilmar\n\n> On Feb 17, 2016, at 3:16 PM, Zhian Kamvar <kamvarz at science.oregonstate.edu> wrote:\n> \n> Hello all,\n> \n> This is just to let everyone know that adegenet version 2.0.1 has been released on CRAN. It includes new features such as avoiding overlapping labels in scatter.dapc(), speedups to df2genind() and `Hs()`, and several bug fixes.\n> \n> Read the details here: https://github.com/thibautjombart/adegenet/releases/tag/2.0.1\n> \n> download it from CRAN:\n> \n> install.packages(\"adegenet\", repos = \"http://cran.r-project.org\")\n> \n> Cheers,\n> Zhian\n> \n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n\n-- \nHilmar Lapp -:- genome.duke.edu -:- lappland.io",
-      "body_snippet": "I rebuilt the rpopgen Docker container, so it?s available there now, too:\nhttps://hub.docker.com/r/hlapp/rpopgen/\n\n -hilmar\n\n> On Feb 17, 2016, at 3:16 PM, Zhian Kamvar <kamvarz at science.oregonstate",
+      "body_plain": "I rebuilt the rpopgen Docker container, so it’s available there now, too:\nhttps://hub.docker.com/r/hlapp/rpopgen/\n\n -hilmar\n\n> On Feb 17, 2016, at 3:16 PM, Zhian Kamvar <kamvarz at science.oregonstate.edu> wrote:\n> \n> Hello all,\n> \n> This is just to let everyone know that adegenet version 2.0.1 has been released on CRAN. It includes new features such as avoiding overlapping labels in scatter.dapc(), speedups to df2genind() and `Hs()`, and several bug fixes.\n> \n> Read the details here: https://github.com/thibautjombart/adegenet/releases/tag/2.0.1\n> \n> download it from CRAN:\n> \n> install.packages(\"adegenet\", repos = \"http://cran.r-project.org\")\n> \n> Cheers,\n> Zhian\n> \n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics\n\n-- \nHilmar Lapp -:- genome.duke.edu -:- lappland.io",
+      "body_snippet": "I rebuilt the rpopgen Docker container, so it’s available there now, too:\nhttps://hub.docker.com/r/hlapp/rpopgen/\n\n -hilmar\n\n> On Feb 17, 2016, at 3:16 PM, Zhian Kamvar <kamvarz at science.oregonstate",
       "thread_id": "thread-86a7f05ff921",
       "thread_depth": 1,
-      "month": "2016-02"
+      "month": "2016-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-February/000084.html"
     }
   ],
   "threads": [

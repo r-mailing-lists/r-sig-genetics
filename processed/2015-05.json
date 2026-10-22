@@ -17,7 +17,8 @@
       "body_snippet": "Hello\n\nI have a VCF file containing 306596 biallelic SNP calls from 18 individuals. I was able to read the entire file as a ?loci? object but when I try to convert it into a genind object I run into m",
       "thread_id": "thread-a3681bc36026",
       "thread_depth": 0,
-      "month": "2015-05"
+      "month": "2015-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2015-May/000059.html"
     },
     {
       "id": "msg-eab3c4048f55",
@@ -35,7 +36,8 @@
       "body_snippet": "Dear Stefano, \n\nthe genind class has not been designed for such a large number of SNPs. Substantial improvements have been made in adegenet 2.0: \nhttps://github.com/thibautjombart/adegenet\n\nbut for th",
       "thread_id": "thread-a3681bc36026",
       "thread_depth": 1,
-      "month": "2015-05"
+      "month": "2015-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2015-May/000060.html"
     },
     {
       "id": "msg-462389fe24cd",
@@ -53,7 +55,8 @@
       "body_snippet": "Dear Stefano,\n\ncould you describe which package:::function(s) you used (providing code\nhelps to help!)?\n\nYou could split the vcf file before reading it into the R workspace by\nchromosomes (use GNU gre",
       "thread_id": "thread-a3681bc36026",
       "thread_depth": 1,
-      "month": "2015-05"
+      "month": "2015-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2015-May/000061.html"
     },
     {
       "id": "msg-54c2d860bd98",
@@ -71,7 +74,8 @@
       "body_snippet": "Hi Stefano,\n\nThat's certainly a large data set, so you are bound to run into memory\nissues.  But I have had luck reading a data set of about 150K SNP calls for\nmore than 500 individuals as a genind ob",
       "thread_id": "thread-a3681bc36026",
       "thread_depth": 1,
-      "month": "2015-05"
+      "month": "2015-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2015-May/000062.html"
     }
   ],
   "threads": [

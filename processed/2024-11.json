@@ -17,7 +17,8 @@
       "body_snippet": "Hi everyone\n\nLast chance to sign up for our new 1-day seminar Python for R Users <https://instats.org/seminar/python-for-r-users2>, running Nov 13 with professor Rebecca Barter from the Division of Ep",
       "thread_id": "thread-2b1625663375",
       "thread_depth": 0,
-      "month": "2024-11"
+      "month": "2024-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-November/000306.html"
     },
     {
       "id": "msg-74b1dcde7d78",
@@ -29,11 +30,12 @@
       "subject_clean": "RADseq course using Stacks - only 2 seats left",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\nWe?re excited to announce that there are only 2 seats remaining for our upcoming online course on RAD-seq Data Analysis, scheduled for 18-22 November 2024.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course16/ ]( https://www.physalia-courses.org/courses-workshops/course16/ )\n \n \nThis 5-day course provides comprehensive training on reduced representation genome sequencing methods like RAD-seq and focuses on data analysis using Stacks. Participants will gain practical, hands-on experience essential for conducting population genetics, phylogenetic, and association studies.\n \n \n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Dear all,\nWe?re excited to announce that there are only 2 seats remaining for our upcoming online course on RAD-seq Data Analysis, scheduled for 18-22 November 2024.\n \nCourse website: [ https://www.ph",
+      "body_plain": "Dear all,\nWe’re excited to announce that there are only 2 seats remaining for our upcoming online course on RAD-seq Data Analysis, scheduled for 18-22 November 2024.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course16/ ]( https://www.physalia-courses.org/courses-workshops/course16/ )\n \n \nThis 5-day course provides comprehensive training on reduced representation genome sequencing methods like RAD-seq and focuses on data analysis using Stacks. Participants will gain practical, hands-on experience essential for conducting population genetics, phylogenetic, and association studies.\n \n \n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe’re excited to announce that there are only 2 seats remaining for our upcoming online course on RAD-seq Data Analysis, scheduled for 18-22 November 2024.\n \nCourse website: [ https://www.ph",
       "thread_id": "thread-74b1dcde7d78",
       "thread_depth": 0,
-      "month": "2024-11"
+      "month": "2024-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-November/000307.html"
     },
     {
       "id": "msg-3b4afbfc5145",
@@ -49,7 +51,8 @@
       "body_snippet": "Hi everyone\n\nLast chance for the 1-day seminar on Single Cell Data Analysis <https://instats.org/seminar/single-cell-data-analysis2> in R and Python, running Nov 26 with professor Nikolay Oskolkov. Si",
       "thread_id": "thread-3b4afbfc5145",
       "thread_depth": 0,
-      "month": "2024-11"
+      "month": "2024-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-November/000308.html"
     },
     {
       "id": "msg-8e4445c7d284",
@@ -61,11 +64,12 @@
       "subject_clean": "Online Course: Multivariate Data Analysis with R and vegan",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\nWe are happy to announce the upcoming Physalia online course: \"Multivariate Data Analysis with R and vegan\", taking place from 10-13 February 2025. \n\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/vegan/ ]( https://www.physalia-courses.org/courses-workshops/vegan/ ) \n \nWhat you?ll learn:\nKey multivariate analysis techniques, including constrained and unconstrained ordination (CCA, RDA, PERMANOVA, etc.).\nEffective use of the vegan R package for ordination, diversity analysis, and ecological simulations.\nHands-on application of restricted permutation tests for experimental design analysis.\nPractical R programming skills for analysing and visualizing multivariate data.\nFormat:\nOnline, fostering international participation.\nSessions from 14:00 to 20:00 Berlin time, blending lectures, practical exercises, and interactive Q&A.\nWho should join:\nThis course is ideal for those with a basic understanding of RStudio and R programming who wish to advance their knowledge of multivariate data analysis.\n \nWhy join?\nGain practical expertise to confidently analyze complex datasets and apply cutting-edge statistical methods using R.\n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Dear all,\nWe are happy to announce the upcoming Physalia online course: \"Multivariate Data Analysis with R and vegan\", taking place from 10-13 February 2025. \n\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/vegan/ ]( https://www.physalia-courses.org/courses-workshops/vegan/ ) \n \nWhat you’ll learn:\nKey multivariate analysis techniques, including constrained and unconstrained ordination (CCA, RDA, PERMANOVA, etc.).\nEffective use of the vegan R package for ordination, diversity analysis, and ecological simulations.\nHands-on application of restricted permutation tests for experimental design analysis.\nPractical R programming skills for analysing and visualizing multivariate data.\nFormat:\nOnline, fostering international participation.\nSessions from 14:00 to 20:00 Berlin time, blending lectures, practical exercises, and interactive Q&A.\nWho should join:\nThis course is ideal for those with a basic understanding of RStudio and R programming who wish to advance their knowledge of multivariate data analysis.\n \nWhy join?\nGain practical expertise to confidently analyze complex datasets and apply cutting-edge statistical methods using R.\n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Dear all,\nWe are happy to announce the upcoming Physalia online course: \"Multivariate Data Analysis with R and vegan\", taking place from 10-13 February 2025. \n\n \nCourse website: [ https://www.physalia",
       "thread_id": "thread-8e4445c7d284",
       "thread_depth": 0,
-      "month": "2024-11"
+      "month": "2024-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-November/000309.html"
     },
     {
       "id": "msg-4b2cfaabde60",
@@ -81,7 +85,8 @@
       "body_snippet": "ONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR07)\n\nhttps://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the",
       "thread_id": "thread-4b2cfaabde60",
       "thread_depth": 0,
-      "month": "2024-11"
+      "month": "2024-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-November/000310.html"
     },
     {
       "id": "msg-a47fe754f3a9",
@@ -93,11 +98,12 @@
       "subject_clean": "Few Seats Left for Landscape Genomics Workshop (20–24 Jan 2025, Poland)",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\n\nDiscover the cutting-edge field of Landscape Genomics this January at the Faculty of Biology and Environmental Protection, University of ??d?, Poland. Learn how to integrate genetic data with environmental analysis, explore GIS tools, and master methods like Sambada to uncover local adaptation.\n\nWhen: 20?24 January 2025\nWhere: University of ??d?, Poland\n\nWith hands-on sessions and expert guidance, this course is perfect for biologists, ecologists, geneticists, and conservationists eager to apply these techniques in evolutionary biology and conservation.\n\nOnly a few seats remain!\n\nDon?t miss out?secure your spot now: https://www.physalia-courses.org/courses-workshops/course17/\n\nBest regards,\nCarlo\n\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Dear all,\n\nDiscover the cutting-edge field of Landscape Genomics this January at the Faculty of Biology and Environmental Protection, University of ??d?, Poland. Learn how to integrate genetic data wi",
+      "body_plain": "Dear all,\n\nDiscover the cutting-edge field of Landscape Genomics this January at the Faculty of Biology and Environmental Protection, University of Łódź, Poland. Learn how to integrate genetic data with environmental analysis, explore GIS tools, and master methods like Sambada to uncover local adaptation.\n\nWhen: 20–24 January 2025\nWhere: University of Łódź, Poland\n\nWith hands-on sessions and expert guidance, this course is perfect for biologists, ecologists, geneticists, and conservationists eager to apply these techniques in evolutionary biology and conservation.\n\nOnly a few seats remain!\n\nDon’t miss out—secure your spot now: https://www.physalia-courses.org/courses-workshops/course17/\n\nBest regards,\nCarlo\n\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nDiscover the cutting-edge field of Landscape Genomics this January at the Faculty of Biology and Environmental Protection, University of Łódź, Poland. Learn how to integrate genetic data wi",
       "thread_id": "thread-a47fe754f3a9",
       "thread_depth": 0,
-      "month": "2024-11"
+      "month": "2024-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-November/000311.html"
     },
     {
       "id": "msg-418b7a5ee247",
@@ -113,7 +119,8 @@
       "body_snippet": "Dear all,\n\nthere are still a few seats available for the online course on Longitudinal Data Analysis in R.\n\nWhen: December 16th-19th\n\n\nCourse website: https://www.physalia-courses.org/courses-workshop",
       "thread_id": "thread-418b7a5ee247",
       "thread_depth": 0,
-      "month": "2024-11"
+      "month": "2024-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-November/000312.html"
     },
     {
       "id": "msg-8ed8d3d6022b",
@@ -129,7 +136,8 @@
       "body_snippet": "Hi everyone\n\nLast chance for the 1-day seminar on Single Cell Data Analysis in R and Python <https://instats.org/seminar/single-cell-data-analysis2>, running Nov 26 with professor Nikolay Oskolkov. Si",
       "thread_id": "thread-8ed8d3d6022b",
       "thread_depth": 0,
-      "month": "2024-11"
+      "month": "2024-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-November/000313.html"
     },
     {
       "id": "msg-efa63a94afec",
@@ -145,7 +153,8 @@
       "body_snippet": "Dear all,\n \nJoin us February 10-13, 2025, for the online Multivariate Data Analysis with R and vegan course.\n \n \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/vegan/ ]( https:",
       "thread_id": "thread-efa63a94afec",
       "thread_depth": 0,
-      "month": "2024-11"
+      "month": "2024-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-November/000314.html"
     }
   ],
   "threads": [

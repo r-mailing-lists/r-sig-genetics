@@ -17,7 +17,8 @@
       "body_snippet": "> library(genetics)\nLoading required package: combinat\n\nAttaching package: ?combinat?\n\nThe following object(s) are masked from ?package:utils?:\n\n    combn\n\nLoading required package: gdata\ngdata: read.",
       "thread_id": "thread-eb108453edc9",
       "thread_depth": 0,
-      "month": "2011-11"
+      "month": "2011-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2011-November/000031.html"
     },
     {
       "id": "msg-5edb6869eee5",
@@ -35,7 +36,8 @@
       "body_snippet": "Dear Federico, \n\nmvtnorm is not obsolete, genetics is, and has been so for at least a year I think. The R-genetics project on Bioconductor is meant to replace it. \n\nI think most functionalities of 'ge",
       "thread_id": "thread-eb108453edc9",
       "thread_depth": 1,
-      "month": "2011-11"
+      "month": "2011-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2011-November/000032.html"
     },
     {
       "id": "msg-3af7402b9314",
@@ -54,7 +56,8 @@
       "body_snippet": "On 18 Nov 2011, at 12:22, Jombart, Thibaut wrote:\n\n> Dear Federico, \n> \n> mvtnorm is not obsolete, genetics is, and has been so for at least a year I think. The R-genetics project on Bioconductor is m",
       "thread_id": "thread-eb108453edc9",
       "thread_depth": 2,
-      "month": "2011-11"
+      "month": "2011-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2011-November/000033.html"
     },
     {
       "id": "msg-27aa65ed2cc4",
@@ -74,7 +77,8 @@
       "body_snippet": "Hello, \n\nyes, genetics is still on CRAN but deprecated. Its functionalities are still available. There are quite a few options to do a HWE test:\n- (genetics): HWE.chisq, HWE.test, HWE.exact\n- (adegene",
       "thread_id": "thread-eb108453edc9",
       "thread_depth": 3,
-      "month": "2011-11"
+      "month": "2011-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2011-November/000034.html"
     }
   ],
   "threads": [

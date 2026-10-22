@@ -13,11 +13,12 @@
       "subject_clean": "genlight to treemix conversion",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\n\nI?m wondering if someone has code for converting data from genlight to treemix format. If you do and wouldn?t mind sharing it I would be most grateful.\n\nI think one could do as.matrix(genlight-object) and then sum the alleles for each population, but then I?m not sure how to deal with NAs.\n\nThanks!\nDan.\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Dear all,\n\nI?m wondering if someone has code for converting data from genlight to treemix format. If you do and wouldn?t mind sharing it I would be most grateful.\n\nI think one could do as.matrix(genli",
+      "body_plain": "Dear all,\n\nI’m wondering if someone has code for converting data from genlight to treemix format. If you do and wouldn’t mind sharing it I would be most grateful.\n\nI think one could do as.matrix(genlight-object) and then sum the alleles for each population, but then I’m not sure how to deal with NAs.\n\nThanks!\nDan.\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nI’m wondering if someone has code for converting data from genlight to treemix format. If you do and wouldn’t mind sharing it I would be most grateful.\n\nI think one could do as.matrix(genli",
       "thread_id": "thread-ac8a67ba581c",
       "thread_depth": 0,
-      "month": "2016-03"
+      "month": "2016-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-March/000085.html"
     },
     {
       "id": "msg-178795ceb85f",
@@ -31,11 +32,12 @@
       "references": [
         "<9148538B-FAC5-4A6B-B01A-23D2E3B0065F@gmail.com>"
       ],
-      "body_plain": "Hi Daniel,\n\nI'm not exactly sure this will work, but this might help:\n\n# Setting up fake data\nlibrary('adegenet')\nx       <- glSim(100, 1e3, ploid=2)\npop(x)  <- rep(letters[1:5], each = 20)\n\n# conversion \naltlist <- lapply(seppop(x), as.matrix)\nget_pop_counts <- function(altmatrix){\n  alt <- apply(altmatrix, 2, sum, na.rm = TRUE)\n  ref <- apply(2 - altmatrix, 2, sum, na.rm = TRUE)\n  paste(alt, ref, sep = \",\")\n}\n\ndat <- data.frame(lapply(altlist, get_pop_counts))\nwrite.table(dat, file = \"mydata.treemix\", sep = \"\\t\", row.names = FALSE, col.names = TRUE)\n\nZhian\n> On Mar 12, 2016, at 00:32 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:\n> \n> Dear all,\n> \n> I?m wondering if someone has code for converting data from genlight to treemix format. If you do and wouldn?t mind sharing it I would be most grateful.\n> \n> I think one could do as.matrix(genlight-object) and then sum the alleles for each population, but then I?m not sure how to deal with NAs.\n> \n> Thanks!\n> Dan.\n> \t[[alternative HTML version deleted]]\n> \n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
+      "body_plain": "Hi Daniel,\n\nI'm not exactly sure this will work, but this might help:\n\n# Setting up fake data\nlibrary('adegenet')\nx       <- glSim(100, 1e3, ploid=2)\npop(x)  <- rep(letters[1:5], each = 20)\n\n# conversion \naltlist <- lapply(seppop(x), as.matrix)\nget_pop_counts <- function(altmatrix){\n  alt <- apply(altmatrix, 2, sum, na.rm = TRUE)\n  ref <- apply(2 - altmatrix, 2, sum, na.rm = TRUE)\n  paste(alt, ref, sep = \",\")\n}\n\ndat <- data.frame(lapply(altlist, get_pop_counts))\nwrite.table(dat, file = \"mydata.treemix\", sep = \"\\t\", row.names = FALSE, col.names = TRUE)\n\nZhian\n> On Mar 12, 2016, at 00:32 , Daniel Fulop <dfulop.ucd at gmail.com> wrote:\n> \n> Dear all,\n> \n> I’m wondering if someone has code for converting data from genlight to treemix format. If you do and wouldn’t mind sharing it I would be most grateful.\n> \n> I think one could do as.matrix(genlight-object) and then sum the alleles for each population, but then I’m not sure how to deal with NAs.\n> \n> Thanks!\n> Dan.\n> \t[[alternative HTML version deleted]]\n> \n> _______________________________________________\n> R-sig-genetics mailing list\n> R-sig-genetics at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
       "body_snippet": "Hi Daniel,\n\nI'm not exactly sure this will work, but this might help:\n\n# Setting up fake data\nlibrary('adegenet')\nx       <- glSim(100, 1e3, ploid=2)\npop(x)  <- rep(letters[1:5], each = 20)\n\n# convers",
       "thread_id": "thread-ac8a67ba581c",
       "thread_depth": 1,
-      "month": "2016-03"
+      "month": "2016-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-March/000086.html"
     },
     {
       "id": "msg-dd2bcdebc4fe",
@@ -51,7 +53,8 @@
       "body_snippet": "Dear all,\n\nA new version of pegas is under preparation. It includes several new \nfunctions for LD mapping, a new na.omit function to check for missing \nalleles, improved code for VCF files and for ext",
       "thread_id": "thread-dd2bcdebc4fe",
       "thread_depth": 0,
-      "month": "2016-03"
+      "month": "2016-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-March/000087.html"
     },
     {
       "id": "msg-44556247e127",
@@ -67,7 +70,8 @@
       "body_snippet": "Dear all,\n\nA new version of pegas is under preparation. It includes several new \nfunctions for LD mapping, a new na.omit function to check for missing \nalleles, improved code for VCF files and for ext",
       "thread_id": "thread-44556247e127",
       "thread_depth": 0,
-      "month": "2016-03"
+      "month": "2016-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-March/000088.html"
     },
     {
       "id": "msg-29940e46cf05",
@@ -85,7 +89,8 @@
       "body_snippet": "Hi Emmanuel,\n\nnew version looks great!\n\nBest\nThibaut\n\n\n--\nDr Thibaut Jombart\nLecturer, Department of Infectious Disease Epidemiology\nImperial College London\nhttps://sites.google.com/site/thibautjombar",
       "thread_id": "thread-44556247e127",
       "thread_depth": 1,
-      "month": "2016-03"
+      "month": "2016-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-March/000089.html"
     }
   ],
   "threads": [

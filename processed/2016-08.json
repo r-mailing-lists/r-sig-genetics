@@ -17,7 +17,8 @@
       "body_snippet": "\"Introduction to phylogenetic analysis with R\"\n\nDelivered by Dr. Emmanuel Paradis\n\nhttp://prstatistics.com/course/introduction-to-phylogenetic-analysis-with-r-phyg/\n\nThis course will run from 31st Oct",
       "thread_id": "thread-77084aa1aff6",
       "thread_depth": 0,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-August/000096.html"
     },
     {
       "id": "msg-3e955f8a5f0e",
@@ -33,7 +34,8 @@
       "body_snippet": "Hello,\n\nI am trying to estimate global FST and 95% CI for a data set.  The original\ndata was imported as genind object and converted to hierfstat format using\ngenind2hierfstat() function.\n\nTo estimate",
       "thread_id": "thread-3e955f8a5f0e",
       "thread_depth": 0,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-August/000097.html"
     },
     {
       "id": "msg-0b32be8a83cd",
@@ -49,7 +51,8 @@
       "body_snippet": "\"Landscape (population) genetic data analysis using R?\n\nDelivered by Dr. Rodney Dyer\n\nhttp://prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg/\n\nThis course will run from 17th ? 21s",
       "thread_id": "thread-0b32be8a83cd",
       "thread_depth": 0,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-August/000098.html"
     },
     {
       "id": "msg-7e66144cc537",
@@ -65,7 +68,8 @@
       "body_snippet": "Hello,\n\nI'm finding some odd behavior when using hierfstat to perform  \npermutations to assess the significance of population structure. I'm  \nusing a SNP dataset with 96 individuals and ~7300 SNPs.\n\n",
       "thread_id": "thread-7e66144cc537",
       "thread_depth": 0,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-August/000099.html"
     },
     {
       "id": "msg-494ef6e02d80",
@@ -81,7 +85,8 @@
       "body_snippet": "Dear All,\n\nI am trying to do DAPC on my genind object (app) using ADEGENET in R. But when I run the following command:\n\ngrp <- find.clusters(app)\n\nit is processing continuously for more than 2 hours b",
       "thread_id": "thread-494ef6e02d80",
       "thread_depth": 0,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-August/000100.html"
     },
     {
       "id": "msg-ce0c5a02e1f7",
@@ -99,7 +104,8 @@
       "body_snippet": "Hello,\nLarge data set ? \nI tried the same command and it took me three days to finish it (using a Mac with 32 GB of RAM)\n\n> On Aug 31, 2016, at 6:00 AM, r-sig-genetics-request at r-project.org wrote:\n",
       "thread_id": "thread-ce0c5a02e1f7",
       "thread_depth": 0,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-August/000101.html"
     },
     {
       "id": "msg-2cb7daad97f9",
@@ -118,7 +124,8 @@
       "body_snippet": "Hi Rav, if you have multiple cores on your CPU you can distribute the task\namong them, which really speeds it up. That might at least let you see\nwhether it is a problem with the dataset.\n\ngrp <-find.",
       "thread_id": "thread-2cb7daad97f9",
       "thread_depth": 0,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-September/000102.html"
     }
   ],
   "threads": [

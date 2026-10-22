@@ -17,7 +17,8 @@
       "body_snippet": "Hi all,\nhere is the function to calculate Nei-Li (1979) distance (or \ndissimilarity) for a binary matrix where columns are species and rows \nare alleles.\nIt is a modification of \"jaccard\" function in ",
       "thread_id": "thread-ef6bdc0e0630",
       "thread_depth": 0,
-      "month": "2009-09"
+      "month": "2009-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2009-September/000012.html"
     }
   ],
   "threads": [

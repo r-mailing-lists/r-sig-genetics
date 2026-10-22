@@ -17,7 +17,8 @@
       "body_snippet": "Dear all,\nwe are pleased to announce our upcoming online course ?Unix and Shell Scripting for Bioinformatics?, taking place on 12?16 January 2026.\n \nCourse website: [ https://www.physalia-courses.org/",
       "thread_id": "thread-4eb9942507f2",
       "thread_depth": 0,
-      "month": "2026-01"
+      "month": "2026-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-January/000455.html"
     },
     {
       "id": "msg-0ae29c9b2798",
@@ -33,7 +34,8 @@
       "body_snippet": "Dear all,\nWe would like to inform you that registration is still open for the upcoming online course:\nIntroduction to Genome-Wide Association Studies (GWAS)\n\nDates: 26?30 January 2026\nFormat: Online\nS",
       "thread_id": "thread-0ae29c9b2798",
       "thread_depth": 0,
-      "month": "2026-01"
+      "month": "2026-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-January/000456.html"
     },
     {
       "id": "msg-a4f94a8e854a",
@@ -45,11 +47,12 @@
       "subject_clean": "Machine Learning in R course",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\n \nJoin us for Introduction to Machine Learning with R, a hands-on online course running from 16 to 20 February 2026.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course43/ ]( https://www.physalia-courses.org/courses-workshops/course43/ )\n \nThis course is designed especially for researchers and students who want to learn how to apply machine learning to complex biological datasets like genomics, transcriptomics, and more. Whether you?re new to machine learning or just need a practical refresher, this course will guide you step-by-step through key concepts using R ? no advanced experience required!\n \nEach afternoon (2?7 pm Berlin time), you?ll attend interactive lectures and practical sessions covering everything from supervised and unsupervised learning to model tuning and R tools like tidymodels. You?ll have plenty of opportunities to ask questions and apply what you learn to your own data.\n \nFully online and open to international participants, this course offers a supportive environment to boost your skills and confidence in data analysis.\n \nSpaces are limited! \n \n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Dear all,\n \nJoin us for Introduction to Machine Learning with R, a hands-on online course running from 16 to 20 February 2026.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course43/ ]( https://www.physalia-courses.org/courses-workshops/course43/ )\n \nThis course is designed especially for researchers and students who want to learn how to apply machine learning to complex biological datasets like genomics, transcriptomics, and more. Whether you’re new to machine learning or just need a practical refresher, this course will guide you step-by-step through key concepts using R — no advanced experience required!\n \nEach afternoon (2–7 pm Berlin time), you’ll attend interactive lectures and practical sessions covering everything from supervised and unsupervised learning to model tuning and R tools like tidymodels. You’ll have plenty of opportunities to ask questions and apply what you learn to your own data.\n \nFully online and open to international participants, this course offers a supportive environment to boost your skills and confidence in data analysis.\n \nSpaces are limited! \n \n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Dear all,\n \nJoin us for Introduction to Machine Learning with R, a hands-on online course running from 16 to 20 February 2026.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/co",
       "thread_id": "thread-a4f94a8e854a",
       "thread_depth": 0,
-      "month": "2026-01"
+      "month": "2026-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-January/000457.html"
     },
     {
       "id": "msg-ec5ca9a543cd",
@@ -65,7 +68,8 @@
       "body_snippet": "Hi everyone\n\nLast chance to join our 1-day seminar Peer Reviewing and Editing Journals livestreaming January 8 with Carlton Fong (Department of Curriculum and Instruction, Texas State University). Thi",
       "thread_id": "thread-ec5ca9a543cd",
       "thread_depth": 0,
-      "month": "2026-01"
+      "month": "2026-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-January/000458.html"
     },
     {
       "id": "msg-1e28e143b50c",
@@ -81,7 +85,8 @@
       "body_snippet": "Hi everyone\n\nLast chance to join our 1-day seminar Statistical Analysis of Social Network Data livestreaming January 15 with Tianxi Li (School of Statistics, University of Minnesota). This seminar off",
       "thread_id": "thread-1e28e143b50c",
       "thread_depth": 0,
-      "month": "2026-01"
+      "month": "2026-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-January/000459.html"
     },
     {
       "id": "msg-fbaebad562a9",
@@ -97,7 +102,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar Machine Learning for Computational Biology 2.0 livestreaming January 13 with Nikolay Oskolkov (Group Leader (PI) at LIOS). This work",
       "thread_id": "thread-fbaebad562a9",
       "thread_depth": 0,
-      "month": "2026-01"
+      "month": "2026-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-January/000460.html"
     },
     {
       "id": "msg-09a9f2c841aa",
@@ -113,7 +119,8 @@
       "body_snippet": "Dear all,\n \nWe are pleased to announce the upcoming Physalia online course ?Machine and Deep Learning Methods in Population Genomics and Phylogeography? taking place from 23 to 26 March.\n \nCourse webs",
       "thread_id": "thread-09a9f2c841aa",
       "thread_depth": 0,
-      "month": "2026-01"
+      "month": "2026-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-January/000461.html"
     },
     {
       "id": "msg-602fdcd769cb",
@@ -129,7 +136,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 3-day seminar Foundations of Statistical Models and Linear Regression livestreaming February 3?5 with Centre for Applied Statistics Courses (CASC)",
       "thread_id": "thread-602fdcd769cb",
       "thread_depth": 0,
-      "month": "2026-01"
+      "month": "2026-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-January/000462.html"
     },
     {
       "id": "msg-28a025d39de6",
@@ -145,7 +153,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar Exploratory Analysis of Complex Datasets with ChatGPT 2.0 livestreaming February 12 with Nikolay Oskolkov (Group Leader (PI) at LIOS",
       "thread_id": "thread-28a025d39de6",
       "thread_depth": 0,
-      "month": "2026-01"
+      "month": "2026-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-January/000463.html"
     }
   ],
   "threads": [

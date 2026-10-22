@@ -13,11 +13,12 @@
       "subject_clean": "Longitudinal Data Analysis in Biostatistics - free seminar",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi everyone\n\nInstats is excited to offer a free seminar, Longitudinal Data Analysis in Biostatistics <https://instats.org/seminar/longitudinal-data-analysis-in-biostatist>, livestreaming August 5 and led by Dr Tuhin Sheikh from the Biostatistics Department at Arizona State University. Designed for PhD students, academics, and applied researchers, this hands-on workshop shows you how to harness R to track and interpret within-subject change over time?skills that are crucial for producing rigorous, high-impact health and social science research. Across a full day of immersive instruction, you?ll explore the rationale behind longitudinal study designs, learn best practices for preparing and visualizing repeated-measures data, and gain confidence fitting and interpreting linear mixed-effects models. Diagnostic techniques for assessing model assumptions, strategies for communicating findings in clinical contexts, and a capstone analysis of the pbcseq dataset ensure you finish with both theoretical insight and practical code you can immediately adapt to your own projects.\n\nSign up today <https://instats.org/seminar/longitudinal-data-analysis-in-biostatist> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a free seminar, Longitudinal Data Analysis in Biostatistics <https://instats.org/seminar/longitudinal-data-analysis-in-biostatist>, livestreaming August 5 and led by Dr Tuhin Sheikh from the Biostatistics Department at Arizona State University. Designed for PhD students, academics, and applied researchers, this hands-on workshop shows you how to harness R to track and interpret within-subject change over time—skills that are crucial for producing rigorous, high-impact health and social science research. Across a full day of immersive instruction, you’ll explore the rationale behind longitudinal study designs, learn best practices for preparing and visualizing repeated-measures data, and gain confidence fitting and interpreting linear mixed-effects models. Diagnostic techniques for assessing model assumptions, strategies for communicating findings in clinical contexts, and a capstone analysis of the pbcseq dataset ensure you finish with both theoretical insight and practical code you can immediately adapt to your own projects.\n\nSign up today <https://instats.org/seminar/longitudinal-data-analysis-in-biostatist> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Hi everyone\n\nInstats is excited to offer a free seminar, Longitudinal Data Analysis in Biostatistics <https://instats.org/seminar/longitudinal-data-analysis-in-biostatist>, livestreaming August 5 and ",
       "thread_id": "thread-a06b92c8c498",
       "thread_depth": 0,
-      "month": "2025-07"
+      "month": "2025-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-July/000402.html"
     },
     {
       "id": "msg-a9ea153f1280",
@@ -29,11 +30,12 @@
       "subject_clean": "Bayesian Phylogenetics with BEAST2 - livestream seminar",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi everyone\n\nInstats is excited to offer a 2-day seminar, Bayesian Phylogenetics with BEAST2 <https://instats.org/seminar/bayesian-phylogenetics-with-beast2>, running livestreaming September 18 ? 20 and led by Dr Jo?lle Barido-Sottani from the Institute of Biology, ENS-PSL, CNRS. Bayesian phylogenetics has transformed evolutionary research by allowing scientists to incorporate prior knowledge, quantify uncertainty, and analyse complex molecular-evolution models in a coherent probabilistic framework. Over two intensive days, Dr Barido-Sottani will guide participants from the theoretical foundations of Bayesian inference to hands-on proficiency with BEAST2?the modular, plugin-driven platform that uses MCMC to sample across tree space and deliver robust divergence-time and parameter estimates. You?ll learn how to specify informative priors, analyse diverse data types such as DNA sequences and traits, conduct thorough post-analysis diagnostics, and interpret posterior distributions with confidence. Whether you are a PhD student, academic, or research professional already familiar with basic phylogenetics, this seminar will equip you with cutting-edge skills to integrate Bayesian workflows into your own evolutionary studies and produce more reliable, publication-ready results.\n\nSign up today <https://instats.org/seminar/bayesian-phylogenetics-with-beast2> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 2-day seminar, Bayesian Phylogenetics with BEAST2 <https://instats.org/seminar/bayesian-phylogenetics-with-beast2>, running livestreaming September 18 ? 20 a",
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 2-day seminar, Bayesian Phylogenetics with BEAST2 <https://instats.org/seminar/bayesian-phylogenetics-with-beast2>, running livestreaming September 18 – 20 and led by Dr Joëlle Barido-Sottani from the Institute of Biology, ENS-PSL, CNRS. Bayesian phylogenetics has transformed evolutionary research by allowing scientists to incorporate prior knowledge, quantify uncertainty, and analyse complex molecular-evolution models in a coherent probabilistic framework. Over two intensive days, Dr Barido-Sottani will guide participants from the theoretical foundations of Bayesian inference to hands-on proficiency with BEAST2—the modular, plugin-driven platform that uses MCMC to sample across tree space and deliver robust divergence-time and parameter estimates. You’ll learn how to specify informative priors, analyse diverse data types such as DNA sequences and traits, conduct thorough post-analysis diagnostics, and interpret posterior distributions with confidence. Whether you are a PhD student, academic, or research professional already familiar with basic phylogenetics, this seminar will equip you with cutting-edge skills to integrate Bayesian workflows into your own evolutionary studies and produce more reliable, publication-ready results.\n\nSign up today <https://instats.org/seminar/bayesian-phylogenetics-with-beast2> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 2-day seminar, Bayesian Phylogenetics with BEAST2 <https://instats.org/seminar/bayesian-phylogenetics-with-beast2>, running livestreaming September 18 – 20 a",
       "thread_id": "thread-a9ea153f1280",
       "thread_depth": 0,
-      "month": "2025-07"
+      "month": "2025-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-July/000403.html"
     },
     {
       "id": "msg-d1c1b0fe3f36",
@@ -49,7 +51,8 @@
       "body_snippet": "Dear all,\nWe only have 3 seats left for our upcoming Conservation Genomics course, taking place online from 21?24 July!\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course62/",
       "thread_id": "thread-d1c1b0fe3f36",
       "thread_depth": 0,
-      "month": "2025-07"
+      "month": "2025-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-July/000404.html"
     },
     {
       "id": "msg-b6d3970da896",
@@ -65,7 +68,8 @@
       "body_snippet": "Hi everyone\n\nInstats is excited to offer a 3-day seminar, Using ChatGPT for Teaching and Learning Statistics 4.0 <https://instats.org/seminar/using-chatgpt-for-teaching-and-learning>, livestreaming Au",
       "thread_id": "thread-b6d3970da896",
       "thread_depth": 0,
-      "month": "2025-07"
+      "month": "2025-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-July/000405.html"
     },
     {
       "id": "msg-8e3889fd2c8a",
@@ -81,7 +85,8 @@
       "body_snippet": "Dear all,\n\n We are excited to announce our upcoming Physalia online course: Population Genomics Using Ancient DNA Data\n\n Dates: 22nd?26th September\nDaily sessions: 2?8 PM (Berlin time)\n\nCourse website",
       "thread_id": "thread-8e3889fd2c8a",
       "thread_depth": 0,
-      "month": "2025-07"
+      "month": "2025-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-July/000406.html"
     },
     {
       "id": "msg-72ebfd214a80",
@@ -97,7 +102,8 @@
       "body_snippet": "Dear all,\nthere are only a few seats available for the Physalia upcoming online course: Analysing Biodiversity Through Time and Space Using R\nDates: 18?22 August\n \nCourse website: [ https://www.physal",
       "thread_id": "thread-72ebfd214a80",
       "thread_depth": 0,
-      "month": "2025-07"
+      "month": "2025-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-July/000407.html"
     },
     {
       "id": "msg-cd968b81f74e",
@@ -109,11 +115,12 @@
       "subject_clean": "AI Powered Web Apps with R Shiny - livestream seminar",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi everyone\n\nInstats is offering a 1-day seminar, AI Powered Web Apps with R Shiny <https://instats.org/seminar/ai-powered-web-apps-with-r-shiny>, livestreaming August 13th and led by Instats Research Fellow, Dr Fodil Ihaddaden. In an era where interactive, AI-driven tools are reshaping scholarly communication, this workshop equips PhD students, academics, and professional researchers with the skills to harness R Shiny alongside cutting-edge Large Language Models. Dr Ihaddaden will guide you through building and deploying dynamic web applications, configuring and integrating LLMs via the ellmer package, and creating AI-enhanced interfaces that streamline workflows, boost collaboration, and elevate the reach of your research. By the end of the day, participants with a basic grasp of Shiny and RStudio will have hands-on experience constructing an AI-powered app and publishing it on shinyapps.io?opening new avenues for data collection, dissemination, and audience engagement across disciplines.\n\nSign up today <https://instats.org/seminar/ai-powered-web-apps-with-r-shiny> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Hi everyone\n\nInstats is offering a 1-day seminar, AI Powered Web Apps with R Shiny <https://instats.org/seminar/ai-powered-web-apps-with-r-shiny>, livestreaming August 13th and led by Instats Research Fellow, Dr Fodil Ihaddaden. In an era where interactive, AI-driven tools are reshaping scholarly communication, this workshop equips PhD students, academics, and professional researchers with the skills to harness R Shiny alongside cutting-edge Large Language Models. Dr Ihaddaden will guide you through building and deploying dynamic web applications, configuring and integrating LLMs via the ellmer package, and creating AI-enhanced interfaces that streamline workflows, boost collaboration, and elevate the reach of your research. By the end of the day, participants with a basic grasp of Shiny and RStudio will have hands-on experience constructing an AI-powered app and publishing it on shinyapps.io—opening new avenues for data collection, dissemination, and audience engagement across disciplines.\n\nSign up today <https://instats.org/seminar/ai-powered-web-apps-with-r-shiny> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Hi everyone\n\nInstats is offering a 1-day seminar, AI Powered Web Apps with R Shiny <https://instats.org/seminar/ai-powered-web-apps-with-r-shiny>, livestreaming August 13th and led by Instats Research",
       "thread_id": "thread-cd968b81f74e",
       "thread_depth": 0,
-      "month": "2025-07"
+      "month": "2025-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-July/000408.html"
     },
     {
       "id": "msg-f057b35cafa0",
@@ -129,7 +136,8 @@
       "body_snippet": "Dear all,\n \nWe are pleased to announce our upcoming online course: PHYLOGENOMICS\n \nDates: 1?5 December\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/phylogenomics/ ]( https://",
       "thread_id": "thread-f057b35cafa0",
       "thread_depth": 0,
-      "month": "2025-07"
+      "month": "2025-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-July/000409.html"
     },
     {
       "id": "msg-bed10e4845e4",
@@ -141,11 +149,12 @@
       "subject_clean": "Developing Gene Therapies - A Statistician's Guide (free seminar)",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi everyone\n\nInstats is excited to offer a free seminar on Developing Gene Therapies: A Statistician's Guide <https://instats.org/seminar/developing-gene-therapies-a-statistician>, livestreaming August 19 and led by Avery McIntosh from Pfizer and Alex Sverdlov from Novartis. Gene therapy is transforming modern medicine with recent landmark approvals for sickle cell anemia, spinal muscular atrophy, and multiple oncology indications, yet its one-time, potentially curative nature introduces statistical challenges that traditional drug-development frameworks cannot address. This seminar provides a practical roadmap for navigating the entire GTx lifecycle?from non-clinical translation and biodistribution to condensed clinical phases, immunogenicity considerations, and long-term follow-up?while showcasing innovative methodologies for dose-finding with ultra-small sample sizes, Bayesian safety monitoring, and adaptive platform trials. Participants will emerge able to articulate key regulatory pathways such as RMAT and PRIME, anticipate safety and efficacy pitfalls unique to AAV vectors, and design robust studies when a single pivotal trial may enroll fewer than 20 patients. Whether you are a PhD student, academic researcher, or industry scientist, this free session delivers the statistical tools and conceptual frameworks essential for contributing to the rapidly expanding pipeline of more than 2,000 gene-therapy products in development. \n\nSign up today <https://instats.org/seminar/developing-gene-therapies-a-statistician> to secure your spot, and feel free to share this opportunity with anyone who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a free seminar on Developing Gene Therapies: A Statistician's Guide <https://instats.org/seminar/developing-gene-therapies-a-statistician>, livestreaming August 19 and led by Avery McIntosh from Pfizer and Alex Sverdlov from Novartis. Gene therapy is transforming modern medicine with recent landmark approvals for sickle cell anemia, spinal muscular atrophy, and multiple oncology indications, yet its one-time, potentially curative nature introduces statistical challenges that traditional drug-development frameworks cannot address. This seminar provides a practical roadmap for navigating the entire GTx lifecycle—from non-clinical translation and biodistribution to condensed clinical phases, immunogenicity considerations, and long-term follow-up—while showcasing innovative methodologies for dose-finding with ultra-small sample sizes, Bayesian safety monitoring, and adaptive platform trials. Participants will emerge able to articulate key regulatory pathways such as RMAT and PRIME, anticipate safety and efficacy pitfalls unique to AAV vectors, and design robust studies when a single pivotal trial may enroll fewer than 20 patients. Whether you are a PhD student, academic researcher, or industry scientist, this free session delivers the statistical tools and conceptual frameworks essential for contributing to the rapidly expanding pipeline of more than 2,000 gene-therapy products in development. \n\nSign up today <https://instats.org/seminar/developing-gene-therapies-a-statistician> to secure your spot, and feel free to share this opportunity with anyone who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Hi everyone\n\nInstats is excited to offer a free seminar on Developing Gene Therapies: A Statistician's Guide <https://instats.org/seminar/developing-gene-therapies-a-statistician>, livestreaming Augus",
       "thread_id": "thread-bed10e4845e4",
       "thread_depth": 0,
-      "month": "2025-07"
+      "month": "2025-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-July/000410.html"
     },
     {
       "id": "msg-5b70fd9a37e6",
@@ -157,11 +166,12 @@
       "subject_clean": "Introduction to Generalised Linear Mixed Models for Ecologists (MMIE01)",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "*Course Title:* Introduction to Generalised Linear Mixed Models for\nEcologists (MMIE01)\nhttps://www.prstats.org/course/introduction-to-generalised-linear-mixed-models-for-ecologists-mmie01/\n\n*Dates:* 22?26 September 2025\n*Format:* Live online (GMT+1) with recordings available for this who can't\njoin live\n*Price:* ?400 early?bird (first 10 places), ?450 thereafter\n------------------------------\nWhy Attend?\n\nUnlock powerful statistical tools tailored for ecological research:\n\n   -\n\n   Dive into *generalised linear mixed models (GLMMs)* to model complex\n   ecological datasets with hierarchical or grouped structure.\n   -\n\n   Learn to implement real-world analyses using *R packages including lme4\n   and brms*, including Bayesian methods.\n   -\n\n   Tackle count, binary, overdispersed, and zero-inflated data with ease.\n   -\n\n   Engage in *hands?on sessions*, workshops, and case studies?bring your\n   own data to practice.\n   -\n\n   Benefit from *post-course support* and 30-day access to session\n   recordings so you can catch up anytime.\n\n------------------------------\nWho Should Join?\n\nDesigned for ecologists, early-career researchers, postgraduate students,\nand data analysts with basic R and statistical backgrounds:\n\n   -\n\n   Familiarity with R or RStudio basics, importing data, and simple linear\n   models is recommended.\n   -\n\n   Experience with exploratory data tools (e.g. dplyr, ggplot2) is\n   helpful?but not required.\n\n------------------------------\nWhat You'll Learn -\n\nOver five days (approx. 40 learning hours), you?ll explore:\n\n   1.\n\n   *The GLMM framework*: fixed vs. random effects, hierarchical structures\n   2.\n\n   *Practice in R*: fitting GLMMs via lme4, exploring Bayesian extensions\n   with brms\n   3.\n\n   *Model diagnostics*: checking assumptions, handling overdispersion,\n   understanding shrinkage and intraclass correlation\n   4.\n\n   *Advanced structures*: nested vs crossed random effects, group-level\n   predictors\n   5.\n\n   *Bayesian approaches*: how and when to use brms for complex ecological\n   data.\n\n\n   Please visit the course schedule\n   <https://www.prstats.org/course/introduction-to-generalised-linear-mixed-models-for-ecologists-mmie01/>\n   on the course webpage for a detailed outline of the topics covered.\n\n------------------------------\nMeet the Expert Instructors\n\nLed by seasoned ecologists-statisticians, *Dr Niamh?Mimnagh*, the course\nbrings real-world experience at the intersection of ecology, epidemiology,\nand statistical methodology. Expect an engaging blend of theory,\ninteractive workshops, and lively Q&A sessions.\n------------------------------\nReady to Advance Your Analysis?\n\nWhether you're designing ecological field studies, managing wildlife\nmonitoring data, or analyzing species distributions over space and\ntime?this course equips you with practical expertise to unlock deeper\ninsights from your data.\n\nSecure your place today and take your ecological modelling to the next\nlevel!\n\n\nEmail oliverhooker at prstatistics.com with any questions\n\n-- \nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_plain": "*Course Title:* Introduction to Generalised Linear Mixed Models for\nEcologists (MMIE01)\nhttps://www.prstats.org/course/introduction-to-generalised-linear-mixed-models-for-ecologists-mmie01/\n\n*Dates:* 22–26 September 2025\n*Format:* Live online (GMT+1) with recordings available for this who can't\njoin live\n*Price:* £400 early‑bird (first 10 places), £450 thereafter\n------------------------------\nWhy Attend?\n\nUnlock powerful statistical tools tailored for ecological research:\n\n   -\n\n   Dive into *generalised linear mixed models (GLMMs)* to model complex\n   ecological datasets with hierarchical or grouped structure.\n   -\n\n   Learn to implement real-world analyses using *R packages including lme4\n   and brms*, including Bayesian methods.\n   -\n\n   Tackle count, binary, overdispersed, and zero-inflated data with ease.\n   -\n\n   Engage in *hands‑on sessions*, workshops, and case studies—bring your\n   own data to practice.\n   -\n\n   Benefit from *post-course support* and 30-day access to session\n   recordings so you can catch up anytime.\n\n------------------------------\nWho Should Join?\n\nDesigned for ecologists, early-career researchers, postgraduate students,\nand data analysts with basic R and statistical backgrounds:\n\n   -\n\n   Familiarity with R or RStudio basics, importing data, and simple linear\n   models is recommended.\n   -\n\n   Experience with exploratory data tools (e.g. dplyr, ggplot2) is\n   helpful—but not required.\n\n------------------------------\nWhat You'll Learn -\n\nOver five days (approx. 40 learning hours), you’ll explore:\n\n   1.\n\n   *The GLMM framework*: fixed vs. random effects, hierarchical structures\n   2.\n\n   *Practice in R*: fitting GLMMs via lme4, exploring Bayesian extensions\n   with brms\n   3.\n\n   *Model diagnostics*: checking assumptions, handling overdispersion,\n   understanding shrinkage and intraclass correlation\n   4.\n\n   *Advanced structures*: nested vs crossed random effects, group-level\n   predictors\n   5.\n\n   *Bayesian approaches*: how and when to use brms for complex ecological\n   data.\n\n\n   Please visit the course schedule\n   <https://www.prstats.org/course/introduction-to-generalised-linear-mixed-models-for-ecologists-mmie01/>\n   on the course webpage for a detailed outline of the topics covered.\n\n------------------------------\nMeet the Expert Instructors\n\nLed by seasoned ecologists-statisticians, *Dr Niamh Mimnagh*, the course\nbrings real-world experience at the intersection of ecology, epidemiology,\nand statistical methodology. Expect an engaging blend of theory,\ninteractive workshops, and lively Q&A sessions.\n------------------------------\nReady to Advance Your Analysis?\n\nWhether you're designing ecological field studies, managing wildlife\nmonitoring data, or analyzing species distributions over space and\ntime—this course equips you with practical expertise to unlock deeper\ninsights from your data.\n\nSecure your place today and take your ecological modelling to the next\nlevel!\n\n\nEmail oliverhooker at prstatistics.com with any questions\n\n-- \nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
       "body_snippet": "*Course Title:* Introduction to Generalised Linear Mixed Models for\nEcologists (MMIE01)\nhttps://www.prstats.org/course/introduction-to-generalised-linear-mixed-models-for-ecologists-mmie01/\n\n*Dates:* ",
       "thread_id": "thread-5b70fd9a37e6",
       "thread_depth": 0,
-      "month": "2025-07"
+      "month": "2025-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-July/000411.html"
     }
   ],
   "threads": [

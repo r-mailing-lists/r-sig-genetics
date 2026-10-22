@@ -17,7 +17,8 @@
       "body_snippet": "Landscape genetic data analysis using R (LNDG03)\n\nWe still have a few places left on the above course!!\n\nhttps://www.prstatistics.com/course/landscape-genetic-data-analysis-using-r-lndg03/\n\nThis cours",
       "thread_id": "thread-fe2e03be3550",
       "thread_depth": 0,
-      "month": "2019-03"
+      "month": "2019-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2019-March/000190.html"
     },
     {
       "id": "msg-25c1f703729a",
@@ -33,7 +34,8 @@
       "body_snippet": "Although not directly related to genetics the tools learned may be very\nuseful to anyone analysis genetic data with a spatial component.\n\nIntroduction to GIS and spatial analysis with R (GISR01)\n\nhttp",
       "thread_id": "thread-25c1f703729a",
       "thread_depth": 0,
-      "month": "2019-03"
+      "month": "2019-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2019-March/000191.html"
     }
   ],
   "threads": [

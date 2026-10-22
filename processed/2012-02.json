@@ -17,7 +17,8 @@
       "body_snippet": "Dear All,\n\na new version of MultiPhen (0.3) is available on CRAN, and will be available to a mirror near you soon. \n\n*Please upgrade* because this release is a bug fix release. A new version, with imp",
       "thread_id": "thread-7274eaefe95a",
       "thread_depth": 0,
-      "month": "2012-02"
+      "month": "2012-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2012-February/000036.html"
     }
   ],
   "threads": [

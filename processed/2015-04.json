@@ -17,7 +17,8 @@
       "body_snippet": "Dear all,\n\nafter a rather quiet existence for the last few years, it may be good to send this reminder: r-sig-genetics is alive!\n\nMany awesome people have subscribed lately, and I am looking forward t",
       "thread_id": "thread-1b76879798f0",
       "thread_depth": 0,
-      "month": "2015-04"
+      "month": "2015-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2015-April/000054.html"
     },
     {
       "id": "msg-80fb331c21e5",
@@ -35,7 +36,8 @@
       "body_snippet": "Yay! R-SIG-Genetics is dead, long live R-SIG-Genetics :-) I'll post a\nrequest for feedback in separate email.\n\n   -hilmar\n\nOn 4/8/15, 12:21 PM, Jombart, Thibaut wrote:\n> Dear all,\n>\n> after a rather q",
       "thread_id": "thread-1b76879798f0",
       "thread_depth": 1,
-      "month": "2015-04"
+      "month": "2015-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2015-April/000055.html"
     },
     {
       "id": "msg-2efdab464b1c",
@@ -51,7 +53,8 @@
       "body_snippet": "As an outcome of the recently held Population Genetics in R hackathon\n[1] I created a publicly maintained Docker container for population\ngenetics in R, and recently issued the following request for f",
       "thread_id": "thread-2efdab464b1c",
       "thread_depth": 0,
-      "month": "2015-04"
+      "month": "2015-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2015-April/000056.html"
     },
     {
       "id": "msg-c30a7fbbd1b1",
@@ -67,7 +70,8 @@
       "body_snippet": "Dear all\n\nfollowing the \"population genetics in R\" hackathon organized by Hilmar Lapp at NESCent (NC) last month, a bunch of R packages for genetic data analysis are now being developed in a collabora",
       "thread_id": "thread-c30a7fbbd1b1",
       "thread_depth": 0,
-      "month": "2015-04"
+      "month": "2015-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2015-April/000057.html"
     },
     {
       "id": "msg-574df3b992b6",
@@ -83,7 +87,8 @@
       "body_snippet": "Dear all,\n\n(apologies for multiple posting)\n\nOn behalf of the apex development team (E. Paradis, K. Schliep, Z. Kamvar, R. Harris and myself), I am happy to announce that apex has been released on CRA",
       "thread_id": "thread-574df3b992b6",
       "thread_depth": 0,
-      "month": "2015-04"
+      "month": "2015-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2015-April/000058.html"
     }
   ],
   "threads": [

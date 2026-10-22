@@ -17,7 +17,8 @@
       "body_snippet": "Is there a convenient way to subset a genind object using a vector of the\nsubset of individuals at one pass ( so that it correctly subsets  genotype\ntable, individuals, populations, XY coordinates etc",
       "thread_id": "thread-cb7380d193ac",
       "thread_depth": 0,
-      "month": "2017-02"
+      "month": "2017-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-February/000144.html"
     },
     {
       "id": "msg-1e9f5d9d5f91",
@@ -35,7 +36,8 @@
       "body_snippet": "If your genind object is g, then:\ng <- g[i=c(1:10,21:30)]\nwould give you a new genind g, with individual indexes 1 to 10 and 21 to\n30. All other associated info (tab, pop etc) comes along for the ride",
       "thread_id": "thread-cb7380d193ac",
       "thread_depth": 1,
-      "month": "2017-02"
+      "month": "2017-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-February/000145.html"
     },
     {
       "id": "msg-1613b9f3aa31",
@@ -51,7 +53,8 @@
       "body_snippet": "?Advances in Spatial Analysis of Multivariate Ecological Data: Theory \nand Practice?\n\nhttp://www.prstatistics.com/course/advances-in-spatial-analysis-of-multivariate-ecological-data-theory-and-practic",
       "thread_id": "thread-1613b9f3aa31",
       "thread_depth": 0,
-      "month": "2017-02"
+      "month": "2017-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-February/000146.html"
     },
     {
       "id": "msg-fc0e1d6a8859",
@@ -67,7 +70,8 @@
       "body_snippet": "\"Advancing in Statistical Modelling using R\"\n\nDelivered by Dr. Luc Bussiere and Dr. Ane Timenes Laugen\n\nhttp://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr06/\n\nThis course ",
       "thread_id": "thread-fc0e1d6a8859",
       "thread_depth": 0,
-      "month": "2017-02"
+      "month": "2017-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-February/000147.html"
     },
     {
       "id": "msg-8dfbec4cab8e",
@@ -83,7 +87,8 @@
       "body_snippet": "Coding, data management, and Shiny applications using RStudio for \nevolutionary biologists and ecologists (CDSR01)\n\nhttp://www.prstatistics.com/course/coding-data-management-and-shiny-applications-usi",
       "thread_id": "thread-8dfbec4cab8e",
       "thread_depth": 0,
-      "month": "2017-02"
+      "month": "2017-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-February/000148.html"
     },
     {
       "id": "msg-b3e012e7fd31",
@@ -99,7 +104,8 @@
       "body_snippet": "Dear all,\n\n\nI am using diveRsity package to produce migration network plot.\n\nThe input file is a genepop file encoded as 3 digits per allelel of SNPs markers named as \"genepop_file.gen\".\n\nThe migratio",
       "thread_id": "thread-b3e012e7fd31",
       "thread_depth": 0,
-      "month": "2017-02"
+      "month": "2017-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-February/000149.html"
     },
     {
       "id": "msg-bf46b20f310e",
@@ -115,7 +121,8 @@
       "body_snippet": "Geometric Morphometrics Using R (GMMR01)\n\nThis course is being delivered by Prof. Dean Adams, Prof. Michael \nCollyer and Dr. Antigoni Kaliontzopoulou\n\nThis course will run from 5th - 9th June 2017 at ",
       "thread_id": "thread-bf46b20f310e",
       "thread_depth": 0,
-      "month": "2017-02"
+      "month": "2017-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-February/000150.html"
     }
   ],
   "threads": [

@@ -17,7 +17,8 @@
       "body_snippet": "Dear All subscribers of the R-sig-genetics Archives,\n\nI have a question to plotting haplotype networks using the packages 'pegas' and 'ape' in R.\nI often end up with overlapping pies for haplotypes, a",
       "thread_id": "thread-1529935c2381",
       "thread_depth": 0,
-      "month": "2022-06"
+      "month": "2022-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2022-June/000236.html"
     },
     {
       "id": "msg-edd156a85638",
@@ -33,7 +34,8 @@
       "body_snippet": "Dear all,\n \nthere are still a few seats available for the course \"Introduction to Statistics in R for biologists and ecologists\", which will be held online in September (19th-22nd).\n \nThis course will",
       "thread_id": "thread-edd156a85638",
       "thread_depth": 0,
-      "month": "2022-06"
+      "month": "2022-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2022-June/000233.html"
     }
   ],
   "threads": [

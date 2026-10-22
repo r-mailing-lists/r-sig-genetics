@@ -19,7 +19,8 @@
       "body_snippet": "Hi Susana,\n\nIn fact, the output of haplotype() _are_ the sequences of the haplotypes \n(= the unique sequences from your \"finaldna\" object). It has an \nadditional attribute which is a list named \"index",
       "thread_id": "thread-2a5118f9f300",
       "thread_depth": 0,
-      "month": "2016-05"
+      "month": "2016-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-May/000092.html"
     }
   ],
   "threads": [

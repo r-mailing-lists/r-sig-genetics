@@ -17,7 +17,8 @@
       "body_snippet": "Dear all,\n \nMark your calendars! Our Landscape Genomics course will be in person in the beautiful Lausanne, \nEPL, Switzerland on June 17-21! Don't miss out on this incredible opportunity to learn and ",
       "thread_id": "thread-9ba05ba036b3",
       "thread_depth": 0,
-      "month": "2024-03"
+      "month": "2024-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-March/000270.html"
     },
     {
       "id": "msg-c4e300a9035f",
@@ -33,7 +34,8 @@
       "body_snippet": "Dear all,\nI wanted to bring to your attention our upcoming course on Genome Assembly and Annotation, available at: [ https://www.physalia-courses.org/courses-workshops/course20/ ]( https://www.physali",
       "thread_id": "thread-c4e300a9035f",
       "thread_depth": 0,
-      "month": "2024-03"
+      "month": "2024-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-March/000271.html"
     },
     {
       "id": "msg-fc042fcdea89",
@@ -49,7 +51,8 @@
       "body_snippet": "Dear all,\n \njoin us in May (27th-31st) if you want to learn how to perform multivariate data analysis with R and vegan.\n \nIn this 5-day course, we will prioritise exploring ordination methods and usin",
       "thread_id": "thread-fc042fcdea89",
       "thread_depth": 0,
-      "month": "2024-03"
+      "month": "2024-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-March/000272.html"
     },
     {
       "id": "msg-26469676c743",
@@ -65,7 +68,8 @@
       "body_snippet": "Dear all,\n \nWe are happy to announce our upcoming course on \"Introduction to Genome-Wide Association Studies (GWAS)\"! If you're looking to enhance your skills and knowledge in GWAS analysis, this cour",
       "thread_id": "thread-26469676c743",
       "thread_depth": 0,
-      "month": "2024-03"
+      "month": "2024-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-March/000273.html"
     }
   ],
   "threads": [

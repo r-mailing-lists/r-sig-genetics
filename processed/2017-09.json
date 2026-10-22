@@ -17,7 +17,8 @@
       "body_snippet": "It's my pleasure to announce that there is a new release of poppr available for download on CRAN now.\nVersion 2.5.0 contains major bug fixes to Bruvo's distance (bug fix for polyploids) and read.genal",
       "thread_id": "thread-514cc3929e5e",
       "thread_depth": 0,
-      "month": "2017-09"
+      "month": "2017-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-September/000173.html"
     }
   ],
   "threads": [

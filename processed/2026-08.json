@@ -17,7 +17,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Connect genetic data to the geographic context shaping sampled populations. Advanced QGIS: Spatial Analysis 2.0 is a 2-day seminar livestreaming August 11?12",
       "thread_id": "thread-0fdeb9e2c39a",
       "thread_depth": 0,
-      "month": "2026-08"
+      "month": "2026-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-August/000558.html"
     },
     {
       "id": "msg-e33f8b4f739d",
@@ -33,7 +34,8 @@
       "body_snippet": "Dear all,\n\nRegistrations are open for our online course ?Invasion Genomics in R?, taking place 12, 14 & 16 October.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/invasion-geno",
       "thread_id": "thread-e33f8b4f739d",
       "thread_depth": 0,
-      "month": "2026-08"
+      "month": "2026-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-August/000559.html"
     },
     {
       "id": "msg-bbf1ab2a06a5",
@@ -49,7 +51,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nDevelop practical genomic data skills for ecological and evolutionary research questions. Genomics for Ecological and Evolutionary Studies led by Giulio Formenti (Vertebr",
       "thread_id": "thread-bbf1ab2a06a5",
       "thread_depth": 0,
-      "month": "2026-08"
+      "month": "2026-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-August/000560.html"
     },
     {
       "id": "msg-e6284d4217ca",
@@ -65,7 +68,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nGenetic analyses are easier to assess when claims, designs, and evidence remain aligned. Appraising and Improving Quantitative Research led by Centre for Applied Statisti",
       "thread_id": "thread-e6284d4217ca",
       "thread_depth": 0,
-      "month": "2026-08"
+      "month": "2026-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-August/000561.html"
     },
     {
       "id": "msg-5a857965bddd",
@@ -81,7 +85,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Bring geographic context into genetic data analysis and presentation. Introduction to Spatial Data and R as a GIS 2.0 is a 2-day seminar livestreaming August",
       "thread_id": "thread-5a857965bddd",
       "thread_depth": 0,
-      "month": "2026-08"
+      "month": "2026-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-August/000562.html"
     },
     {
       "id": "msg-932a7692afde",
@@ -97,7 +102,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nExtend your R-based analyses with transparent, reproducible computational methods. AI for Quantitative & Qualitative Research led by Hadi Fariborzi (Bissett School of Bus",
       "thread_id": "thread-932a7692afde",
       "thread_depth": 0,
-      "month": "2026-08"
+      "month": "2026-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-August/000563.html"
     },
     {
       "id": "msg-b6985e4c389c",
@@ -113,7 +119,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nGenetic data analysis can require clearer separation of association and causal effect. Causal Machine Learning led by Melvyn Weeks (Faculty of Economics, University of Ca",
       "thread_id": "thread-b6985e4c389c",
       "thread_depth": 0,
-      "month": "2026-08"
+      "month": "2026-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-August/000564.html"
     },
     {
       "id": "msg-a3d2afe1a6a3",
@@ -129,7 +136,8 @@
       "body_snippet": "Hello?everyone\n\nI'm sharing a new open-access resource that you may find useful: The Institutional AI Readiness Pack <https://instats.org/publications/the-institutional-ai-readiness-pack> and its acco",
       "thread_id": "thread-a3d2afe1a6a3",
       "thread_depth": 0,
-      "month": "2026-08"
+      "month": "2026-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-August/000565.html"
     },
     {
       "id": "msg-c68ce566acac",
@@ -145,7 +153,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nBuild interpretable statistical workflows for genetic questions using R. Introduction to Bayesian Statistical Modelling 2.0 led by Rosina Savisaar (Mondego Science (Biost",
       "thread_id": "thread-c68ce566acac",
       "thread_depth": 0,
-      "month": "2026-08"
+      "month": "2026-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-August/000566.html"
     },
     {
       "id": "msg-9282f7b8c36e",
@@ -161,7 +170,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nPathway questions demand more than estimating whether an association is present. Causal Mediation Analysis led by Paola Zaninotto (Epidemiology & Public Health, Universit",
       "thread_id": "thread-9282f7b8c36e",
       "thread_depth": 0,
-      "month": "2026-08"
+      "month": "2026-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-August/000567.html"
     }
   ],
   "threads": [

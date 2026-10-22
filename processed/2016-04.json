@@ -13,11 +13,12 @@
       "subject_clean": "nj tree",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi,\n\nI am trying to make a plot similar with the one below, where each sample can be seen well and the branch is coloured.\nI tried but can?t get to have the branches coloured , only the tips. I tried edge.color  but it does not match the tips?\nAlso, I have lots of samples but it looks like I just have a few. \nAny help will be great, thanks  a lot\n\nMy code now:\ntr1 <- nj(xxxx)\nplot(tr1,type=\"u\",show.tip.label = F, tip.col=colorings[labs], no.margin=TRUE) ##edge.color=colorings[labs])\ntiplabels(pch =21, bg=colorings[labs], cex = 0.7)\nlegend(\"topleft\",levels(unique(as.factor(labes2))),col=yyyyy[,2],\n       pch=15,xpd=TRUE,cex=0.4,xjust=0,yjust=0,ncol=4)\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20160403/9aabd7c4/attachment-0001.html>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: Screen Shot 2016-04-03 at 01.19.56.png\nType: image/png\nSize: 460741 bytes\nDesc: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20160403/9aabd7c4/attachment-0001.png>",
-      "body_snippet": "Hi,\n\nI am trying to make a plot similar with the one below, where each sample can be seen well and the branch is coloured.\nI tried but can?t get to have the branches coloured , only the tips. I tried ",
+      "body_plain": "Hi,\n\nI am trying to make a plot similar with the one below, where each sample can be seen well and the branch is coloured.\nI tried but can’t get to have the branches coloured , only the tips. I tried edge.color  but it does not match the tips…\nAlso, I have lots of samples but it looks like I just have a few. \nAny help will be great, thanks  a lot\n\nMy code now:\ntr1 <- nj(xxxx)\nplot(tr1,type=\"u\",show.tip.label = F, tip.col=colorings[labs], no.margin=TRUE) ##edge.color=colorings[labs])\ntiplabels(pch =21, bg=colorings[labs], cex = 0.7)\nlegend(\"topleft\",levels(unique(as.factor(labes2))),col=yyyyy[,2],\n       pch=15,xpd=TRUE,cex=0.4,xjust=0,yjust=0,ncol=4)\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20160403/9aabd7c4/attachment-0001.html>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: Screen Shot 2016-04-03 at 01.19.56.png\nType: image/png\nSize: 460741 bytes\nDesc: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20160403/9aabd7c4/attachment-0001.png>",
+      "body_snippet": "Hi,\n\nI am trying to make a plot similar with the one below, where each sample can be seen well and the branch is coloured.\nI tried but can’t get to have the branches coloured , only the tips. I tried ",
       "thread_id": "thread-d947eed04713",
       "thread_depth": 0,
-      "month": "2016-04"
+      "month": "2016-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-April/000090.html"
     },
     {
       "id": "msg-e2edfe4d7298",
@@ -33,7 +34,8 @@
       "body_snippet": "Hi,\n\n\nI have a vector with DNA sequences and I created the haplotypes using the haplotype function in Pegas. \nI would like to extract the sequences of the haplotypes, but I can to it. the object it cr",
       "thread_id": "thread-e2edfe4d7298",
       "thread_depth": 0,
-      "month": "2016-04"
+      "month": "2016-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2016-April/000091.html"
     }
   ],
   "threads": [

@@ -18,6 +18,7 @@
       "thread_id": "thread-9c4587b5fce6",
       "thread_depth": 0,
       "month": "2009-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2009-June/000009.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20090608/30e07672/attachment.pl"
       ]
@@ -38,7 +39,8 @@
       "body_snippet": "Dear Kevin, \n\nI am admittedly not into Bayesian networks, but in any case the 10 SNPs limitation sounds a bit surprising. However, the error you encounter is quite package-specific. I think you may wa",
       "thread_id": "thread-9c4587b5fce6",
       "thread_depth": 1,
-      "month": "2009-06"
+      "month": "2009-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2009-June/000010.html"
     },
     {
       "id": "msg-34f459e2e850",
@@ -57,7 +59,8 @@
       "body_snippet": "Hi Thibaut,\n\nThanks for your suggestion, and sorry for my late reply. The reason for\nmy try of the Bayesian network to find the markov blanket of my\nphenotype is about the high order of gene-gene inte",
       "thread_id": "thread-9c4587b5fce6",
       "thread_depth": 2,
-      "month": "2009-06"
+      "month": "2009-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2009-June/000011.html"
     }
   ],
   "threads": [

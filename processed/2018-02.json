@@ -17,7 +17,8 @@
       "body_snippet": "Dear all,\n\na new version of adegenet (2.1.1) has now been released on CRAN. This\nversion implements snapclust, a fast maximum-likelihood genetic clustering\nmethod, recently published in Methods in Eco",
       "thread_id": "thread-e2095dda1a79",
       "thread_depth": 0,
-      "month": "2018-02"
+      "month": "2018-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2018-February/000179.html"
     },
     {
       "id": "msg-5eb248761971",
@@ -35,7 +36,8 @@
       "body_snippet": "Congrats on the paper, and nice hairstyle, Thibaut! ??\n\n> On Feb 7, 2018, at 1:57 PM, Thibaut Jombart <thibautjombart at gmail.com> wrote:\n> \n> Dear all,\n> \n> a new version of adegenet (2.1.1) has now",
       "thread_id": "thread-e2095dda1a79",
       "thread_depth": 1,
-      "month": "2018-02"
+      "month": "2018-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2018-February/000180.html"
     },
     {
       "id": "msg-f0c9c09c40a4",
@@ -58,7 +60,8 @@
       "body_snippet": "Hi,\nThis is more of a question for the R-SIG-GENETICS group as it no longer deals with poppr any more, so I'm continuing it here. More knowledgable folk, feel free to correct me.\n> (1) Could I estimat",
       "thread_id": "thread-f0c9c09c40a4",
       "thread_depth": 0,
-      "month": "2018-02"
+      "month": "2018-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2018-February/000181.html"
     },
     {
       "id": "msg-acc4913e929a",
@@ -82,7 +85,8 @@
       "body_snippet": "Hi,\n\nThe improvement mentioned by Zhian is available in the version of pegas \nthat is currently on GitHub (which will be the next version on CRAN).\n\nBest,\n\nEmmanuel\n\nLe 15/02/2018 ? 16:34, Zhian Kamva",
       "thread_id": "thread-f0c9c09c40a4",
       "thread_depth": 1,
-      "month": "2018-02"
+      "month": "2018-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2018-February/000182.html"
     }
   ],
   "threads": [

@@ -17,7 +17,8 @@
       "body_snippet": "Hi,\nAdd me to the mailing list.\n\nRajkumar\n\n-- \nDr. Rajkumar H. Garampalli\nVisiting Scholar\nDepartment of Plant Pathology\nUniversity of Georgia\nAthens, GA 30602, USA\nPhone No. +1-706-715-1926\n&\nAssista",
       "thread_id": "thread-1593f49c4d04",
       "thread_depth": 0,
-      "month": "2015-08"
+      "month": "2015-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2015-August/000072.html"
     },
     {
       "id": "msg-0a800c9c8f2d",
@@ -33,7 +34,8 @@
       "body_snippet": "Dear all,\n\nit seems that R-sig-genetics got hacked overnight, and a large number of people got unsubscribed at exactly the same time early this morning.\n\nOn a reassuring note, no confidential informat",
       "thread_id": "thread-0a800c9c8f2d",
       "thread_depth": 0,
-      "month": "2015-08"
+      "month": "2015-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2015-August/000073.html"
     },
     {
       "id": "msg-fd0fb74f9dec",
@@ -49,7 +51,8 @@
       "body_snippet": "Dear all,\n\n\nI'm trying to use adegenet to analyse a set of 25 lines with 540.000 markers. For the moment, I tried to use genind object as I found file format for SNP genlight object a bit difficult to",
       "thread_id": "thread-fd0fb74f9dec",
       "thread_depth": 0,
-      "month": "2015-08"
+      "month": "2015-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2015-August/000074.html"
     },
     {
       "id": "msg-12a31fde6298",
@@ -67,7 +70,8 @@
       "body_snippet": "Hi there, \n\nthis question belongs more to the adegenet forum. \n\nHere, the error is that you are asking the function to cluster 25 individuals into 40 groups.\n\nCheers\nThibaut\n\n=========================",
       "thread_id": "thread-fd0fb74f9dec",
       "thread_depth": 1,
-      "month": "2015-08"
+      "month": "2015-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2015-August/000075.html"
     }
   ],
   "threads": [

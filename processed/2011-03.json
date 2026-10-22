@@ -17,7 +17,8 @@
       "body_snippet": "Hi,\n\nI would like to calculate genetic polymorphism for each population (mean number\nof alleles per locus (A), the percentage of polymorphic loci (P), the mean\nobserved heterozygosity (HO) and the mea",
       "thread_id": "thread-937340a73ce4",
       "thread_depth": 0,
-      "month": "2011-03"
+      "month": "2011-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2011-March/000028.html"
     },
     {
       "id": "msg-4e7aee09eaaa",
@@ -31,11 +32,12 @@
       "references": [
         "<loom.20110322T133004-430@post.gmane.org>"
       ],
-      "body_plain": "Dear Marcelo, \n\nnumbers of alleles per locus and heterozygosity (expected, observed) are given by the summary function of genind objects in adegenet. Global F statistics can be computed using the function fstat, and pairwise Fst using pairwise.fst. You will find more information on the adegenet website:\nhttp://adegenet.r-forge.r-project.org/\n\nAll the best,\n\nThibaut\n\n--\n######################################\nDr Thibaut JOMBART\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - Faculty of Medicine\nSt Mary?s Campus\nNorfolk Place\nLondon W2 1PG\nUnited Kingdom\nTel. : 0044 (0)20 7594 3658\nt.jombart at imperial.ac.uk\nhttp://sites.google.com/site/thibautjombart/\nhttp://adegenet.r-forge.r-project.org/\n\n________________________________________\nFrom: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] On Behalf Of Marcelo Laia [marcelolaia at gmail.com]\nSent: 22 March 2011 12:37\nTo: r-sig-genetics at r-project.org\nSubject: [R-sig-genetics] Microsatellite analysis - Genetic Structure\n\nHi,\n\nI would like to calculate genetic polymorphism for each population (mean number\nof alleles per locus (A), the percentage of polymorphic loci (P), the mean\nobserved heterozygosity (HO) and the mean expected heterozygosity\nunder Hardy-Weinberg equilibrium (HE)), and population differentiation (analyzed\nfor polymorphic loci by F-statistics (Wright 1978)).\n\nPlease, could you point me out any paper or packages that do that?\n\nThank you very much!\n\nMarcelo\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
+      "body_plain": "Dear Marcelo, \n\nnumbers of alleles per locus and heterozygosity (expected, observed) are given by the summary function of genind objects in adegenet. Global F statistics can be computed using the function fstat, and pairwise Fst using pairwise.fst. You will find more information on the adegenet website:\nhttp://adegenet.r-forge.r-project.org/\n\nAll the best,\n\nThibaut\n\n--\n######################################\nDr Thibaut JOMBART\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - Faculty of Medicine\nSt Mary’s Campus\nNorfolk Place\nLondon W2 1PG\nUnited Kingdom\nTel. : 0044 (0)20 7594 3658\nt.jombart at imperial.ac.uk\nhttp://sites.google.com/site/thibautjombart/\nhttp://adegenet.r-forge.r-project.org/\n\n________________________________________\nFrom: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] On Behalf Of Marcelo Laia [marcelolaia at gmail.com]\nSent: 22 March 2011 12:37\nTo: r-sig-genetics at r-project.org\nSubject: [R-sig-genetics] Microsatellite analysis - Genetic Structure\n\nHi,\n\nI would like to calculate genetic polymorphism for each population (mean number\nof alleles per locus (A), the percentage of polymorphic loci (P), the mean\nobserved heterozygosity (HO) and the mean expected heterozygosity\nunder Hardy-Weinberg equilibrium (HE)), and population differentiation (analyzed\nfor polymorphic loci by F-statistics (Wright 1978)).\n\nPlease, could you point me out any paper or packages that do that?\n\nThank you very much!\n\nMarcelo\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
       "body_snippet": "Dear Marcelo, \n\nnumbers of alleles per locus and heterozygosity (expected, observed) are given by the summary function of genind objects in adegenet. Global F statistics can be computed using the func",
       "thread_id": "thread-937340a73ce4",
       "thread_depth": 1,
-      "month": "2011-03"
+      "month": "2011-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2011-March/000029.html"
     }
   ],
   "threads": [

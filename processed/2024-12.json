@@ -17,7 +17,8 @@
       "body_snippet": "Hi everyone\n\nInstats is pleased to be co-hosting a free seminar Introduction to Git <https://instats.org/seminar/introduction-to-git-free-seminar2>, running Dec 10th. Git is the quintessential version",
       "thread_id": "thread-81f3625559c5",
       "thread_depth": 0,
-      "month": "2024-12"
+      "month": "2024-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-December/000315.html"
     },
     {
       "id": "msg-7a6293bb5c5c",
@@ -33,7 +34,8 @@
       "body_snippet": "Hi everyone\n\nInstats is offering a new 4-day workshop on Bayesian Spatial and Spatio-Temporal Health Modeling in R <https://instats.org/seminar/bayesian-spatial-and-spatio-temporal-mod2>, running Jan ",
       "thread_id": "thread-7a6293bb5c5c",
       "thread_depth": 0,
-      "month": "2024-12"
+      "month": "2024-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-December/000316.html"
     },
     {
       "id": "msg-371e1d636ee4",
@@ -45,11 +47,12 @@
       "subject_clean": "Landscape Genomics course in Poland (20-24 January)",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\nWe?re thrilled to announce that our Landscape Genomics course is almost fully booked?but a few seats are still available! Don?t miss this unique opportunity to explore the cutting-edge intersection of genetics, ecology, and environmental science in an engaging, hands-on learning environment.\nCourse Details\nDates: 20-24 January 2025\nLocation: Faculty of Biology and Environmental Protection, University of Lodz, Poland\nCourse website: [ https://www.physalia-courses.org/courses-workshops/course17/ ]( https://www.physalia-courses.org/courses-workshops/course17/ )\nThis course offers an in-depth introduction to the field, guiding participants through:\nObtaining and processing environmental data with Geographic Information Systems (GIS).\nStudying genetic variation and population structure using R.\nIdentifying local adaptation signals with state-of-the-art tools like sam?ada.\nPlanning robust landscape genomics experiments, including sampling design.\nInterpreting and validating results for evolutionary biology and conservation studies.\nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/course17/ )\n \nBest regards,\nCarlo\n \n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Dear all,\nWe?re thrilled to announce that our Landscape Genomics course is almost fully booked?but a few seats are still available! Don?t miss this unique opportunity to explore the cutting-edge inter",
+      "body_plain": "Dear all,\nWe’re thrilled to announce that our Landscape Genomics course is almost fully booked—but a few seats are still available! Don’t miss this unique opportunity to explore the cutting-edge intersection of genetics, ecology, and environmental science in an engaging, hands-on learning environment.\nCourse Details\nDates: 20-24 January 2025\nLocation: Faculty of Biology and Environmental Protection, University of Lodz, Poland\nCourse website: [ https://www.physalia-courses.org/courses-workshops/course17/ ]( https://www.physalia-courses.org/courses-workshops/course17/ )\nThis course offers an in-depth introduction to the field, guiding participants through:\nObtaining and processing environmental data with Geographic Information Systems (GIS).\nStudying genetic variation and population structure using R.\nIdentifying local adaptation signals with state-of-the-art tools like samβada.\nPlanning robust landscape genomics experiments, including sampling design.\nInterpreting and validating results for evolutionary biology and conservation studies.\nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/course17/ )\n \nBest regards,\nCarlo\n \n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe’re thrilled to announce that our Landscape Genomics course is almost fully booked—but a few seats are still available! Don’t miss this unique opportunity to explore the cutting-edge inter",
       "thread_id": "thread-371e1d636ee4",
       "thread_depth": 0,
-      "month": "2024-12"
+      "month": "2024-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-December/000317.html"
     },
     {
       "id": "msg-6a497e90b00b",
@@ -61,11 +64,12 @@
       "subject_clean": "online course - UNIX and Shell Scripting for Bioinformatics - January 27–31",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\nWe are excited to announce our upcoming online UNIX and Shell Scripting for Bioinformatics course, designed to provide biologists with essential programming skills to analyse their data effectively.\n \nDates: January 27?31, 2025 \nwebsite: [ https://www.physalia-courses.org/courses-workshops/unix/ ]( https://www.physalia-courses.org/courses-workshops/unix/ )\nWhy Attend?\nWith biology becoming increasingly data-driven, understanding how to use Unix systems and shell scripting is critical for processing and analyzing large-scale datasets like next-generation sequencing (NGS) data.\nThis hands-on course will introduce you to:\nCore Unix commands to streamline data management.\nConnecting to servers and installing bioinformatics tools.\nBash scripting to automate and reproduce analyses.\nProcessing large files efficiently using the command line.\nWhat You?ll Learn:\nNavigate and manage Unix systems confidently.\nCreate, edit, and process files using the command line.\nWrite and execute shell scripts to automate tasks.\nManage system tasks and optimize resource usage.\n \nBest regards,\nCarlo\n \n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Dear all,\nWe are excited to announce our upcoming online UNIX and Shell Scripting for Bioinformatics course, designed to provide biologists with essential programming skills to analyse their data effectively.\n \nDates: January 27–31, 2025 \nwebsite: [ https://www.physalia-courses.org/courses-workshops/unix/ ]( https://www.physalia-courses.org/courses-workshops/unix/ )\nWhy Attend?\nWith biology becoming increasingly data-driven, understanding how to use Unix systems and shell scripting is critical for processing and analyzing large-scale datasets like next-generation sequencing (NGS) data.\nThis hands-on course will introduce you to:\nCore Unix commands to streamline data management.\nConnecting to servers and installing bioinformatics tools.\nBash scripting to automate and reproduce analyses.\nProcessing large files efficiently using the command line.\nWhat You’ll Learn:\nNavigate and manage Unix systems confidently.\nCreate, edit, and process files using the command line.\nWrite and execute shell scripts to automate tasks.\nManage system tasks and optimize resource usage.\n \nBest regards,\nCarlo\n \n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Dear all,\nWe are excited to announce our upcoming online UNIX and Shell Scripting for Bioinformatics course, designed to provide biologists with essential programming skills to analyse their data effe",
       "thread_id": "thread-6a497e90b00b",
       "thread_depth": 0,
-      "month": "2024-12"
+      "month": "2024-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-December/000318.html"
     },
     {
       "id": "msg-e5d3a437f716",
@@ -81,7 +85,8 @@
       "body_snippet": "Dear all,\nWe are excited to announce our upcoming online course, Multivariate Data Analysis with R and vegan, scheduled for 10-13 February 2025.\nThis course is designed for PhD students, researchers, ",
       "thread_id": "thread-e5d3a437f716",
       "thread_depth": 0,
-      "month": "2024-12"
+      "month": "2024-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-December/000319.html"
     },
     {
       "id": "msg-4ffc0bd43369",
@@ -97,7 +102,8 @@
       "body_snippet": "Dear all,\n\nWe are pleased to announce our upcoming online course: Generalised Linear Models in R, taking place from 24-28 February 2025.\n \nCourse website: [ https://www.physalia-courses.org/courses-wo",
       "thread_id": "thread-4ffc0bd43369",
       "thread_depth": 0,
-      "month": "2024-12"
+      "month": "2024-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-December/000320.html"
     },
     {
       "id": "msg-4d80942c7a66",
@@ -113,7 +119,8 @@
       "body_snippet": "Dear all,\n\nthere are only a few remaining seats for our upcoming course, Landscape Genomics, taking place from 20-24 January 2025 at the Faculty of Biology and Environmental Protection, University of ",
       "thread_id": "thread-4d80942c7a66",
       "thread_depth": 0,
-      "month": "2024-12"
+      "month": "2024-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-December/000321.html"
     },
     {
       "id": "msg-57ecdc2ce1f4",
@@ -129,7 +136,8 @@
       "body_snippet": "PR stats have a January sale!\n\nAny bookings made during January on live courses\nhttps://www.prstats.org/live-courses/\nor recorded courses\nhttps://www.prstats.org/recorded-courses/\nqualify for a 20% di",
       "thread_id": "thread-57ecdc2ce1f4",
       "thread_depth": 0,
-      "month": "2024-12"
+      "month": "2024-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2024-December/000322.html"
     }
   ],
   "threads": [

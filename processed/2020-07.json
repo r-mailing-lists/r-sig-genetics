@@ -17,7 +17,8 @@
       "body_snippet": "ONLINE COURSE ? Applied Bayesian modelling for ecologists and\nepidemiologists (ABME06) This course will be delivered live\n\nhttps://www.prstatistics.com/course/applied-bayesian-modelling-for-ecologists",
       "thread_id": "thread-16d7eebe692a",
       "thread_depth": 0,
-      "month": "2020-07"
+      "month": "2020-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2020-July/000216.html"
     },
     {
       "id": "msg-8cfd1115bb30",
@@ -33,7 +34,8 @@
       "body_snippet": "ONLINE COURSE ? Introduction to generalised linear models using R and\nRstudio (IGLM01) This course will be delivered live\n\nhttps://www.psstatistics.com/course/introduction-to-generalised-linear-models",
       "thread_id": "thread-8cfd1115bb30",
       "thread_depth": 0,
-      "month": "2020-07"
+      "month": "2020-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2020-July/000217.html"
     }
   ],
   "threads": [

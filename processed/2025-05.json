@@ -17,7 +17,8 @@
       "body_snippet": "Hi everyone\n\nInstats is thrilled to offer a 3-day seminar, Using LLMs for R Coding and Package Development <https://instats.org/seminar/using-llms-for-r-coding-and-package-deve>, running May 20 - 22 b",
       "thread_id": "thread-7a6dffb4d558",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000373.html"
     },
     {
       "id": "msg-908ed2f565cc",
@@ -33,7 +34,8 @@
       "body_snippet": "Dear all,\n\n \nWe are happy to announce the upcoming Physalia online course on \"Introduction to Genome-Wide Association Studies (GWAS)\"! If you're looking to enhance your skills and knowledge in GWAS an",
       "thread_id": "thread-908ed2f565cc",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000374.html"
     },
     {
       "id": "msg-02dd09bb3766",
@@ -45,11 +47,12 @@
       "subject_clean": "Data Visualization with ggplot2 - livestream seminar",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Data Visualization with ggplot2 <https://instats.org/seminar/data-visualization-with-ggplot2>, livestreaming on May 19 and led by the Statistical Methodology and Consultancy Service (SMCS) of UC Louvain. Effective visuals are indispensable for exploring data, uncovering patterns, and communicating results, and ggplot2?the gold-standard R package?lets you turn complex datasets into clear, publication-ready graphics. Tailored to PhD candidates, faculty, and applied researchers, this intensive workshop moves from visualization fundamentals through advanced customization, layering, annotation, and best practices, equipping you to transform raw numbers into persuasive narratives and to streamline your exploratory analysis workflow across disciplines. A basic familiarity with R is recommended, and those needing a refresher can join Instats? free Introduction to R seminar to get up to speed beforehand. \n\nSign up today <https://instats.org/seminar/data-visualization-with-ggplot2> to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Data Visualization with ggplot2 <https://instats.org/seminar/data-visualization-with-ggplot2>, livestreaming on May 19 and led by the Statistical Methodology and Consultancy Service (SMCS) of UC Louvain. Effective visuals are indispensable for exploring data, uncovering patterns, and communicating results, and ggplot2—the gold-standard R package—lets you turn complex datasets into clear, publication-ready graphics. Tailored to PhD candidates, faculty, and applied researchers, this intensive workshop moves from visualization fundamentals through advanced customization, layering, annotation, and best practices, equipping you to transform raw numbers into persuasive narratives and to streamline your exploratory analysis workflow across disciplines. A basic familiarity with R is recommended, and those needing a refresher can join Instats’ free Introduction to R seminar to get up to speed beforehand. \n\nSign up today <https://instats.org/seminar/data-visualization-with-ggplot2> to secure your spot, and please share this opportunity with colleagues and students who might benefit!\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Data Visualization with ggplot2 <https://instats.org/seminar/data-visualization-with-ggplot2>, livestreaming on May 19 and led by the Statisti",
       "thread_id": "thread-02dd09bb3766",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000375.html"
     },
     {
       "id": "msg-d4964fc0ebd4",
@@ -68,7 +71,8 @@
       "body_snippet": "Dear all,\n\n\n\nWe would like to inform you that only 2 seats available for our upcoming Physalia online course: Phylogenetic Comparative Methods in R.\nDates: 12?16 May \nCourse website: [ https://www.phy",
       "thread_id": "thread-d4964fc0ebd4",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000376.html"
     },
     {
       "id": "msg-891db596b6d6",
@@ -84,7 +88,8 @@
       "body_snippet": "Dear all,\nWe are excited to announce our upcoming online course on Reproducibility in Bioinformatics, taking place from July 7?9,  from 2?8 PM (Berlin time).\n \nCourse website: [ https://www.physalia-c",
       "thread_id": "thread-891db596b6d6",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000377.html"
     },
     {
       "id": "msg-8b32d5918251",
@@ -96,11 +101,12 @@
       "subject_clean": "online course– Introduction to R and Bioconductor",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\nWe?re excited to share that there are only 2 seats left for our online course: \"Introduction to R and Bioconductor\"\n \nDates: 26th & 28th May, and 5th & 6th June 2025\n \nTime: 9:30 AM ? 12:30 PM (CET)\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/intro-to-bioc/ ]( https://www.physalia-courses.org/courses-workshops/intro-to-bioc/ )\n \n \nThis beginner-friendly course offers hands-on training in R programming, tidyverse data processing, and the Bioconductor ecosystem, tailored to biological and genomic data analysis. No prior experience with R or Bioconductor is required.\n \nAttendees ?ll learn how to:\n\nNavigate RStudio and manage data analysis projects\n\nWork with R data structures, tidyverse tools, and visualization packages like ggplot2\n\nUse Bioconductor to handle DNA, RNA, and protein data\n\nApply key data structures like SummarizedExperiment and SingleCellExperiment\nThis course is ideal for life science researchers and students starting their journey in R-based bioinformatics.\n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Dear all,\nWe?re excited to share that there are only 2 seats left for our online course: \"Introduction to R and Bioconductor\"\n \nDates: 26th & 28th May, and 5th & 6th June 2025\n \nTime: 9:30 AM ? 12:30 ",
+      "body_plain": "Dear all,\nWe’re excited to share that there are only 2 seats left for our online course: \"Introduction to R and Bioconductor\"\n \nDates: 26th & 28th May, and 5th & 6th June 2025\n \nTime: 9:30 AM – 12:30 PM (CET)\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/intro-to-bioc/ ]( https://www.physalia-courses.org/courses-workshops/intro-to-bioc/ )\n \n \nThis beginner-friendly course offers hands-on training in R programming, tidyverse data processing, and the Bioconductor ecosystem, tailored to biological and genomic data analysis. No prior experience with R or Bioconductor is required.\n \nAttendees ’ll learn how to:\n\nNavigate RStudio and manage data analysis projects\n\nWork with R data structures, tidyverse tools, and visualization packages like ggplot2\n\nUse Bioconductor to handle DNA, RNA, and protein data\n\nApply key data structures like SummarizedExperiment and SingleCellExperiment\nThis course is ideal for life science researchers and students starting their journey in R-based bioinformatics.\n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe’re excited to share that there are only 2 seats left for our online course: \"Introduction to R and Bioconductor\"\n \nDates: 26th & 28th May, and 5th & 6th June 2025\n \nTime: 9:30 AM – 12:30 ",
       "thread_id": "thread-8b32d5918251",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000378.html"
     },
     {
       "id": "msg-f078e1b990b6",
@@ -112,11 +118,12 @@
       "subject_clean": "Introduction to Experimental Design - livestream seminar",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi everyone\n\nInstats is thrilled to offer a 1-day seminar, Introduction to Experimental Design: Concepts and Applications <https://instats.org/seminar/introduction-to-experimental-design-conc>, livestreaming on May 22 and led by Dr Byran Smucker from the Department of Public Health Sciences, Division of Biostatistics, Henry Ford Health. Experimental design underpins credible, reproducible research across psychology, medicine, engineering, and beyond; this intensive workshop equips academics, graduate students, and industry practitioners with the practical philosophy of experimentation?highlighting randomization, replication, and blocking?while walking through power analysis, one-factor studies, and more advanced designs. Through real-world examples and R-based demonstrations (no prior R experience required), participants will learn to distinguish exploratory from confirmatory studies, avoid common pitfalls, and implement simple yet powerful confirmatory experiments that stand up to rigorous scrutiny.\n\nSign up today <https://instats.org/seminar/introduction-to-experimental-design-conc> to secure your spot, and please share with colleagues and students who may benefit!\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Hi everyone\n\nInstats is thrilled to offer a 1-day seminar, Introduction to Experimental Design: Concepts and Applications <https://instats.org/seminar/introduction-to-experimental-design-conc>, livestreaming on May 22 and led by Dr Byran Smucker from the Department of Public Health Sciences, Division of Biostatistics, Henry Ford Health. Experimental design underpins credible, reproducible research across psychology, medicine, engineering, and beyond; this intensive workshop equips academics, graduate students, and industry practitioners with the practical philosophy of experimentation—highlighting randomization, replication, and blocking—while walking through power analysis, one-factor studies, and more advanced designs. Through real-world examples and R-based demonstrations (no prior R experience required), participants will learn to distinguish exploratory from confirmatory studies, avoid common pitfalls, and implement simple yet powerful confirmatory experiments that stand up to rigorous scrutiny.\n\nSign up today <https://instats.org/seminar/introduction-to-experimental-design-conc> to secure your spot, and please share with colleagues and students who may benefit!\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Hi everyone\n\nInstats is thrilled to offer a 1-day seminar, Introduction to Experimental Design: Concepts and Applications <https://instats.org/seminar/introduction-to-experimental-design-conc>, livest",
       "thread_id": "thread-f078e1b990b6",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000379.html"
     },
     {
       "id": "msg-7320068c990e",
@@ -128,11 +135,12 @@
       "subject_clean": "Using LLMs for R Coding/Package Dev - livestream seminar",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi everyone\n\nInstats is excited to offer a 3-day seminar, Using LLMs for R Coding and Package Development <https://instats.org/seminar/using-llms-for-r-coding-and-package-deve>, livestreaming May 20?22 and led by professors Seth Flaxman from the University of Oxford and Leonid Chindelevitch from Imperial College London. Designed for academics and PhD students, this hands-on workshop shows you how to integrate cutting-edge large language models such as ChatGPT and Claude into your R workflow to accelerate coding, debugging, optimization, and package creation. Over three intensive days you?ll master clean-code principles, learn best practices for software development and version control, and see real-world demonstrations that illustrate how AI can dramatically boost productivity while ensuring rigorous, reproducible research.\n\nSign up today <https://instats.org/seminar/using-llms-for-r-coding-and-package-deve> to secure your place, and feel free to share this opportunity with colleagues eager to elevate their R capabilities with the power of LLMs!\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 3-day seminar, Using LLMs for R Coding and Package Development <https://instats.org/seminar/using-llms-for-r-coding-and-package-deve>, livestreaming May 20?2",
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 3-day seminar, Using LLMs for R Coding and Package Development <https://instats.org/seminar/using-llms-for-r-coding-and-package-deve>, livestreaming May 20–22 and led by professors Seth Flaxman from the University of Oxford and Leonid Chindelevitch from Imperial College London. Designed for academics and PhD students, this hands-on workshop shows you how to integrate cutting-edge large language models such as ChatGPT and Claude into your R workflow to accelerate coding, debugging, optimization, and package creation. Over three intensive days you’ll master clean-code principles, learn best practices for software development and version control, and see real-world demonstrations that illustrate how AI can dramatically boost productivity while ensuring rigorous, reproducible research.\n\nSign up today <https://instats.org/seminar/using-llms-for-r-coding-and-package-deve> to secure your place, and feel free to share this opportunity with colleagues eager to elevate their R capabilities with the power of LLMs!\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a 3-day seminar, Using LLMs for R Coding and Package Development <https://instats.org/seminar/using-llms-for-r-coding-and-package-deve>, livestreaming May 20–2",
       "thread_id": "thread-7320068c990e",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000380.html"
     },
     {
       "id": "msg-7db3b67d7af0",
@@ -144,11 +152,12 @@
       "subject_clean": "Few Seats Left – Analysing Biodiversity Through Time and Space Using R (9–13 June)",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\nWe?re excited to announce that there are only a few seats left for our upcoming online course: Analysing Biodiversity Through Time and Space Using R\nDates: 9?13 June \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/biodiversity-in-r/ ]( https://www.physalia-courses.org/courses-workshops/biodiversity-in-r/ )\n \nThis hands-on course will guide you through building reproducible workflows for acquiring, cleaning, and analysing biodiversity data from both modern and fossil records. You?ll explore how diversity patterns vary across space and time, and learn to address common sampling challenges using powerful R tools and packages.\n \nBy the end of the course, you will be able to:\n\nAccess and clean biodiversity occurrence data from major databases (GBIF, PBDB, IUCN)\n\nAnalyse biodiversity patterns across spatial and temporal scales\n\nVisualise biodiversity data and estimate diversification rates using R\n\nIntegrate palaeontological and neontological datasets for comprehensive biodiversity analysis\n \nBest regards, Carlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Dear all,\nWe?re excited to announce that there are only a few seats left for our upcoming online course: Analysing Biodiversity Through Time and Space Using R\nDates: 9?13 June \n \nCourse website: [ htt",
+      "body_plain": "Dear all,\nWe’re excited to announce that there are only a few seats left for our upcoming online course: Analysing Biodiversity Through Time and Space Using R\nDates: 9–13 June \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/biodiversity-in-r/ ]( https://www.physalia-courses.org/courses-workshops/biodiversity-in-r/ )\n \nThis hands-on course will guide you through building reproducible workflows for acquiring, cleaning, and analysing biodiversity data from both modern and fossil records. You’ll explore how diversity patterns vary across space and time, and learn to address common sampling challenges using powerful R tools and packages.\n \nBy the end of the course, you will be able to:\n\nAccess and clean biodiversity occurrence data from major databases (GBIF, PBDB, IUCN)\n\nAnalyse biodiversity patterns across spatial and temporal scales\n\nVisualise biodiversity data and estimate diversification rates using R\n\nIntegrate palaeontological and neontological datasets for comprehensive biodiversity analysis\n \nBest regards, Carlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe’re excited to announce that there are only a few seats left for our upcoming online course: Analysing Biodiversity Through Time and Space Using R\nDates: 9–13 June \n \nCourse website: [ htt",
       "thread_id": "thread-7db3b67d7af0",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000381.html"
     },
     {
       "id": "msg-c4bfa616c06b",
@@ -160,11 +169,12 @@
       "subject_clean": "Unlock the Power of Spatial Data Visualisation in R using TMAP",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "*Unlock the Power of Spatial Data Visualisation in R using TMAP*\n\nJoin our focused online course: *?Visual Exploration, Analysis and\nPresentation of Spatial Data Using the Tmap Package?\n<https://www.prstats.org/course/visual-exploration-analysis-and-presentation-of-spatial-data-using-the-tmap-package-tmap01/>*\n\n*Course dates:* 3-6 June 2025\n\n*Location:* Online Live Course\n\nWhether you?re a researcher, analyst, or data scientist, this course equips\nyou with the practical skills to:\n\n   -\n\n   Build and customise layered maps using the *Tmap* package in R\n   -\n\n   Combine spatial data with analytical results for compelling\n   visualisations\n   -\n\n   Integrate thematic maps into presentations and publications\n   -\n\n   Work confidently with spatial objects and geospatial data sets\n\n*Course Highlights:*\n\n   -\n\n   Hands-on exercises with real data\n   -\n\n   Taught by experienced spatial data scientists\n   -\n\n   Lifetime access to course materials and recordings\n   -\n\n   Suitable for both intermediate R users and those new to spatial analysis\n\n*Next session starts soon ? spaces are limited.*\n\nSecure your place here:\n\nhttps://www.prstats.org/course/visual-exploration-analysis-and-presentation-of-spatial-data-using-the-tmap-package-tmap01/\n-- \nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "*Unlock the Power of Spatial Data Visualisation in R using TMAP*\n\nJoin our focused online course: *?Visual Exploration, Analysis and\nPresentation of Spatial Data Using the Tmap Package?\n<https://www.p",
+      "body_plain": "*Unlock the Power of Spatial Data Visualisation in R using TMAP*\n\nJoin our focused online course: *“Visual Exploration, Analysis and\nPresentation of Spatial Data Using the Tmap Package”\n<https://www.prstats.org/course/visual-exploration-analysis-and-presentation-of-spatial-data-using-the-tmap-package-tmap01/>*\n\n*Course dates:* 3-6 June 2025\n\n*Location:* Online Live Course\n\nWhether you’re a researcher, analyst, or data scientist, this course equips\nyou with the practical skills to:\n\n   -\n\n   Build and customise layered maps using the *Tmap* package in R\n   -\n\n   Combine spatial data with analytical results for compelling\n   visualisations\n   -\n\n   Integrate thematic maps into presentations and publications\n   -\n\n   Work confidently with spatial objects and geospatial data sets\n\n*Course Highlights:*\n\n   -\n\n   Hands-on exercises with real data\n   -\n\n   Taught by experienced spatial data scientists\n   -\n\n   Lifetime access to course materials and recordings\n   -\n\n   Suitable for both intermediate R users and those new to spatial analysis\n\n*Next session starts soon – spaces are limited.*\n\nSecure your place here:\n\nhttps://www.prstats.org/course/visual-exploration-analysis-and-presentation-of-spatial-data-using-the-tmap-package-tmap01/\n-- \nOliver Hooker PhD.\nPR stats\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*Unlock the Power of Spatial Data Visualisation in R using TMAP*\n\nJoin our focused online course: *“Visual Exploration, Analysis and\nPresentation of Spatial Data Using the Tmap Package”\n<https://www.p",
       "thread_id": "thread-c4bfa616c06b",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000382.html"
     },
     {
       "id": "msg-7fedb63ac614",
@@ -180,7 +190,8 @@
       "body_snippet": "Dear all,\nWe are pleased to announce our upcoming online course on \"Introduction to Genome-Wide Association Studies (GWAS)\", taking place from 23 to 27 June 2025.\n \nCourse page: [ https://www.physalia",
       "thread_id": "thread-7fedb63ac614",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000383.html"
     },
     {
       "id": "msg-08c45ca962f9",
@@ -196,7 +207,8 @@
       "body_snippet": "ONLINE COURSE ? Tidyverse for Ecologists (TIDY01)\n\nhttps://www.prstats.org/course/tidyverse-for-ecologists-tidy01/\n\n16th - 20th June\n\nPlease feel free to share!\n\nCOURSE OVERVIEW - This course comprehe",
       "thread_id": "thread-08c45ca962f9",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000384.html"
     },
     {
       "id": "msg-04440a9736d5",
@@ -212,7 +224,8 @@
       "body_snippet": "Dear all,there are only a few seats left for the upcoming Physalia online course on \"Introduction to Genome-Wide Association Studies (GWAS)\", taking place from 23 to 27 June.Course page: [ https://www",
       "thread_id": "thread-04440a9736d5",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000385.html"
     },
     {
       "id": "msg-5f5c5f9a0891",
@@ -228,7 +241,8 @@
       "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Efficient Data Wrangling with R data.table <https://instats.org/seminar/efficient-data-wrangling-with-r-datatabl>, livestreaming on June 4 and",
       "thread_id": "thread-5f5c5f9a0891",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000386.html"
     },
     {
       "id": "msg-41b040ba4022",
@@ -240,11 +254,12 @@
       "subject_clean": "R for Beginners: A Complete Course - livestream seminars",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi everyone\n\nUnlock the power of statistis and data science in R with the 5-part seminar series R for Beginners: A Complete Course <https://instats.org/structuredcourse/r-for-beginners-a-complete-course2>, starting June 11th and being offered by the SMCS group from UC Louvain?five expertly guided seminars that take you from R?s fundamentals through data manipulation, visualization, exploratory analysis, hypothesis testing, and advanced modeling (ANOVA, regression, logistic regression) using real-world research examples. Whether you join a single seminar to sharpen a specific skill or enroll in all five to build a comprehensive toolkit, you?ll gain hands-on practice, personalized feedback, and the confidence to tackle complex datasets in your PhD work, academic projects, or professional research. \n\nSign up today <https://instats.org/structuredcourse/r-for-beginners-a-complete-course2> for any individual session at your convenience?or commit to the full series and enjoy a 10% discount on the complete package. Reserve your spot today and elevate your research with R!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Hi everyone\n\nUnlock the power of statistis and data science in R with the 5-part seminar series R for Beginners: A Complete Course <https://instats.org/structuredcourse/r-for-beginners-a-complete-course2>, starting June 11th and being offered by the SMCS group from UC Louvain—five expertly guided seminars that take you from R’s fundamentals through data manipulation, visualization, exploratory analysis, hypothesis testing, and advanced modeling (ANOVA, regression, logistic regression) using real-world research examples. Whether you join a single seminar to sharpen a specific skill or enroll in all five to build a comprehensive toolkit, you’ll gain hands-on practice, personalized feedback, and the confidence to tackle complex datasets in your PhD work, academic projects, or professional research. \n\nSign up today <https://instats.org/structuredcourse/r-for-beginners-a-complete-course2> for any individual session at your convenience—or commit to the full series and enjoy a 10% discount on the complete package. Reserve your spot today and elevate your research with R!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Hi everyone\n\nUnlock the power of statistis and data science in R with the 5-part seminar series R for Beginners: A Complete Course <https://instats.org/structuredcourse/r-for-beginners-a-complete-cour",
       "thread_id": "thread-41b040ba4022",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000387.html"
     },
     {
       "id": "msg-2da015eb7834",
@@ -260,7 +275,8 @@
       "body_snippet": "Hi everyone,\n \nThis is the final call to join the Physalia course \"A Practical Hands-On Introduction to R with the tidyverse\"\nDates: 2?4 June 2025 | 14:00?19:00 Berlin time\n \n \n \nCourse website: [ htt",
       "thread_id": "thread-2da015eb7834",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000388.html"
     },
     {
       "id": "msg-e73766c3767d",
@@ -272,11 +288,12 @@
       "subject_clean": "Deep Learning with ChatGPT - livestream seminar",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Deep Learning for Complex Datasets with ChatGPT <https://instats.org/seminar/deep-learning-for-complex-datasets-with>, running June 6th and led by professor Nikolay Oskolkov from at Lund University. This intensive workshop equips PhD students, academics, and professional researchers with the practical skills needed to harness cutting-edge deep learning approaches for complex, real-world data. Through hands-on exercises in R, Python, TensorFlow, and Keras?guided by ChatGPT as an interactive coding consultant?you will learn foundational principles of machine and deep learning, build neural networks from scratch, explore convolutional and recurrent architectures for sequential and genomic data, apply autoencoders for dimensionality reduction, and examine case studies spanning multi-omics integration, single-cell biology, and personalized medicine. By the end of the day, participants will be able to design, train, evaluate, and refine their own models, integrate Large Language Models into existing analytical workflows, and take away actionable insights that immediately translate to their research.\n\nSign up today <https://instats.org/seminar/deep-learning-for-complex-datasets-with> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Deep Learning for Complex Datasets with ChatGPT <https://instats.org/seminar/deep-learning-for-complex-datasets-with>, running June 6th and led by professor Nikolay Oskolkov from at Lund University. This intensive workshop equips PhD students, academics, and professional researchers with the practical skills needed to harness cutting-edge deep learning approaches for complex, real-world data. Through hands-on exercises in R, Python, TensorFlow, and Keras—guided by ChatGPT as an interactive coding consultant—you will learn foundational principles of machine and deep learning, build neural networks from scratch, explore convolutional and recurrent architectures for sequential and genomic data, apply autoencoders for dimensionality reduction, and examine case studies spanning multi-omics integration, single-cell biology, and personalized medicine. By the end of the day, participants will be able to design, train, evaluate, and refine their own models, integrate Large Language Models into existing analytical workflows, and take away actionable insights that immediately translate to their research.\n\nSign up today <https://instats.org/seminar/deep-learning-for-complex-datasets-with> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\nhttps://instats.org\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Deep Learning for Complex Datasets with ChatGPT <https://instats.org/seminar/deep-learning-for-complex-datasets-with>, running June 6th and le",
       "thread_id": "thread-e73766c3767d",
       "thread_depth": 0,
-      "month": "2025-05"
+      "month": "2025-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-May/000389.html"
     }
   ],
   "threads": [

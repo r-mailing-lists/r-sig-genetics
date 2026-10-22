@@ -19,7 +19,8 @@
       "body_snippet": "Nevil Amos <nevil.amos at ...> writes:\n\n> \n> Do any of the genetics related packages allow calcualtion of individual \n> relatedness values?\n> \n> such as that in Queller, D.C. and Goodnight, K.F. 1989.",
       "thread_id": "thread-3b30cd15c850",
       "thread_depth": 0,
-      "month": "2013-04"
+      "month": "2013-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2013-April/000041.html"
     },
     {
       "id": "msg-5ed5b23be069",
@@ -39,6 +40,7 @@
       "thread_id": "thread-3b30cd15c850",
       "thread_depth": 1,
       "month": "2013-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2013-April/000042.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130403/bcbae4e5/attachment.pl"
       ]

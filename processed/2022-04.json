@@ -17,7 +17,8 @@
       "body_snippet": "Dear all,\n \nthere are still a few seats available for the Landscape Genomics in R course.\n \nDates: online, 13th-17th June\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/course1",
       "thread_id": "thread-648831deb2af",
       "thread_depth": 0,
-      "month": "2022-04"
+      "month": "2022-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2022-April/000228.html"
     },
     {
       "id": "msg-cea37f59c57f",
@@ -29,11 +30,12 @@
       "subject_clean": "F statistics in R",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hello dear community,\n\nI was wondering if anyone knows how to calculate pairwise Fst and ?st for\nhaplotypes data set in R ? I have a fasta file with the haplotype sequences\nand an haplotype abundance table per site, and I am looking for a way to\ncalculate those statistics by pair of site (populations) in R.  I have\ntried the function pairwise.fst in adegenet but didn't succeed, it seems\nthat the function is not available anymore.\n\nAnd I have a second question: how can I expand a fasta file with unique\nhaplotype sequences with an haplotype abundance table in R?\n\nI would be grateful to any guidance,\nKind regards,\n\nM?lanie Delleuze\n\nMaster Student - Biodiversity, Ecology and Evolution\n\nLille University\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Hello dear community,\n\nI was wondering if anyone knows how to calculate pairwise Fst and ?st for\nhaplotypes data set in R ? I have a fasta file with the haplotype sequences\nand an haplotype abundance ",
+      "body_plain": "Hello dear community,\n\nI was wondering if anyone knows how to calculate pairwise Fst and Φst for\nhaplotypes data set in R ? I have a fasta file with the haplotype sequences\nand an haplotype abundance table per site, and I am looking for a way to\ncalculate those statistics by pair of site (populations) in R.  I have\ntried the function pairwise.fst in adegenet but didn't succeed, it seems\nthat the function is not available anymore.\n\nAnd I have a second question: how can I expand a fasta file with unique\nhaplotype sequences with an haplotype abundance table in R?\n\nI would be grateful to any guidance,\nKind regards,\n\nMélanie Delleuze\n\nMaster Student - Biodiversity, Ecology and Evolution\n\nLille University\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello dear community,\n\nI was wondering if anyone knows how to calculate pairwise Fst and Φst for\nhaplotypes data set in R ? I have a fasta file with the haplotype sequences\nand an haplotype abundance ",
       "thread_id": "thread-cea37f59c57f",
       "thread_depth": 0,
-      "month": "2022-04"
+      "month": "2022-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2022-April/000229.html"
     },
     {
       "id": "msg-d7eeb04cf321",
@@ -49,7 +51,8 @@
       "body_snippet": "ONLINE COURSE ? Introduction To Multivariate Analysis In Ecology And\nEvolutionary Biology\n\nhttps://www.prstatistics.com/course/online-course-introduction-to-multivariate-analysis-in-ecology-and-evolut",
       "thread_id": "thread-d7eeb04cf321",
       "thread_depth": 0,
-      "month": "2022-04"
+      "month": "2022-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2022-April/000230.html"
     },
     {
       "id": "msg-1018d302ee5d",
@@ -65,7 +68,8 @@
       "body_snippet": "Dear all,\n \nthere are the last seats available on the Physalia course \"GENE SET ENRICHMENT ANALYSIS IN R\", which will be held online from the 3rd to the 6th of May.\n \nIn this course, we will teach the",
       "thread_id": "thread-1018d302ee5d",
       "thread_depth": 0,
-      "month": "2022-04"
+      "month": "2022-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2022-April/000231.html"
     }
   ],
   "threads": [

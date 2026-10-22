@@ -18,6 +18,7 @@
       "thread_id": "thread-368523f4ae14",
       "thread_depth": 0,
       "month": "2010-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2010-September/000019.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100907/a38a429f/attachment.pl"
       ]
@@ -37,6 +38,7 @@
       "thread_id": "thread-14856e7d5914",
       "thread_depth": 0,
       "month": "2010-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2010-September/000020.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100907/d222c394/attachment.pl"
       ]
@@ -55,7 +57,8 @@
       "body_snippet": "Hi,\n\nI looking for some guidance regarding available packages to do QC (i.e.\nparent-offspring inheritance checks) and to summarize large SNP datasets\n(i.e. 50K) for pedigreed populations (frequencies,",
       "thread_id": "thread-3b83f79a46a6",
       "thread_depth": 0,
-      "month": "2010-09"
+      "month": "2010-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2010-September/000021.html"
     },
     {
       "id": "msg-718fad68d446",
@@ -73,7 +76,8 @@
       "body_snippet": "Hi, Fernando,\n\nI think there are some QC tools in David Clayton's snpMatrix package,\nbut there's no single R package to do all the reports you need AFAIK.\nFor comprehensive reporting, if you don't min",
       "thread_id": "thread-718fad68d446",
       "thread_depth": 0,
-      "month": "2010-09"
+      "month": "2010-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2010-September/000022.html"
     },
     {
       "id": "msg-9b7dd0a2f6f0",
@@ -92,7 +96,8 @@
       "body_snippet": "Hi Ross,\n\nThanks for this.  I take it then that the QC tools you have in Galaxy \nare not in any of the Bioconductor Genetics{Base,Design,Ped} packages? \nIf not, are there plans to update the Bioconduc",
       "thread_id": "thread-718fad68d446",
       "thread_depth": 1,
-      "month": "2010-09"
+      "month": "2010-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2010-September/000023.html"
     },
     {
       "id": "msg-d7bc735d2e8e",
@@ -108,7 +113,8 @@
       "body_snippet": "Hi Brad\n\nWork on the rgenetics tools in R has more or less come to a halt - I'm\nnot aware of anyone working on them and I don't think many people are\nusing them although we tried hard! I think David C",
       "thread_id": "thread-d7bc735d2e8e",
       "thread_depth": 0,
-      "month": "2010-09"
+      "month": "2010-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2010-September/000024.html"
     },
     {
       "id": "msg-a47d7d8595ed",
@@ -124,7 +130,8 @@
       "body_snippet": "We have some tools that I think have been put into an R package but not sent to CRAN.  They implement the methods in http://onlinelibrary.wiley.com/resolve/doi/pdf?DOI=10.1002/gepi.20516\nThis has been",
       "thread_id": "thread-d7bc735d2e8e",
       "thread_depth": 1,
-      "month": "2010-09"
+      "month": "2010-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2010-September/000025.html"
     },
     {
       "id": "msg-65f7b536fa9f",
@@ -140,7 +147,8 @@
       "body_snippet": "Is anyone aware of functions(s) packages in R: thant caclulate pairwise \nFst and or G'st between all populations in a dataset?\n\ncheers\n\nNevil Amos",
       "thread_id": "thread-65f7b536fa9f",
       "thread_depth": 0,
-      "month": "2010-09"
+      "month": "2010-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2010-September/000026.html"
     },
     {
       "id": "msg-55e7f5b0aeaa",
@@ -154,11 +162,12 @@
       "references": [
         "<4C915B4D.6000904@optusnet.com.au>"
       ],
-      "body_plain": "Dear Nevil, \n\nyes, I have just implemented a pairwise Fst in adegenet a few days ago. You'll need to install the devel version from R-forge:\ninstall.packages(\"adegenet\",repos=\"http://r-forge.r-project.org\")\n\nThen, have a look at the function pairwise.fst.\n\nBest regards\n\nThibaut\n\n--\n######################################\nDr Thibaut JOMBART\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - Faculty of Medicine\nSt Mary?s Campus\nNorfolk Place\nLondon W2 1PG\nUnited Kingdom\nTel. : 0044 (0)20 7594 3658\nt.jombart at imperial.ac.uk\nhttp://sites.google.com/site/thibautjombart/\nhttp://adegenet.r-forge.r-project.org/\n\n________________________________________\nFrom: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] On Behalf Of Nevil Amos [nevil.amos at optusnet.com.au]\nSent: 16 September 2010 00:48\nTo: r-sig-genetics at r-project.org\nSubject: [R-sig-genetics] Pairwise Fst and G'st in R\n\nIs anyone aware of functions(s) packages in R: thant caclulate pairwise\nFst and or G'st between all populations in a dataset?\n\ncheers\n\nNevil Amos\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
+      "body_plain": "Dear Nevil, \n\nyes, I have just implemented a pairwise Fst in adegenet a few days ago. You'll need to install the devel version from R-forge:\ninstall.packages(\"adegenet\",repos=\"http://r-forge.r-project.org\")\n\nThen, have a look at the function pairwise.fst.\n\nBest regards\n\nThibaut\n\n--\n######################################\nDr Thibaut JOMBART\nMRC Centre for Outbreak Analysis and Modelling\nDepartment of Infectious Disease Epidemiology\nImperial College - Faculty of Medicine\nSt Mary’s Campus\nNorfolk Place\nLondon W2 1PG\nUnited Kingdom\nTel. : 0044 (0)20 7594 3658\nt.jombart at imperial.ac.uk\nhttp://sites.google.com/site/thibautjombart/\nhttp://adegenet.r-forge.r-project.org/\n\n________________________________________\nFrom: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] On Behalf Of Nevil Amos [nevil.amos at optusnet.com.au]\nSent: 16 September 2010 00:48\nTo: r-sig-genetics at r-project.org\nSubject: [R-sig-genetics] Pairwise Fst and G'st in R\n\nIs anyone aware of functions(s) packages in R: thant caclulate pairwise\nFst and or G'st between all populations in a dataset?\n\ncheers\n\nNevil Amos\n\n_______________________________________________\nR-sig-genetics mailing list\nR-sig-genetics at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-genetics",
       "body_snippet": "Dear Nevil, \n\nyes, I have just implemented a pairwise Fst in adegenet a few days ago. You'll need to install the devel version from R-forge:\ninstall.packages(\"adegenet\",repos=\"http://r-forge.r-project",
       "thread_id": "thread-65f7b536fa9f",
       "thread_depth": 1,
-      "month": "2010-09"
+      "month": "2010-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2010-September/000027.html"
     }
   ],
   "threads": [

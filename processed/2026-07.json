@@ -17,7 +17,8 @@
       "body_snippet": "Hello colleagues\n\nI'm sharing a new open-access policy document that you may find\nuseful: Responsible\nAI in Academic Research: A Competency Framework for Research Training\n<https://instats.org/publica",
       "thread_id": "thread-d1a74d87a034",
       "thread_depth": 0,
-      "month": "2026-07"
+      "month": "2026-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-July/000548.html"
     },
     {
       "id": "msg-04601d4ff04a",
@@ -33,7 +34,8 @@
       "body_snippet": "Good morning everyone,\n \nThere is still time to join our Landscape Genomics course, taking place next week (13?17 July):\n[ https://www.physalia-courses.org/courses-workshops/course17 ]( https://www.ph",
       "thread_id": "thread-04601d4ff04a",
       "thread_depth": 0,
-      "month": "2026-07"
+      "month": "2026-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-July/000549.html"
     },
     {
       "id": "msg-36f42ebeeef6",
@@ -49,7 +51,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nAnalyzing epigenetic data requires robust statistical tools and reproducible bioinformatic workflows. Analysis of DNA Methylation 2.0 led by Aline Muyle (Institute of Evo",
       "thread_id": "thread-36f42ebeeef6",
       "thread_depth": 0,
-      "month": "2026-07"
+      "month": "2026-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-July/000550.html"
     },
     {
       "id": "msg-d12f3df68d0f",
@@ -61,11 +64,12 @@
       "subject_clean": "Genomic Prediction of Complex Traits using R",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Genomic Prediction of Complex Traits (GPCT01)\nhttps://prstats.org/course/genomic-prediction-of-complex-traits-gpct01/\n\nDelivered by Dr. Javier Fern?ndez-Gonz?lez, a quantitative geneticist specialising in statistical genomics, genomic prediction, and computational methods for breeding and quantitative genetics.\n\nLearn how to build genomic prediction models for complex traits, with methods that are highly applicable to evolutionary biology, population genetics, and evolutionary genomics.\n\nUnderstanding the genetic basis of complex traits is central to modern evolutionary biology. Advances in genome sequencing now allow researchers to investigate how thousands of genetic variants collectively influence phenotypes, adaptation, fitness, and evolutionary potential. Although genomic prediction was originally developed for plant and animal breeding, these statistical approaches are increasingly being used to study natural populations, the evolution of quantitative traits, genotype-phenotype relationships, and responses to environmental change.\n\nWhat you'll gain\n\n  *   A strong understanding of genomic prediction and quantitative genetics\n  *   Practical experience building genomic prediction models using modern statistical methods\n  *   Skills in predicting complex traits from genome-wide marker data\n  *   Understanding of model evaluation, validation, and prediction accuracy\n  *   Confidence in interpreting genomic prediction models within an evolutionary context\n\nCourse format\n\n  *   Live, instructor-led online training\n  *   Hands-on coding with real-world genomic datasets\n  *   Interactive practical exercises throughout\n  *   Strong focus on applied, research-ready workflows\n\nWho is this course for?\n\n  *   Evolutionary biologists\n  *   Population and quantitative geneticists\n  *   Evolutionary genomic researchers\n  *   PhD students and postdoctoral researchers\n  *   Anyone interested in applying statistical genomics to evolutionary research\n\nWhy take this course?\n\nMany of the most important questions in evolutionary biology involve understanding how genetic variation contributes to phenotypic diversity, adaptation, and fitness. Genomic prediction provides a powerful statistical framework for modelling complex traits controlled by many loci, allowing researchers to investigate evolutionary potential, predict phenotypic variation, and better understand the genetic architecture of adaptive traits. These methods are increasingly being applied alongside GWAS, population genomics, and quantitative genetics to address fundamental evolutionary questions.\n\nThis course equips you with the practical skills needed to develop, evaluate, and interpret genomic prediction models using modern statistical approaches. Whether you're studying adaptation, quantitative trait evolution, life-history variation, genotype-phenotype relationships, or evolutionary responses to changing environments, you'll gain the analytical toolkit needed to apply genomic prediction methods confidently in your own research.\n\nLearn more & enrol\n\nPR Stats course page for Genomic Prediction of Complex Traits (GPCT01)\n\nhttps://prstats.org/course/genomic-prediction-of-complex-traits-gpct01/\n\nQuestions?\n\nEmail: oliver at prstats.org\n\nOliver Hooker\nManaging Partner\n[signature_68833404]\nAdvanced Training for Researchers in the Life Sciences\ncoursesinfo at prstats.org <http://oliver at prstats.org/> | www.prstats.org<http://www.prstats.org/>\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20260717/6418db00/attachment-0001.html>\n\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: img-36c9b4a7-df2f-4310-8967-5faa998b05ba.png\nType: image/png\nSize: 722372 bytes\nDesc: img-36c9b4a7-df2f-4310-8967-5faa998b05ba.png\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20260717/6418db00/attachment-0001.png>",
-      "body_snippet": "Genomic Prediction of Complex Traits (GPCT01)\nhttps://prstats.org/course/genomic-prediction-of-complex-traits-gpct01/\n\nDelivered by Dr. Javier Fern?ndez-Gonz?lez, a quantitative geneticist specialisin",
+      "body_plain": "Genomic Prediction of Complex Traits (GPCT01)\nhttps://prstats.org/course/genomic-prediction-of-complex-traits-gpct01/\n\nDelivered by Dr. Javier Fernández-González, a quantitative geneticist specialising in statistical genomics, genomic prediction, and computational methods for breeding and quantitative genetics.\n\nLearn how to build genomic prediction models for complex traits, with methods that are highly applicable to evolutionary biology, population genetics, and evolutionary genomics.\n\nUnderstanding the genetic basis of complex traits is central to modern evolutionary biology. Advances in genome sequencing now allow researchers to investigate how thousands of genetic variants collectively influence phenotypes, adaptation, fitness, and evolutionary potential. Although genomic prediction was originally developed for plant and animal breeding, these statistical approaches are increasingly being used to study natural populations, the evolution of quantitative traits, genotype-phenotype relationships, and responses to environmental change.\n\nWhat you'll gain\n\n  *   A strong understanding of genomic prediction and quantitative genetics\n  *   Practical experience building genomic prediction models using modern statistical methods\n  *   Skills in predicting complex traits from genome-wide marker data\n  *   Understanding of model evaluation, validation, and prediction accuracy\n  *   Confidence in interpreting genomic prediction models within an evolutionary context\n\nCourse format\n\n  *   Live, instructor-led online training\n  *   Hands-on coding with real-world genomic datasets\n  *   Interactive practical exercises throughout\n  *   Strong focus on applied, research-ready workflows\n\nWho is this course for?\n\n  *   Evolutionary biologists\n  *   Population and quantitative geneticists\n  *   Evolutionary genomic researchers\n  *   PhD students and postdoctoral researchers\n  *   Anyone interested in applying statistical genomics to evolutionary research\n\nWhy take this course?\n\nMany of the most important questions in evolutionary biology involve understanding how genetic variation contributes to phenotypic diversity, adaptation, and fitness. Genomic prediction provides a powerful statistical framework for modelling complex traits controlled by many loci, allowing researchers to investigate evolutionary potential, predict phenotypic variation, and better understand the genetic architecture of adaptive traits. These methods are increasingly being applied alongside GWAS, population genomics, and quantitative genetics to address fundamental evolutionary questions.\n\nThis course equips you with the practical skills needed to develop, evaluate, and interpret genomic prediction models using modern statistical approaches. Whether you're studying adaptation, quantitative trait evolution, life-history variation, genotype-phenotype relationships, or evolutionary responses to changing environments, you'll gain the analytical toolkit needed to apply genomic prediction methods confidently in your own research.\n\nLearn more & enrol\n\nPR Stats course page for Genomic Prediction of Complex Traits (GPCT01)\n\nhttps://prstats.org/course/genomic-prediction-of-complex-traits-gpct01/\n\nQuestions?\n\nEmail: oliver at prstats.org\n\nOliver Hooker\nManaging Partner\n[signature_68833404]\nAdvanced Training for Researchers in the Life Sciences\ncoursesinfo at prstats.org <http://oliver at prstats.org/> | www.prstats.org<http://www.prstats.org/>\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20260717/6418db00/attachment-0001.html>\n\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: img-36c9b4a7-df2f-4310-8967-5faa998b05ba.png\nType: image/png\nSize: 722372 bytes\nDesc: img-36c9b4a7-df2f-4310-8967-5faa998b05ba.png\nURL: <https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20260717/6418db00/attachment-0001.png>",
+      "body_snippet": "Genomic Prediction of Complex Traits (GPCT01)\nhttps://prstats.org/course/genomic-prediction-of-complex-traits-gpct01/\n\nDelivered by Dr. Javier Fernández-González, a quantitative geneticist specialisin",
       "thread_id": "thread-d12f3df68d0f",
       "thread_depth": 0,
-      "month": "2026-07"
+      "month": "2026-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-July/000551.html"
     },
     {
       "id": "msg-7f57883106a6",
@@ -81,7 +85,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Add hands-on machine learning methods to your genetic data analysis toolkit. Machine Learning for Computational Biology 4.0 is a seminar livestreaming July ",
       "thread_id": "thread-7f57883106a6",
       "thread_depth": 0,
-      "month": "2026-07"
+      "month": "2026-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-July/000552.html"
     },
     {
       "id": "msg-6e75bc129415",
@@ -93,11 +98,12 @@
       "subject_clean": "Developing R/Bioconductor Packages for Genomics . 27-31 July",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\n \nHave you ever wished you could turn your scripts into a polished, shareable Bioconductor package?\n \nJoin Developing R/Bioconductor Packages for Genomics (Online, 27?31 July) and learn the complete package development workflow?from writing robust functions and documenting code to testing, continuous integration, package websites, and publishing your package in Bioconductor.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/r-packages/ ]( https://www.physalia-courses.org/courses-workshops/r-packages/ )\n \n \nDesigned for biologists and bioinformaticians with basic R experience, this highly practical course combines expert-led lectures with hands-on exercises. By the end of the week, you'll have the skills and confidence to develop, maintain, and share professional-quality genomics software using Bioconductor best practices.\n \nTurn your code into a reusable tool?and start contributing to the Bioconductor ecosystem.\n \nFor the full list of our courses and workshops, please have a look at: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )\n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Dear all,\n \nHave you ever wished you could turn your scripts into a polished, shareable Bioconductor package?\n \nJoin Developing R/Bioconductor Packages for Genomics (Online, 27?31 July) and learn the ",
+      "body_plain": "Dear all,\n \nHave you ever wished you could turn your scripts into a polished, shareable Bioconductor package?\n \nJoin Developing R/Bioconductor Packages for Genomics (Online, 27–31 July) and learn the complete package development workflow—from writing robust functions and documenting code to testing, continuous integration, package websites, and publishing your package in Bioconductor.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/r-packages/ ]( https://www.physalia-courses.org/courses-workshops/r-packages/ )\n \n \nDesigned for biologists and bioinformaticians with basic R experience, this highly practical course combines expert-led lectures with hands-on exercises. By the end of the week, you'll have the skills and confidence to develop, maintain, and share professional-quality genomics software using Bioconductor best practices.\n \nTurn your code into a reusable tool—and start contributing to the Bioconductor ecosystem.\n \nFor the full list of our courses and workshops, please have a look at: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )\n \nBest regards,\nCarlo\n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nHave you ever wished you could turn your scripts into a polished, shareable Bioconductor package?\n \nJoin Developing R/Bioconductor Packages for Genomics (Online, 27–31 July) and learn the ",
       "thread_id": "thread-6e75bc129415",
       "thread_depth": 0,
-      "month": "2026-07"
+      "month": "2026-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-July/000553.html"
     },
     {
       "id": "msg-62025514e1cb",
@@ -113,7 +119,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Extend genetic analysis workflows with scalable, performance-conscious research software skills. High-Performance Programming for Biology is a 2-day seminar",
       "thread_id": "thread-62025514e1cb",
       "thread_depth": 0,
-      "month": "2026-07"
+      "month": "2026-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-July/000554.html"
     },
     {
       "id": "msg-7e408572b829",
@@ -129,7 +136,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Add geographic context to genetic analysis through clear, well-designed spatial evidence. Introduction to QGIS & Spatial Data 2.0 is a 2-day seminar livestr",
       "thread_id": "thread-7e408572b829",
       "thread_depth": 0,
-      "month": "2026-07"
+      "month": "2026-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-July/000555.html"
     },
     {
       "id": "msg-55018b3c2a52",
@@ -145,7 +153,8 @@
       "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Agentic AI for Academic Research <https://instats.org/seminar/agentic-ai-for-academic-research>, livestreaming August 7. As frontier AI model ",
       "thread_id": "thread-55018b3c2a52",
       "thread_depth": 0,
-      "month": "2026-07"
+      "month": "2026-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-July/000556.html"
     },
     {
       "id": "msg-6ae8d857081a",
@@ -161,7 +170,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nRepeated measurements can reveal patterns that single-timepoint analyses cannot capture. Applied Longitudinal Data Analysis led by Han Du (Department of Psychology, Unive",
       "thread_id": "thread-6ae8d857081a",
       "thread_depth": 0,
-      "month": "2026-07"
+      "month": "2026-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-July/000557.html"
     }
   ],
   "threads": [

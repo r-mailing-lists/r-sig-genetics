@@ -17,7 +17,8 @@
       "body_snippet": "Dear All,\n\nthe new package MultiPhen is up. The latest version is 0.2, which should be available in a couple of days from a CRAN mirror near to you. MultiPhen performs genetic association tests betwee",
       "thread_id": "thread-414a3fcc162f",
       "thread_depth": 0,
-      "month": "2011-07"
+      "month": "2011-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2011-July/000030.html"
     }
   ],
   "threads": [

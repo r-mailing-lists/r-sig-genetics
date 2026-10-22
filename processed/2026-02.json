@@ -17,7 +17,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar Clustering High-Dimensional Data 2.0 livestreaming February 6 with Nikolay Oskolkov (Group Leader (PI) at LIOS). This seminar on Clu",
       "thread_id": "thread-d0609af94d97",
       "thread_depth": 0,
-      "month": "2026-02"
+      "month": "2026-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-February/000464.html"
     },
     {
       "id": "msg-b11d0699a636",
@@ -33,7 +34,8 @@
       "body_snippet": "Dear r-sig-genetics,\nWe are excited to announce the upcoming Conservation Genomics course, taking place fully online from 7?10 April.\n \nThis course will introduce population genomics tools to address ",
       "thread_id": "thread-b11d0699a636",
       "thread_depth": 0,
-      "month": "2026-02"
+      "month": "2026-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-February/000465.html"
     },
     {
       "id": "msg-55825e03fb8a",
@@ -49,7 +51,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nInstats is offering a new 2-day seminar Structural Equation Modeling in R livestreaming February 23?24, led by Scott Colwell (University of Guelph and Enablytics). This s",
       "thread_id": "thread-55825e03fb8a",
       "thread_depth": 0,
-      "month": "2026-02"
+      "month": "2026-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-February/000466.html"
     },
     {
       "id": "msg-17c42e0beaae",
@@ -65,7 +68,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nIntroduction to Spatial Data and R as a GIS led by Nick Bearman (University College London and Geospatial Training Solutions) is now available as an on-demand streaming s",
       "thread_id": "thread-17c42e0beaae",
       "thread_depth": 0,
-      "month": "2026-02"
+      "month": "2026-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-February/000467.html"
     },
     {
       "id": "msg-6c7c1f51e1f4",
@@ -81,7 +85,8 @@
       "body_snippet": "Hi everyone\n\nInstats is excited to announce the launch of two new free AI tools for researchers, Research Assistant and Pathways, available now at instats.org. <https://instats.org/> Both tools are ca",
       "thread_id": "thread-6c7c1f51e1f4",
       "thread_depth": 0,
-      "month": "2026-02"
+      "month": "2026-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-February/000468.html"
     },
     {
       "id": "msg-6b8ff046e229",
@@ -97,7 +102,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar Introduction to Bioinformatics for Genomics (Free Seminar) livestreaming February 16 with Estefania Mancini (Josep Carreras Leukaemi",
       "thread_id": "thread-6b8ff046e229",
       "thread_depth": 0,
-      "month": "2026-02"
+      "month": "2026-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-February/000469.html"
     },
     {
       "id": "msg-dbda36974c0f",
@@ -113,7 +119,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 2-day seminar Structural Equation Modeling in R livestreaming February 23?24 with Scott Colwell (University of Guelph and Enablytics). Structural ",
       "thread_id": "thread-dbda36974c0f",
       "thread_depth": 0,
-      "month": "2026-02"
+      "month": "2026-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-February/000470.html"
     },
     {
       "id": "msg-87fb7c177a0f",
@@ -129,7 +136,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 1-day seminar High-Dimensional Propensity Scores (Free Seminar) livestreaming February 17 with Ehsan Karim (School of Population and Public Health",
       "thread_id": "thread-87fb7c177a0f",
       "thread_depth": 0,
-      "month": "2026-02"
+      "month": "2026-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-February/000471.html"
     },
     {
       "id": "msg-d1dbfd98947f",
@@ -145,7 +153,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 3-day seminar Dealing with Missing Data livestreaming February 23?25 with Centre for Applied Statistics Courses (CASC) (University College London)",
       "thread_id": "thread-d1dbfd98947f",
       "thread_depth": 0,
-      "month": "2026-02"
+      "month": "2026-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-February/000472.html"
     },
     {
       "id": "msg-0feaafafe444",
@@ -157,11 +166,12 @@
       "subject_clean": "2026 Genome Assembly & Annotation course - online, 9–13 March",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\nWe?re excited to announce the 2026 Genome Assembly & Annotation course, held online, 9?13 March 2026. This hands-on course will guide participants through de novo genome assembly and annotation, using Illumina, PacBio, and Oxford Nanopore sequencing, scaffolding methods (Hi-C, optical mapping), quality control, and manual curation.\n \n \nInstructors & TA:\n\nDr. Giulio Formenti, The Rockefeller University\n\nDr. Guido Gallo, University of Milan\n\nYing Chen, Bioinformatics Specialist, Vertebrate Genome Lab\nInvited Speakers & Special Guests:\n\nKirsty McCaffrey, Aureliano Bombarely, Marco Sollitto, Bonhwang Koo\n\nTerence Murphy?s team (NCBI/NIH): Eric Tvedte, Pooja Strope, Linda Frisse, Eric Cox, Dong Ha\nWith leading experts from  National Center for Biotechnology Information (NCBI) and internationally recognised researchers, we?re bringing together a truly outstanding team to deliver a high-level, hands-on training experience in genome assembly and annotation.\n \nIf interested, check it out: [ https://www.physalia-courses.org/courses-workshops/course20/ ]( https://www.physalia-courses.org/courses-workshops/course20/ )\n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Dear all,\nWe?re excited to announce the 2026 Genome Assembly & Annotation course, held online, 9?13 March 2026. This hands-on course will guide participants through de novo genome assembly and annotat",
+      "body_plain": "Dear all,\nWe’re excited to announce the 2026 Genome Assembly & Annotation course, held online, 9–13 March 2026. This hands-on course will guide participants through de novo genome assembly and annotation, using Illumina, PacBio, and Oxford Nanopore sequencing, scaffolding methods (Hi-C, optical mapping), quality control, and manual curation.\n \n \nInstructors & TA:\n\nDr. Giulio Formenti, The Rockefeller University\n\nDr. Guido Gallo, University of Milan\n\nYing Chen, Bioinformatics Specialist, Vertebrate Genome Lab\nInvited Speakers & Special Guests:\n\nKirsty McCaffrey, Aureliano Bombarely, Marco Sollitto, Bonhwang Koo\n\nTerence Murphy’s team (NCBI/NIH): Eric Tvedte, Pooja Strope, Linda Frisse, Eric Cox, Dong Ha\nWith leading experts from  National Center for Biotechnology Information (NCBI) and internationally recognised researchers, we’re bringing together a truly outstanding team to deliver a high-level, hands-on training experience in genome assembly and annotation.\n \nIf interested, check it out: [ https://www.physalia-courses.org/courses-workshops/course20/ ]( https://www.physalia-courses.org/courses-workshops/course20/ )\n \nBest regards,\nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nWe’re excited to announce the 2026 Genome Assembly & Annotation course, held online, 9–13 March 2026. This hands-on course will guide participants through de novo genome assembly and annotat",
       "thread_id": "thread-0feaafafe444",
       "thread_depth": 0,
-      "month": "2026-02"
+      "month": "2026-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-February/000473.html"
     },
     {
       "id": "msg-77721f279e1b",
@@ -177,7 +187,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nSpatial Statistics in R led by Nick Bearman (University College London and Geospatial Training Solutions) is now available as an on-demand streaming seminar. This seminar",
       "thread_id": "thread-77721f279e1b",
       "thread_depth": 0,
-      "month": "2026-02"
+      "month": "2026-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-February/000474.html"
     },
     {
       "id": "msg-6667556c3aff",
@@ -193,7 +204,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance to join our 3-day seminar Data Analysis in R Using Tidyverse livestreaming February 24?26 with Ari Lamstein (American Statistical Association). This seminar o",
       "thread_id": "thread-6667556c3aff",
       "thread_depth": 0,
-      "month": "2026-02"
+      "month": "2026-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-February/000475.html"
     },
     {
       "id": "msg-73b3355187d1",
@@ -209,7 +221,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nInstats is offering a new 4-day seminar Agentic Data Analytics: Automating Research Workflows livestreaming March 24?27, led by Peter Gruber (Faculty of Economics, USI Un",
       "thread_id": "thread-73b3355187d1",
       "thread_depth": 0,
-      "month": "2026-02"
+      "month": "2026-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-February/000476.html"
     },
     {
       "id": "msg-ad95dc6a12d7",
@@ -225,7 +238,8 @@
       "body_snippet": "Dear all,\nWe are excited to announce our Landscape Genomics workshop, held online from 13?17 July, designed for those who want to explore how genetic diversity is shaped across landscapes.\n \nCourse we",
       "thread_id": "thread-ad95dc6a12d7",
       "thread_depth": 0,
-      "month": "2026-02"
+      "month": "2026-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-February/000477.html"
     },
     {
       "id": "msg-89c4de443774",
@@ -241,7 +255,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nInstats is offering a new 15-day seminar Project Quality and Management for Statisticians and Data Scientists livestreaming April 8?22, led by Michiko Wolcott (Msight Ana",
       "thread_id": "thread-89c4de443774",
       "thread_depth": 0,
-      "month": "2026-02"
+      "month": "2026-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-February/000478.html"
     }
   ],
   "threads": [

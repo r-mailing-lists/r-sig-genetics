@@ -17,7 +17,8 @@
       "body_snippet": "Dear all,\n \n \n \nregistration is now open for the online Physalia course \"Multivariate data analysis with R and vegan\" in November (21st-25th).\n \n \n \nCourse website: https://www.physalia-courses.org/co",
       "thread_id": "thread-cc61a0bacd39",
       "thread_depth": 0,
-      "month": "2022-07"
+      "month": "2022-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2022-July/000234.html"
     },
     {
       "id": "msg-594dcb0276c0",
@@ -33,7 +34,8 @@
       "body_snippet": "PR statistics have 2 courses on multivariate stats, an intro course (IMAE)\nand a more advanced course for people with one previous experience.\n\n\n\nThese courses can be applied to any areas of community",
       "thread_id": "thread-594dcb0276c0",
       "thread_depth": 0,
-      "month": "2022-07"
+      "month": "2022-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2022-July/000235.html"
     },
     {
       "id": "msg-b3f2ec4126c0",
@@ -51,7 +53,8 @@
       "body_snippet": "Dear Steen,\n\nThere is no simple way to handle your problem. One possibility is to use the package 'network' which has a nicer algorithm to calculate the layout of nodes than pegas has. The good thing ",
       "thread_id": "thread-b3f2ec4126c0",
       "thread_depth": 0,
-      "month": "2022-07"
+      "month": "2022-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2022-July/000237.html"
     },
     {
       "id": "msg-fbb13ff7935e",
@@ -70,7 +73,8 @@
       "body_snippet": "Another solution which works only with pegas: set the lengths of the links between haplotypes equal to the sum of the sizes of their respective symbols:\n\n## extract the size of the haplotype symbols:\n",
       "thread_id": "thread-b3f2ec4126c0",
       "thread_depth": 1,
-      "month": "2022-07"
+      "month": "2022-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2022-July/000238.html"
     }
   ],
   "threads": [

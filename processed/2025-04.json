@@ -17,7 +17,8 @@
       "body_snippet": "Dear all,\n\nAre you interested in Epigenomics and eager to master the analysis of ChIP-seq, MNase, ATAC-seq, RNA-seq, and Hi-C data?\n \nJoin our hands-on course and enhance your skills using R & Biocond",
       "thread_id": "thread-533bee528e8b",
       "thread_depth": 0,
-      "month": "2025-04"
+      "month": "2025-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-April/000363.html"
     },
     {
       "id": "msg-40cc8a41b413",
@@ -29,11 +30,12 @@
       "subject_clean": "Machine Learning for Complex Datasets with ChatGPT - Livestream Seminar",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Machine Learning for Complex Datasets with ChatGPT <https://instats.org/seminar/machine-learning-for-complex-datasets-wi>, running April 30 and led by Professor Nikolay Oskolkov from Molecular Biosciences, Lund University. In this cutting-edge workshop, you'll discover how to leverage machine learning techniques in R and Python alongside AI tools like ChatGPT to analyze and interpret complex datasets. Designed for PhD students, academics, and professional researchers, this seminar combines theoretical insights with hands-on coding sessions to help you build and optimize models?from neural networks and random forests to clustering algorithms and MCMC methods. Enhance your analytical capabilities with practical exercises and real-world case studies that demonstrate how to troubleshoot, fine-tune, and ethically apply machine learning models to your research.\n\nSign up today <https://instats.org/seminar/machine-learning-for-complex-datasets-wi> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Machine Learning for Complex Datasets with ChatGPT <https://instats.org/seminar/machine-learning-for-complex-datasets-wi>, running April 30 and led by Professor Nikolay Oskolkov from Molecular Biosciences, Lund University. In this cutting-edge workshop, you'll discover how to leverage machine learning techniques in R and Python alongside AI tools like ChatGPT to analyze and interpret complex datasets. Designed for PhD students, academics, and professional researchers, this seminar combines theoretical insights with hands-on coding sessions to help you build and optimize models—from neural networks and random forests to clustering algorithms and MCMC methods. Enhance your analytical capabilities with practical exercises and real-world case studies that demonstrate how to troubleshoot, fine-tune, and ethically apply machine learning models to your research.\n\nSign up today <https://instats.org/seminar/machine-learning-for-complex-datasets-wi> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats: Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Machine Learning for Complex Datasets with ChatGPT <https://instats.org/seminar/machine-learning-for-complex-datasets-wi>, running April 30 an",
       "thread_id": "thread-40cc8a41b413",
       "thread_depth": 0,
-      "month": "2025-04"
+      "month": "2025-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-April/000364.html"
     },
     {
       "id": "msg-cf11f71cd793",
@@ -49,7 +51,8 @@
       "body_snippet": "Dear all,\n \nif you are interested in Epigenomics and you want to learn how to analyse these data (Chip-seq, ATAC-seq, RNAseq, MultiOmics) in R/Bioconductor, there is only 1 place for our course starti",
       "thread_id": "thread-cf11f71cd793",
       "thread_depth": 0,
-      "month": "2025-04"
+      "month": "2025-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-April/000365.html"
     },
     {
       "id": "msg-f017b955c2cf",
@@ -61,11 +64,12 @@
       "subject_clean": "Analysis of RNA-Seq Data - Livestream Seminar",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi everyone\n\nLast chance to sign up for the new 6-day seminar, Analysis of RNA-Seq Data <https://instats.org/seminar/analysis-of-rna-seq-data>, running once per week from April 17 to May 22, being led by senior biostatistician Dr. Rosina Savisaar. This comprehensive workshop demystifies the RNA-seq analysis pipeline by focusing on data analysis and interpretation, fostering an intuitive practical understanding of key concepts. You?ll gain hands-on experience with data visualization in genome browsers and R, learn descriptive statistics (such as RPKM, FPKM, TPM, and L2FC), and explore advanced techniques including hierarchical clustering with heatmaps, Principal Component Analysis, differential gene expression analysis using DESeq2, and functional enrichment methods like over-representation analysis and Gene Set Enrichment Analysis. Ideal for researchers new to gene expression analysis or those seeking deeper insights into RNA-seq methodologies, this seminar uses real-world datasets (including a reanalysis of a schizophrenia study) to reinforce learning through interactive weekly Zoom sessions.\n\nSign up today <https://instats.org/seminar/foundations-of-statistical-analysis-in-r> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Hi everyone\n\nLast chance to sign up for the new 6-day seminar, Analysis of RNA-Seq Data <https://instats.org/seminar/analysis-of-rna-seq-data>, running once per week from April 17 to May 22, being led by senior biostatistician Dr. Rosina Savisaar. This comprehensive workshop demystifies the RNA-seq analysis pipeline by focusing on data analysis and interpretation, fostering an intuitive practical understanding of key concepts. You’ll gain hands-on experience with data visualization in genome browsers and R, learn descriptive statistics (such as RPKM, FPKM, TPM, and L2FC), and explore advanced techniques including hierarchical clustering with heatmaps, Principal Component Analysis, differential gene expression analysis using DESeq2, and functional enrichment methods like over-representation analysis and Gene Set Enrichment Analysis. Ideal for researchers new to gene expression analysis or those seeking deeper insights into RNA-seq methodologies, this seminar uses real-world datasets (including a reanalysis of a schizophrenia study) to reinforce learning through interactive weekly Zoom sessions.\n\nSign up today <https://instats.org/seminar/foundations-of-statistical-analysis-in-r> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nDirector\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats: Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats: Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Hi everyone\n\nLast chance to sign up for the new 6-day seminar, Analysis of RNA-Seq Data <https://instats.org/seminar/analysis-of-rna-seq-data>, running once per week from April 17 to May 22, being led",
       "thread_id": "thread-f017b955c2cf",
       "thread_depth": 0,
-      "month": "2025-04"
+      "month": "2025-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-April/000366.html"
     },
     {
       "id": "msg-3f774275202a",
@@ -81,7 +85,8 @@
       "body_snippet": "ONLINE COURSE ? Phylogenetic Species Distribution Modelling using R\n(PSDM01) This course will be delivered live\n\nhttps://www.prstats.org/course/phylogenetic-species-distribution-modelling-using-r-psdm",
       "thread_id": "thread-3f774275202a",
       "thread_depth": 0,
-      "month": "2025-04"
+      "month": "2025-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-April/000367.html"
     },
     {
       "id": "msg-d2c2bf7c6ce5",
@@ -93,11 +98,12 @@
       "subject_clean": "Online Course: Conservation Genomics (21–24 July)",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi everyone,\nWe?re excited to announce our upcoming online course ?Conservation Genomics?, running from 21?24 July.\n \nThis course will cover how genomic tools can be applied to conservation, from study design and data collection to filtering SNP datasets and exploring population structure, adaptation, inbreeding, and more. Participants will gain hands-on experience with genomic data, using R and UNIX tools in a conservation context.\n \nFor more information, please visit: [ https://www.physalia-courses.org/courses-workshops/course62/ ]( https://www.physalia-courses.org/courses-workshops/course62/ )\n \nBest regards,\nCarlo\n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Hi everyone,\nWe?re excited to announce our upcoming online course ?Conservation Genomics?, running from 21?24 July.\n \nThis course will cover how genomic tools can be applied to conservation, from stud",
+      "body_plain": "Hi everyone,\nWe’re excited to announce our upcoming online course “Conservation Genomics”, running from 21–24 July.\n \nThis course will cover how genomic tools can be applied to conservation, from study design and data collection to filtering SNP datasets and exploring population structure, adaptation, inbreeding, and more. Participants will gain hands-on experience with genomic data, using R and UNIX tools in a conservation context.\n \nFor more information, please visit: [ https://www.physalia-courses.org/courses-workshops/course62/ ]( https://www.physalia-courses.org/courses-workshops/course62/ )\n \nBest regards,\nCarlo\n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone,\nWe’re excited to announce our upcoming online course “Conservation Genomics”, running from 21–24 July.\n \nThis course will cover how genomic tools can be applied to conservation, from stud",
       "thread_id": "thread-d2c2bf7c6ce5",
       "thread_depth": 0,
-      "month": "2025-04"
+      "month": "2025-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-April/000368.html"
     },
     {
       "id": "msg-fb3ded6d0f76",
@@ -109,11 +115,12 @@
       "subject_clean": "Machine Learning with ChatGPT - Livestream Seminar",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Machine Learning for Complex Datasets with ChatGPT <https://instats.org/seminar/machine-learning-for-complex-datasets-wi>, running April 30 with professor Nikolay Oskolkov. In today?s era of exponential data growth, this workshop equips PhD students, academics, and professional researchers with both theoretical insights and hands-on skills to apply powerful machine learning techniques using R and Python?with the added assistance of ChatGPT for coding, interpretation, and optimization. You?ll explore critical methods including neural networks, random forests, clustering, and MCMC to tackle complex datasets in fields ranging from biology and environmental science to health, social sciences, statistics, and engineering, ensuring you can confidently integrate these advanced tools into your research.\n\nSign up today <https://instats.org/seminar/machine-learning-for-complex-datasets-wi> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats:?Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Machine Learning for Complex Datasets with ChatGPT <https://instats.org/seminar/machine-learning-for-complex-datasets-wi>, running April 30 with professor Nikolay Oskolkov. In today’s era of exponential data growth, this workshop equips PhD students, academics, and professional researchers with both theoretical insights and hands-on skills to apply powerful machine learning techniques using R and Python—with the added assistance of ChatGPT for coding, interpretation, and optimization. You’ll explore critical methods including neural networks, random forests, clustering, and MCMC to tackle complex datasets in fields ranging from biology and environmental science to health, social sciences, statistics, and engineering, ensuring you can confidently integrate these advanced tools into your research.\n\nSign up today <https://instats.org/seminar/machine-learning-for-complex-datasets-wi> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstitute for Statistical and Data Science\ninstats.org <http://instats.org>\n\nFollow Instats: Bluesky <https://bsky.app/profile/instats.bsky.social>_Linkedin <https://linkedin.com/company/instats1>_Facebook <https://www.facebook.com/InstatsTraining/>\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Machine Learning for Complex Datasets with ChatGPT <https://instats.org/seminar/machine-learning-for-complex-datasets-wi>, running April 30 wi",
       "thread_id": "thread-fb3ded6d0f76",
       "thread_depth": 0,
-      "month": "2025-04"
+      "month": "2025-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-April/000369.html"
     },
     {
       "id": "msg-1f45fc49f9cb",
@@ -129,7 +136,8 @@
       "body_snippet": "ONLINE COURSE ? Tidyverse for Ecologists (TIDY01)\n\nhttps://www.prstats.org/course/tidyverse-for-ecologists-tidy01/\n\n16th - 20th June\n\nPlease feel free to share!\n\nCOURSE OVERVIEW - This course comprehe",
       "thread_id": "thread-1f45fc49f9cb",
       "thread_depth": 0,
-      "month": "2025-04"
+      "month": "2025-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-April/000370.html"
     },
     {
       "id": "msg-914b0eb280b1",
@@ -145,7 +153,8 @@
       "body_snippet": "ONLINE COURSE ? Multivariate Analysis Of Ecological Communities Using R\nWith The VEGAN package (VGNR08)\n\nhttps://www.prstats.org/course/multivariate-analysis-of-ecological-communities-using-r-with-the",
       "thread_id": "thread-914b0eb280b1",
       "thread_depth": 0,
-      "month": "2025-04"
+      "month": "2025-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-April/000371.html"
     },
     {
       "id": "msg-11176e61dca0",
@@ -157,11 +166,12 @@
       "subject_clean": "GLLVMs: Advanced Multivariate Analysis of Ecological Communities in R",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\nthere are only a few seats left for our upcoming online course: GLLVMs: Advanced Multivariate Analysis of Ecological Communities in R\n \nDates: 20?23 May 2025\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/gllvm/ ]( https://www.physalia-courses.org/courses-workshops/gllvm/ ) \n \nThis hands-on course will introduce Generalized Linear Latent Variable Models (GLLVMs)?a powerful, unified framework for analyzing ecological community data. GLLVMs go beyond traditional ordination techniques, offering flexibility, model-based inference, and better tools for understanding species associations.\n \nWhat you?ll learn:\n \n - Fit GLLVMs using the gllvm R package\n- Choose appropriate model structures and distributions\n - Diagnose and improve model fit\n- Interpret and visualize your results\n- Apply GLLVMs to your own data\n \nDesigned for researchers with basic knowledge of GLMs and R, this course is ideal if you work with multivariate ecological data and want robust, modern analysis tools.\n \nBest regards,\n \nCarlo\n \n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Dear all,\nthere are only a few seats left for our upcoming online course: GLLVMs: Advanced Multivariate Analysis of Ecological Communities in R\n \nDates: 20?23 May 2025\n \nCourse website: [ https://www.",
+      "body_plain": "Dear all,\nthere are only a few seats left for our upcoming online course: GLLVMs: Advanced Multivariate Analysis of Ecological Communities in R\n \nDates: 20–23 May 2025\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/gllvm/ ]( https://www.physalia-courses.org/courses-workshops/gllvm/ ) \n \nThis hands-on course will introduce Generalized Linear Latent Variable Models (GLLVMs)—a powerful, unified framework for analyzing ecological community data. GLLVMs go beyond traditional ordination techniques, offering flexibility, model-based inference, and better tools for understanding species associations.\n \nWhat you’ll learn:\n \n - Fit GLLVMs using the gllvm R package\n- Choose appropriate model structures and distributions\n - Diagnose and improve model fit\n- Interpret and visualize your results\n- Apply GLLVMs to your own data\n \nDesigned for researchers with basic knowledge of GLMs and R, this course is ideal if you work with multivariate ecological data and want robust, modern analysis tools.\n \nBest regards,\n \nCarlo\n \n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\nthere are only a few seats left for our upcoming online course: GLLVMs: Advanced Multivariate Analysis of Ecological Communities in R\n \nDates: 20–23 May 2025\n \nCourse website: [ https://www.",
       "thread_id": "thread-11176e61dca0",
       "thread_depth": 0,
-      "month": "2025-04"
+      "month": "2025-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2025-April/000372.html"
     }
   ],
   "threads": [

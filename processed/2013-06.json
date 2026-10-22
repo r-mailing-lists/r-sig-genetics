@@ -18,6 +18,7 @@
       "thread_id": "thread-d02e0032e6e9",
       "thread_depth": 0,
       "month": "2013-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2013-June/000043.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130618/7c370e00/attachment.pl"
       ]
@@ -34,11 +35,12 @@
       "references": [
         "<51C013AA.5070808@imbe.fr>"
       ],
-      "body_plain": "Hello, \n\nthis is clearly an adegenet-related question. Please repost on the adegenet forum.\n\nCheers\nThibaut\n________________________________________\nFrom: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] on behalf of Benjamin Alric [benjamin.alric at imbe.fr]\nSent: 18 June 2013 09:00\nTo: r-sig-genetics at r-project.org\nSubject: [R-sig-genetics] Computation of bootstrap support values for UPGMA\n\nDear Dr. Jombart and adegenet/adephylo users,\n\nSorry for the duplication between adegenet and adephylo list but not\nknowing which could help my problem, I send this message in both.\n\nI have microsatellite data set (8 locis in column and 24 population in\nrow) on the hybridizing populations of Daphnia in the three lakes.\n\nI assigned parental species and hyrids cluster by DAPC.\n\nThen, I made UPGMA from Nei's genetic distance according to the script\nbelow.\n\n#library (ade4)\n\n#library (adegenet)\n\ngenetDaph<-import2genind(\"UPGMA_Genetix_adegenet.gtx\",package=\"adegenet\")\n\ngenetDaph2<-genind2genpop(genetDaph)\n\ndist1<-dist.genpop(genetDaph2,method=1)\n\nclust<-hclust(dist1,method=\"average\")\n\nplot(clust)\n\nCurrently, I would like determined the bootstrap support values of this\ntree.\n\nHowever, I do not found such a function in 'adegenet' package.\n\nCan we made a bootstrap on tree from 'adegenet' package ?\n\nBesides, I seek in 'adephylo' package without success.\n\nThen, I found 'ape' package.\n\nIn this one, we can work from dist.gene, but I do not find how convert\n'genetDaph2' in dist.gene.\n\nSomebody have an idea or have already computed bootstrap support values\nof tree with R?\n\nThank you in advance for your help.\n\nBest regards,\n\nBenjamin ALRIC\n\n--\nBenjamin Alric,PhD\nUMR 7263-CNRS / 237-IRD - Institut M?diterran?en de Biodiversit? et d'Ecologie (IMBE)\nEquipe \"Ecologie des Eaux Continentales\"\nAix-Marseille Universit?, Facult? des Sciences, site de St J?r?me\n52 Avenue Escadrille Normandie Ni?men\n13397 Marseille cedex 20 - France\n\n\n        [[alternative HTML version deleted]]",
+      "body_plain": "Hello, \n\nthis is clearly an adegenet-related question. Please repost on the adegenet forum.\n\nCheers\nThibaut\n________________________________________\nFrom: r-sig-genetics-bounces at r-project.org [r-sig-genetics-bounces at r-project.org] on behalf of Benjamin Alric [benjamin.alric at imbe.fr]\nSent: 18 June 2013 09:00\nTo: r-sig-genetics at r-project.org\nSubject: [R-sig-genetics] Computation of bootstrap support values for UPGMA\n\nDear Dr. Jombart and adegenet/adephylo users,\n\nSorry for the duplication between adegenet and adephylo list but not\nknowing which could help my problem, I send this message in both.\n\nI have microsatellite data set (8 locis in column and 24 population in\nrow) on the hybridizing populations of Daphnia in the three lakes.\n\nI assigned parental species and hyrids cluster by DAPC.\n\nThen, I made UPGMA from Nei's genetic distance according to the script\nbelow.\n\n#library (ade4)\n\n#library (adegenet)\n\ngenetDaph<-import2genind(\"UPGMA_Genetix_adegenet.gtx\",package=\"adegenet\")\n\ngenetDaph2<-genind2genpop(genetDaph)\n\ndist1<-dist.genpop(genetDaph2,method=1)\n\nclust<-hclust(dist1,method=\"average\")\n\nplot(clust)\n\nCurrently, I would like determined the bootstrap support values of this\ntree.\n\nHowever, I do not found such a function in 'adegenet' package.\n\nCan we made a bootstrap on tree from 'adegenet' package ?\n\nBesides, I seek in 'adephylo' package without success.\n\nThen, I found 'ape' package.\n\nIn this one, we can work from dist.gene, but I do not find how convert\n'genetDaph2' in dist.gene.\n\nSomebody have an idea or have already computed bootstrap support values\nof tree with R?\n\nThank you in advance for your help.\n\nBest regards,\n\nBenjamin ALRIC\n\n--\nBenjamin Alric,PhD\nUMR 7263-CNRS / 237-IRD - Institut Méditerranéen de Biodiversité et d'Ecologie (IMBE)\nEquipe \"Ecologie des Eaux Continentales\"\nAix-Marseille Université, Faculté des Sciences, site de St Jérôme\n52 Avenue Escadrille Normandie Niémen\n13397 Marseille cedex 20 - France\n\n\n        [[alternative HTML version deleted]]",
       "body_snippet": "Hello, \n\nthis is clearly an adegenet-related question. Please repost on the adegenet forum.\n\nCheers\nThibaut\n________________________________________\nFrom: r-sig-genetics-bounces at r-project.org [r-si",
       "thread_id": "thread-d02e0032e6e9",
       "thread_depth": 1,
-      "month": "2013-06"
+      "month": "2013-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2013-June/000044.html"
     },
     {
       "id": "msg-74d6254ff47d",
@@ -55,6 +57,7 @@
       "thread_id": "thread-74d6254ff47d",
       "thread_depth": 0,
       "month": "2013-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2013-June/000045.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20130618/2bdc124e/attachment.pl"
       ]

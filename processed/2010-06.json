@@ -18,6 +18,7 @@
       "thread_id": "thread-9ef94d071ec2",
       "thread_depth": 0,
       "month": "2010-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2010-June/000017.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100627/9f828d86/attachment.pl"
       ]
@@ -37,6 +38,7 @@
       "thread_id": "thread-26d2544c4757",
       "thread_depth": 0,
       "month": "2010-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2010-June/000013.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-sig-genetics/attachments/20100628/8d08e3b9/attachment.pl"
       ]
@@ -57,7 +59,8 @@
       "body_snippet": "No, but I have a tool in Galaxy based on Abecasis' GRR - his software\nstill available but only as 32bit windows app so very limited in terms\nof sample and genotype sizes.\nMy app reimplements his algor",
       "thread_id": "thread-50c1c6f4f642",
       "thread_depth": 0,
-      "month": "2010-06"
+      "month": "2010-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2010-June/000014.html"
     },
     {
       "id": "msg-ee62e83b1e2f",
@@ -76,7 +79,8 @@
       "body_snippet": "Thanks for the offer Ross,\n\nI'm looking at 8-18 locus microsat data.  I can undertake the \ncalculations easily enough elsewhere,.  However if there was a function \nout there already I would have used ",
       "thread_id": "thread-50c1c6f4f642",
       "thread_depth": 1,
-      "month": "2010-06"
+      "month": "2010-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2010-June/000015.html"
     },
     {
       "id": "msg-8eb281bcd1dc",
@@ -92,7 +96,8 @@
       "body_snippet": "On Mon, Jun 28, 2010 at 12:04 PM, Nevil Amos <nevil.amos at gmail.com> wrote:\n> Thanks for the offer Ross,\n>\n> I'm looking at 8-18 locus microsat data. ?I can undertake the calculations\n> easily enoug",
       "thread_id": "thread-8eb281bcd1dc",
       "thread_depth": 0,
-      "month": "2010-06"
+      "month": "2010-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2010-June/000016.html"
     },
     {
       "id": "msg-2a94be7f819c",
@@ -112,7 +117,8 @@
       "body_snippet": "ah - the rgGRR Galaxy code uses python/weave C code and is limited to\nbiallelics so easy to estimate alleles shared as 0,1 or 2 -\ninteresting to see how that will work for microsatellites. Probably\nno",
       "thread_id": "thread-50c1c6f4f642",
       "thread_depth": 2,
-      "month": "2010-06"
+      "month": "2010-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2010-June/000018.html"
     }
   ],
   "threads": [

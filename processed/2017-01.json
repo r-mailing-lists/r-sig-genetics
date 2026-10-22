@@ -19,7 +19,8 @@
       "body_snippet": "Hi,\nI used a file converted from Structure to use Pegas to analysis AMOVA and\nto analyse Fst or other population parameters. Iam getting the error with\nNA as:\nWarning message:\nIn pegas::amova(amova_di",
       "thread_id": "thread-d68cee7258a0",
       "thread_depth": 0,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000124.html"
     },
     {
       "id": "msg-a81f1d53d2f9",
@@ -38,7 +39,8 @@
       "body_snippet": "Hi Ramendra,\n\n> Warning message:\n> In pegas::amova(amova_dist ~ Pop, data = amova_stra, nperm = 0) :\n>  at least one missing value in the distance object.\n\n\nThis warning is most likely caused by havin",
       "thread_id": "thread-d68cee7258a0",
       "thread_depth": 1,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000125.html"
     },
     {
       "id": "msg-59df16d8114a",
@@ -54,7 +56,8 @@
       "body_snippet": "Dear Members,\n\nI have subset the genind object by population using seppop.\n\nThis has given me a new obj (which is a list of genind objects)\n\nNow I want to randomly repool genind objects - incrementing",
       "thread_id": "thread-59df16d8114a",
       "thread_depth": 0,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000126.html"
     },
     {
       "id": "msg-f3d0ae78836e",
@@ -72,7 +75,8 @@
       "body_snippet": "Hi,\n\nThe function repool() can take a list object, and you can subset a list with replacement. The sample() function will allow you to randomly sample any vector with or without replacement. \n\nFor thi",
       "thread_id": "thread-59df16d8114a",
       "thread_depth": 1,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000127.html"
     },
     {
       "id": "msg-b6fd1057a9e7",
@@ -88,7 +92,8 @@
       "body_snippet": "Hi,\n\nI did an analysis in GeneMapper (T-RFLP) based on AFLP protocols, like\nThermoFisher advise.\n\nI am in trouble to export de raw data. I need the dataset like TRAMPR need\n(https://dl.dropboxusercont",
       "thread_id": "thread-b6fd1057a9e7",
       "thread_depth": 0,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000128.html"
     },
     {
       "id": "msg-5c9a668d3673",
@@ -104,7 +109,8 @@
       "body_snippet": "\"Introduction to R and statistics for biologists\"\n\nDelivered by Dr. Luc Bussiere and Dr. Ane Timenes Laugen\n\nhttp://www.prstatistics.com/course/introduction-to-statistics-and-r-for-biologists-irfb02/\n",
       "thread_id": "thread-5c9a668d3673",
       "thread_depth": 0,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000129.html"
     },
     {
       "id": "msg-814acfd5d524",
@@ -120,7 +126,8 @@
       "body_snippet": "\"Advancing in Statistical Modelling using R\"\n\nhttp://www.prstatistics.com/course/advancing-statistical-modelling-using-r-advr06/\n\nDelivered by Dr. Luc Bussiere and Dr. Ane Timenes Laugen\n\nThis course ",
       "thread_id": "thread-814acfd5d524",
       "thread_depth": 0,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000130.html"
     },
     {
       "id": "msg-a44da87cd92d",
@@ -136,7 +143,8 @@
       "body_snippet": "Dear Members,\n\nIs there any suitable package to compute observed heterozygosity within a population?\n\nI am interested to compute observed heterozygosity for a population using genind object, rather th",
       "thread_id": "thread-a44da87cd92d",
       "thread_depth": 0,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000131.html"
     },
     {
       "id": "msg-8222fcd6958e",
@@ -152,7 +160,8 @@
       "body_snippet": "Hi all,\n\nI would like to use Arlequin to infer some pop gen statistics. I have an\ninput FASTA of sequence data and can convert to Arlequin format with\nPGDSpider. I'm wondering if there is a script ava",
       "thread_id": "thread-8222fcd6958e",
       "thread_depth": 0,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000134.html"
     },
     {
       "id": "msg-04186f7c5879",
@@ -168,7 +177,8 @@
       "body_snippet": "Hi all,\n\nI would like to use Arlequin to infer some pop gen statistics. I have an\ninput FASTA of sequence data and can convert to Arlequin format with\nPGDSpider. I'm wondering if there is a script ava",
       "thread_id": "thread-04186f7c5879",
       "thread_depth": 0,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000132.html"
     },
     {
       "id": "msg-92581e67757c",
@@ -184,7 +194,8 @@
       "body_snippet": "There is a 'write.arlequin' function in the strataG package that will\ncreate an arlequin input file from a strataG gtypes object. You can create\na gtypes object with sequence data read in from a FASTA",
       "thread_id": "thread-92581e67757c",
       "thread_depth": 0,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000133.html"
     },
     {
       "id": "msg-0fdafa9d1f40",
@@ -202,7 +213,8 @@
       "body_snippet": "Hello,\n\nyou can do this easily in adegenet, though there is no direct conversion\nfrom the Arlequin format. Workflow would be something like:\n\n1. read sequences using fasta2DNAbin\n2. extract SNPs into ",
       "thread_id": "thread-8222fcd6958e",
       "thread_depth": 1,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000135.html"
     },
     {
       "id": "msg-39f3d9721011",
@@ -220,7 +232,8 @@
       "body_snippet": "Haha, sorry, I just realized I replied to the opposite problem, and missed\nEric's reply.\nMy bad.\nI need coffee.\n\nBest\nThibaut\n\n\n--\nDr Thibaut Jombart\nLecturer, Department of Infectious Disease Epidemi",
       "thread_id": "thread-92581e67757c",
       "thread_depth": 1,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000136.html"
     },
     {
       "id": "msg-8ff1533aeef9",
@@ -238,7 +251,8 @@
       "body_snippet": "Hello,\n\nHs(x) in adegenet will do this for the expected heterozygosity. You can use\n'summary' combined with seppop to get the average Hobs per population;\nexample with sim2pop:\n\n> lapply(seppop(sim2po",
       "thread_id": "thread-a44da87cd92d",
       "thread_depth": 1,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000137.html"
     },
     {
       "id": "msg-251fbeee7959",
@@ -257,7 +271,8 @@
       "body_snippet": "Many thanks, Thibaut.\n\nI will try the way you have suggested.\n\nKind regards,\n\nRav\n\nOn 16 Jan 2017, at 12:03, Thibaut Jombart <thibautjombart at gmail.com<mailto:thibautjombart at gmail.com>> wrote:\n\nH",
       "thread_id": "thread-a44da87cd92d",
       "thread_depth": 2,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000138.html"
     },
     {
       "id": "msg-0c5d5d851dbc",
@@ -273,7 +288,8 @@
       "body_snippet": "Dear All,\n\nMy microsatellite dataset has 38 populations with population sizes varying from 7 to 76 individuals.\n\n\nTo sample one individual randomly per population and estimate mean genetic diversity (",
       "thread_id": "thread-0c5d5d851dbc",
       "thread_depth": 0,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000139.html"
     },
     {
       "id": "msg-8eb240b0cfd6",
@@ -289,7 +305,8 @@
       "body_snippet": "Dear Members,\n\nI am working with a genind object which is subset into populations. I want to sample 8 individuals randomly with replacement per population and repool them in a way that each population",
       "thread_id": "thread-8eb240b0cfd6",
       "thread_depth": 0,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000140.html"
     },
     {
       "id": "msg-23f407e32b46",
@@ -307,7 +324,8 @@
       "body_snippet": "Hi,\n\nYou've got the right idea with make.unique, but you're trying to use repool on only one population at a time. \n\nFirst and foremost: don't use row.names(x$tab) or nrow(x$tab), use indNames(x) and ",
       "thread_id": "thread-8eb240b0cfd6",
       "thread_depth": 1,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000141.html"
     },
     {
       "id": "msg-5c3ca19c0454",
@@ -326,7 +344,8 @@
       "body_snippet": "Dear Zhian,\n\nMany thanks for all the help.\n\nYou helped me earlier also in another problem.\n\nReally appreciate your help and support.\n\nBest wishes,\n\nRav\n\n\n> On 22 Jan 2017, at 15:09, Zhian Kamvar <zkam",
       "thread_id": "thread-8eb240b0cfd6",
       "thread_depth": 2,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000142.html"
     },
     {
       "id": "msg-29b867b391e3",
@@ -342,7 +361,8 @@
       "body_snippet": "Dear Members,\n\nI have done the following to estimate mean allelic richness for each of the sampled genind objects:\n\n\n# Subset the genind object by population\n\nobj<- seppop(niger.data.genind)\n\n\n# Sampl",
       "thread_id": "thread-29b867b391e3",
       "thread_depth": 0,
-      "month": "2017-01"
+      "month": "2017-01",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2017-January/000143.html"
     }
   ],
   "threads": [

@@ -17,7 +17,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nExplore cutting-edge methods for analyzing complex biological data at the single-cell level. Single Cell Data Analysis 3.0 is a 2-day seminar livestreaming May 25, led by",
       "thread_id": "thread-54bd72e80fbb",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000514.html"
     },
     {
       "id": "msg-69ac16e13c4e",
@@ -33,7 +34,8 @@
       "body_snippet": "Dear all,\nOnly 2 seats remain for our upcoming online course: Network Analysis in R\n\nDates: 4?7 May 2026\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/network-analysis-in-r/ ]",
       "thread_id": "thread-69ac16e13c4e",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000515.html"
     },
     {
       "id": "msg-ec4d0a3f148d",
@@ -49,7 +51,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Explore advanced data analysis techniques to enhance your research capabilities and derive sharper empirical claims. Exploratory Multivariate Analysis in R ",
       "thread_id": "thread-ec4d0a3f148d",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000516.html"
     },
     {
       "id": "msg-d640e8432e6c",
@@ -61,11 +64,12 @@
       "subject_clean": "Gene Set Enrichment Analysis in R course",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\n \nWe?re excited to announce our upcoming online course ?Gene Set Enrichment Analysis in R?, taking place 11?15 May!\n \n \n \nThis practical course offers a comprehensive introduction to gene set enrichment analysis methods widely used in transcriptomics, proteomics, and multi-omics workflows. You?ll learn how to run, interpret, and report enrichment analyses using real-world examples and tools, with the flexibility to work on your own data.\n \n \n \nWhat you will learn:\n \n\nCore concepts and statistical principles of gene set enrichment\n\nHow to select and use gene set databases and annotation resources\n\nOver-representation analysis (ORA) and ranking-based methods like GSEA\n\nAdvanced visualization and interpretation of results\n\nApplications in single-cell and spatial omics data\n \nCourse format:\n Five afternoons (14:00?19:00 Berlin time) of lectures, hands-on exercises, and Q&A, fully online to support international participation.\n \nFind the full program and register here:[ https://www.physalia-courses.org/courses-workshops/gse-in-r/ ]( https://www.physalia-courses.org/courses-workshops/gse-in-r/ )\n \n \n \nBest regards,\n \nCarlo\n \n \n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n \n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Dear all,\n \nWe?re excited to announce our upcoming online course ?Gene Set Enrichment Analysis in R?, taking place 11?15 May!\n \n \n \nThis practical course offers a comprehensive introduction to gene se",
+      "body_plain": "Dear all,\n \nWe’re excited to announce our upcoming online course “Gene Set Enrichment Analysis in R”, taking place 11–15 May!\n \n \n \nThis practical course offers a comprehensive introduction to gene set enrichment analysis methods widely used in transcriptomics, proteomics, and multi-omics workflows. You’ll learn how to run, interpret, and report enrichment analyses using real-world examples and tools, with the flexibility to work on your own data.\n \n \n \nWhat you will learn:\n \n\nCore concepts and statistical principles of gene set enrichment\n\nHow to select and use gene set databases and annotation resources\n\nOver-representation analysis (ORA) and ranking-based methods like GSEA\n\nAdvanced visualization and interpretation of results\n\nApplications in single-cell and spatial omics data\n \nCourse format:\n Five afternoons (14:00–19:00 Berlin time) of lectures, hands-on exercises, and Q&A, fully online to support international participation.\n \nFind the full program and register here:[ https://www.physalia-courses.org/courses-workshops/gse-in-r/ ]( https://www.physalia-courses.org/courses-workshops/gse-in-r/ )\n \n \n \nBest regards,\n \nCarlo\n \n \n \n \n \n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nWe’re excited to announce our upcoming online course “Gene Set Enrichment Analysis in R”, taking place 11–15 May!\n \n \n \nThis practical course offers a comprehensive introduction to gene se",
       "thread_id": "thread-d640e8432e6c",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000517.html"
     },
     {
       "id": "msg-c1fef27d21cf",
@@ -77,11 +81,12 @@
       "subject_clean": "Courses on Spatial Omics in 2026",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\nWe are pleased to announce two upcoming online courses focused on spatial omics, designed to provide both foundational training and advanced analytical skills in this rapidly evolving field.\n \n1 -  Spatial Omics in R/Bioconductor\nDates:  18?20 May \nInstructor: Dr. Stefano Mangiola (South Australian immunoGENomics Cancer Institute, Australia)\n \nThis course introduces the core concepts and technologies behind spatial omics, with a strong focus on practical data analysis in R/Bioconductor. Participants will learn how to work with both sequencing- and imaging-based spatial data, apply tidy data principles, and perform key analyses such as spatial differential expression and cell?cell interaction studies.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/spatial-omics-1 ]( https://www.physalia-courses.org/courses-workshops/spatial-omics-1 ) \n \n2 -  Spatial Omics Data Analysis: From Raw Data to AI Insights\nDates:  14?16 September \nInstructors: Dr. Sara Jim?nez & Tim Treis (Helmholtz Munich, Germany)\n \nThis course provides an end-to-end workflow for spatial omics data analysis, from raw data processing and quality control to advanced spatial statistics and AI-based approaches. Participants will explore spatial structure, gene-level patterns, cell?cell communication, and modern deep learning methods, with a strong emphasis on reproducibility and practical application.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/scverse/ ]( https://www.physalia-courses.org/courses-workshops/scverse/ ) \n \nThese trainings are ideal for researchers working in single-cell biology, spatial transcriptomics, computational biology, and bioinformatics who want to strengthen their analytical skills in spatial omics.\n \n \nBest regards,\nCarlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Dear all,\nWe are pleased to announce two upcoming online courses focused on spatial omics, designed to provide both foundational training and advanced analytical skills in this rapidly evolving field.\n \n1 -  Spatial Omics in R/Bioconductor\nDates:  18–20 May \nInstructor: Dr. Stefano Mangiola (South Australian immunoGENomics Cancer Institute, Australia)\n \nThis course introduces the core concepts and technologies behind spatial omics, with a strong focus on practical data analysis in R/Bioconductor. Participants will learn how to work with both sequencing- and imaging-based spatial data, apply tidy data principles, and perform key analyses such as spatial differential expression and cell–cell interaction studies.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/spatial-omics-1 ]( https://www.physalia-courses.org/courses-workshops/spatial-omics-1 ) \n \n2 -  Spatial Omics Data Analysis: From Raw Data to AI Insights\nDates:  14–16 September \nInstructors: Dr. Sara Jiménez & Tim Treis (Helmholtz Munich, Germany)\n \nThis course provides an end-to-end workflow for spatial omics data analysis, from raw data processing and quality control to advanced spatial statistics and AI-based approaches. Participants will explore spatial structure, gene-level patterns, cell–cell communication, and modern deep learning methods, with a strong emphasis on reproducibility and practical application.\n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/scverse/ ]( https://www.physalia-courses.org/courses-workshops/scverse/ ) \n \nThese trainings are ideal for researchers working in single-cell biology, spatial transcriptomics, computational biology, and bioinformatics who want to strengthen their analytical skills in spatial omics.\n \n \nBest regards,\nCarlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Dear all,\nWe are pleased to announce two upcoming online courses focused on spatial omics, designed to provide both foundational training and advanced analytical skills in this rapidly evolving field.",
       "thread_id": "thread-c1fef27d21cf",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000518.html"
     },
     {
       "id": "msg-fce4aa9ea522",
@@ -97,7 +102,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Discover advanced statistical and computational methods to analyze evolutionary patterns in your data. Modelling and Mapping Trait Evolution is a 2-day semi",
       "thread_id": "thread-fce4aa9ea522",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000519.html"
     },
     {
       "id": "msg-b85e2fd1ca6e",
@@ -109,11 +115,12 @@
       "subject_clean": "Gene Set Enrichment Analysis in R course",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\n \nWant to turn long gene lists into real biological insight?\n \nYou can still join us for the Gene Set Enrichment Analysis in R course, starting next week.( 11?15 May) [ https://www.physalia-courses.org/courses-workshops/gse-in-r/ ]( https://www.physalia-courses.org/courses-workshops/gse-in-r/ )\n \n \nThis hands-on course will take you from the fundamentals of gene set enrichment to advanced, publication-ready analyses in R. You?ll learn how to run, interpret, and visualize enrichment results across transcriptomics, proteomics, and multi-omics data ? using the tools actually used in current research.\n \n>From classic ORA to GSEA, pathway analysis, GO interpretation, and network-based approaches, you?ll build a complete, practical workflow you can immediately apply to your own data.\n \nAnd you are welcome to bring your own dataset.\n \nIf you work with transcriptomic or multi-omics data, this is the step that makes your results biologically meaningful.\n \nBest, Carlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Dear all,\n \nWant to turn long gene lists into real biological insight?\n \nYou can still join us for the Gene Set Enrichment Analysis in R course, starting next week.( 11?15 May) [ https://www.physalia-",
+      "body_plain": "Dear all,\n \nWant to turn long gene lists into real biological insight?\n \nYou can still join us for the Gene Set Enrichment Analysis in R course, starting next week.( 11–15 May) [ https://www.physalia-courses.org/courses-workshops/gse-in-r/ ]( https://www.physalia-courses.org/courses-workshops/gse-in-r/ )\n \n \nThis hands-on course will take you from the fundamentals of gene set enrichment to advanced, publication-ready analyses in R. You’ll learn how to run, interpret, and visualize enrichment results across transcriptomics, proteomics, and multi-omics data — using the tools actually used in current research.\n \n>From classic ORA to GSEA, pathway analysis, GO interpretation, and network-based approaches, you’ll build a complete, practical workflow you can immediately apply to your own data.\n \nAnd you are welcome to bring your own dataset.\n \nIf you work with transcriptomic or multi-omics data, this is the step that makes your results biologically meaningful.\n \nBest, Carlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nWant to turn long gene lists into real biological insight?\n \nYou can still join us for the Gene Set Enrichment Analysis in R course, starting next week.( 11–15 May) [ https://www.physalia-",
       "thread_id": "thread-b85e2fd1ca6e",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000520.html"
     },
     {
       "id": "msg-ca9e92b42cdf",
@@ -129,7 +136,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - This seminar offers essential insights into crafting compelling research proposals that resonate with funding committees. What Do Grant Reviewers Look For? ",
       "thread_id": "thread-ca9e92b42cdf",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000521.html"
     },
     {
       "id": "msg-0492b9eb3fd9",
@@ -145,7 +153,8 @@
       "body_snippet": "Dear all,\nThere are only a few seats available for our online course Generalized Linear Models in R, taking place from 25?29 May.\n \nMany statistical methods commonly taught as separate tools (t-tests,",
       "thread_id": "thread-0492b9eb3fd9",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000522.html"
     },
     {
       "id": "msg-623c24b745cf",
@@ -161,7 +170,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - This seminar offers essential skills for robust statistical analysis and reproducible research practices. Introduction to R, Regression, and the rms Package",
       "thread_id": "thread-623c24b745cf",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000523.html"
     },
     {
       "id": "msg-857545d95558",
@@ -177,7 +187,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Understanding sample size and power analysis is fundamental for designing robust studies and producing credible research. Sample Size and Power Analysis is ",
       "thread_id": "thread-857545d95558",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000524.html"
     },
     {
       "id": "msg-d5e8c0035a06",
@@ -193,7 +204,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nConsider joining us for an upcoming seminar exploring essential concepts for modern research. What is GIS? 2.0 (Free Seminar) is a 2-day seminar livestreaming July 8, led",
       "thread_id": "thread-d5e8c0035a06",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000525.html"
     },
     {
       "id": "msg-5144f8629d56",
@@ -209,7 +221,8 @@
       "body_snippet": "Dear all,\n \nif you want to learn more about spatial omics and how to analyse these data with R and Bioconductor, you can still join this Physalia course organised in collaboration with Bioconductor: [",
       "thread_id": "thread-5144f8629d56",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000526.html"
     },
     {
       "id": "msg-7f841fdf683d",
@@ -225,7 +238,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Understanding how to address missing data is vital for maintaining research validity and reliability. Handle Missing Data with Confidence is a 2-day seminar",
       "thread_id": "thread-7f841fdf683d",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000527.html"
     },
     {
       "id": "msg-98226115c236",
@@ -237,11 +251,12 @@
       "subject_clean": "Last call – Marine Genomics Workshop  (25–29 May , online)",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\n \nThis is a final reminder that registration is still open for the Marine Genomics Workshop, taking place 25?29 May (online).\n \nIn this hands-on course, you will work with real datasets to explore key approaches in marine and population genomics, including genome assessment, variant calling, population and seascape genomics, and environment?genome association analyses.\n \nPlaces are limited, and we are close to closing registrations.\n \nIf you would like to join, have a look at : [ https://www.physalia-courses.org/courses-workshops/marine-genomics/ ]( https://www.physalia-courses.org/courses-workshops/marine-genomics/ )\n \n \nBest regards, Carlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Dear all,\n \nThis is a final reminder that registration is still open for the Marine Genomics Workshop, taking place 25?29 May (online).\n \nIn this hands-on course, you will work with real datasets to e",
+      "body_plain": "Dear all,\n \nThis is a final reminder that registration is still open for the Marine Genomics Workshop, taking place 25–29 May (online).\n \nIn this hands-on course, you will work with real datasets to explore key approaches in marine and population genomics, including genome assessment, variant calling, population and seascape genomics, and environment–genome association analyses.\n \nPlaces are limited, and we are close to closing registrations.\n \nIf you would like to join, have a look at : [ https://www.physalia-courses.org/courses-workshops/marine-genomics/ ]( https://www.physalia-courses.org/courses-workshops/marine-genomics/ )\n \n \nBest regards, Carlo\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nThis is a final reminder that registration is still open for the Marine Genomics Workshop, taking place 25–29 May (online).\n \nIn this hands-on course, you will work with real datasets to e",
       "thread_id": "thread-98226115c236",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000528.html"
     },
     {
       "id": "msg-dc9b8dc74c94",
@@ -257,7 +272,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - This advanced seminar offers practical skills to navigate and interpret the complexities of modern data analysis. Exploratory Analysis of Complex Datasets w",
       "thread_id": "thread-dc9b8dc74c94",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000529.html"
     },
     {
       "id": "msg-4ff4ecf77d52",
@@ -273,7 +289,8 @@
       "body_snippet": "Dear all,\nWe are pleased to announce the online Physalia course  Machine Learning for Multi-Omics Integration, taking place from  21?23 September.\n \nCourse website: [ https://www.physalia-courses.org/",
       "thread_id": "thread-4ff4ecf77d52",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000530.html"
     },
     {
       "id": "msg-843839c0a686",
@@ -289,7 +306,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Discover how to effectively analyze complex biological data at the single-cell level. Single Cell Data Analysis 3.0 is a 2-day seminar livestreaming May 25 ",
       "thread_id": "thread-843839c0a686",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000531.html"
     },
     {
       "id": "msg-4df6e5e90056",
@@ -305,7 +323,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nLast chance - Enhance your computational research workflows with advanced, reproducible agentic AI tools. AI Agents for Researchers is a 2-day seminar livestreaming June ",
       "thread_id": "thread-4df6e5e90056",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000532.html"
     },
     {
       "id": "msg-2c7dae299023",
@@ -321,7 +340,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nEnhance your statistical toolkit with advanced methods designed to handle complex datasets over time. Longitudinal Analysis in Biostatistics led by Md Tuhin Sheikh (Biost",
       "thread_id": "thread-2c7dae299023",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000533.html"
     },
     {
       "id": "msg-4e0150e84b40",
@@ -337,7 +357,8 @@
       "body_snippet": "Dear all,\nWe are pleased to announce the upcoming Physalia online course ?Sex Chromosome Evolution?, taking place from 12?16 October.\n \nCourse website: [ https://www.physalia-courses.org/courses-works",
       "thread_id": "thread-4e0150e84b40",
       "thread_depth": 0,
-      "month": "2026-05"
+      "month": "2026-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-May/000534.html"
     }
   ],
   "threads": [
