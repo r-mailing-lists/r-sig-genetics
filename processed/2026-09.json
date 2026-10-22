@@ -17,7 +17,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Develop a more transparent approach to complex genetic data analysis. Advanced Statistical Methods for Genetic Association Studies is a 2-day seminar livestr",
       "thread_id": "thread-db052b3a0b5c",
       "thread_depth": 0,
-      "month": "2026-09"
+      "month": "2026-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-September/000568.html"
     },
     {
       "id": "msg-902a8835b195",
@@ -33,7 +34,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nIntegrating genetic measurements across platforms requires careful preparation and validation. AI-Powered Bioinformatics led by Nikolay Oskolkov (Lund University) is now ",
       "thread_id": "thread-902a8835b195",
       "thread_depth": 0,
-      "month": "2026-09"
+      "month": "2026-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-September/000569.html"
     },
     {
       "id": "msg-652e711a03f1",
@@ -45,11 +47,12 @@
       "subject_clean": "Cell and Gene Therapy: Design, Estimands, Operations, and AI - livestream seminar",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Cell and Gene Therapy: Design, Estimands, Operations, and AI <https://instats.org/seminar/cell-and-gene-therapy-design-estimands-o>, livestreaming October 6 and sponsored by the American Statistical Association?s Cell and Gene Therapy Scientific Working Group. As cell and gene therapies rapidly reshape biomedical innovation, this seminar provides PhD students, academic researchers, and applied scientists with a coherent framework for evaluating complex interventions across translational research, clinical development, and regulatory evidence generation. Drawing on expertise associated with the American Statistical Association?s Cell and Gene Therapy Scientific Working Group, the workshop examines core design and analysis challenges, including single-arm and randomized trials, dose finding, historical borrowing, estimands, operational considerations, and the production of credible, publishable evidence in settings with limited samples and heterogeneous populations. The seminar also considers the growing role of artificial intelligence in cell and gene therapy development, helping participants understand how emerging computational tools may influence discovery, decision support, evidence synthesis, reproducibility, and interpretation in this fast-moving field.\n\nSign up today <https://instats.org//seminar/cell-and-gene-therapy-design-estimands-o> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Cell and Gene Therapy: Design, Estimands, Operations, and AI <https://instats.org/seminar/cell-and-gene-therapy-design-estimands-o>, livestreaming October 6 and sponsored by the American Statistical Association’s Cell and Gene Therapy Scientific Working Group. As cell and gene therapies rapidly reshape biomedical innovation, this seminar provides PhD students, academic researchers, and applied scientists with a coherent framework for evaluating complex interventions across translational research, clinical development, and regulatory evidence generation. Drawing on expertise associated with the American Statistical Association’s Cell and Gene Therapy Scientific Working Group, the workshop examines core design and analysis challenges, including single-arm and randomized trials, dose finding, historical borrowing, estimands, operational considerations, and the production of credible, publishable evidence in settings with limited samples and heterogeneous populations. The seminar also considers the growing role of artificial intelligence in cell and gene therapy development, helping participants understand how emerging computational tools may influence discovery, decision support, evidence synthesis, reproducibility, and interpretation in this fast-moving field.\n\nSign up today <https://instats.org//seminar/cell-and-gene-therapy-design-estimands-o> to secure your spot, and feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nProfessor and Director\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Hi everyone\n\nInstats is excited to offer a 1-day seminar, Cell and Gene Therapy: Design, Estimands, Operations, and AI <https://instats.org/seminar/cell-and-gene-therapy-design-estimands-o>, livestrea",
       "thread_id": "thread-652e711a03f1",
       "thread_depth": 0,
-      "month": "2026-09"
+      "month": "2026-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-September/000570.html"
     },
     {
       "id": "msg-e5aca8d973e2",
@@ -65,7 +68,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Reproducible data handling supports careful interpretation of genetic analyses. Tidy Data, Visualisation, and AI is a 2-day seminar livestreaming September 2",
       "thread_id": "thread-e5aca8d973e2",
       "thread_depth": 0,
-      "month": "2026-09"
+      "month": "2026-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-September/000571.html"
     },
     {
       "id": "msg-bdc207e04d26",
@@ -81,7 +85,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nGenetic datasets often call for methods that extend beyond conventional statistical summaries. Machine Learning for Computational Biology is a seminar livestreaming Octob",
       "thread_id": "thread-bdc207e04d26",
       "thread_depth": 0,
-      "month": "2026-09"
+      "month": "2026-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-September/000572.html"
     },
     {
       "id": "msg-b5258d8a04a9",
@@ -93,11 +98,12 @@
       "subject_clean": "Last seats available — Population Genomics Using Ancient DNA",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\n \nInterested in uncovering population history from ancient DNA?\n \nJoin us online, 21?25 September, for an hands-on course covering the computational analysis of ancient DNA data, from authentication and variant calling to population structure, demographic inference, allele-sharing statistics, and natural selection.\n \nYou?ll work with real aDNA datasets and practical research questions, learning methods that can be directly applied to your own research.\n \nDesigned for graduate students and researchers in genetics, genomics, ecology, anthropology, and population biology.\n \nIf aDNA and population genomics are part of your research?or you?re looking to add these tools to your toolkit?this is a great opportunity to join us.\n \n \nBest,\n \nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Dear all,\n \nInterested in uncovering population history from ancient DNA?\n \nJoin us online, 21?25 September, for an hands-on course covering the computational analysis of ancient DNA data, from authen",
+      "body_plain": "Dear all,\n \nInterested in uncovering population history from ancient DNA?\n \nJoin us online, 21–25 September, for an hands-on course covering the computational analysis of ancient DNA data, from authentication and variant calling to population structure, demographic inference, allele-sharing statistics, and natural selection.\n \nYou’ll work with real aDNA datasets and practical research questions, learning methods that can be directly applied to your own research.\n \nDesigned for graduate students and researchers in genetics, genomics, ecology, anthropology, and population biology.\n \nIf aDNA and population genomics are part of your research—or you’re looking to add these tools to your toolkit—this is a great opportunity to join us.\n \n \nBest,\n \nCarlo\n \n \n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n \nInterested in uncovering population history from ancient DNA?\n \nJoin us online, 21–25 September, for an hands-on course covering the computational analysis of ancient DNA data, from authen",
       "thread_id": "thread-b5258d8a04a9",
       "thread_depth": 0,
-      "month": "2026-09"
+      "month": "2026-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-September/000573.html"
     },
     {
       "id": "msg-ad0c22f93753",
@@ -113,7 +119,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nGenetic analysis can proceed on Windows systems with a suitable computational setup. Accessible Bioinformatics for Windows Users is a 2-day seminar livestreaming October ",
       "thread_id": "thread-ad0c22f93753",
       "thread_depth": 0,
-      "month": "2026-09"
+      "month": "2026-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-September/000574.html"
     },
     {
       "id": "msg-52208e8ced4e",
@@ -129,7 +136,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Research documentation can carry structured signals that complement quantitative genetic analysis. Text-as-Data with Python is a 2-day seminar livestreaming ",
       "thread_id": "thread-52208e8ced4e",
       "thread_depth": 0,
-      "month": "2026-09"
+      "month": "2026-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-September/000575.html"
     },
     {
       "id": "msg-e331ba830b39",
@@ -145,7 +153,8 @@
       "body_snippet": "Dear all,\nHave a look at our upcoming online course Invasion Genomics in R, taking place on 12, 14 and 16 October.\n \nThe course is designed to be asynchronous and self-paced, so you can work through t",
       "thread_id": "thread-e331ba830b39",
       "thread_depth": 0,
-      "month": "2026-09"
+      "month": "2026-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-September/000576.html"
     },
     {
       "id": "msg-344f4c7447dc",
@@ -161,7 +170,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Bring clearer oversight to complex genetic data work. Building AI Research Teams is a 2-day seminar livestreaming September 23 and 25 with Michael Zyphur (In",
       "thread_id": "thread-344f4c7447dc",
       "thread_depth": 0,
-      "month": "2026-09"
+      "month": "2026-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-September/000577.html"
     },
     {
       "id": "msg-3f719cc516fa",
@@ -177,7 +187,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Genetic analyses benefit from explicit reasoning about variation, design, and model fit. No-Code Statistical Inference is a 2-day seminar livestreaming Septe",
       "thread_id": "thread-3f719cc516fa",
       "thread_depth": 0,
-      "month": "2026-09"
+      "month": "2026-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-September/000578.html"
     },
     {
       "id": "msg-7133f4c95ac0",
@@ -193,7 +204,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Self-reported data can shape conclusions alongside genetic analyses. Measuring Latent Variables with Questionnaires is a 2-day seminar livestreaming Septembe",
       "thread_id": "thread-7133f4c95ac0",
       "thread_depth": 0,
-      "month": "2026-09"
+      "month": "2026-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-September/000579.html"
     },
     {
       "id": "msg-c00c8ccf719a",
@@ -209,7 +221,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Examine complex genetic evidence while accounting for measurement and structural uncertainty. Structural Equation Modeling with AI is a 2-day seminar livestr",
       "thread_id": "thread-c00c8ccf719a",
       "thread_depth": 0,
-      "month": "2026-09"
+      "month": "2026-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-September/000580.html"
     }
   ],
   "threads": [

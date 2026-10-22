@@ -13,11 +13,12 @@
       "subject_clean": "Course: Online. Sex Chromosome Evolution. 12-16 October",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\n\nthere are still a few seats left for our online course on Sex Chromosome Evolution\n\n \nDates: 12?16 October \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/sexchr/ ]( https://www.physalia-courses.org/courses-workshops/sexchr/ ) \n \nHow do sex chromosomes evolve, and what can genomic and transcriptomic data tell us about their differentiation?\n \nThis hands-on online course will introduce practical approaches for identifying sex chromosomes and studying their evolution. Across five live sessions, we?ll work with genomic and transcriptomic data to explore recombination suppression, evolutionary strata, sex-biased gene expression, dosage compensation, gene gain and loss, and genome divergence.\n \nThe course combines short lectures with practical computational exercises using Linux command-line tools and R and Bioconductor. Participants will work with real datasets and learn how to analyse and interpret genomic patterns in an evolutionary context.\n \nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )\n \n \n \nBest regards,\nCarlo\n\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Dear all,\n\nthere are still a few seats left for our online course on Sex Chromosome Evolution\n\n \nDates: 12?16 October \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/sexchr/ ](",
+      "body_plain": "Dear all,\n\nthere are still a few seats left for our online course on Sex Chromosome Evolution\n\n \nDates: 12–16 October \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/sexchr/ ]( https://www.physalia-courses.org/courses-workshops/sexchr/ ) \n \nHow do sex chromosomes evolve, and what can genomic and transcriptomic data tell us about their differentiation?\n \nThis hands-on online course will introduce practical approaches for identifying sex chromosomes and studying their evolution. Across five live sessions, we’ll work with genomic and transcriptomic data to explore recombination suppression, evolutionary strata, sex-biased gene expression, dosage compensation, gene gain and loss, and genome divergence.\n \nThe course combines short lectures with practical computational exercises using Linux command-line tools and R and Bioconductor. Participants will work with real datasets and learn how to analyse and interpret genomic patterns in an evolutionary context.\n \nFor the full list of our courses and workshops, please visit: [ https://www.physalia-courses.org/courses-workshops/ ]( https://www.physalia-courses.org/courses-workshops/ )\n \n \n \nBest regards,\nCarlo\n\n\n--------------------\n\nCarlo Pecoraro, Ph.D\n\n\nPhysalia-courses DIRECTOR\n\ninfo at physalia-courses.org\n\nmobile: +49 17645230846\n\n[ Bluesky ]( https://bsky.app/profile/physaliacourses.bsky.social ) [ Linkedin ]( https://www.linkedin.com/in/physalia-courses-a64418127/ )\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nthere are still a few seats left for our online course on Sex Chromosome Evolution\n\n \nDates: 12–16 October \n \nCourse website: [ https://www.physalia-courses.org/courses-workshops/sexchr/ ](",
       "thread_id": "thread-c704c0bfd388",
       "thread_depth": 0,
-      "month": "2026-10"
+      "month": "2026-10",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-October/000581.html"
     },
     {
       "id": "msg-09227fd578d5",
@@ -33,7 +34,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Careful manuscript choices can make genetic evidence easier to evaluate and reuse. Writing Your First Paper (Free Seminar) is a 2-day seminar livestreaming O",
       "thread_id": "thread-09227fd578d5",
       "thread_depth": 0,
-      "month": "2026-10"
+      "month": "2026-10",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-October/000582.html"
     },
     {
       "id": "msg-70e51d26bf3d",
@@ -49,7 +51,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Hierarchical genetic datasets call for explicit attention to dependence. Multilevel and Mixed Models with AI is a 2-day seminar livestreaming October 7 and 9",
       "thread_id": "thread-70e51d26bf3d",
       "thread_depth": 0,
-      "month": "2026-10"
+      "month": "2026-10",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-October/000583.html"
     },
     {
       "id": "msg-1dc968f561ec",
@@ -65,7 +68,8 @@
       "body_snippet": "Hello R-SIG-GENETICS colleagues\n\nHere's a brief update for R-SIG-GENETICS colleagues on our new Instats certifications in research methods and data analysis, including AI programs alongside causal inf",
       "thread_id": "thread-1dc968f561ec",
       "thread_depth": 0,
-      "month": "2026-10"
+      "month": "2026-10",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-October/000584.html"
     },
     {
       "id": "msg-15c648fcd21a",
@@ -81,7 +85,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Genetic data can support causal questions when study design receives equal attention. Modern Causal Inference Methods is a 2-day seminar livestreaming Octobe",
       "thread_id": "thread-15c648fcd21a",
       "thread_depth": 0,
-      "month": "2026-10"
+      "month": "2026-10",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-October/000585.html"
     },
     {
       "id": "msg-c0b7c6baac6d",
@@ -97,7 +102,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Genetic data gain meaning through careful evolutionary and epidemiological interpretation. Virus Diversity, Emergence, and Pandemic Prevention (Free Seminar)",
       "thread_id": "thread-c0b7c6baac6d",
       "thread_depth": 0,
-      "month": "2026-10"
+      "month": "2026-10",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-October/000586.html"
     },
     {
       "id": "msg-4a3cb0771194",
@@ -113,7 +119,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Build a sound statistical workflow for genetic research data. Statistical Foundations of Data Science with R is a 2-day seminar livestreaming October 19 and ",
       "thread_id": "thread-4a3cb0771194",
       "thread_depth": 0,
-      "month": "2026-10"
+      "month": "2026-10",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-October/000587.html"
     },
     {
       "id": "msg-e6c24ad882ef",
@@ -129,7 +136,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - A clear foundation for evaluating generative tools in computational research. Understanding Large Language Models is a seminar livestreaming October 22 with ",
       "thread_id": "thread-e6c24ad882ef",
       "thread_depth": 0,
-      "month": "2026-10"
+      "month": "2026-10",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-October/000588.html"
     },
     {
       "id": "msg-c57a7e297652",
@@ -145,7 +153,8 @@
       "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Genetic analysis often calls for careful handling of computational materials. Local LLMs: Private, Free, and Reproducible is a seminar livestreaming October ",
       "thread_id": "thread-c57a7e297652",
       "thread_depth": 0,
-      "month": "2026-10"
+      "month": "2026-10",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-October/000589.html"
     }
   ],
   "threads": [
