@@ -130,6 +130,22 @@
       "thread_id": "thread-e6c24ad882ef",
       "thread_depth": 0,
       "month": "2026-10"
+    },
+    {
+      "id": "msg-c57a7e297652",
+      "message_id": "<SmsefyHSTjyAjB1G4GOrUg@geopod-ismtpd-1>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-10-21T14:02:24Z",
+      "subject": "[R-sig-genetics] Local LLMs for Genetic Analysis",
+      "subject_clean": "Local LLMs for Genetic Analysis",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Genetic analysis often calls for careful handling of computational materials. Local LLMs: Private, Free, and Reproducible is a seminar livestreaming October 26 with Peter Gruber (Faculty of Economics, USI Universit? della Svizzera Italiana). Local LLM setup and model selection offer genetic data analysts a way to work with language models on their own machines. Participants compare model families, quantization, context limits, and hardware needs, then access a local model from Python. These skills can help researchers document computational support used alongside R-based genetic analyses.\n\nDetails and registration: https://instats.org/seminar/local-llms-private-free-and-reproducible\nFull details are available on the Instats seminar page.\n\n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Genetic analysis often calls for careful handling of computational materials. Local LLMs: Private, Free, and Reproducible is a seminar livestreaming October ",
+      "thread_id": "thread-c57a7e297652",
+      "thread_depth": 0,
+      "month": "2026-10"
     }
   ],
   "threads": [
@@ -220,6 +236,17 @@
       "started": "2026-10-19T14:00:02Z",
       "last_reply": "2026-10-19T14:00:02Z",
       "root_message_id": "msg-e6c24ad882ef"
+    },
+    {
+      "id": "thread-c57a7e297652",
+      "subject": "Local LLMs for Genetic Analysis",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-10-21T14:02:24Z",
+      "last_reply": "2026-10-21T14:02:24Z",
+      "root_message_id": "msg-c57a7e297652"
     }
   ]
 }

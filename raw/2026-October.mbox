@@ -203,3 +203,25 @@ Instats | instats.org
 	[[alternative HTML version deleted]]
 
 
+From mzyphur m@iii@g oii i@st@ts@org  Wed Oct 21 16:02:24 2026
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Wed, 21 Oct 2026 14:02:24 +0000 (UTC)
+Subject: [R-sig-genetics] Local LLMs for Genetic Analysis
+Message-ID: <SmsefyHSTjyAjB1G4GOrUg@geopod-ismtpd-1>
+
+Hello R-SIG-GENETICS members
+
+A reminder - Genetic analysis often calls for careful handling of computational materials. Local LLMs: Private, Free, and Reproducible is a seminar livestreaming October 26 with Peter Gruber (Faculty of Economics, USI Universit? della Svizzera Italiana). Local LLM setup and model selection offer genetic data analysts a way to work with language models on their own machines. Participants compare model families, quantization, context limits, and hardware needs, then access a local model from Python. These skills can help researchers document computational support used alongside R-based genetic analyses.
+
+Details and registration: https://instats.org/seminar/local-llms-private-free-and-reproducible
+Full details are available on the Instats seminar page.
+
+
+Best wishes
+
+Michael Zyphur
+Director and Co-founder
+Instats | instats.org
+	[[alternative HTML version deleted]]
+
+
