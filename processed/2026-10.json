@@ -155,6 +155,23 @@
       "thread_depth": 0,
       "month": "2026-10",
       "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-October/000589.html"
+    },
+    {
+      "id": "msg-3ba371d614d8",
+      "message_id": "<OueLrlbVToW2IUHdJsc8Iw@geopod-ismtpd-8>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-10-23T14:07:25Z",
+      "subject": "[R-sig-genetics] Spatial Statistics in R for Genetics",
+      "subject_clean": "Spatial Statistics in R for Genetics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Examine geographic structure with statistical methods suited to correlated observations. Applied Spatial Statistics Using R is a 2-day seminar livestreaming October 26 and November 6 with Arnab Hazra (Indian Institute of Technology Kanpur) and Suman Majumder (Indian Statistical Institute). Spatial regression, autocorrelation analysis, and uncertainty assessment in R can clarify patterns in geographically indexed genetic data. Participants can distinguish point-referenced from areal structures, investigate spatial dependence, and compare models suited to the data. The resulting workflow can support defensible inference, prediction, and visual communication in genetic research.\n\nDetails and registration: https://instats.org/seminar/applied-spatial-statistics-using-r\nPlease circulate this reminder if it is relevant to colleagues or students.\n\n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Examine geographic structure with statistical methods suited to correlated observations. Applied Spatial Statistics Using R is a 2-day seminar livestreaming ",
+      "thread_id": "thread-3ba371d614d8",
+      "thread_depth": 0,
+      "month": "2026-10",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-October/000590.html"
     }
   ],
   "threads": [
@@ -256,6 +273,17 @@
       "started": "2026-10-21T14:02:24Z",
       "last_reply": "2026-10-21T14:02:24Z",
       "root_message_id": "msg-c57a7e297652"
+    },
+    {
+      "id": "thread-3ba371d614d8",
+      "subject": "Spatial Statistics in R for Genetics",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-10-23T14:07:25Z",
+      "last_reply": "2026-10-23T14:07:25Z",
+      "root_message_id": "msg-3ba371d614d8"
     }
   ]
 }
