@@ -172,6 +172,23 @@
       "thread_depth": 0,
       "month": "2026-10",
       "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-October/000590.html"
+    },
+    {
+      "id": "msg-73be50d933e9",
+      "message_id": "<Dv9foDOHSkmk88TgtONVCg@geopod-ismtpd-1>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-10-26T14:02:59Z",
+      "subject": "[R-sig-genetics] Modern causal inference for genetic data",
+      "subject_clean": "Modern causal inference for genetic data",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Clarify causal reasoning for complex genetic research datasets. Modern Causal Inference Methods (Europe/UK) is a seminar livestreaming October 28 with Michael Zyphur (Instats | instats.org). Causal diagrams, propensity score methods, and instrumental-variable designs provide R users with tools for assessing causal questions in genetic data analysis. Participants examine identification assumptions, balance diagnostics, and heterogeneity in estimated treatment effects. The approaches can help researchers frame analyses of observational genetic and health-related datasets with clearer limits on interpretation.\n\nDetails and registration: https://instats.org/seminar/modern-causal-inference-methods-europeuk\nThe seminar page includes the full schedule and registration details.\n\n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Clarify causal reasoning for complex genetic research datasets. Modern Causal Inference Methods (Europe/UK) is a seminar livestreaming October 28 with Michae",
+      "thread_id": "thread-73be50d933e9",
+      "thread_depth": 0,
+      "month": "2026-10",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-October/000591.html"
     }
   ],
   "threads": [
@@ -284,6 +301,17 @@
       "started": "2026-10-23T14:07:25Z",
       "last_reply": "2026-10-23T14:07:25Z",
       "root_message_id": "msg-3ba371d614d8"
+    },
+    {
+      "id": "thread-73be50d933e9",
+      "subject": "Modern causal inference for genetic data",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-10-26T14:02:59Z",
+      "last_reply": "2026-10-26T14:02:59Z",
+      "root_message_id": "msg-73be50d933e9"
     }
   ]
 }
