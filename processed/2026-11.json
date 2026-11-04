@@ -19,6 +19,23 @@
       "thread_depth": 0,
       "month": "2026-11",
       "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000593.html"
+    },
+    {
+      "id": "msg-c87f9fc7ac96",
+      "message_id": "<MYbR0FAyTiyEpP37KEf3oA@geopod-ismtpd-7>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-11-03T15:06:49Z",
+      "subject": "[R-sig-genetics] Instats launches AI Research Assistant – free, private and secure",
+      "subject_clean": "Instats launches AI Research Assistant – free, private and secure",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello everyone \n\nWe've just launched a major upgrade to the Instats AI Research Assistant, \ngiving researchers free, 24/7 access to leading AI technology to help \nwith research methods, coding, writing, and much more in any language.\n\nThe Assistant is built directly into our research seminars, so you can \nengage leading experts and not only ask questions but also get support with \nyour own research. Whether it's understanding difficult concepts, \ngenerating or debugging code, interpreting analyses, or applications to \nyour own research the new AI research assistant is here to help!\n\nIt's designed with researchers' privacy, security, and intellectual \nproperty in mind ? your chats live locally on your browser and are never \nused for AI model training.\nUse it for free: We've made many our seminars including A Bit of AI ? \nBest Tools for Research \n<https://instats.org/seminar/a-bit-of-ai-best-tools-for-research-free-1?viewassistant=yes> \nand the AI Research Assistant available free of charge. Register for the \nseminar and start asking questions directly alongside the video.\n\nThe Assistant is also included at no cost when taking any of our Instats \ncertification programs \n<https://instats.org/results?view=Seminars&nav=Certifications>. Instats \nmembers enjoy unlimited access to the Assistant and more than 500 \nexpert-led research training programs.\n\nAs an organization founded and led by academics, our goal is to make \nworld-class research training and AI assistance accessible to researchers \neverywhere.\n\nWe hope you find it useful, and please feel free to share it with \ncolleagues and students! \n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello everyone \n\nWe've just launched a major upgrade to the Instats AI Research Assistant, \ngiving researchers free, 24/7 access to leading AI technology to help \nwith research methods, coding, writin",
+      "thread_id": "thread-c87f9fc7ac96",
+      "thread_depth": 0,
+      "month": "2026-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000594.html"
     }
   ],
   "threads": [
@@ -32,6 +49,17 @@
       "started": "2026-11-02T15:03:30Z",
       "last_reply": "2026-11-02T15:03:30Z",
       "root_message_id": "msg-0df0960aef71"
+    },
+    {
+      "id": "thread-c87f9fc7ac96",
+      "subject": "Instats launches AI Research Assistant – free, private and secure",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-11-03T15:06:49Z",
+      "last_reply": "2026-11-03T15:06:49Z",
+      "root_message_id": "msg-c87f9fc7ac96"
     }
   ]
 }
