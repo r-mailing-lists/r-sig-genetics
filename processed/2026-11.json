@@ -36,6 +36,23 @@
       "thread_depth": 0,
       "month": "2026-11",
       "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000594.html"
+    },
+    {
+      "id": "msg-ff95d1c56e0b",
+      "message_id": "<yYKt5LM8RzCg9dkwSVe0hA@geopod-ismtpd-8>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-11-04T15:03:34Z",
+      "subject": "[R-sig-genetics] Reliable Research with AI Agents",
+      "subject_clean": "Reliable Research with AI Agents",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Readable summaries and audit trails can make delegated research work easier to assess. Harnessing AI Agents for Reliable Research is a seminar livestreaming November 4 with Hadi Fariborzi (Bissett School of Business, Mount Royal University, Calgary). Set fixed criteria and stopping rules for AI agents working on research analyses. Researchers using R for genetic data analysis can apply these principles when checking whether an analysis pipeline reruns cleanly from raw data. The seminar also covers keeping process goals separate from statistical significance and hypothesis confirmation.\n\nDetails and registration: https://instats.org/seminar/harnessing-ai-agents-for-reliable-resear\nFull details are available on the Instats seminar page.\n\n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Readable summaries and audit trails can make delegated research work easier to assess. Harnessing AI Agents for Reliable Research is a seminar livestreaming ",
+      "thread_id": "thread-ff95d1c56e0b",
+      "thread_depth": 0,
+      "month": "2026-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000595.html"
     }
   ],
   "threads": [
@@ -60,6 +77,17 @@
       "started": "2026-11-03T15:06:49Z",
       "last_reply": "2026-11-03T15:06:49Z",
       "root_message_id": "msg-c87f9fc7ac96"
+    },
+    {
+      "id": "thread-ff95d1c56e0b",
+      "subject": "Reliable Research with AI Agents",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-11-04T15:03:34Z",
+      "last_reply": "2026-11-04T15:03:34Z",
+      "root_message_id": "msg-ff95d1c56e0b"
     }
   ]
 }
