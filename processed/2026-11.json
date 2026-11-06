@@ -53,6 +53,23 @@
       "thread_depth": 0,
       "month": "2026-11",
       "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000595.html"
+    },
+    {
+      "id": "msg-739c8833a87a",
+      "message_id": "<a9CaFpjWQxC-VwS5HrOdQw@geopod-ismtpd-0>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-11-05T15:05:09Z",
+      "subject": "[R-sig-genetics] Deploying AI with Data-Driven Methods",
+      "subject_clean": "Deploying AI with Data-Driven Methods",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Careful validation helps researchers interpret model behaviour when observations differ from training data. Data-Driven Methods for Deploying AI is a seminar livestreaming November 6 with Manish Chauhan (School of Physics, Engineering and Technology, University of York). Uncertainty quantification and Bayesian estimation provide tools for evaluating AI systems under sparse or corrupted observations. Researchers in genetic data analysis can use the seminar's diagnostic reasoning to consider how differences between training assumptions and observed conditions affect deployment. A case study compares simulated data streams with real-world sensor noise.\n\nDetails and registration: https://instats.org/seminar/data-driven-methods-for-deploying-ai-1\nThe seminar page includes the full schedule and registration details.\n\n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Careful validation helps researchers interpret model behaviour when observations differ from training data. Data-Driven Methods for Deploying AI is a seminar",
+      "thread_id": "thread-739c8833a87a",
+      "thread_depth": 0,
+      "month": "2026-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000596.html"
     }
   ],
   "threads": [
@@ -88,6 +105,17 @@
       "started": "2026-11-04T15:03:34Z",
       "last_reply": "2026-11-04T15:03:34Z",
       "root_message_id": "msg-ff95d1c56e0b"
+    },
+    {
+      "id": "thread-739c8833a87a",
+      "subject": "Deploying AI with Data-Driven Methods",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-11-05T15:05:09Z",
+      "last_reply": "2026-11-05T15:05:09Z",
+      "root_message_id": "msg-739c8833a87a"
     }
   ]
 }
