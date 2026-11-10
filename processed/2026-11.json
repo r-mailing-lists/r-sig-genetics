@@ -70,6 +70,23 @@
       "thread_depth": 0,
       "month": "2026-11",
       "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000596.html"
+    },
+    {
+      "id": "msg-72f2e47c6d77",
+      "message_id": "<tFSaRN_PTUOhWh7-9BPsYw@geopod-ismtpd-1>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-11-09T15:04:58Z",
+      "subject": "[R-sig-genetics] Deep Learning for Scientific Research",
+      "subject_clean": "Deep Learning for Scientific Research",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Genetic data analysis can draw on neural networks to examine sequence patterns. Applied Deep Learning for Scientific Research is a seminar livestreaming November 16 with Nikolay Oskolkov (Lund University). Convolutional and recurrent neural networks can be applied to genomic data using methods covered in this seminar. Participants work with TensorFlow and Keras to build and train models, with R and Python used for data preparation. Model evaluation and hyperparameter tuning provide a basis for assessing applications in genetic data analysis.\n\nDetails and registration: https://instats.org/seminar/applied-deep-learning-for-scientific-res\nThe seminar page includes the full schedule and registration details.\n\n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Genetic data analysis can draw on neural networks to examine sequence patterns. Applied Deep Learning for Scientific Research is a seminar livestreaming Nove",
+      "thread_id": "thread-72f2e47c6d77",
+      "thread_depth": 0,
+      "month": "2026-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000597.html"
     }
   ],
   "threads": [
@@ -116,6 +133,17 @@
       "started": "2026-11-05T15:05:09Z",
       "last_reply": "2026-11-05T15:05:09Z",
       "root_message_id": "msg-739c8833a87a"
+    },
+    {
+      "id": "thread-72f2e47c6d77",
+      "subject": "Deep Learning for Scientific Research",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-11-09T15:04:58Z",
+      "last_reply": "2026-11-09T15:04:58Z",
+      "root_message_id": "msg-72f2e47c6d77"
     }
   ]
 }
