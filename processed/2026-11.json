@@ -87,6 +87,23 @@
       "thread_depth": 0,
       "month": "2026-11",
       "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000597.html"
+    },
+    {
+      "id": "msg-c490e9088267",
+      "message_id": "<ExLSyX3ZQESairrPFsyeEw@geopod-ismtpd-2>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-11-11T15:05:00Z",
+      "subject": "[R-sig-genetics] Scientific Paper Writing from Data to Discussion",
+      "subject_clean": "Scientific Paper Writing from Data to Discussion",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - A well-organized manuscript helps readers follow the reasoning behind a genetic analysis. From Data to Discussion: Writing a Scientific Paper is a seminar livestreaming November 12 with Kristin Sainani (Stanford University). Manuscript structure and clear figures can help genetic data analysts communicate the contribution of their findings. The workshop examines how to select a paper's central story and present key results in prose. Participants also consider how to place those findings in the context of existing literature.\n\nDetails and registration: https://instats.org/seminar/from-data-to-discussion-writing-a-scient\nFurther information is available on the seminar page.\n\n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - A well-organized manuscript helps readers follow the reasoning behind a genetic analysis. From Data to Discussion: Writing a Scientific Paper is a seminar li",
+      "thread_id": "thread-c490e9088267",
+      "thread_depth": 0,
+      "month": "2026-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000598.html"
     }
   ],
   "threads": [
@@ -144,6 +161,17 @@
       "started": "2026-11-09T15:04:58Z",
       "last_reply": "2026-11-09T15:04:58Z",
       "root_message_id": "msg-72f2e47c6d77"
+    },
+    {
+      "id": "thread-c490e9088267",
+      "subject": "Scientific Paper Writing from Data to Discussion",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-11-11T15:05:00Z",
+      "last_reply": "2026-11-11T15:05:00Z",
+      "root_message_id": "msg-c490e9088267"
     }
   ]
 }
