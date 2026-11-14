@@ -159,3 +159,25 @@ Instats | instats.org
 	[[alternative HTML version deleted]]
 
 
+From mzyphur m@iii@g oii i@st@ts@org  Fri Nov 13 16:05:04 2026
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Fri, 13 Nov 2026 15:05:04 +0000 (UTC)
+Subject: [R-sig-genetics] Multilevel Modeling for Longitudinal Data
+Message-ID: <18Ah8OE8Tgi13butfUUYMA@geopod-ismtpd-5>
+
+Hello R-SIG-GENETICS members
+
+Dependent observations call for analytical choices that reflect how research data are structured. Multilevel Modeling & Longitudinal Data Analysis is a 2-day seminar livestreaming December 2 and 4, led by Vikas Agrawal (Davis College of Business & Technology, Jacksonville University). Multilevel models can account for dependence among repeated or clustered observations while distinguishing within-unit change from between-unit differences. Participants will estimate random effects and model trajectories in R, with attention to how model specification affects interpretation. Researchers working with genetic data can apply these methods when their observations have repeated or hierarchical structures.
+
+Details and registration: https://instats.org/seminar/multilevel-modeling-and-longitudinal-dat
+The seminar page includes the full schedule and registration details.
+
+
+Best wishes
+
+Michael Zyphur
+Director and Co-founder
+Instats | instats.org
+	[[alternative HTML version deleted]]
+
+

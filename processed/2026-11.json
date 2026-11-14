@@ -104,6 +104,23 @@
       "thread_depth": 0,
       "month": "2026-11",
       "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000598.html"
+    },
+    {
+      "id": "msg-3f006650c801",
+      "message_id": "<18Ah8OE8Tgi13butfUUYMA@geopod-ismtpd-5>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-11-13T15:05:04Z",
+      "subject": "[R-sig-genetics] Multilevel Modeling for Longitudinal Data",
+      "subject_clean": "Multilevel Modeling for Longitudinal Data",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nDependent observations call for analytical choices that reflect how research data are structured. Multilevel Modeling & Longitudinal Data Analysis is a 2-day seminar livestreaming December 2 and 4, led by Vikas Agrawal (Davis College of Business & Technology, Jacksonville University). Multilevel models can account for dependence among repeated or clustered observations while distinguishing within-unit change from between-unit differences. Participants will estimate random effects and model trajectories in R, with attention to how model specification affects interpretation. Researchers working with genetic data can apply these methods when their observations have repeated or hierarchical structures.\n\nDetails and registration: https://instats.org/seminar/multilevel-modeling-and-longitudinal-dat\nThe seminar page includes the full schedule and registration details.\n\n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nDependent observations call for analytical choices that reflect how research data are structured. Multilevel Modeling & Longitudinal Data Analysis is a 2-day seminar live",
+      "thread_id": "thread-3f006650c801",
+      "thread_depth": 0,
+      "month": "2026-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000599.html"
     }
   ],
   "threads": [
@@ -172,6 +189,17 @@
       "started": "2026-11-11T15:05:00Z",
       "last_reply": "2026-11-11T15:05:00Z",
       "root_message_id": "msg-c490e9088267"
+    },
+    {
+      "id": "thread-3f006650c801",
+      "subject": "Multilevel Modeling for Longitudinal Data",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-11-13T15:05:04Z",
+      "last_reply": "2026-11-13T15:05:04Z",
+      "root_message_id": "msg-3f006650c801"
     }
   ]
 }
