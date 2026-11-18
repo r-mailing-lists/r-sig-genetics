@@ -121,6 +121,23 @@
       "thread_depth": 0,
       "month": "2026-11",
       "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000599.html"
+    },
+    {
+      "id": "msg-e11e1ab14be0",
+      "message_id": "<bqsTI0QdSK2MFyHCEKZfFg@geopod-ismtpd-1>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-11-17T15:00:04Z",
+      "subject": "[R-sig-genetics] Social Networks in Research Using R",
+      "subject_clean": "Social Networks in Research Using R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Relational data can bring a useful perspective to research using R. Networks in Social Science is a seminar livestreaming November 26 with Antonio Zinilli (National Research Council of Italy (CNR)). Social network analysis in RStudio provides methods for preparing relational data and interpreting ties among actors. Researchers using R for genetic data analysis can apply these methods to questions involving relational data in their work. The seminar also introduces exponential random graph models for studying network formation and dependence.\n\nDetails and registration: https://instats.org/seminar/networks-in-social-science\nPlease circulate this reminder if it is relevant to colleagues or students.\n\n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Relational data can bring a useful perspective to research using R. Networks in Social Science is a seminar livestreaming November 26 with Antonio Zinilli (N",
+      "thread_id": "thread-e11e1ab14be0",
+      "thread_depth": 0,
+      "month": "2026-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000600.html"
     }
   ],
   "threads": [
@@ -200,6 +217,17 @@
       "started": "2026-11-13T15:05:04Z",
       "last_reply": "2026-11-13T15:05:04Z",
       "root_message_id": "msg-3f006650c801"
+    },
+    {
+      "id": "thread-e11e1ab14be0",
+      "subject": "Social Networks in Research Using R",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-11-17T15:00:04Z",
+      "last_reply": "2026-11-17T15:00:04Z",
+      "root_message_id": "msg-e11e1ab14be0"
     }
   ]
 }
