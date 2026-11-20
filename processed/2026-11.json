@@ -138,6 +138,40 @@
       "thread_depth": 0,
       "month": "2026-11",
       "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000600.html"
+    },
+    {
+      "id": "msg-8bd06ef9a7cf",
+      "message_id": "<elyclrvjSBiFjkcjB5aH7A@geopod-ismtpd-6>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-11-19T15:01:11Z",
+      "subject": "[R-sig-genetics] AI-Powered Image Analysis for Genetics",
+      "subject_clean": "AI-Powered Image Analysis for Genetics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Biological images can add measurable phenotypes to questions arising in genetic research. AI-Powered Image Analysis for Scientific Research is a seminar livestreaming November 30 with Nikolay Oskolkov (Lund University). Transfer learning and convolutional neural networks can help researchers extract measurements from biological images, including data relevant to genetic research. The seminar covers segmentation, uncertainty estimation and evaluation of models trained on small datasets. Participants work in Python and Jupyter to build reproducible image analysis pipelines that can complement their work with genetic data in R.\n\nDetails and registration: https://instats.org/seminar/ai-powered-image-analysis-for-scientific\nThe seminar page includes the full schedule and registration details.\n\n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Biological images can add measurable phenotypes to questions arising in genetic research. AI-Powered Image Analysis for Scientific Research is a seminar live",
+      "thread_id": "thread-8bd06ef9a7cf",
+      "thread_depth": 0,
+      "month": "2026-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000601.html"
+    },
+    {
+      "id": "msg-b4462926b58b",
+      "message_id": "<p6ZV1wezQiGPgKQx4ZTJGg@geopod-ismtpd-35>",
+      "from_name": "Michael Zyphur",
+      "from_email_hash": "4dc29dcc548743fbd3ded062200e46898609bf4c30557092653ca3be7f834901",
+      "date": "2026-11-20T02:04:09Z",
+      "subject": "[R-sig-genetics] AI for Academic Research – four practical seminars",
+      "subject_clean": "AI for Academic Research – four practical seminars",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi everyone\n\nInstats is excited to offer a new 4-part course, AI for Academic Research <https://instats.org/course/ai-for-writing-papers-and-analyzing-data1>. As artificial intelligence transforms academic research, this course provides PhD students, faculty, and professional researchers with practical skills for integrating AI into their research workflows responsibly and effectively. Moving beyond basic prompting, participants will learn to deploy AI agents to discover and critically evaluate literature, analyze data, develop manuscripts, and conduct systematic reviews and meta-analyses in responsible and governed ways, keeping researchers in the loop. Through hands-on exercises, the course emphasizes rigorous research methods, source verification, reproducibility, and human oversight, helping researchers use AI to accelerate their work without compromising scholarly standards.\n\nThe course includes four seminars that can be taken individually or together:\nAI for Literature Reviews <https://instats.org/seminar/ai-for-literature-reviews>AI for Data Analysis <https://instats.org/seminar/ai-for-data-analysis>AI for Writing Research Papers <https://instats.org/seminar/ai-for-writing-research-papers>AI for Meta-Analysis <https://instats.org/seminar/ai-for-meta-analysis>\nSign up today <https://instats.org/course/ai-for-writing-papers-and-analyzing-data1>, and please feel free to share this opportunity with colleagues and students who might benefit!\n\n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi everyone\n\nInstats is excited to offer a new 4-part course, AI for Academic Research <https://instats.org/course/ai-for-writing-papers-and-analyzing-data1>. As artificial intelligence transforms aca",
+      "thread_id": "thread-b4462926b58b",
+      "thread_depth": 0,
+      "month": "2026-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000602.html"
     }
   ],
   "threads": [
@@ -228,6 +262,28 @@
       "started": "2026-11-17T15:00:04Z",
       "last_reply": "2026-11-17T15:00:04Z",
       "root_message_id": "msg-e11e1ab14be0"
+    },
+    {
+      "id": "thread-8bd06ef9a7cf",
+      "subject": "AI-Powered Image Analysis for Genetics",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-11-19T15:01:11Z",
+      "last_reply": "2026-11-19T15:01:11Z",
+      "root_message_id": "msg-8bd06ef9a7cf"
+    },
+    {
+      "id": "thread-b4462926b58b",
+      "subject": "AI for Academic Research – four practical seminars",
+      "message_count": 1,
+      "participants": [
+        "Michael Zyphur"
+      ],
+      "started": "2026-11-20T02:04:09Z",
+      "last_reply": "2026-11-20T02:04:09Z",
+      "root_message_id": "msg-b4462926b58b"
     }
   ]
 }
