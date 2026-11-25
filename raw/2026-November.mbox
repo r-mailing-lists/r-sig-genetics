@@ -249,3 +249,25 @@ Instats | instats.org
 	[[alternative HTML version deleted]]
 
 
+From mzyphur m@iii@g oii i@st@ts@org  Tue Nov 24 16:05:19 2026
+From: mzyphur m@iii@g oii i@st@ts@org (mzyphur m@iii@g oii i@st@ts@org)
+Date: Tue, 24 Nov 2026 15:05:19 +0000 (UTC)
+Subject: [R-sig-genetics] Statistical Computing for Genetic Data
+Message-ID: <XccxLs86R2i2qH49kKWkFA@geopod-ismtpd-8>
+
+Hello R-SIG-GENETICS members
+
+A reminder - Genetic analyses can raise practical questions about matching statistical workloads to available hardware. Introduction to High-Performance Statistical Computing (Free Seminar) is a seminar livestreaming November 30 with Sameh Abdulah (King Abdullah University) and Mary Lai Salva?a (University of Connecticut). Mixed precision and distributed inference provide a basis for examining the computational demands of large statistical analyses. Researchers working with genetic data in R can consider how choices about computing architecture affect numerical accuracy and inference. The seminar also introduces accelerator-aware algorithms and communication avoidance.
+
+Details and registration: https://instats.org/seminar/introduction-to-high-performance-statist
+Please circulate this reminder if it is relevant to colleagues or students.
+
+
+Best wishes
+
+Michael Zyphur
+Director and Co-founder
+Instats | instats.org | instats.ai
+	[[alternative HTML version deleted]]
+
+

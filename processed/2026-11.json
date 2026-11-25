@@ -172,6 +172,23 @@
       "thread_depth": 0,
       "month": "2026-11",
       "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000602.html"
+    },
+    {
+      "id": "msg-a89c74525dff",
+      "message_id": "<XccxLs86R2i2qH49kKWkFA@geopod-ismtpd-8>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-11-24T15:05:19Z",
+      "subject": "[R-sig-genetics] Statistical Computing for Genetic Data",
+      "subject_clean": "Statistical Computing for Genetic Data",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Genetic analyses can raise practical questions about matching statistical workloads to available hardware. Introduction to High-Performance Statistical Computing (Free Seminar) is a seminar livestreaming November 30 with Sameh Abdulah (King Abdullah University) and Mary Lai Salva?a (University of Connecticut). Mixed precision and distributed inference provide a basis for examining the computational demands of large statistical analyses. Researchers working with genetic data in R can consider how choices about computing architecture affect numerical accuracy and inference. The seminar also introduces accelerator-aware algorithms and communication avoidance.\n\nDetails and registration: https://instats.org/seminar/introduction-to-high-performance-statist\nPlease circulate this reminder if it is relevant to colleagues or students.\n\n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org | instats.ai\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Genetic analyses can raise practical questions about matching statistical workloads to available hardware. Introduction to High-Performance Statistical Compu",
+      "thread_id": "thread-a89c74525dff",
+      "thread_depth": 0,
+      "month": "2026-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000603.html"
     }
   ],
   "threads": [
@@ -284,6 +301,17 @@
       "started": "2026-11-20T02:04:09Z",
       "last_reply": "2026-11-20T02:04:09Z",
       "root_message_id": "msg-b4462926b58b"
+    },
+    {
+      "id": "thread-a89c74525dff",
+      "subject": "Statistical Computing for Genetic Data",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-11-24T15:05:19Z",
+      "last_reply": "2026-11-24T15:05:19Z",
+      "root_message_id": "msg-a89c74525dff"
     }
   ]
 }
