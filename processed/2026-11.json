@@ -189,6 +189,23 @@
       "thread_depth": 0,
       "month": "2026-11",
       "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000603.html"
+    },
+    {
+      "id": "msg-ee4183488fc2",
+      "message_id": "<gRwXEaZNQIigFn1DHRuSUg@geopod-ismtpd-6>",
+      "from_name": "mzyphur m@iii@g oii i@st@ts@org",
+      "from_email_hash": "252b54e096b1cc2b7cae76e00ed703f3596525227cfc47687b655cf5c7e64f69",
+      "date": "2026-11-26T15:07:04Z",
+      "subject": "[R-sig-genetics] Logistic Regression for Rare Events",
+      "subject_clean": "Logistic Regression for Rare Events",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R-SIG-GENETICS members\n\nA reminder - Binary outcome analyses in genetics can depend heavily on how much information the observed events provide. Logistic Regression: Separation & Rare Events is a 2-day seminar livestreaming December 1?2 with Hassan Doosti (School of Mathematical and Physical Sciences, Macquarie University). Diagnose complete and quasi-complete separation when analysing binary outcomes in genetic datasets. The seminar covers formal tests and output patterns that can reveal diverging coefficients, including cases where a model appears to converge. Researchers working in R can use these diagnostics to guide their choice of penalized or bias-reduced estimation.\n\nDetails and registration: https://instats.org/seminar/logistic-regression-separation-and-rare\nFurther information is available on the seminar page.\n\n\nBest wishes\n\nMichael Zyphur\nDirector and Co-founder\nInstats | instats.org | instats.ai\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R-SIG-GENETICS members\n\nA reminder - Binary outcome analyses in genetics can depend heavily on how much information the observed events provide. Logistic Regression: Separation & Rare Events is ",
+      "thread_id": "thread-ee4183488fc2",
+      "thread_depth": 0,
+      "month": "2026-11",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-genetics/2026-November/000604.html"
     }
   ],
   "threads": [
@@ -312,6 +329,17 @@
       "started": "2026-11-24T15:05:19Z",
       "last_reply": "2026-11-24T15:05:19Z",
       "root_message_id": "msg-a89c74525dff"
+    },
+    {
+      "id": "thread-ee4183488fc2",
+      "subject": "Logistic Regression for Rare Events",
+      "message_count": 1,
+      "participants": [
+        "mzyphur m@iii@g oii i@st@ts@org"
+      ],
+      "started": "2026-11-26T15:07:04Z",
+      "last_reply": "2026-11-26T15:07:04Z",
+      "root_message_id": "msg-ee4183488fc2"
     }
   ]
 }
